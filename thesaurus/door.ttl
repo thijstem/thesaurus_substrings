@@ -1,0 +1,33 @@
+<https://stad.gent/id/concept/570017268/2022-02-26T12:45:16.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:45:16.340Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7732_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doorgangsbewijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7732_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017268/2022-02-26T12:45:16.340Z>.
+<https://stad.gent/id/concept/570013596/2022-02-26T11:13:30.953Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:13:30.953Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8389_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doorslagpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8389_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013596/2022-02-26T11:13:30.953Z>.
+<https://stad.gent/id/concept/570012265/2022-02-26T10:46:57.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:46:57.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8578_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kopieën van documenten die tegelijk met het originele manuscript of de getypte tekst worden gemaakt door middel van een tussenliggend stuk papier dat is bedekt met koolstof.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doorslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8578_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012265/2022-02-26T10:46:57.728Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/door.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/door.ttl>.

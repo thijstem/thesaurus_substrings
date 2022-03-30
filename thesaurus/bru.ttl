@@ -1,0 +1,251 @@
+<https://stad.gent/id/concept/670000091/2022-03-13T00:55:09.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:55:09.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1096_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugsepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1096_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000091/2022-03-13T00:55:09.120Z>.
+<https://stad.gent/id/concept/670000092/2022-03-13T00:55:14.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:55:14.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1096_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1096_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000092/2022-03-13T00:55:14.123Z>.
+<https://stad.gent/id/concept/570025112/2022-03-13T00:46:50.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:46:50.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1156_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruyelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_1156_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025112/2022-03-13T00:46:50.764Z>.
+<https://stad.gent/id/concept/570024927/2022-03-13T00:37:19.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:19.846Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugse Poort - Rooigem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_1222_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024927/2022-03-13T00:37:19.846Z>.
+<https://stad.gent/id/concept/570024425/2022-03-13T00:17:25.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:17:25.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q996524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruggenhoofd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1366_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024425/2022-03-13T00:17:25.309Z>.
+<https://stad.gent/id/concept/670001252/2022-03-11T08:07:35.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:07:35.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007836>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1834_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1834_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001252/2022-03-11T08:07:35.250Z>.
+<https://stad.gent/id/concept/670001236/2022-03-11T08:06:24.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:06:24.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q9005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1843_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001236/2022-03-11T08:06:24.898Z>.
+<https://stad.gent/id/concept/670001058/2022-03-11T08:04:24.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:04:24.223Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2345749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1855_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001058/2022-03-11T08:04:24.223Z>.
+<https://stad.gent/id/concept/670000891/2022-03-11T07:53:09.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:53:09.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugsesteenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1936_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000891/2022-03-11T07:53:09.143Z>.
+<https://stad.gent/id/concept/670000892/2022-03-11T07:53:14.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:53:14.145Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsesteenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1936_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000892/2022-03-11T07:53:14.145Z>.
+<https://stad.gent/id/concept/670000629/2022-03-11T07:32:08.469Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:32:08.469Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20180>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugghe (Brugsepoortstraat 33A-B)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2086_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000629/2022-03-11T07:32:08.469Z>.
+<https://stad.gent/id/concept/670000510/2022-03-11T07:22:49.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:22:49.130Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugghe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2152_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000510/2022-03-11T07:22:49.130Z>.
+<https://stad.gent/id/concept/670000511/2022-03-11T07:22:54.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:22:54.132Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruijnvisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2152_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000511/2022-03-11T07:22:54.132Z>.
+<https://stad.gent/id/concept/670000476/2022-03-11T07:20:03.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:20:03.200Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2181950>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugse Poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2173_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000476/2022-03-11T07:20:03.200Z>.
+<https://stad.gent/id/concept/670000091/2022-03-11T06:50:02.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:50:02.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugsepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2386_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000091/2022-03-11T06:50:02.750Z>.
+<https://stad.gent/id/concept/670000092/2022-03-11T06:50:07.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:50:07.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2386_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000092/2022-03-11T06:50:07.752Z>.
+<https://stad.gent/id/concept/570025112/2022-03-11T06:41:44.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:41:44.505Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruyelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_2446_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025112/2022-03-11T06:41:44.505Z>.
+<https://stad.gent/id/concept/570024927/2022-03-11T06:32:14.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:14.231Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugse Poort - Rooigem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2515_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024927/2022-03-11T06:32:14.231Z>.
+<https://stad.gent/id/concept/570024425/2022-03-11T06:12:20.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:12:20.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q996524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruggenhoofd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2656_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024425/2022-03-11T06:12:20.787Z>.
+<https://stad.gent/id/concept/570023664/2022-03-11T05:34:06.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:34:06.156Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2929_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023664/2022-03-11T05:34:06.156Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl> <https://w3id.org/tree#relation> _:df_1_1415.
+_:df_1_1415 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brus.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brus".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl> <https://w3id.org/tree#relation> _:df_1_1416.
+_:df_1_1416 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brug.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brug".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl> <https://w3id.org/tree#relation> _:df_1_1417.
+_:df_1_1417 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brui".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl> <https://w3id.org/tree#relation> _:df_1_1418.
+_:df_1_1418 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bruy.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bruy".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bru.ttl>.

@@ -1,0 +1,61 @@
+<https://stad.gent/id/concept/570023970/2022-03-11T05:47:36.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:47:36.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nicaragua"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2833_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023970/2022-03-11T05:47:36.572Z>.
+<https://stad.gent/id/concept/570018873/2022-03-11T03:53:14.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:53:14.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3649_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3649_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018873/2022-03-11T03:53:14.218Z>.
+<https://stad.gent/id/concept/570023970/2022-02-26T15:11:37.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:11:37.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6685_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nicaragua"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6685_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023970/2022-02-26T15:11:37.676Z>.
+<https://stad.gent/id/concept/570018873/2022-02-26T13:17:15.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:17:15.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7504_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7504_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018873/2022-02-26T13:17:15.890Z>.
+<https://stad.gent/id/concept/570006903/2022-02-26T09:21:27.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:21:27.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28086552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9190_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nicotine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9190_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006903/2022-02-26T09:21:27.531Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nic.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nic.ttl>.

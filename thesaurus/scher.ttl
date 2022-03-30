@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570015314/2022-03-11T02:29:07.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:29:07.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4249_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor het knippen of afschrapen van een oppervlak met scherp gereedschap om een dunne laag ongewenst materiaal te verwijderen. In de context van het bereiden van vellen en huiden te gebruiken voor de nathuisbewerkingen, waarbij haar of overbodig huidmateriaal wordt verwijderd om een gelijke dikte te creëren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scheren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4249_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015314/2022-03-11T02:29:07.394Z>.
+<https://stad.gent/id/concept/570015314/2022-02-26T11:53:27.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:53:27.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8101_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor het knippen of afschrapen van een oppervlak met scherp gereedschap om een dunne laag ongewenst materiaal te verwijderen. In de context van het bereiden van vellen en huiden te gebruiken voor de nathuisbewerkingen, waarbij haar of overbodig huidmateriaal wordt verwijderd om een gelijke dikte te creëren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scheren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8101_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015314/2022-02-26T11:53:27.438Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/scher.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/scher.ttl>.

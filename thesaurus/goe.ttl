@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/670000853/2022-03-11T07:50:22.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:50:22.833Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077096>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1957_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goedkeuring van de bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1957_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000853/2022-03-11T07:50:22.833Z>.
+<https://stad.gent/id/concept/570014946/2022-03-11T02:20:36.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:20:36.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4309_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4309_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014946/2022-03-11T02:20:36.392Z>.
+<https://stad.gent/id/concept/670000853/2022-02-26T17:14:12.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:14:12.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077096>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5809_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goedkeuring van de bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5809_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000853/2022-02-26T17:14:12.972Z>.
+<https://stad.gent/id/concept/570014946/2022-02-26T11:44:58.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:44:58.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8164_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8164_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014946/2022-02-26T11:44:58.662Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/goe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/goe.ttl>.

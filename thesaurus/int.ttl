@@ -1,0 +1,216 @@
+<https://stad.gent/id/concept/670001786/2022-03-11T08:51:08.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:51:08.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1522_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001786/2022-03-11T08:51:08.907Z>.
+<https://stad.gent/id/concept/670001787/2022-03-11T08:51:13.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:51:13.909Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurdetail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1522_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001787/2022-03-11T08:51:13.909Z>.
+<https://stad.gent/id/concept/670000315/2022-03-11T07:08:12.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:08:12.030Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2257_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "intendant van de hospitalen van de Engelse koning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2257_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000315/2022-03-11T07:08:12.030Z>.
+<https://stad.gent/id/concept/570023468/2022-03-11T05:26:47.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:26:47.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300440748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2983_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interviewer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2983_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023468/2022-03-11T05:26:47.866Z>.
+<https://stad.gent/id/concept/570020588/2022-03-11T04:47:03.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:47:03.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300124520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3265_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorstellingen, afbeeldingen of foto's van een gebouw, huis, vertrek van binnen, bepaaldelijk met de aankleding (stoffering en meubilering).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3265_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020588/2022-03-11T04:47:03.459Z>.
+<https://stad.gent/id/concept/570017887/2022-03-11T03:43:19.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:43:19.361Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurtextiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3721_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017887/2022-03-11T03:43:19.361Z>.
+<https://stad.gent/id/concept/570015638/2022-03-11T02:35:16.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:35:16.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026392>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4204_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interview"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4204_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015638/2022-03-11T02:35:16.427Z>.
+<https://stad.gent/id/concept/570010416/2022-03-11T01:03:32.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:32.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q154611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Interbellum (1918-1940)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4861_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010416/2022-03-11T01:03:32.012Z>.
+<https://stad.gent/id/concept/570009627/2022-03-11T00:44:28.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:44:28.878Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4996_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4996_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009627/2022-03-11T00:44:28.878Z>.
+<https://stad.gent/id/concept/570008574/2022-03-11T00:08:57.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:08:57.589Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178803>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5248_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale handel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5248_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008574/2022-03-11T00:08:57.589Z>.
+<https://stad.gent/id/concept/670001787/2022-02-26T18:15:26.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:15:26.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5371_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurdetail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5371_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001787/2022-02-26T18:15:26.829Z>.
+<https://stad.gent/id/concept/670001786/2022-02-26T18:15:21.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:15:21.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5374_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5374_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001786/2022-02-26T18:15:21.593Z>.
+<https://stad.gent/id/concept/670000315/2022-02-26T16:32:04.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:32:04.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6112_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "intendant van de hospitalen van de Engelse koning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6112_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000315/2022-02-26T16:32:04.997Z>.
+<https://stad.gent/id/concept/570023468/2022-02-26T14:50:48.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:50:48.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300440748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6835_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interviewer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6835_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023468/2022-02-26T14:50:48.172Z>.
+<https://stad.gent/id/concept/570020588/2022-02-26T14:11:03.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:11:03.714Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300124520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7120_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorstellingen, afbeeldingen of foto's van een gebouw, huis, vertrek van binnen, bepaaldelijk met de aankleding (stoffering en meubilering).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7120_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020588/2022-02-26T14:11:03.714Z>.
+<https://stad.gent/id/concept/570017887/2022-02-26T13:07:22.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:07:22.115Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7573_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurtextiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7573_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017887/2022-02-26T13:07:22.115Z>.
+<https://stad.gent/id/concept/570015638/2022-02-26T11:59:34.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:59:34.849Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026392>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8059_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interview"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8059_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015638/2022-02-26T11:59:34.849Z>.
+<https://stad.gent/id/concept/570010416/2022-02-26T10:27:55.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:27:55.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q154611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8713_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Interbellum (1918-1940)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8713_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010416/2022-02-26T10:27:55.265Z>.
+<https://stad.gent/id/concept/570009627/2022-02-26T10:08:53.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:53.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8851_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8851_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009627/2022-02-26T10:08:53.245Z>.
+<https://stad.gent/id/concept/570008574/2022-02-26T09:33:32.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:32.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178803>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9103_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale handel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9103_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008574/2022-02-26T09:33:32.283Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/int.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/int.ttl>.

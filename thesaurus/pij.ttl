@@ -1,0 +1,56 @@
+<https://stad.gent/id/concept/570009258/2022-03-11T00:34:17.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:34:17.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5068_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rookgerei voor het genieten van tabak en andere roesmiddelen; bestaat meestal uit een steel met mondstuk en een kopje waarin het te roken product wordt verbrand. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5068_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009258/2022-03-11T00:34:17.895Z>.
+<https://stad.gent/id/concept/570023143/2022-02-26T14:37:46.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:37:46.216Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6928_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpaarden driehoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6928_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023143/2022-02-26T14:37:46.216Z>.
+<https://stad.gent/id/concept/570022852/2022-02-26T14:25:35.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:25:35.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7015_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpenbuiger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7015_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022852/2022-02-26T14:25:35.156Z>.
+<https://stad.gent/id/concept/570017307/2022-02-26T12:46:21.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:46:21.949Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7723_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7723_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017307/2022-02-26T12:46:21.949Z>.
+<https://stad.gent/id/concept/570009258/2022-02-26T09:58:44.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:44.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8923_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rookgerei voor het genieten van tabak en andere roesmiddelen; bestaat meestal uit een steel met mondstuk en een kopje waarin het te roken product wordt verbrand. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8923_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009258/2022-02-26T09:58:44.613Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pij.ttl>.

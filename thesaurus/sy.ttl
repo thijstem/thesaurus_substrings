@@ -1,0 +1,157 @@
+<https://stad.gent/id/concept/570024127/2022-03-13T00:01:13.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:13.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300242031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1480_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "systeemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1480_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024127/2022-03-13T00:01:13.274Z>.
+<https://stad.gent/id/concept/570024127/2022-03-11T05:56:06.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:56:06.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300242031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "systeemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2773_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024127/2022-03-11T05:56:06.224Z>.
+<https://stad.gent/id/concept/570024016/2022-03-11T05:50:07.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:50:07.733Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetische kunstmatige textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018144>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019813>, <https://stad.gent/id/concept/570019518>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019518> <http://www.w3.org/2004/02/skos/core#prefLabel> "chloorvezel"@nl.
+<https://stad.gent/id/concept/570019813> <http://www.w3.org/2004/02/skos/core#prefLabel> "aramidevezel"@nl.
+<https://stad.gent/id/concept/570018144> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstmatige textielvezel"@nl.
+_:df_2815_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024016/2022-03-11T05:50:07.733Z>.
+<https://stad.gent/id/concept/570023975/2022-03-11T05:48:01.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:48:01.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Syrië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2830_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023975/2022-03-11T05:48:01.581Z>.
+<https://stad.gent/id/concept/570017414/2022-03-11T03:26:41.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:26:41.321Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300218678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3838_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3838_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017414/2022-03-11T03:26:41.321Z>.
+<https://stad.gent/id/concept/570016316/2022-03-11T02:50:12.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:50:12.767Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014561>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Syracuse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_4099_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016316/2022-03-11T02:50:12.767Z>.
+<https://stad.gent/id/concept/570014751/2022-03-11T02:14:58.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:14:58.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4351_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "syllabus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4351_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014751/2022-03-11T02:14:58.225Z>.
+<https://stad.gent/id/concept/570024127/2022-02-26T15:20:06.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:20:06.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300242031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6625_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "systeemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6625_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024127/2022-02-26T15:20:06.550Z>.
+<https://stad.gent/id/concept/570024016/2022-02-26T15:14:08.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:14:08.831Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6667_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetische kunstmatige textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018144>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019813>, <https://stad.gent/id/concept/570019518>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019518> <http://www.w3.org/2004/02/skos/core#prefLabel> "chloorvezel"@nl.
+<https://stad.gent/id/concept/570019813> <http://www.w3.org/2004/02/skos/core#prefLabel> "aramidevezel"@nl.
+<https://stad.gent/id/concept/570018144> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstmatige textielvezel"@nl.
+_:df_6667_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024016/2022-02-26T15:14:08.831Z>.
+<https://stad.gent/id/concept/570023975/2022-02-26T15:12:02.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:12:02.687Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6682_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Syrië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6682_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023975/2022-02-26T15:12:02.687Z>.
+<https://stad.gent/id/concept/570017414/2022-02-26T12:50:48.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:50:48.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300218678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7693_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7693_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017414/2022-02-26T12:50:48.761Z>.
+<https://stad.gent/id/concept/570016316/2022-02-26T12:14:30.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:14:30.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014561>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7951_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Syracuse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_7951_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016316/2022-02-26T12:14:30.830Z>.
+<https://stad.gent/id/concept/570014751/2022-02-26T11:39:21.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:39:21.719Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8203_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "syllabus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8203_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014751/2022-02-26T11:39:21.719Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sy.ttl>.

@@ -1,0 +1,79 @@
+<https://stad.gent/id/concept/570016258/2022-03-11T02:48:22.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:48:22.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q260521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grasmaaier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4111_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016258/2022-03-11T02:48:22.086Z>.
+<https://stad.gent/id/concept/570008902/2022-03-11T00:20:22.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:20:22.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2088410>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5167_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graslei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5167_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008902/2022-03-11T00:20:22.729Z>.
+<https://stad.gent/id/concept/670000657/2022-02-26T16:58:16.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:58:16.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2520254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5923_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grasbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5923_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000657/2022-02-26T16:58:16.485Z>.
+<https://stad.gent/id/concept/670000120/2022-02-26T16:16:17.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:16:17.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6223_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graslei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000120/2022-02-26T16:16:17.722Z>.
+<https://stad.gent/id/concept/570016258/2022-02-26T12:12:39.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:12:39.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q260521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7966_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grasmaaier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7966_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016258/2022-02-26T12:12:39.777Z>.
+<https://stad.gent/id/concept/570008902/2022-02-26T09:44:51.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:44:51.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2088410>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9022_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graslei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9022_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008902/2022-02-26T09:44:51.784Z>.
+<https://stad.gent/id/concept/570005778/2022-02-26T09:14:25.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:14:25.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9238_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grasmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9238_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005778/2022-02-26T09:14:25.026Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gras.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gras.ttl>.

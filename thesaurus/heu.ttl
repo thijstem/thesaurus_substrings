@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/670001400/2022-03-11T08:18:59.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:18:59.932Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heuvelpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1753_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001400/2022-03-11T08:18:59.932Z>.
+<https://stad.gent/id/concept/670000934/2022-03-11T07:56:45.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:56:45.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heuvelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1912_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000934/2022-03-11T07:56:45.790Z>.
+<https://stad.gent/id/concept/570018019/2022-03-11T03:45:25.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:45:25.187Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heusden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_3706_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018019/2022-03-11T03:45:25.187Z>.
+<https://stad.gent/id/concept/570010392/2022-03-11T01:02:16.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:02:16.421Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4870_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "heupbad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4870_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010392/2022-03-11T01:02:16.421Z>.
+<https://stad.gent/id/concept/670001400/2022-02-26T17:43:09.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:43:09.030Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5602_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heuvelpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5602_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001400/2022-02-26T17:43:09.030Z>.
+<https://stad.gent/id/concept/670000934/2022-02-26T17:20:35.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:20:35.281Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5764_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heuvelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5764_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000934/2022-02-26T17:20:35.281Z>.
+<https://stad.gent/id/concept/570018019/2022-02-26T13:09:27.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:09:27.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7558_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heusden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_7558_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018019/2022-02-26T13:09:27.875Z>.
+<https://stad.gent/id/concept/570010392/2022-02-26T10:26:39.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:26:39.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8722_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "heupbad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8722_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010392/2022-02-26T10:26:39.602Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/heu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/heu.ttl>.

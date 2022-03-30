@@ -1,0 +1,131 @@
+<https://stad.gent/id/concept/570009687/2022-03-11T00:46:30.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:46:30.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/q36963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4981_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4981_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009687/2022-03-11T00:46:30.221Z>.
+<https://stad.gent/id/concept/570009307/2022-03-11T00:36:09.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:36:09.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5056_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacquardkop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5056_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009307/2022-03-11T00:36:09.792Z>.
+<https://stad.gent/id/concept/670001420/2022-02-26T17:44:49.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:49.843Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24522>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5590_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacob Van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5590_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001420/2022-02-26T17:44:49.843Z>.
+<https://stad.gent/id/concept/670001421/2022-02-26T17:44:54.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:54.846Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5590_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacobijnenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5590_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001421/2022-02-26T17:44:54.846Z>.
+<https://stad.gent/id/concept/670001422/2022-02-26T17:44:59.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:59.848Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5590_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacques de Brouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5590_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001422/2022-02-26T17:44:59.848Z>.
+<https://stad.gent/id/concept/670000943/2022-02-26T17:21:20.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:21:20.546Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5758_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacob Jordaensstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5758_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000943/2022-02-26T17:21:20.546Z>.
+<https://stad.gent/id/concept/670000663/2022-02-26T16:58:46.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:58:46.495Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5920_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacob Van Arteveldeplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5920_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000663/2022-02-26T16:58:46.495Z>.
+<https://stad.gent/id/concept/570024869/2022-02-26T15:53:47.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:53:47.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6385_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacquardweefgetouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6385_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024869/2022-02-26T15:53:47.728Z>.
+<https://stad.gent/id/concept/570009687/2022-02-26T10:10:53.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:10:53.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/q36963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8836_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8836_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009687/2022-02-26T10:10:53.949Z>.
+<https://stad.gent/id/concept/570009307/2022-02-26T10:00:35.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:00:35.190Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8908_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacquardkop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8908_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009307/2022-02-26T10:00:35.190Z>.
+<https://stad.gent/id/concept/570004978/2022-02-26T09:12:34.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:34.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300256616>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9253_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stof met ingeweven patronen, vervaardigd op een Jacquardgetouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jacquard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9253_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004978/2022-02-26T09:12:34.412Z>.
+<https://stad.gent/id/concept/570000525/2022-02-26T08:53:39.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:53:39.779Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005398>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9388_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jackfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_9388_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000525/2022-02-26T08:53:39.779Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/jac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/jac.ttl>.

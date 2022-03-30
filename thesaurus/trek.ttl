@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570023286/2022-03-11T05:21:50.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:21:50.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3016_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trekkoord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3016_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023286/2022-03-11T05:21:50.966Z>.
+<https://stad.gent/id/concept/570023286/2022-02-26T14:45:49.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:45:49.647Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6871_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trekkoord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6871_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023286/2022-02-26T14:45:49.647Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/trek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/trek.ttl>.

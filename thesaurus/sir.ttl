@@ -1,0 +1,55 @@
+<https://stad.gent/id/concept/570019045/2022-03-11T04:02:38.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:02:38.098Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3583_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sirooppot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3583_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019045/2022-03-11T04:02:38.098Z>.
+<https://stad.gent/id/concept/570014747/2022-03-11T02:14:48.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:14:48.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207459>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4351_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sirene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4351_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014747/2022-03-11T02:14:48.221Z>.
+<https://stad.gent/id/concept/570019045/2022-02-26T13:26:40.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:26:40.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7435_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sirooppot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7435_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019045/2022-02-26T13:26:40.394Z>.
+<https://stad.gent/id/concept/570014747/2022-02-26T11:39:11.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:39:11.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207459>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8203_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sirene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8203_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014747/2022-02-26T11:39:11.716Z>.
+<https://stad.gent/id/concept/570005528/2022-02-26T09:13:44.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:13:44.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014684>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9244_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "siroop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9244_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005528/2022-02-26T09:13:44.739Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sir.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sir.ttl>.

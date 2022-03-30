@@ -1,0 +1,14 @@
+<https://stad.gent/id/concept/570017758/2022-02-26T13:04:19.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:19.389Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038418>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7597_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het meest algemene soort zitmeubel tot de 19e eeuw. Ze verschillen van 'banken' omdat er maar één persoon op past en worden meestal onderscheiden van 'stoelen' omdat ze geen rugleuning hebben. De hoge zitmeubels bij een bar of toonbank worden echter ook krukken genoemd, hoewel ze soms een rugleuning hebben. Ze worden meestal in twee typen uitgevoerd; het ene type heeft vier rechte poten en bij het andere type kruisen de poten elkaar. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7597_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017758/2022-02-26T13:04:19.389Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kruk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kruk.ttl>.

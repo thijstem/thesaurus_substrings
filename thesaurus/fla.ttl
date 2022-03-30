@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/670001280/2022-02-26T17:33:25.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:33:25.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5674_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Flandria"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5674_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001280/2022-02-26T17:33:25.029Z>.
+<https://stad.gent/id/concept/570017589/2022-02-26T12:57:01.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:57:01.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7648_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flanel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7648_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017589/2022-02-26T12:57:01.109Z>.
+<https://stad.gent/id/concept/570013461/2022-02-26T11:11:30.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:11:30.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8401_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flanel (wol)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8401_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013461/2022-02-26T11:11:30.074Z>.
+<https://stad.gent/id/concept/570013237/2022-02-26T11:06:17.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:06:17.923Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5744147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8440_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flanelsteek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8440_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013237/2022-02-26T11:06:17.923Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fla.ttl>.

@@ -1,0 +1,102 @@
+<https://stad.gent/id/concept/570009314/2022-02-26T10:00:55.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:00:55.198Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8908_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "etiket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8908_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009314/2022-02-26T10:00:55.198Z>.
+<https://stad.gent/id/concept/570009117/2022-02-26T09:52:46.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:52:46.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8965_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruiksaanwijzing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8965_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009117/2022-02-26T09:52:46.887Z>.
+<https://stad.gent/id/concept/570009023/2022-02-26T09:49:14.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:49:14.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8989_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8989_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009023/2022-02-26T09:49:14.261Z>.
+<https://stad.gent/id/concept/570008579/2022-02-26T09:33:52.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:52.291Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9100_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschappen om een patroon mee af te drukken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9100_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008579/2022-02-26T09:33:52.291Z>.
+<https://stad.gent/id/concept/570004975/2022-02-26T09:12:29.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:29.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9253_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "soort opschrift"@nl, "inscription type"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9253_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004975/2022-02-26T09:12:29.408Z>.
+<https://stad.gent/id/concept/570003555/2022-02-26T09:08:32.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:32.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nummerplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9280_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003555/2022-02-26T09:08:32.785Z>.
+<https://stad.gent/id/concept/570001204/2022-02-26T08:58:07.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:58:07.003Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028569>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9355_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9355_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001204/2022-02-26T08:58:07.003Z>.
+<https://stad.gent/id/concept/570000273/2022-02-26T08:51:49.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:51:49.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027339>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9400_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schema"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9400_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000273/2022-02-26T08:51:49.070Z>.
+<https://stad.gent/id/concept/570000064/2022-02-26T08:49:23.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:49:23.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9418_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "label"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9418_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000064/2022-02-26T08:49:23.119Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/inscription+typ.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/inscription+typ.ttl>.

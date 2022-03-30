@@ -1,0 +1,137 @@
+<https://stad.gent/id/concept/570014393/2022-03-11T02:04:03.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:04:03.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7251929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4429_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_4429_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014393/2022-03-11T02:04:03.874Z>.
+<https://stad.gent/id/concept/670001620/2022-02-26T18:01:36.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:01:36.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5470_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerschstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5470_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001620/2022-02-26T18:01:36.156Z>.
+<https://stad.gent/id/concept/670001621/2022-02-26T18:01:41.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:01:41.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3239>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5470_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5470_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001621/2022-02-26T18:01:41.159Z>.
+<https://stad.gent/id/concept/670001451/2022-02-26T17:47:25.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:47:25.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5572_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhemkanaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5572_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001451/2022-02-26T17:47:25.792Z>.
+<https://stad.gent/id/concept/670000352/2022-02-26T16:34:36.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:34:36.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6094_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meersenier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6094_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000352/2022-02-26T16:34:36.204Z>.
+<https://stad.gent/id/concept/670000195/2022-02-26T16:22:34.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:22:34.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/16628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6178_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6178_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000195/2022-02-26T16:22:34.986Z>.
+<https://stad.gent/id/concept/670000196/2022-02-26T16:22:39.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:22:39.988Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6178_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerseniersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6178_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000196/2022-02-26T16:22:39.988Z>.
+<https://stad.gent/id/concept/570024445/2022-02-26T15:37:25.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:37:25.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/1026596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6502_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerbeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6502_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024445/2022-02-26T15:37:25.457Z>.
+<https://stad.gent/id/concept/570018942/2022-02-26T13:21:02.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:21:02.899Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7477_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meerschuim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7477_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018942/2022-02-26T13:21:02.899Z>.
+<https://stad.gent/id/concept/570017764/2022-02-26T13:04:34.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:34.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7594_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meerpaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7594_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017764/2022-02-26T13:04:34.394Z>.
+<https://stad.gent/id/concept/570014393/2022-02-26T11:28:27.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:28:27.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7251929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8281_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_8281_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014393/2022-02-26T11:28:27.394Z>.
+<https://stad.gent/id/concept/550009245/2022-02-26T08:45:51.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:45:51.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9442_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meerschuim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005596>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005596> <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl.
+_:df_9442_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009245/2022-02-26T08:45:51.738Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/meer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/meer.ttl>.

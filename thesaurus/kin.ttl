@@ -1,0 +1,126 @@
+<https://stad.gent/id/concept/570010413/2022-03-11T01:03:22.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:22.009Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300246035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4861_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010413/2022-03-11T01:03:22.009Z>.
+<https://stad.gent/id/concept/570008715/2022-03-11T00:14:11.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:14:11.904Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5212_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5212_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008715/2022-03-11T00:14:11.904Z>.
+<https://stad.gent/id/concept/570008665/2022-03-11T00:12:15.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:12:15.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1753063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5227_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderkoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5227_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008665/2022-03-11T00:12:15.839Z>.
+<https://stad.gent/id/concept/670001858/2022-02-26T18:18:27.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:18:27.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5350_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen Alijnhospitaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5350_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001858/2022-02-26T18:18:27.800Z>.
+<https://stad.gent/id/concept/570019664/2022-02-26T13:51:50.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:51:50.505Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7255_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gebruik van kinderen als arbeidskracht in de industrie of zakenwereld. Deze praktijk wordt nu vrijwel overal als onmenselijk beschouwd en is in de meeste ontwikkelde landen verboden. Tot de vroege 20e eeuw kwam het echter algemeen voor. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderarbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7255_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019664/2022-02-26T13:51:50.505Z>.
+<https://stad.gent/id/concept/570019510/2022-02-26T13:47:03.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:47:03.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7291_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor vaak opvouwbare, stoelachtige wagentjes die vooral zijn ontworpen om kleine kinderen die rechtop kunnen zitten in voort te duwen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7291_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019510/2022-02-26T13:47:03.368Z>.
+<https://stad.gent/id/concept/570019135/2022-02-26T13:29:46.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:29:46.430Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7414_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderbed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7414_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019135/2022-02-26T13:29:46.430Z>.
+<https://stad.gent/id/concept/570016883/2022-02-26T12:33:36.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:33:36.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1306119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Goedkoop vel papier, eenvoudig bedrukt met plaatjes en praatjes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7816_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016883/2022-02-26T12:33:36.681Z>.
+<https://stad.gent/id/concept/570010413/2022-02-26T10:27:44.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:27:44.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300246035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8716_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8716_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010413/2022-02-26T10:27:44.918Z>.
+<https://stad.gent/id/concept/570008715/2022-02-26T09:38:44.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:38:44.689Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9064_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9064_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008715/2022-02-26T09:38:44.689Z>.
+<https://stad.gent/id/concept/570008665/2022-02-26T09:36:48.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:36:48.529Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1753063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9079_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderkoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9079_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008665/2022-02-26T09:36:48.529Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kin.ttl>.

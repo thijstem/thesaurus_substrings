@@ -1,0 +1,153 @@
+<https://stad.gent/id/concept/570017706/2022-03-11T03:38:06.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:38:06.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3757_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Solingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3757_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017706/2022-03-11T03:38:06.959Z>.
+<https://stad.gent/id/concept/570017444/2022-03-11T03:27:42.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:27:42.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "solarium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3832_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017444/2022-03-11T03:27:42.295Z>.
+<https://stad.gent/id/concept/570017378/2022-03-11T03:24:54.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:24:54.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat wordt gebruikt om metalen aan elkaar te solderen, met een wigvormig metalen deel, meestal van koper, dat wordt verhit. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldeerbout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017378/2022-03-11T03:24:54.096Z>.
+<https://stad.gent/id/concept/570015384/2022-03-11T02:31:13.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:31:13.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4234_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4234_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015384/2022-03-11T02:31:13.294Z>.
+<https://stad.gent/id/concept/570014591/2022-03-11T02:09:30.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:09:30.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023316>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4390_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, draagbare branders die vaak worden gebruikt voor solderen en verwijderen van verf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldeerlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4390_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014591/2022-03-11T02:09:30.878Z>.
+<https://stad.gent/id/concept/570008426/2022-03-11T00:06:06.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:06:06.277Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4991371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5269_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5269_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008426/2022-03-11T00:06:06.277Z>.
+<https://stad.gent/id/concept/570024107/2022-02-26T15:18:40.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:40.590Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6637_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Solna"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_6637_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024107/2022-02-26T15:18:40.590Z>.
+<https://stad.gent/id/concept/570017706/2022-02-26T13:02:08.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:02:08.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7612_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Solingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7612_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017706/2022-02-26T13:02:08.217Z>.
+<https://stad.gent/id/concept/570017444/2022-02-26T12:51:49.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:51:49.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7684_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "solarium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7684_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017444/2022-02-26T12:51:49.105Z>.
+<https://stad.gent/id/concept/570017378/2022-02-26T12:49:03.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:49:03.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7705_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat wordt gebruikt om metalen aan elkaar te solderen, met een wigvormig metalen deel, meestal van koper, dat wordt verhit. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldeerbout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7705_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017378/2022-02-26T12:49:03.076Z>.
+<https://stad.gent/id/concept/570015384/2022-02-26T11:55:33.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:55:33.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8086_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8086_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015384/2022-02-26T11:55:33.093Z>.
+<https://stad.gent/id/concept/570014591/2022-02-26T11:33:54.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:33:54.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023316>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8242_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, draagbare branders die vaak worden gebruikt voor solderen en verwijderen van verf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldeerlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8242_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014591/2022-02-26T11:33:54.427Z>.
+<https://stad.gent/id/concept/570008426/2022-02-26T09:30:40.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:30:40.969Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4991371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9124_39;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "soldaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9124_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008426/2022-02-26T09:30:40.969Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sol.ttl>.

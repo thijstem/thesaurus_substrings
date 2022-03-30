@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570016725/2022-02-26T12:27:28.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:27:28.184Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7858_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die synchroon met de sluiter van een camera een korte, heldere lichtbundel geven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flitslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7858_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016725/2022-02-26T12:27:28.184Z>.
+<https://stad.gent/id/concept/570016734/2022-02-26T12:27:38.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:27:38.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q221836>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7858_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flits"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7858_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016734/2022-02-26T12:27:38.188Z>.
+<https://stad.gent/id/concept/570016633/2022-02-26T12:24:32.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:24:32.171Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5459755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7879_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flitspuit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7879_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016633/2022-02-26T12:24:32.171Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fli.ttl>.

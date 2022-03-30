@@ -1,0 +1,54 @@
+<https://stad.gent/id/concept/570022864/2022-02-26T14:25:45.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:25:45.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7015_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naalddoosje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7015_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022864/2022-02-26T14:25:45.162Z>.
+<https://stad.gent/id/concept/570016385/2022-02-26T12:16:26.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:16:26.535Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7939_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7939_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016385/2022-02-26T12:16:26.535Z>.
+<https://stad.gent/id/concept/570015977/2022-02-26T12:06:32.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:06:32.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8008_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldslagmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8008_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015977/2022-02-26T12:06:32.334Z>.
+<https://stad.gent/id/concept/570010129/2022-02-26T10:21:52.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:21:52.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8758_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naalden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8758_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010129/2022-02-26T10:21:52.750Z>.
+<https://stad.gent/id/concept/570009131/2022-02-26T09:53:27.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:53:27.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8959_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldenset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8959_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009131/2022-02-26T09:53:27.135Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/naal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/naal.ttl>.

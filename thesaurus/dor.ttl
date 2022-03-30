@@ -1,0 +1,76 @@
+<https://stad.gent/id/concept/570018938/2022-03-11T03:56:40.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:56:40.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3625_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dordrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3625_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018938/2022-03-11T03:56:40.679Z>.
+<https://stad.gent/id/concept/570013970/2022-03-11T01:55:14.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:55:14.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q141830>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4492_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dorsvlegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4492_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013970/2022-03-11T01:55:14.724Z>.
+<https://stad.gent/id/concept/570007969/2022-03-11T00:02:44.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:02:44.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5293_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dortmund"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_5293_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007969/2022-03-11T00:02:44.283Z>.
+<https://stad.gent/id/concept/570018938/2022-02-26T13:20:42.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:20:42.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7480_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dordrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_7480_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018938/2022-02-26T13:20:42.548Z>.
+<https://stad.gent/id/concept/570013970/2022-02-26T11:19:38.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:19:38.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q141830>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8344_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dorsvlegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8344_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013970/2022-02-26T11:19:38.574Z>.
+<https://stad.gent/id/concept/570007969/2022-02-26T09:27:19.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:27:19.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9148_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dortmund"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_9148_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007969/2022-02-26T09:27:19.747Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/dor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/dor.ttl>.

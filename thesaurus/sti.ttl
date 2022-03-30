@@ -1,0 +1,87 @@
+<https://stad.gent/id/concept/570022709/2022-03-11T04:55:37.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:55:37.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stikmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3205_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022709/2022-03-11T04:55:37.538Z>.
+<https://stad.gent/id/concept/570020604/2022-03-11T04:47:23.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:47:23.466Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3262_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020604/2022-03-11T04:47:23.466Z>.
+<https://stad.gent/id/concept/570014943/2022-03-11T02:20:20.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:20:20.928Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4312_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijfselfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4312_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014943/2022-03-11T02:20:20.928Z>.
+<https://stad.gent/id/concept/570022709/2022-02-26T14:19:37.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:19:37.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7057_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stikmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7057_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022709/2022-02-26T14:19:37.766Z>.
+<https://stad.gent/id/concept/570020604/2022-02-26T14:11:24.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:11:24.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7117_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7117_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020604/2022-02-26T14:11:24.094Z>.
+<https://stad.gent/id/concept/570014943/2022-02-26T11:44:43.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:44:43.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8164_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijfselfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8164_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014943/2022-02-26T11:44:43.658Z>.
+<https://stad.gent/id/concept/570006003/2022-02-26T09:15:35.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:15:35.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9232_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een organisch bestanddeel van plantencellen, een lid van de amylosegroep van koolhydraten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stijfsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9232_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006003/2022-02-26T09:15:35.320Z>.
+<https://stad.gent/id/concept/550009249/2022-02-26T08:46:06.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:46:06.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9442_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_9442_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009249/2022-02-26T08:46:06.742Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sti.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sti.ttl>.

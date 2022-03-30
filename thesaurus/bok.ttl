@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570023093/2022-03-11T05:11:46.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:11:46.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3088_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei of apparaten gebruikt voor het losmaken van potdeksels. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaalopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3088_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023093/2022-03-11T05:11:46.674Z>.
+<https://stad.gent/id/concept/570023093/2022-02-26T14:35:45.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:35:45.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6943_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei of apparaten gebruikt voor het losmaken van potdeksels. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaalopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6943_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023093/2022-02-26T14:35:45.567Z>.
+<https://stad.gent/id/concept/570004699/2022-02-26T09:11:29.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:29.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9259_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bokrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_9259_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004699/2022-02-26T09:11:29.043Z>.
+<https://stad.gent/id/concept/570000772/2022-02-26T08:55:36.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:36.060Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q895679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9373_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokshandschoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9373_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000772/2022-02-26T08:55:36.060Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bok.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bok.ttl>.

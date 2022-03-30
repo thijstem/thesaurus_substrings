@@ -1,0 +1,57 @@
+<https://stad.gent/id/concept/670000697/2022-02-26T17:01:27.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:01:27.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300386983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5902_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5902_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000697/2022-02-26T17:01:27.415Z>.
+<https://stad.gent/id/concept/570024201/2022-02-26T15:24:14.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:24:14.638Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6595_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresseerkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6595_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024201/2022-02-26T15:24:14.638Z>.
+<https://stad.gent/id/concept/570016337/2022-02-26T12:15:41.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:15:41.224Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7942_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresseerplaatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7942_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016337/2022-02-26T12:15:41.224Z>.
+<https://stad.gent/id/concept/570014627/2022-02-26T11:35:15.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:35:15.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8233_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine kaarten die sinds de 19e eeuw worden gemaakt, en waarop de naam en het adres van een bedrijf en van één van de vertegenwoordigers staan; meer bedoeld ter informatie dan als reclame. Voor kleine gedrukte vellen papier of kaarten met daarop handelsadvertenties, die werden gebruikt van de 17e tot en met de 19e eeuw, wordt 'handelskaarten' gebruikt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adreskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8233_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014627/2022-02-26T11:35:15.105Z>.
+<https://stad.gent/id/concept/570007084/2022-02-26T09:23:18.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007084>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:18.507Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026689>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9175_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken die lijsten met huisadressen bevatten, meestal op alfabetische volgorde. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9175_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007084"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007084/2022-02-26T09:23:18.507Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/adr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/adr.ttl>.

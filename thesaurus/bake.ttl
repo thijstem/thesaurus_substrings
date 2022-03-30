@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570017932/2022-02-26T13:08:22.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:08:22.522Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7567_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakelietpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7567_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017932/2022-02-26T13:08:22.522Z>.
+<https://stad.gent/id/concept/570016416/2022-02-26T12:16:56.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:16:56.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7933_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De oorspronkelijke benaming voor fenolplastic, die tegenwoordig wordt gebruikt voor een aantal verschillende soorten plastic.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014353> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_7933_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016416/2022-02-26T12:16:56.808Z>.
+<https://stad.gent/id/concept/570014045/2022-02-26T11:21:29.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:21:29.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8332_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakelietpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8332_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014045/2022-02-26T11:21:29.352Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bake.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bake.ttl>.

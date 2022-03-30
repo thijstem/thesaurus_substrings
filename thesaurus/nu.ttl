@@ -1,0 +1,65 @@
+<https://stad.gent/id/concept/570024392/2022-03-13T00:15:34.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:15:34.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1378_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nukerke (Maarkedal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1378_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024392/2022-03-13T00:15:34.700Z>.
+<https://stad.gent/id/concept/570024392/2022-03-11T06:10:30.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:10:30.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nukerke (Maarkedal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2671_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024392/2022-03-11T06:10:30.193Z>.
+<https://stad.gent/id/concept/570024392/2022-02-26T15:34:29.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:34:29.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6523_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nukerke (Maarkedal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6523_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024392/2022-02-26T15:34:29.061Z>.
+<https://stad.gent/id/concept/570003555/2022-02-26T09:08:32.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:32.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nummerplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9280_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003555/2022-02-26T09:08:32.785Z>.
+<https://stad.gent/id/concept/570003679/2022-02-26T09:08:52.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:52.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nürnberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_9280_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003679/2022-02-26T09:08:52.791Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nu.ttl>.

@@ -1,0 +1,59 @@
+<https://stad.gent/id/concept/570023573/2022-03-11T05:30:29.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:30:29.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "freesbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2956_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023573/2022-03-11T05:30:29.293Z>.
+<https://stad.gent/id/concept/570010565/2022-03-11T01:05:37.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:05:37.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4846_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "freesmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4846_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010565/2022-03-11T01:05:37.649Z>.
+<https://stad.gent/id/concept/570024217/2022-02-26T15:25:10.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:25:10.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6589_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Freiburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6589_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024217/2022-02-26T15:25:10.251Z>.
+<https://stad.gent/id/concept/570023573/2022-02-26T14:54:29.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:54:29.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6808_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "freesbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6808_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023573/2022-02-26T14:54:29.580Z>.
+<https://stad.gent/id/concept/570010565/2022-02-26T10:30:00.952Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:30:00.952Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8698_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "freesmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8698_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010565/2022-02-26T10:30:00.952Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fre.ttl>.

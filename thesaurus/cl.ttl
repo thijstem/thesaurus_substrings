@@ -1,0 +1,248 @@
+<https://stad.gent/id/concept/670001334/2022-03-13T02:19:09.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:19:09.013Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_496_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Claes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_496_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001334/2022-03-13T02:19:09.013Z>.
+<https://stad.gent/id/concept/670001285/2022-03-13T02:15:12.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:15:12.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q647070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clairvaux abdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_523_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001285/2022-03-13T02:15:12.494Z>.
+<https://stad.gent/id/concept/670000514/2022-03-13T01:28:17.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:28:17.377Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_859_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clocke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_859_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000514/2022-03-13T01:28:17.377Z>.
+<https://stad.gent/id/concept/570024359/2022-03-13T00:13:38.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:13:38.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1393_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1393_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024359/2022-03-13T00:13:38.972Z>.
+<https://stad.gent/id/concept/670001334/2022-03-11T08:13:53.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:13:53.030Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Claes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1789_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001334/2022-03-11T08:13:53.030Z>.
+<https://stad.gent/id/concept/670001285/2022-03-11T08:09:56.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:09:56.348Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q647070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1816_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clairvaux abdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1816_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001285/2022-03-11T08:09:56.348Z>.
+<https://stad.gent/id/concept/670000514/2022-03-11T07:23:04.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:23:04.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clocke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2152_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000514/2022-03-11T07:23:04.135Z>.
+<https://stad.gent/id/concept/570024359/2022-03-11T06:08:34.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:08:34.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2683_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2683_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024359/2022-03-11T06:08:34.560Z>.
+<https://stad.gent/id/concept/570023361/2022-03-11T05:25:02.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:25:02.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clabecq"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2995_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023361/2022-03-11T05:25:02.322Z>.
+<https://stad.gent/id/concept/570022440/2022-03-11T04:54:06.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:54:06.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300065913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3214_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "clips"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3214_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022440/2022-03-11T04:54:06.778Z>.
+<https://stad.gent/id/concept/570020040/2022-03-11T04:38:39.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:38:39.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013608>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3325_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleveland (Ohio)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3325_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020040/2022-03-11T04:38:39.987Z>.
+<https://stad.gent/id/concept/570019872/2022-03-11T04:35:13.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:35:13.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7443311>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cliftonville (Margate)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_3349_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019872/2022-03-11T04:35:13.493Z>.
+<https://stad.gent/id/concept/570019405/2022-03-11T04:17:49.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:17:49.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3475_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in het algemeen gebruikt voor blokken, meestal van hout, die zijn bewerkt om een afdruk op papier, stof of ander materiaal te drukken, of om andere materialen die het eigenlijke drukvlak vormen, te ondersteunen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cliché"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3475_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019405/2022-03-11T04:17:49.631Z>.
+<https://stad.gent/id/concept/570013506/2022-03-11T01:48:07.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:48:07.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4543_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "club"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4543_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013506/2022-03-11T01:48:07.149Z>.
+<https://stad.gent/id/concept/530010786/2022-03-03T00:02:10.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:02:10.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5332_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_5332_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010786/2022-03-03T00:02:10.993Z>.
+<https://stad.gent/id/concept/670001334/2022-02-26T17:37:47.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:37:47.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5641_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Claes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5641_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001334/2022-02-26T17:37:47.128Z>.
+<https://stad.gent/id/concept/670001285/2022-02-26T17:33:50.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:33:50.468Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q647070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5671_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clairvaux abdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5671_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001285/2022-02-26T17:33:50.468Z>.
+<https://stad.gent/id/concept/670000514/2022-02-26T16:46:56.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:46:56.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6004_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clocke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6004_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000514/2022-02-26T16:46:56.937Z>.
+<https://stad.gent/id/concept/570024359/2022-02-26T15:32:33.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:32:33.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6538_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_6538_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024359/2022-02-26T15:32:33.004Z>.
+<https://stad.gent/id/concept/570023361/2022-02-26T14:49:02.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:49:02.277Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6847_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Clabecq"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6847_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023361/2022-02-26T14:49:02.277Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cl.ttl> <https://w3id.org/tree#relation> _:df_1_2265.
+_:df_1_2265 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/cli.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "cli".
+<https://thijstem.github.io/substrings_coghent/thesaurus/cl.ttl> <https://w3id.org/tree#relation> _:df_1_2266.
+_:df_1_2266 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/cle.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "cle".
+<https://thijstem.github.io/substrings_coghent/thesaurus/cl.ttl> <https://w3id.org/tree#relation> _:df_1_2267.
+_:df_1_2267 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/clu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "clu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/cl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cl.ttl>.

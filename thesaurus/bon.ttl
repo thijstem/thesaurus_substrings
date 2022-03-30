@@ -1,0 +1,234 @@
+<https://stad.gent/id/concept/670000085/2022-03-13T00:54:43.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:54:43.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1099_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonifantenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1099_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000085/2022-03-13T00:54:43.850Z>.
+<https://stad.gent/id/concept/570024332/2022-03-13T00:12:18.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:12:18.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4001038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bönnigheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1402_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024332/2022-03-13T00:12:18.248Z>.
+<https://stad.gent/id/concept/670000628/2022-03-11T07:32:03.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:32:03.467Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonte Coole (Annonciadenstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2086_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000628/2022-03-11T07:32:03.467Z>.
+<https://stad.gent/id/concept/670000506/2022-03-11T07:22:29.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:22:29.126Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonte Coole (Holstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2155_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000506/2022-03-11T07:22:29.126Z>.
+<https://stad.gent/id/concept/670000507/2022-03-11T07:22:34.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:22:34.127Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2155_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000507/2022-03-11T07:22:34.127Z>.
+<https://stad.gent/id/concept/670000085/2022-03-11T06:49:37.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:49:37.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonifantenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2389_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000085/2022-03-11T06:49:37.741Z>.
+<https://stad.gent/id/concept/570024332/2022-03-11T06:07:13.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:07:13.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4001038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bönnigheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2692_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024332/2022-03-11T06:07:13.824Z>.
+<https://stad.gent/id/concept/570023043/2022-03-11T05:10:21.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:10:21.090Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1076223>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3100_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bontwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3100_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023043/2022-03-11T05:10:21.090Z>.
+<https://stad.gent/id/concept/570019561/2022-03-11T04:25:14.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:25:14.284Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3421_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3421_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019561/2022-03-11T04:25:14.284Z>.
+<https://stad.gent/id/concept/570017692/2022-03-11T03:37:26.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:37:26.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3763_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bontstikmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3763_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017692/2022-03-11T03:37:26.533Z>.
+<https://stad.gent/id/concept/570016986/2022-03-11T03:14:32.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:32.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bonbonnière"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016986/2022-03-11T03:14:32.634Z>.
+<https://stad.gent/id/concept/570015005/2022-03-11T02:22:14.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:22:14.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4297_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bonen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4297_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015005/2022-03-11T02:22:14.033Z>.
+<https://stad.gent/id/concept/670000628/2022-02-26T16:55:55.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:55:55.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5941_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonte Coole (Annonciadenstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5941_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000628/2022-02-26T16:55:55.533Z>.
+<https://stad.gent/id/concept/670000506/2022-02-26T16:46:21.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:46:21.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6010_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonte Coole (Holstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6010_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000506/2022-02-26T16:46:21.640Z>.
+<https://stad.gent/id/concept/670000507/2022-02-26T16:46:26.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:46:26.641Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6010_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6010_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000507/2022-02-26T16:46:26.641Z>.
+<https://stad.gent/id/concept/670000085/2022-02-26T16:13:26.429Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:13:26.429Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6244_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonifantenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6244_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000085/2022-02-26T16:13:26.429Z>.
+<https://stad.gent/id/concept/570024332/2022-02-26T15:31:12.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:31:12.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4001038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6547_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bönnigheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6547_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024332/2022-02-26T15:31:12.678Z>.
+<https://stad.gent/id/concept/570023043/2022-02-26T14:34:19.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:34:19.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1076223>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6952_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bontwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6952_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023043/2022-02-26T14:34:19.893Z>.
+<https://stad.gent/id/concept/570019561/2022-02-26T13:49:13.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:49:13.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7276_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7276_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019561/2022-02-26T13:49:13.875Z>.
+<https://stad.gent/id/concept/570017692/2022-02-26T13:01:28.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:01:28.199Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7615_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bontstikmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7615_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017692/2022-02-26T13:01:28.199Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bon.ttl> <https://w3id.org/tree#relation> _:df_1_2392.
+_:df_1_2392 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bonb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bonb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bon.ttl> <https://w3id.org/tree#relation> _:df_1_2393.
+_:df_1_2393 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bone.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bone".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bon.ttl>.

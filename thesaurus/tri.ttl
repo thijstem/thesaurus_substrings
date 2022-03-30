@@ -1,0 +1,114 @@
+<https://stad.gent/id/concept/570023591/2022-03-11T05:30:59.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:30:59.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trillingsmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2953_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023591/2022-03-11T05:30:59.593Z>.
+<https://stad.gent/id/concept/570023175/2022-03-11T05:15:38.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:15:38.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7037536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trieste"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3061_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023175/2022-03-11T05:15:38.401Z>.
+<https://stad.gent/id/concept/570019304/2022-03-11T04:12:37.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:12:37.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300427851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3511_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tricot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3511_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019304/2022-03-11T04:12:37.069Z>.
+<https://stad.gent/id/concept/570016574/2022-03-11T02:58:15.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:58:15.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4042_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "triplex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4042_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016574/2022-03-11T02:58:15.890Z>.
+<https://stad.gent/id/concept/570014266/2022-03-11T02:01:17.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:01:17.746Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q193870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "wetenschap die zich met wrijving bezighoudt";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tribologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4447_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014266/2022-03-11T02:01:17.746Z>.
+<https://stad.gent/id/concept/570023591/2022-02-26T14:55:00.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:55:00.054Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6805_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trillingsmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6805_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023591/2022-02-26T14:55:00.054Z>.
+<https://stad.gent/id/concept/570023175/2022-02-26T14:39:36.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:39:36.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7037536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6916_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trieste"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_6916_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023175/2022-02-26T14:39:36.831Z>.
+<https://stad.gent/id/concept/570019304/2022-02-26T13:36:38.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:36:38.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300427851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7366_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tricot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7366_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019304/2022-02-26T13:36:38.941Z>.
+<https://stad.gent/id/concept/570016574/2022-02-26T12:22:35.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:22:35.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7894_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "triplex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7894_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016574/2022-02-26T12:22:35.001Z>.
+<https://stad.gent/id/concept/570014266/2022-02-26T11:25:40.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:25:40.915Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q193870>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8302_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "wetenschap die zich met wrijving bezighoudt";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tribologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8302_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014266/2022-02-26T11:25:40.915Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tri.ttl>.

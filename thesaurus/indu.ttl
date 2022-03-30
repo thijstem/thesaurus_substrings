@@ -1,0 +1,56 @@
+<https://stad.gent/id/concept/570010062/2022-02-26T10:19:42.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:19:42.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8773_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industriekaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8773_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010062/2022-02-26T10:19:42.151Z>.
+<https://stad.gent/id/concept/570008020/2022-02-26T09:27:25.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:27:25.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054333>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9145_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industriële archeologie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9145_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008020/2022-02-26T09:27:25.034Z>.
+<https://stad.gent/id/concept/570007009/2022-02-26T09:22:23.179Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:23.179Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q917614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9181_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industriële samenleving"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9181_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007009/2022-02-26T09:22:23.179Z>.
+<https://stad.gent/id/concept/570000139/2022-02-26T08:50:38.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:50:38.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2269>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9409_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industriële revolutie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9409_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000139/2022-02-26T08:50:38.785Z>.
+<https://stad.gent/id/concept/570000122/2022-02-26T08:50:18.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:50:18.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9412_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9412_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000122/2022-02-26T08:50:18.485Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/indu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/indu.ttl>.

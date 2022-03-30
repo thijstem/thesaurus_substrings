@@ -1,0 +1,287 @@
+<https://stad.gent/id/concept/670001375/2022-03-13T02:22:28.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:28.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200815>;
+    <http://www.w3.org/ns/adms#identifier> _:df_472_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabeth Huis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001375/2022-03-13T02:22:28.642Z>.
+<https://stad.gent/id/concept/570024929/2022-03-13T00:37:29.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:29.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabethbegijnhof - Prinsenhof - Papegaai - Sint-Michiels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_1222_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024929/2022-03-13T00:37:29.850Z>.
+<https://stad.gent/id/concept/570024837/2022-03-13T00:33:33.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:33:33.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055233>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De grootschalige productie van elektriciteit voor industrieel, residentieel of plattelandsgebruik, vaak in vaste, niet verplaatsbare fabrieken die zijn ontworpen voor dit doeleinde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteit productie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1249_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024837/2022-03-13T00:33:33.189Z>.
+<https://stad.gent/id/concept/570024671/2022-03-13T00:26:09.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:26:09.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2944469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitscentrale, Drogenbos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570002686>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570002686> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitscentrale"@nl.
+_:df_1303_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024671/2022-03-13T00:26:09.985Z>.
+<https://stad.gent/id/concept/570024278/2022-03-13T00:09:16.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:09:16.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012269> <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl, "telegrafie"@nl.
+_:df_1423_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024278/2022-03-13T00:09:16.893Z>.
+<https://stad.gent/id/concept/570024262/2022-03-13T00:08:26.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:08:26.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1429_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024262/2022-03-13T00:08:26.320Z>.
+<https://stad.gent/id/concept/670001375/2022-03-11T08:16:59.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:16:59.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200815>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1765_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabeth Huis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1765_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001375/2022-03-11T08:16:59.140Z>.
+<https://stad.gent/id/concept/570024929/2022-03-11T06:32:24.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:24.237Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2512_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabethbegijnhof - Prinsenhof - Papegaai - Sint-Michiels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2512_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024929/2022-03-11T06:32:24.237Z>.
+<https://stad.gent/id/concept/570024837/2022-03-11T06:28:27.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:28:27.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055233>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2542_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De grootschalige productie van elektriciteit voor industrieel, residentieel of plattelandsgebruik, vaak in vaste, niet verplaatsbare fabrieken die zijn ontworpen voor dit doeleinde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteit productie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2542_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024837/2022-03-11T06:28:27.458Z>.
+<https://stad.gent/id/concept/570024671/2022-03-11T06:21:04.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:21:04.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2944469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2593_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitscentrale, Drogenbos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570002686>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570002686> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitscentrale"@nl.
+_:df_2593_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024671/2022-03-11T06:21:04.857Z>.
+<https://stad.gent/id/concept/570024278/2022-03-11T06:04:12.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:04:12.615Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2716_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012269> <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl.
+_:df_2716_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024278/2022-03-11T06:04:12.615Z>.
+<https://stad.gent/id/concept/570024262/2022-03-11T06:03:22.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:03:22.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2722_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024262/2022-03-11T06:03:22.051Z>.
+<https://stad.gent/id/concept/570023882/2022-03-11T05:44:15.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:44:15.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026409>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elzele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_2857_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023882/2022-03-11T05:44:15.246Z>.
+<https://stad.gent/id/concept/570023867/2022-03-11T05:43:34.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:43:34.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300050615>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitskabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2863_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023867/2022-03-11T05:43:34.930Z>.
+<https://stad.gent/id/concept/570023610/2022-03-11T05:32:04.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:32:04.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2944_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elastiek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2944_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023610/2022-03-11T05:32:04.896Z>.
+<https://stad.gent/id/concept/570023461/2022-03-11T05:26:32.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:26:32.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196115>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2983_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektriciteitsmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2983_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023461/2022-03-11T05:26:32.859Z>.
+<https://stad.gent/id/concept/570023316/2022-03-11T05:23:36.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:23:36.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300050611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3004_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische systeemonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3004_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023316/2022-03-11T05:23:36.669Z>.
+<https://stad.gent/id/concept/570023250/2022-03-11T05:20:10.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:20:10.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elene (Zottegem)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3028_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023250/2022-03-11T05:20:10.294Z>.
+<https://stad.gent/id/concept/570023188/2022-03-11T05:16:23.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:16:23.712Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300310125>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elastaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3055_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023188/2022-03-11T05:16:23.712Z>.
+<https://stad.gent/id/concept/570020616/2022-03-11T04:47:54.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:47:54.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2074500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3259_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elkin (North Carolina)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3259_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020616/2022-03-11T04:47:54.005Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1465.
+_:df_1_1465 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/elb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "elb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1466.
+_:df_1_1466 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ele.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ele".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1467.
+_:df_1_1467 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ela.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ela".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1468.
+_:df_1_1468 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/els.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "els".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1469.
+_:df_1_1469 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/elc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "elc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1470.
+_:df_1_1470 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/eli.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "eli".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1471.
+_:df_1_1471 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/elz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "elz".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> <https://w3id.org/tree#relation> _:df_1_1472.
+_:df_1_1472 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/elk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "elk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/el.ttl>.

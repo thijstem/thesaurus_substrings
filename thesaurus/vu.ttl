@@ -1,0 +1,233 @@
+<https://stad.gent/id/concept/570024351/2022-03-13T00:13:18.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:13:18.574Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1393_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurtang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1393_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024351/2022-03-13T00:13:18.574Z>.
+<https://stad.gent/id/concept/570024351/2022-03-11T06:08:14.154Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:08:14.154Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2686_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurtang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2686_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024351/2022-03-11T06:08:14.154Z>.
+<https://stad.gent/id/concept/570023825/2022-03-11T05:42:39.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:42:39.475Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011143>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2869_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuursteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2869_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023825/2022-03-11T05:42:39.475Z>.
+<https://stad.gent/id/concept/570023249/2022-03-11T05:20:05.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:20:05.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7259169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3031_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vurste (Gavere)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3031_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023249/2022-03-11T05:20:05.292Z>.
+<https://stad.gent/id/concept/570022901/2022-03-11T05:03:05.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:03:05.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het wegwerpen van droog afval of vuilnis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuilnisemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3151_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022901/2022-03-11T05:03:05.775Z>.
+<https://stad.gent/id/concept/570019683/2022-03-11T04:28:55.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:28:55.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurschopje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3394_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019683/2022-03-11T04:28:55.590Z>.
+<https://stad.gent/id/concept/570018913/2022-03-11T03:55:05.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:55:05.033Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3637_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuilnisblik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3637_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018913/2022-03-11T03:55:05.033Z>.
+<https://stad.gent/id/concept/570016503/2022-03-11T02:55:39.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:55:39.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Potloden waarvan de stift door een schroef of ander voorwerp naar buiten wordt geduwd. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vulpotlood"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4060_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016503/2022-03-11T02:55:39.882Z>.
+<https://stad.gent/id/concept/570012607/2022-03-11T01:29:59.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:29:59.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010551>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4672_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurvaste steen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4672_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012607/2022-03-11T01:29:59.113Z>.
+<https://stad.gent/id/concept/570012555/2022-03-11T01:28:43.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:28:43.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurvaste klei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4681_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012555/2022-03-11T01:28:43.744Z>.
+<https://stad.gent/id/concept/570009581/2022-03-11T00:43:08.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:08.476Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022455>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5005_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vulpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5005_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009581/2022-03-11T00:43:08.476Z>.
+<https://stad.gent/id/concept/570024351/2022-02-26T15:32:12.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:32:12.995Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6538_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurtang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6538_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024351/2022-02-26T15:32:12.995Z>.
+<https://stad.gent/id/concept/570023825/2022-02-26T15:06:40.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:06:40.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011143>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6721_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuursteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6721_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023825/2022-02-26T15:06:40.464Z>.
+<https://stad.gent/id/concept/570023249/2022-02-26T14:44:04.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:44:04.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7259169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6883_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vurste (Gavere)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_6883_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023249/2022-02-26T14:44:04.001Z>.
+<https://stad.gent/id/concept/570022901/2022-02-26T14:27:05.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:27:05.779Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7003_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het wegwerpen van droog afval of vuilnis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuilnisemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7003_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022901/2022-02-26T14:27:05.779Z>.
+<https://stad.gent/id/concept/570019683/2022-02-26T13:52:56.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:52:56.187Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7249_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurschopje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7249_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019683/2022-02-26T13:52:56.187Z>.
+<https://stad.gent/id/concept/570018913/2022-02-26T13:19:07.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:19:07.164Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7489_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuilnisblik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7489_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018913/2022-02-26T13:19:07.164Z>.
+<https://stad.gent/id/concept/570016503/2022-02-26T12:19:58.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:19:58.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7912_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Potloden waarvan de stift door een schroef of ander voorwerp naar buiten wordt geduwd. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vulpotlood"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7912_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016503/2022-02-26T12:19:58.891Z>.
+<https://stad.gent/id/concept/570012607/2022-02-26T10:54:22.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:54:22.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010551>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8524_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurvaste steen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8524_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012607/2022-02-26T10:54:22.148Z>.
+<https://stad.gent/id/concept/570012555/2022-02-26T10:53:06.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:53:06.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8533_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurvaste klei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8533_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012555/2022-02-26T10:53:06.859Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vu.ttl> <https://w3id.org/tree#relation> _:df_1_2514.
+_:df_1_2514 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/vul.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vul".
+<https://thijstem.github.io/substrings_coghent/thesaurus/vu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vu.ttl>.

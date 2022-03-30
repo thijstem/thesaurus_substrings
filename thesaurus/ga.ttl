@@ -1,0 +1,269 @@
+<https://stad.gent/id/concept/530010748/2022-03-23T00:01:35.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:01:35.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7008193>;
+    <http://www.w3.org/ns/adms#identifier> _:df_40_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gannat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_40_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010748/2022-03-23T00:01:35.563Z>.
+<https://stad.gent/id/concept/670001777/2022-03-16T00:11:27.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:11:27.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_112_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001777/2022-03-16T00:11:27.783Z>.
+<https://stad.gent/id/concept/670001777/2022-03-13T02:55:57.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:57.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001777/2022-03-13T02:55:57.322Z>.
+<https://stad.gent/id/concept/670001588/2022-03-13T02:40:15.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:40:15.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_346_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gangendriesstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_346_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001588/2022-03-13T02:40:15.985Z>.
+<https://stad.gent/id/concept/670000916/2022-03-13T02:00:25.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:25.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garensteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_628_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000916/2022-03-13T02:00:25.483Z>.
+<https://stad.gent/id/concept/670000917/2022-03-13T02:00:30.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:30.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasmeterlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_628_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000917/2022-03-13T02:00:30.485Z>.
+<https://stad.gent/id/concept/670000918/2022-03-13T02:00:35.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:35.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaspar de Craeyerstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_628_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000918/2022-03-13T02:00:35.488Z>.
+<https://stad.gent/id/concept/670000915/2022-03-13T02:00:20.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:20.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_631_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganzendries"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_631_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000915/2022-03-13T02:00:20.481Z>.
+<https://stad.gent/id/concept/670000639/2022-03-13T01:38:11.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:38:11.381Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_787_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gauden Leeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_787_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000639/2022-03-13T01:38:11.381Z>.
+<https://stad.gent/id/concept/670000637/2022-03-13T01:38:01.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:38:01.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_790_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gauden Hooft (Klein Turkije)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_790_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000637/2022-03-13T01:38:01.376Z>.
+<https://stad.gent/id/concept/670000530/2022-03-13T01:29:32.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:32.911Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_850_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallerije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_850_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000530/2022-03-13T01:29:32.911Z>.
+<https://stad.gent/id/concept/670000531/2022-03-13T01:29:37.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:37.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_850_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gauden Hooft (Kalvermarkt)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_850_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000531/2022-03-13T01:29:37.913Z>.
+<https://stad.gent/id/concept/670000288/2022-03-13T01:11:19.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:11:19.869Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_979_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garentwijnder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_979_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000288/2022-03-13T01:11:19.869Z>.
+<https://stad.gent/id/concept/670000108/2022-03-13T00:56:34.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:56:34.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Galgenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1084_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000108/2022-03-13T00:56:34.884Z>.
+<https://stad.gent/id/concept/570025280/2022-03-13T00:49:31.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:49:31.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1135_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een bedrijf waar men herstellingen aan auto's en andere motorvoertuigen uitvoert.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garagebedrijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1135_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025280/2022-03-13T00:49:31.891Z>.
+<https://stad.gent/id/concept/570025195/2022-03-13T00:48:26.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:48:26.445Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1144_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote cilindrische of bolvormige tanks met gas dat men als brandstof gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gashouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1144_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025195/2022-03-13T00:48:26.445Z>.
+<https://stad.gent/id/concept/570024854/2022-03-13T00:34:23.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:34:23.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1243_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1243_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024854/2022-03-13T00:34:23.494Z>.
+<https://stad.gent/id/concept/570024721/2022-03-13T00:28:15.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:28:15.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasturbine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1288_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024721/2022-03-13T00:28:15.927Z>.
+<https://stad.gent/id/concept/570024493/2022-03-13T00:21:22.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:21:22.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3241469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1336_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024493/2022-03-13T00:21:22.085Z>.
+<https://stad.gent/id/concept/570024487/2022-03-13T00:21:01.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:21:01.680Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasblokkenvuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1339_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024487/2022-03-13T00:21:01.680Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_942.
+_:df_1_942 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gal".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_943.
+_:df_1_943 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gas.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gas".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_944.
+_:df_1_944 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gar".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_945.
+_:df_1_945 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gan.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gan".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_946.
+_:df_1_946 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gau.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gau".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_947.
+_:df_1_947 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gai.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gai".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_948.
+_:df_1_948 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gav.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gav".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_949.
+_:df_1_949 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gaa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gaa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_950.
+_:df_1_950 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gag.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gag".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ga.ttl>.

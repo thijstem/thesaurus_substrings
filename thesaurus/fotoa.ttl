@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570017751/2022-02-26T13:04:09.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:09.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026695>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7597_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Albums met foto's erin geplakt, met of zonder informatie erbij. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotoalbum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7597_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017751/2022-02-26T13:04:09.385Z>.
+<https://stad.gent/id/concept/570009297/2022-02-26T10:00:15.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:00:15.181Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8911_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotoapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8911_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009297/2022-02-26T10:00:15.181Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fotoa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fotoa.ttl>.

@@ -1,0 +1,267 @@
+<https://stad.gent/id/concept/570024947/2022-03-13T00:38:40.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:38:40.158Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montreal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_1213_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024947/2022-03-13T00:38:40.158Z>.
+<https://stad.gent/id/concept/570024864/2022-03-13T00:34:33.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:34:33.496Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4007432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1243_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montemurlo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1243_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024864/2022-03-13T00:34:33.496Z>.
+<https://stad.gent/id/concept/570024838/2022-03-13T00:33:38.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:33:38.191Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "montagehal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1249_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024838/2022-03-13T00:33:38.191Z>.
+<https://stad.gent/id/concept/670001741/2022-03-11T08:47:22.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:47:22.579Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1549_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument voor Charles de Kerchove"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1549_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001741/2022-03-11T08:47:22.579Z>.
+<https://stad.gent/id/concept/670001456/2022-03-11T08:23:41.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:41.801Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1717_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument graaf Oswald de Kerchove"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1717_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001456/2022-03-11T08:23:41.801Z>.
+<https://stad.gent/id/concept/670001457/2022-03-11T08:23:46.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:46.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1717_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument Leie & Schelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1717_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001457/2022-03-11T08:23:46.802Z>.
+<https://stad.gent/id/concept/670001458/2022-03-11T08:23:51.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:51.804Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1717_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument voor de broers Jan en Hubert Van Eyck"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1717_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001458/2022-03-11T08:23:51.804Z>.
+<https://stad.gent/id/concept/670001454/2022-03-11T08:23:31.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:31.499Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1720_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument Edmond van Beveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1720_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001454/2022-03-11T08:23:31.499Z>.
+<https://stad.gent/id/concept/670001455/2022-03-11T08:23:36.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:36.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1720_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument Emiel-Claus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1720_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001455/2022-03-11T08:23:36.501Z>.
+<https://stad.gent/id/concept/670001294/2022-03-11T08:10:41.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:10:41.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1810_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monnik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1810_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001294/2022-03-11T08:10:41.649Z>.
+<https://stad.gent/id/concept/670001269/2022-03-11T08:08:40.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:08:40.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1825_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001269/2022-03-11T08:08:40.950Z>.
+<https://stad.gent/id/concept/570024947/2022-03-11T06:33:34.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:33:34.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2506_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montreal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_2506_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024947/2022-03-11T06:33:34.538Z>.
+<https://stad.gent/id/concept/570024864/2022-03-11T06:29:28.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:29:28.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4007432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2533_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montemurlo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2533_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024864/2022-03-11T06:29:28.129Z>.
+<https://stad.gent/id/concept/570024838/2022-03-11T06:28:32.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:28:32.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2542_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "montagehal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2542_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024838/2022-03-11T06:28:32.459Z>.
+<https://stad.gent/id/concept/570023467/2022-03-11T05:26:42.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:26:42.864Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2983_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mondelinge bron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2983_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023467/2022-03-11T05:26:42.864Z>.
+<https://stad.gent/id/concept/570022827/2022-03-11T05:00:39.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:00:39.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "montagehulpstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3169_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022827/2022-03-11T05:00:39.530Z>.
+<https://stad.gent/id/concept/570018960/2022-03-11T03:58:00.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:58:00.994Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mondstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3616_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018960/2022-03-11T03:58:00.994Z>.
+<https://stad.gent/id/concept/570017683/2022-03-11T03:36:50.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:36:50.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q10282403>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mondkapje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3766_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017683/2022-03-11T03:36:50.749Z>.
+<https://stad.gent/id/concept/570017484/2022-03-11T03:29:34.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:29:34.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006958>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017484/2022-03-11T03:29:34.616Z>.
+<https://stad.gent/id/concept/570016888/2022-03-11T03:09:33.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:33.709Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7008602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3961_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montmorillon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3961_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016888/2022-03-11T03:09:33.709Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1689.
+_:df_1_1689 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mont.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mont".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1690.
+_:df_1_1690 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/moni.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "moni".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1691.
+_:df_1_1691 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mono.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mono".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1692.
+_:df_1_1692 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mona.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mona".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1693.
+_:df_1_1693 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/monc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "monc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1694.
+_:df_1_1694 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/monu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "monu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1695.
+_:df_1_1695 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/monn.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "monn".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> <https://w3id.org/tree#relation> _:df_1_1696.
+_:df_1_1696 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mond.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mond".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mon.ttl>.

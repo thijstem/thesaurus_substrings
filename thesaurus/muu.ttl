@@ -1,0 +1,64 @@
+<https://stad.gent/id/concept/570023326/2022-03-11T05:24:06.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:24:06.935Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3001_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3001_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023326/2022-03-11T05:24:06.935Z>.
+<https://stad.gent/id/concept/570022780/2022-03-11T04:58:53.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:58:53.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen (verlichtingsmiddelen) die aan de muur worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3181_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022780/2022-03-11T04:58:53.760Z>.
+<https://stad.gent/id/concept/570013465/2022-03-11T01:47:11.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:47:11.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurpanelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4549_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013465/2022-03-11T01:47:11.875Z>.
+<https://stad.gent/id/concept/570023326/2022-02-26T14:48:06.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:48:06.889Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6853_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6853_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023326/2022-02-26T14:48:06.889Z>.
+<https://stad.gent/id/concept/570022780/2022-02-26T14:22:54.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:22:54.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7033_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen (verlichtingsmiddelen) die aan de muur worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7033_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022780/2022-02-26T14:22:54.087Z>.
+<https://stad.gent/id/concept/570013465/2022-02-26T11:11:35.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:11:35.075Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8401_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muurpanelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8401_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013465/2022-02-26T11:11:35.075Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/muu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/muu.ttl>.

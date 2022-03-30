@@ -1,0 +1,248 @@
+<https://stad.gent/id/concept/670000080/2022-03-13T00:54:18.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:54:18.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1102_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biezekapelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1102_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000080/2022-03-13T00:54:18.839Z>.
+<https://stad.gent/id/concept/670000504/2022-03-11T07:22:18.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:22:18.833Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biercomptoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2158_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000504/2022-03-11T07:22:18.833Z>.
+<https://stad.gent/id/concept/670000247/2022-03-11T07:02:44.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:02:44.487Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biercomptoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2296_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000247/2022-03-11T07:02:44.487Z>.
+<https://stad.gent/id/concept/670000248/2022-03-11T07:02:49.489Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:02:49.489Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2296_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000248/2022-03-11T07:02:49.489Z>.
+<https://stad.gent/id/concept/670000249/2022-03-11T07:02:54.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:02:54.491Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biervoerder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2296_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000249/2022-03-11T07:02:54.491Z>.
+<https://stad.gent/id/concept/670000080/2022-03-11T06:49:12.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:49:12.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biezekapelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2392_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000080/2022-03-11T06:49:12.443Z>.
+<https://stad.gent/id/concept/570023152/2022-03-11T05:14:17.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:14:17.788Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038522>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3070_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bietigheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3070_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023152"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023152/2022-03-11T05:14:17.788Z>.
+<https://stad.gent/id/concept/570020420/2022-03-11T04:44:12.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:44:12.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8699926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_3286_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020420/2022-03-11T04:44:12.031Z>.
+<https://stad.gent/id/concept/570016099/2022-03-11T02:44:55.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:44:55.621Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q14973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4135_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierviltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4135_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016099/2022-03-11T02:44:55.621Z>.
+<https://stad.gent/id/concept/570013738/2022-03-11T01:51:58.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:51:58.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005686>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4513_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biella"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl, "Italië"@nl.
+_:df_4513_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013738/2022-03-11T01:51:58.695Z>.
+<https://stad.gent/id/concept/570012459/2022-03-11T01:26:22.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:26:22.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4696_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bielefeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4696_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012459/2022-03-11T01:26:22.684Z>.
+<https://stad.gent/id/concept/570010412/2022-03-11T01:03:17.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:17.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300302722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een alcoholische drank verkregen uit de fermentatie van mout (of een andere suikerhoudende stof), op smaak gebracht met hop of andere bittere aroma's.  ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4861_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010412/2022-03-11T01:03:17.007Z>.
+<https://stad.gent/id/concept/570009464/2022-03-11T00:39:51.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:39:51.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7213145>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5029_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biebrich (Wiesbaden)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>, <https://stad.gent/id/concept/570004168>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004168> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wiesbaden"@nl.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_5029_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009464/2022-03-11T00:39:51.778Z>.
+<https://stad.gent/id/concept/570009383/2022-03-11T00:39:11.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:39:11.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5035_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5035_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009383/2022-03-11T00:39:11.205Z>.
+<https://stad.gent/id/concept/670000504/2022-02-26T16:46:11.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:46:11.634Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6010_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biercomptoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6010_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000504/2022-02-26T16:46:11.634Z>.
+<https://stad.gent/id/concept/670000249/2022-02-26T16:26:46.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:26:46.812Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6148_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biervoerder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6148_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000249/2022-02-26T16:26:46.812Z>.
+<https://stad.gent/id/concept/670000247/2022-02-26T16:26:36.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:26:36.808Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6151_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biercomptoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6151_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000247/2022-02-26T16:26:36.808Z>.
+<https://stad.gent/id/concept/670000248/2022-02-26T16:26:41.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:26:41.810Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6151_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6151_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000248/2022-02-26T16:26:41.810Z>.
+<https://stad.gent/id/concept/670000080/2022-02-26T16:13:01.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:13:01.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6247_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biezekapelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6247_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000080/2022-02-26T16:13:01.420Z>.
+<https://stad.gent/id/concept/570023152/2022-02-26T14:38:16.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:38:16.526Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038522>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6925_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bietigheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6925_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023152"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023152/2022-02-26T14:38:16.526Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bie.ttl> <https://w3id.org/tree#relation> _:df_1_2288.
+_:df_1_2288 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/biel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "biel".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bie.ttl> <https://w3id.org/tree#relation> _:df_1_2289.
+_:df_1_2289 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bier.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bier".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bie.ttl> <https://w3id.org/tree#relation> _:df_1_2290.
+_:df_1_2290 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bieb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bieb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bie.ttl>.

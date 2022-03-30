@@ -1,0 +1,258 @@
+<https://stad.gent/id/concept/570024794/2022-03-13T00:32:07.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:32:07.886Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1261_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurnaald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1261_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024794/2022-03-13T00:32:07.886Z>.
+<https://stad.gent/id/concept/570024421/2022-03-13T00:17:10.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:17:10.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstwering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1366_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024421/2022-03-13T00:17:10.303Z>.
+<https://stad.gent/id/concept/570024383/2022-03-13T00:14:59.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:14:59.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425089>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1381_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1381_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024383/2022-03-13T00:14:59.333Z>.
+<https://stad.gent/id/concept/670001331/2022-03-11T08:13:38.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:13:38.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25153>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borluutsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1789_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001331/2022-03-11T08:13:38.024Z>.
+<https://stad.gent/id/concept/670001330/2022-03-11T08:13:32.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:13:32.735Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borluut"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1792_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001330/2022-03-11T08:13:32.735Z>.
+<https://stad.gent/id/concept/670000888/2022-03-11T07:52:54.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:52:54.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1939_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borluutstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1939_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000888/2022-03-11T07:52:54.137Z>.
+<https://stad.gent/id/concept/670000889/2022-03-11T07:52:59.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:52:59.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1939_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borreputsteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1939_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000889/2022-03-11T07:52:59.139Z>.
+<https://stad.gent/id/concept/670000259/2022-03-11T07:03:44.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:03:44.854Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025387>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2290_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstelmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2290_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000259"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000259/2022-03-11T07:03:44.854Z>.
+<https://stad.gent/id/concept/570024794/2022-03-11T06:27:02.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:27:02.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2551_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurnaald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2551_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024794/2022-03-11T06:27:02.168Z>.
+<https://stad.gent/id/concept/570024421/2022-03-11T06:12:05.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:12:05.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2659_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstwering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2659_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024421/2022-03-11T06:12:05.783Z>.
+<https://stad.gent/id/concept/570024383/2022-03-11T06:09:54.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:54.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425089>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2674_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2674_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024383/2022-03-11T06:09:54.894Z>.
+<https://stad.gent/id/concept/570024036/2022-03-11T05:51:08.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:51:08.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2809_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024036/2022-03-11T05:51:08.018Z>.
+<https://stad.gent/id/concept/570023219/2022-03-11T05:18:14.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:18:14.573Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3043_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borgworm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3043_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023219/2022-03-11T05:18:14.573Z>.
+<https://stad.gent/id/concept/570022542/2022-03-11T04:54:26.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:54:26.783Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3214_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bord, midden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3214_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022542/2022-03-11T04:54:26.783Z>.
+<https://stad.gent/id/concept/570022011/2022-03-11T04:52:31.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:52:31.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3226_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bord op foto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3226_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022011/2022-03-11T04:52:31.064Z>.
+<https://stad.gent/id/concept/570020097/2022-03-11T04:39:25.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:39:25.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3319_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020097/2022-03-11T04:39:25.281Z>.
+<https://stad.gent/id/concept/570020031/2022-03-11T04:38:09.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020031>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:38:09.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246259>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3328_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Borgerhout (Antwerpen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3328_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020031"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020031/2022-03-11T04:38:09.745Z>.
+<https://stad.gent/id/concept/570017915/2022-03-11T03:43:59.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:43:59.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3715_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurraam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3715_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017915/2022-03-11T03:43:59.795Z>.
+<https://stad.gent/id/concept/570017458/2022-03-11T03:28:18.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:28:18.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008161>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3829_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bordeaux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3829_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017458/2022-03-11T03:28:18.388Z>.
+<https://stad.gent/id/concept/570012477/2022-03-11T01:26:52.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:26:52.968Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4693_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012477/2022-03-11T01:26:52.968Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1868.
+_:df_1_1868 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bord.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bord".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1869.
+_:df_1_1869 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/borg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "borg".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1870.
+_:df_1_1870 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bors.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bors".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1871.
+_:df_1_1871 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/borl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "borl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1872.
+_:df_1_1872 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/borr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "borr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> <https://w3id.org/tree#relation> _:df_1_1873.
+_:df_1_1873 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/born.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "born".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bor.ttl>.

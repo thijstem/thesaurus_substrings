@@ -1,0 +1,102 @@
+<https://stad.gent/id/concept/570019733/2022-02-26T13:54:11.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:54:11.584Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7240_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor werken die bestaan uit een reeks plaatjes op fotografische film, die zo snel achter elkaar worden vertoond dat ze de illusie geven van een natuurlijke beweging.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7240_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019733/2022-02-26T13:54:11.584Z>.
+<https://stad.gent/id/concept/570017537/2022-02-26T12:55:30.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:55:30.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7660_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Frame waarin fotografische film wordt vastgezet alvorens het in een camera of onder een scanner te schuiven. De vorm en grootte van het frame hangt af van het formaat van de film. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmcassette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7660_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017537/2022-02-26T12:55:30.481Z>.
+<https://stad.gent/id/concept/570016738/2022-02-26T12:27:58.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:27:58.549Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7855_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmspoel-opwindtoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7855_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016738/2022-02-26T12:27:58.549Z>.
+<https://stad.gent/id/concept/570016744/2022-02-26T12:28:13.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:28:13.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7855_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmroltoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7855_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016744/2022-02-26T12:28:13.556Z>.
+<https://stad.gent/id/concept/570015362/2022-02-26T11:54:57.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:54:57.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8092_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Systemen die zijn ontwikkeld voor het projecteren van speelfilms op een scherm. De werking van deze systemen berust op het sturen van een lichtstraal door bewegende, belichte film, waarna het beeld vergroot wordt geprojecteerd op een filmdoek in een theater, in een daarvoor geschikt formaat. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmprojector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8092_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015362/2022-02-26T11:54:57.740Z>.
+<https://stad.gent/id/concept/570012248/2022-02-26T10:46:37.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:46:37.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8581_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Camera's geschikt voor het maken van een snelle belichting van bewegende voorwerpen op een filmstrook. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmcamera"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8581_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012248/2022-02-26T10:46:37.722Z>.
+<https://stad.gent/id/concept/570011347/2022-02-26T10:37:48.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:37:48.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8644_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmrol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8644_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011347/2022-02-26T10:37:48.927Z>.
+<https://stad.gent/id/concept/570010960/2022-02-26T10:33:37.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:33:37.277Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8674_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmapparatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8674_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010960/2022-02-26T10:33:37.277Z>.
+<https://stad.gent/id/concept/570001663/2022-02-26T09:01:23.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:23.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1427084>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9331_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Filmfestival van Vlaanderen Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001663/2022-02-26T09:01:23.871Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/film.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/film.ttl>.

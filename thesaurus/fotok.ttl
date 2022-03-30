@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570016736/2022-02-26T12:27:48.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:27:48.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1723002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7858_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotokoffer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7858_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016736/2022-02-26T12:27:48.193Z>.
+<https://stad.gent/id/concept/570007679/2022-02-26T09:25:24.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:25:24.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9160_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotokaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9160_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007679/2022-02-26T09:25:24.121Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fotok.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fotok.ttl>.

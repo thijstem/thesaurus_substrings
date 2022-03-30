@@ -1,0 +1,249 @@
+<https://stad.gent/id/concept/670000111/2022-03-13T00:56:49.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:56:49.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1084_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000111/2022-03-13T00:56:49.891Z>.
+<https://stad.gent/id/concept/670000112/2022-03-13T00:56:54.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:56:54.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelukstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1084_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000112/2022-03-13T00:56:54.892Z>.
+<https://stad.gent/id/concept/570024634/2022-03-13T00:24:18.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:24:18.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1315_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gelijkstroom-stoommachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1315_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024634/2022-03-13T00:24:18.133Z>.
+<https://stad.gent/id/concept/570024502/2022-03-13T00:22:02.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:22:02.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1333_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geleider"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1333_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024502/2022-03-13T00:22:02.401Z>.
+<https://stad.gent/id/concept/670000111/2022-03-11T06:51:43.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:51:43.456Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2374_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000111/2022-03-11T06:51:43.456Z>.
+<https://stad.gent/id/concept/670000112/2022-03-11T06:51:48.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:51:48.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelukstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2374_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000112/2022-03-11T06:51:48.458Z>.
+<https://stad.gent/id/concept/570024634/2022-03-11T06:19:13.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:19:13.729Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gelijkstroom-stoommachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2608_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024634/2022-03-11T06:19:13.729Z>.
+<https://stad.gent/id/concept/570024502/2022-03-11T06:16:57.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:16:57.726Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2623_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geleider"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2623_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024502/2022-03-11T06:16:57.726Z>.
+<https://stad.gent/id/concept/570023763/2022-03-11T05:39:43.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:39:43.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldermalsen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_2890_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023763/2022-03-11T05:39:43.315Z>.
+<https://stad.gent/id/concept/570023716/2022-03-11T05:36:47.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:36:47.166Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geleidbaarheidsmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2911_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023716/2022-03-11T05:36:47.166Z>.
+<https://stad.gent/id/concept/570022967/2022-03-11T05:05:51.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:51.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gele koperlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_3130_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022967/2022-03-11T05:05:51.875Z>.
+<https://stad.gent/id/concept/570020620/2022-03-11T04:47:59.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:47:59.008Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3259_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldrop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3259_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020620/2022-03-11T04:47:59.008Z>.
+<https://stad.gent/id/concept/570017703/2022-03-11T03:37:56.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:37:56.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7239007>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3760_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelrode (Aarschot)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_3760_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017703/2022-03-11T03:37:56.547Z>.
+<https://stad.gent/id/concept/570017563/2022-03-11T03:32:05.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:32:05.940Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3802_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsdraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3802_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017563/2022-03-11T03:32:05.940Z>.
+<https://stad.gent/id/concept/570016918/2022-03-11T03:11:00.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:11:00.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3949_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geleivorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3949_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016918/2022-03-11T03:11:00.041Z>.
+<https://stad.gent/id/concept/570007640/2022-03-11T00:00:18.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:00:18.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5311_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geldtelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5311_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007640/2022-03-11T00:00:18.080Z>.
+<https://stad.gent/id/concept/670000111/2022-02-26T16:15:32.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:32.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6229_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geldmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6229_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000111/2022-02-26T16:15:32.368Z>.
+<https://stad.gent/id/concept/670000112/2022-02-26T16:15:37.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:37.370Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6229_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelukstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6229_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000112/2022-02-26T16:15:37.370Z>.
+<https://stad.gent/id/concept/570024634/2022-02-26T15:43:12.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:43:12.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6460_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gelijkstroom-stoommachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6460_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024634/2022-02-26T15:43:12.937Z>.
+<https://stad.gent/id/concept/570024502/2022-02-26T15:40:56.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:40:56.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6478_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geleider"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6478_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024502/2022-02-26T15:40:56.922Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl> <https://w3id.org/tree#relation> _:df_1_2219.
+_:df_1_2219 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/geld.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "geld".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl> <https://w3id.org/tree#relation> _:df_1_2220.
+_:df_1_2220 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gele.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gele".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl> <https://w3id.org/tree#relation> _:df_1_2221.
+_:df_1_2221 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gelr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gelr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl> <https://w3id.org/tree#relation> _:df_1_2222.
+_:df_1_2222 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gelu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gelu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gel.ttl>.

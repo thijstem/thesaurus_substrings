@@ -1,0 +1,95 @@
+<https://stad.gent/id/concept/570012514/2022-03-11T01:27:48.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:27:48.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2064650>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4687_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elizabethport (New Jersey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_4687_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012514/2022-03-11T01:27:48.392Z>.
+<https://stad.gent/id/concept/570009629/2022-03-11T00:44:38.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:44:38.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3773186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4996_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elixir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4996_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009629/2022-03-11T00:44:38.883Z>.
+<https://stad.gent/id/concept/570008889/2022-03-11T00:19:47.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:19:47.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47112461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5173_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabethbegijnhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5173_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008889/2022-03-11T00:19:47.012Z>.
+<https://stad.gent/id/concept/670001375/2022-02-26T17:41:03.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:03.341Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200815>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5617_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabeth Huis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5617_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001375/2022-02-26T17:41:03.341Z>.
+<https://stad.gent/id/concept/570024929/2022-02-26T15:56:23.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:56:23.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6367_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabethbegijnhof - Prinsenhof - Papegaai - Sint-Michiels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_6367_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024929/2022-02-26T15:56:23.836Z>.
+<https://stad.gent/id/concept/570012514/2022-02-26T10:52:11.583Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:11.583Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2064650>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8539_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elizabethport (New Jersey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_8539_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012514/2022-02-26T10:52:11.583Z>.
+<https://stad.gent/id/concept/570009629/2022-02-26T10:09:03.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:09:03.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3773186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8848_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "elixir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8848_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009629/2022-02-26T10:09:03.249Z>.
+<https://stad.gent/id/concept/570008889/2022-02-26T09:44:16.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:44:16.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47112461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9025_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elisabethbegijnhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9025_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008889/2022-02-26T09:44:16.770Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/eli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/eli.ttl>.

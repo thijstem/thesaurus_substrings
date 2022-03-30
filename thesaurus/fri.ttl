@@ -1,0 +1,101 @@
+<https://stad.gent/id/concept/570019353/2022-03-11T04:15:18.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:15:18.043Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3493_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3493_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019353/2022-03-11T04:15:18.043Z>.
+<https://stad.gent/id/concept/570019015/2022-03-11T04:01:17.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:01:17.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders om in te frituren, meestal diep en vaak met een netje of geperforeerd gedeelte waarin het voedsel in aanraking komt met het vet. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3592_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019015/2022-03-11T04:01:17.234Z>.
+<https://stad.gent/id/concept/570014541/2022-03-11T02:07:45.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:07:45.296Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4402_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014541/2022-03-11T02:07:45.296Z>.
+<https://stad.gent/id/concept/570011518/2022-03-11T01:14:47.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:14:47.635Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4780_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkbare vloeistoffen, meestal met uitzondering van water. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Frisdranken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4780_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011518/2022-03-11T01:14:47.635Z>.
+<https://stad.gent/id/concept/570024986/2022-02-26T15:59:31.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:59:31.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410373>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6343_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frisdrank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6343_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024986/2022-02-26T15:59:31.093Z>.
+<https://stad.gent/id/concept/570019353/2022-02-26T13:39:20.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:20.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7345_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7345_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019353/2022-02-26T13:39:20.536Z>.
+<https://stad.gent/id/concept/570019015/2022-02-26T13:25:19.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:25:19.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7447_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders om in te frituren, meestal diep en vaak met een netje of geperforeerd gedeelte waarin het voedsel in aanraking komt met het vet. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7447_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019015/2022-02-26T13:25:19.774Z>.
+<https://stad.gent/id/concept/570014541/2022-02-26T11:32:08.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:32:08.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8254_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8254_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014541/2022-02-26T11:32:08.792Z>.
+<https://stad.gent/id/concept/570011518/2022-02-26T10:39:09.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:39:09.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8632_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkbare vloeistoffen, meestal met uitzondering van water. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Frisdranken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8632_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011518/2022-02-26T10:39:09.630Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fri.ttl>.

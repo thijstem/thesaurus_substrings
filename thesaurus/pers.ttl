@@ -1,0 +1,266 @@
+<https://stad.gent/id/concept/570024225/2022-03-11T06:01:41.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:01:41.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke beschermingsmiddelen (PBM)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2734_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024225/2022-03-11T06:01:41.414Z>.
+<https://stad.gent/id/concept/570022985/2022-03-11T05:06:52.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:52.230Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perskussen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3124_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022985/2022-03-11T05:06:52.230Z>.
+<https://stad.gent/id/concept/570018986/2022-03-11T03:59:46.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:46.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3604_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018986/2022-03-11T03:59:46.657Z>.
+<https://stad.gent/id/concept/570018898/2022-03-11T03:54:24.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:54:24.779Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3643_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Huishoudelijke voorwerpen, meestal draagbaar, waar mensen op kunnen gaan staan om hun gewicht vast te stellen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personenweegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3643_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018898/2022-03-11T03:54:24.779Z>.
+<https://stad.gent/id/concept/570014570/2022-03-11T02:08:55.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:08:55.860Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4393_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mappen met promotiemateriaal die aan de pers worden uitgedeeld, bijvoorbeeld tijdens een persconferentie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persmap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4393_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014570/2022-03-11T02:08:55.860Z>.
+<https://stad.gent/id/concept/570012535/2022-03-11T01:28:08.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:28:08.400Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4684_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012535/2022-03-11T01:28:08.400Z>.
+<https://stad.gent/id/concept/570012189/2022-03-11T01:21:15.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:21:15.659Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4735_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4735_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012189/2022-03-11T01:21:15.659Z>.
+<https://stad.gent/id/concept/570009236/2022-03-11T00:33:21.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:33:21.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5077_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De mensen die in dienst zijn van of actief zijn in een bedrijf, organisatie of dienst; het is een verzamelnaam die nooit naar een individueel personeelslid verwijst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5077_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009236/2022-03-11T00:33:21.626Z>.
+<https://stad.gent/id/concept/570009135/2022-03-11T00:29:02.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:29:02.775Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5107_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeelsfoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5107_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009135/2022-03-11T00:29:02.775Z>.
+<https://stad.gent/id/concept/570008978/2022-03-11T00:23:09.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:23:09.266Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300444044>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5149_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perswezen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5149_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008978/2022-03-11T00:23:09.266Z>.
+<https://stad.gent/id/concept/570008662/2022-03-11T00:12:05.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:12:05.835Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5227_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeelsfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5227_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008662/2022-03-11T00:12:05.835Z>.
+<https://stad.gent/id/concept/570008623/2022-03-11T00:10:33.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:10:33.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024979>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5239_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5239_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008623/2022-03-11T00:10:33.567Z>.
+<https://stad.gent/id/concept/570008071/2022-03-11T00:03:09.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:03:09.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5467169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5290_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeelsbeleid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5290_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008071/2022-03-11T00:03:09.292Z>.
+<https://stad.gent/id/concept/670001860/2022-03-09T00:00:27.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-09T00:00:27.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q506858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5314_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persfotografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5314_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001860/2022-03-09T00:00:27.967Z>.
+<https://stad.gent/id/concept/670001860/2022-02-26T18:18:37.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:18:37.803Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q506858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5350_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persfotografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5350_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001860/2022-02-26T18:18:37.803Z>.
+<https://stad.gent/id/concept/570024670/2022-02-26T15:44:58.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:44:58.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q841217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6448_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, hydraulische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6448_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024670/2022-02-26T15:44:58.773Z>.
+<https://stad.gent/id/concept/570024666/2022-02-26T15:44:43.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:44:43.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6451_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, mechanische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6451_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024666/2022-02-26T15:44:43.767Z>.
+<https://stad.gent/id/concept/570024225/2022-02-26T15:25:40.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:25:40.264Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6586_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke beschermingsmiddelen (PBM)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6586_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024225/2022-02-26T15:25:40.264Z>.
+<https://stad.gent/id/concept/570022985/2022-02-26T14:30:53.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:30:53.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6976_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perskussen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6976_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022985/2022-02-26T14:30:53.329Z>.
+<https://stad.gent/id/concept/570018986/2022-02-26T13:23:49.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:23:49.090Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7456_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7456_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018986/2022-02-26T13:23:49.090Z>.
+<https://stad.gent/id/concept/570018898/2022-02-26T13:18:26.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:26.625Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7495_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Huishoudelijke voorwerpen, meestal draagbaar, waar mensen op kunnen gaan staan om hun gewicht vast te stellen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personenweegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7495_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018898/2022-02-26T13:18:26.625Z>.
+<https://stad.gent/id/concept/570012189/2022-02-26T10:45:37.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:45:37.384Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8587_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8587_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012189/2022-02-26T10:45:37.384Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> <https://w3id.org/tree#relation> _:df_1_2458.
+_:df_1_2458 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/persm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "persm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> <https://w3id.org/tree#relation> _:df_1_2459.
+_:df_1_2459 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/persp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "persp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> <https://w3id.org/tree#relation> _:df_1_2460.
+_:df_1_2460 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/perso.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perso".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> <https://w3id.org/tree#relation> _:df_1_2461.
+_:df_1_2461 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/persw.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "persw".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> <https://w3id.org/tree#relation> _:df_1_2462.
+_:df_1_2462 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/persb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "persb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl>.

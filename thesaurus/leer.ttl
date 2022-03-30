@@ -1,0 +1,49 @@
+<https://stad.gent/id/concept/570009813/2022-02-26T10:13:29.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:13:29.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8818_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerdam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_8818_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009813/2022-02-26T10:13:29.782Z>.
+<https://stad.gent/id/concept/570009512/2022-02-26T10:05:31.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:05:31.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q600134>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8875_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leergang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8875_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009512/2022-02-26T10:05:31.950Z>.
+<https://stad.gent/id/concept/570009262/2022-02-26T09:58:54.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:54.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8920_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken die bij uitstek worden gebruikt bij de studie van een bepaald onderwerp of een bepaalde wetenschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8920_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009262/2022-02-26T09:58:54.616Z>.
+<https://stad.gent/id/concept/570008322/2022-02-26T09:29:45.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:29:45.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9130_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9130_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008322/2022-02-26T09:29:45.678Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/leer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/leer.ttl>.

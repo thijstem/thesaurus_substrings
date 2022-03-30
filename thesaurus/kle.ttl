@@ -1,0 +1,247 @@
+<https://stad.gent/id/concept/570024507/2022-03-13T00:22:12.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:22:12.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleinhandel en retail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1330_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024507/2022-03-13T00:22:12.405Z>.
+<https://stad.gent/id/concept/570024305/2022-03-13T00:10:42.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:10:42.666Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1414_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding en accessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_1414_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024305/2022-03-13T00:10:42.666Z>.
+<https://stad.gent/id/concept/570024251/2022-03-13T00:07:46.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:07:46.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300423291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "klembord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024251/2022-03-13T00:07:46.305Z>.
+<https://stad.gent/id/concept/670001600/2022-03-11T08:35:46.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:35:46.237Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Sterrestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1633_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001600/2022-03-11T08:35:46.237Z>.
+<https://stad.gent/id/concept/670001431/2022-03-11T08:21:35.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:21:35.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Ameede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001431/2022-03-11T08:21:35.927Z>.
+<https://stad.gent/id/concept/670001430/2022-03-11T08:21:30.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:21:30.925Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Dok (Achterdok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1735_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001430/2022-03-11T08:21:30.925Z>.
+<https://stad.gent/id/concept/670000961/2022-03-11T07:58:56.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:58:56.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Raamhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1894_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000961/2022-03-11T07:58:56.616Z>.
+<https://stad.gent/id/concept/670000962/2022-03-11T07:59:01.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:59:01.618Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Botermarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1894_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000962/2022-03-11T07:59:01.618Z>.
+<https://stad.gent/id/concept/670000963/2022-03-11T07:59:06.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:59:06.620Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Huidenvettershoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1894_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000963/2022-03-11T07:59:06.620Z>.
+<https://stad.gent/id/concept/670000960/2022-03-11T07:58:51.614Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:58:51.614Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Gewad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1897_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000960/2022-03-11T07:58:51.614Z>.
+<https://stad.gent/id/concept/670000667/2022-03-11T07:35:09.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:35:09.670Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Korenmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2065_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000667/2022-03-11T07:35:09.670Z>.
+<https://stad.gent/id/concept/670000668/2022-03-11T07:35:14.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:35:14.671Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Kuiperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2065_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000668/2022-03-11T07:35:14.671Z>.
+<https://stad.gent/id/concept/670000645/2022-03-11T07:33:24.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:33:24.105Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2077_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Vismarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2077_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000645/2022-03-11T07:33:24.105Z>.
+<https://stad.gent/id/concept/670000624/2022-03-11T07:31:43.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:31:43.458Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2089_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Oudenaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2089_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000624/2022-03-11T07:31:43.458Z>.
+<https://stad.gent/id/concept/670000329/2022-03-11T07:08:57.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:08:57.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleermaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2251_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000329/2022-03-11T07:08:57.473Z>.
+<https://stad.gent/id/concept/670000331/2022-03-11T07:09:02.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:09:02.474Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "klerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2251_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000331/2022-03-11T07:09:02.474Z>.
+<https://stad.gent/id/concept/670000158/2022-03-11T06:55:36.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:55:36.030Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2347_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Klein Turkije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2347_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000158/2022-03-11T06:55:36.030Z>.
+<https://stad.gent/id/concept/670000159/2022-03-11T06:55:41.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:55:41.032Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2347_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleinvleeshuissteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2347_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000159/2022-03-11T06:55:41.032Z>.
+<https://stad.gent/id/concept/570024911/2022-03-11T06:31:08.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:31:08.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2521_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleermaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2521_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024911/2022-03-11T06:31:08.962Z>.
+<https://stad.gent/id/concept/570024905/2022-03-11T06:30:58.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:30:58.620Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2524_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding kinderen ondergoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2524_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024905/2022-03-11T06:30:58.620Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1262.
+_:df_1_1262 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kled.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kled".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1263.
+_:df_1_1263 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/klei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "klei".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1264.
+_:df_1_1264 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/klem.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "klem".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1265.
+_:df_1_1265 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/klee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "klee".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1266.
+_:df_1_1266 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kleu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kleu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> <https://w3id.org/tree#relation> _:df_1_1267.
+_:df_1_1267 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kler.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kler".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kle.ttl>.

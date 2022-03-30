@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570010101/2022-03-11T00:56:34.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:56:34.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026631>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4909_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neerpelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_4909_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010101/2022-03-11T00:56:34.169Z>.
+<https://stad.gent/id/concept/570010101/2022-02-26T10:20:57.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:20:57.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026631>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8764_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neerpelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_8764_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010101/2022-02-26T10:20:57.438Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nee.ttl>.

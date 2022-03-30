@@ -1,0 +1,54 @@
+<https://stad.gent/id/concept/570023980/2022-03-11T05:48:17.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:48:17.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwenningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_2827_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023980/2022-03-11T05:48:17.021Z>.
+<https://stad.gent/id/concept/570012365/2022-03-11T01:24:06.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:24:06.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schweinfurt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_4714_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012365/2022-03-11T01:24:06.683Z>.
+<https://stad.gent/id/concept/570023980/2022-02-26T15:12:17.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:12:17.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6682_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwenningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6682_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023980/2022-02-26T15:12:17.695Z>.
+<https://stad.gent/id/concept/570012365/2022-02-26T10:48:29.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:48:29.566Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8566_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schweinfurt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_8566_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012365/2022-02-26T10:48:29.566Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schw.ttl>.

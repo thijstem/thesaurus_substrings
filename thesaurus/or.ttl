@@ -1,0 +1,278 @@
+<https://stad.gent/id/concept/670000566/2022-03-13T01:32:24.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:32:24.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_829_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oranjeboom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_829_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000566/2022-03-13T01:32:24.023Z>.
+<https://stad.gent/id/concept/670000376/2022-03-13T01:17:18.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:17:18.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1937431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "orgelmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_937_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000376/2022-03-13T01:17:18.199Z>.
+<https://stad.gent/id/concept/670000211/2022-03-13T01:05:16.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:05:16.757Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oranjeberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1024_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000211/2022-03-13T01:05:16.757Z>.
+<https://stad.gent/id/concept/570024171/2022-03-13T00:03:29.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:03:29.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011792>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1465_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1465_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024171/2022-03-13T00:03:29.063Z>.
+<https://stad.gent/id/concept/670000566/2022-03-11T07:27:11.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:27:11.615Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oranjeboom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2122_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000566/2022-03-11T07:27:11.615Z>.
+<https://stad.gent/id/concept/670000376/2022-03-11T07:12:03.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:12:03.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1937431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2230_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "orgelmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2230_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000376/2022-03-11T07:12:03.930Z>.
+<https://stad.gent/id/concept/670000211/2022-03-11T07:00:02.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:00:02.547Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oranjeberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2317_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000211/2022-03-11T07:00:02.547Z>.
+<https://stad.gent/id/concept/570024171/2022-03-11T05:58:25.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:58:25.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011792>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2755_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024171/2022-03-11T05:58:25.478Z>.
+<https://stad.gent/id/concept/570019674/2022-03-11T04:28:25.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:28:25.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oregon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3400_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019674/2022-03-11T04:28:25.303Z>.
+<https://stad.gent/id/concept/570019609/2022-03-11T04:26:44.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:26:44.641Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2065747>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orange (New Jersey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3412_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019609/2022-03-11T04:26:44.641Z>.
+<https://stad.gent/id/concept/570016894/2022-03-11T03:09:48.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:48.715Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3958_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ortenberg (Baden)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3958_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016894/2022-03-11T03:09:48.715Z>.
+<https://stad.gent/id/concept/570016793/2022-03-11T03:05:50.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:05:50.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orroir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_3988_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016793/2022-03-11T03:05:50.455Z>.
+<https://stad.gent/id/concept/570016157/2022-03-11T02:46:05.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016157>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:46:05.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266794>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Decoratieve vormen of versieringen die een integraal deel van een gebouw of object zijn, maar die niet essentieel zijn voor de constructie. Verwijst ook naar decoratieve objecten die door mens en dier gedragen of gebruikt worden. Voor objecten die als ereteken voor een individu fungeren, zie 'onderscheidingen (eretitels)'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ornament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4129_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016157"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016157/2022-03-11T02:46:05.962Z>.
+<https://stad.gent/id/concept/570015694/2022-03-11T02:36:57.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:36:57.518Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q10341573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4192_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orlon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4192_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015694/2022-03-11T02:36:57.518Z>.
+<https://stad.gent/id/concept/570015222/2022-03-11T02:27:06.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:27:06.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4264_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orp-le-Grand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_4264_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015222/2022-03-11T02:27:06.083Z>.
+<https://stad.gent/id/concept/570010018/2022-03-11T00:53:52.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:53:52.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4930_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in zijn algemeenheid gebruikt voor grondbeginselen, regels of wetten, bedoeld voor het beheersen of reguleren van het gedrag van personen en bedrijven enz.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ordonnantie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4930_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010018/2022-03-11T00:53:52.921Z>.
+<https://stad.gent/id/concept/570009286/2022-03-11T00:35:23.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:35:23.233Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5062_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "orderboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5062_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009286/2022-03-11T00:35:23.233Z>.
+<https://stad.gent/id/concept/570009130/2022-03-11T00:28:52.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:28:52.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5107_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grafische voorstellingen van de administratieve en hiërarchische structuur van een organisatie waarbij de gezagsverhoudingen tussen de verschillende personeelsleden worden weergegeven door middel van lijnen waaruit blijkt wie voor wat verantwoordelijk is alsmede welke taken aan wie zijn op- of overgedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "organigrammen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5107_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009130/2022-03-11T00:28:52.769Z>.
+<https://stad.gent/id/concept/670000566/2022-02-26T16:51:03.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:51:03.546Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5977_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oranjeboom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5977_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000566/2022-02-26T16:51:03.546Z>.
+<https://stad.gent/id/concept/670000376/2022-02-26T16:35:56.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:35:56.904Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1937431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6085_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "orgelmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6085_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000376/2022-02-26T16:35:56.904Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2154.
+_:df_1_2154 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ora.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ora".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2155.
+_:df_1_2155 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/org.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "org".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2156.
+_:df_1_2156 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ore.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ore".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2157.
+_:df_1_2157 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ort.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ort".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2158.
+_:df_1_2158 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/orr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "orr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2159.
+_:df_1_2159 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/orn.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "orn".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2160.
+_:df_1_2160 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/orl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "orl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2161.
+_:df_1_2161 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/orp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "orp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> <https://w3id.org/tree#relation> _:df_1_2162.
+_:df_1_2162 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ord.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ord".
+<https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/or.ttl>.

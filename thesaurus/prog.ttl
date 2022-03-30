@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/570009578/2022-03-11T00:42:53.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:42:53.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5008_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programmaboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5008_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009578/2022-03-11T00:42:53.128Z>.
+<https://stad.gent/id/concept/570008802/2022-03-11T00:17:00.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:17:00.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5191_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5191_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008802/2022-03-11T00:17:00.365Z>.
+<https://stad.gent/id/concept/570009578/2022-02-26T10:07:17.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:17.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8860_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programmaboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8860_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009578/2022-02-26T10:07:17.556Z>.
+<https://stad.gent/id/concept/570008802/2022-02-26T09:41:30.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:30.598Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9046_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9046_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008802/2022-02-26T09:41:30.598Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prog.ttl>.

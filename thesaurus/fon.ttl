@@ -1,0 +1,171 @@
+<https://stad.gent/id/concept/670001377/2022-03-11T08:17:09.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:09.143Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1765_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontein der Geknielden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1765_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001377/2022-03-11T08:17:09.143Z>.
+<https://stad.gent/id/concept/670001248/2022-03-11T08:07:15.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:07:15.241Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q46712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1837_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-lès-Dijon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1837_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001248/2022-03-11T08:07:15.241Z>.
+<https://stad.gent/id/concept/570024143/2022-03-11T05:57:07.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:57:07.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240950>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-l´Evêque (Henegouwen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2764_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024143/2022-03-11T05:57:07.611Z>.
+<https://stad.gent/id/concept/570024123/2022-03-11T05:55:51.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:55:51.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vroeger was dit een verzameling lettervormen die bestond uit alle letters, cijfers, leestekens en andere tekens die tot één ontwerp en puntgrootte behoorden, waarbij andere reeksen tekens, zoals het vet gedrukte soort van hetzelfde ontwerp, er niet bij werden gerekend. In de fotocompositie en desktop publishing is een font de reeks tekens en andere symbolen van één stijl die als eenheid beschikbaar is, bijvoorbeeld op een strook film of programmamodule.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "font"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2773_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024123/2022-03-11T05:55:51.218Z>.
+<https://stad.gent/id/concept/570023070/2022-03-11T05:10:56.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:10:56.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor bouwwerken met openingen die zijn bedoeld om af en toe of voortdurend water te laten spuiten of stromen, bijvoorbeeld voor openbaar gemak of gebruik. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fontein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3094_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023070/2022-03-11T05:10:56.400Z>.
+<https://stad.gent/id/concept/570019608/2022-03-11T04:26:39.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:26:39.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fonograafcilinder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3412_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019608/2022-03-11T04:26:39.640Z>.
+<https://stad.gent/id/concept/570015324/2022-03-11T02:29:22.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:29:22.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4246_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontainebleau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_4246_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015324/2022-03-11T02:29:22.398Z>.
+<https://stad.gent/id/concept/670001377/2022-02-26T17:41:13.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:13.345Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5617_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontein der Geknielden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5617_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001377/2022-02-26T17:41:13.345Z>.
+<https://stad.gent/id/concept/670001248/2022-02-26T17:31:04.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:31:04.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q46712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5689_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-lès-Dijon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5689_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001248/2022-02-26T17:31:04.225Z>.
+<https://stad.gent/id/concept/570024143/2022-02-26T15:21:06.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:21:06.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240950>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6619_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-l´Evêque (Henegouwen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6619_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024143/2022-02-26T15:21:06.941Z>.
+<https://stad.gent/id/concept/570024123/2022-02-26T15:19:51.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:19:51.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6628_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vroeger was dit een verzameling lettervormen die bestond uit alle letters, cijfers, leestekens en andere tekens die tot één ontwerp en puntgrootte behoorden, waarbij andere reeksen tekens, zoals het vet gedrukte soort van hetzelfde ontwerp, er niet bij werden gerekend. In de fotocompositie en desktop publishing is een font de reeks tekens en andere symbolen van één stijl die als eenheid beschikbaar is, bijvoorbeeld op een strook film of programmamodule.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "font"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6628_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024123/2022-02-26T15:19:51.016Z>.
+<https://stad.gent/id/concept/570023070/2022-02-26T14:34:55.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:34:55.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6949_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor bouwwerken met openingen die zijn bedoeld om af en toe of voortdurend water te laten spuiten of stromen, bijvoorbeeld voor openbaar gemak of gebruik. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fontein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6949_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023070/2022-02-26T14:34:55.254Z>.
+<https://stad.gent/id/concept/570019608/2022-02-26T13:50:39.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:50:39.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7264_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fonograafcilinder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7264_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019608/2022-02-26T13:50:39.726Z>.
+<https://stad.gent/id/concept/570015324/2022-02-26T11:53:42.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:53:42.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8101_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontainebleau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_8101_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015324/2022-02-26T11:53:42.444Z>.
+<https://stad.gent/id/concept/570000391/2022-02-26T08:53:09.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:53:09.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q116434>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9391_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fonograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9391_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000391/2022-02-26T08:53:09.770Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fon.ttl>.

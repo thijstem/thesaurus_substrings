@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570016099/2022-02-26T12:09:13.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:09:13.447Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q14973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7990_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierviltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7990_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016099/2022-02-26T12:09:13.447Z>.
+<https://stad.gent/id/concept/570010412/2022-02-26T10:27:39.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:27:39.916Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300302722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8716_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een alcoholische drank verkregen uit de fermentatie van mout (of een andere suikerhoudende stof), op smaak gebracht met hop of andere bittere aroma's.  ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8716_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010412/2022-02-26T10:27:39.916Z>.
+<https://stad.gent/id/concept/570009383/2022-02-26T10:03:36.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:03:36.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8887_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bierglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8887_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009383/2022-02-26T10:03:36.345Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bier.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bier.ttl>.

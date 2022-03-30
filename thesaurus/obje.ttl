@@ -1,0 +1,116 @@
+<https://stad.gent/id/concept/670001863/2022-03-13T03:00:18.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T03:00:18.965Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_202_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_202_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001863/2022-03-13T03:00:18.965Z>.
+<https://stad.gent/id/concept/670001857/2022-03-13T02:59:48.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:59:48.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300028499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blauwdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_205_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001857/2022-03-13T02:59:48.681Z>.
+<https://stad.gent/id/concept/670001755/2022-03-13T02:54:06.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:54:06.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300162872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_247_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereofoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_247_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001755/2022-03-13T02:54:06.797Z>.
+<https://stad.gent/id/concept/670001302/2022-03-13T02:16:38.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:16:38.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_514_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmaffiches, 1938-1961"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001302/2022-03-13T02:16:38.204Z>.
+<https://stad.gent/id/concept/670001303/2022-03-13T02:16:43.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001303>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:16:43.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_514_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmaffiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001303"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001303/2022-03-13T02:16:43.206Z>.
+<https://stad.gent/id/concept/670001030/2022-03-13T02:09:14.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:14.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_565_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_565_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001030/2022-03-13T02:09:14.993Z>.
+<https://stad.gent/id/concept/670001029/2022-03-13T02:09:09.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:09.991Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_568_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's SCMS"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_568_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001029/2022-03-13T02:09:09.991Z>.
+<https://stad.gent/id/concept/670000490/2022-03-13T01:26:21.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:26:21.587Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_874_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_874_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000490/2022-03-13T01:26:21.587Z>.
+<https://stad.gent/id/concept/670000057/2022-03-13T00:52:28.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:52:28.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1114_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1114_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000057/2022-03-13T00:52:28.135Z>.
+<https://stad.gent/id/concept/670000034/2022-03-13T00:50:47.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:47.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000034/2022-03-13T00:50:47.561Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/obje.ttl> <https://w3id.org/tree#relation> _:df_1_772.
+_:df_1_772 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/objec.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "objec".
+<https://thijstem.github.io/substrings_coghent/thesaurus/obje.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/obje.ttl>.

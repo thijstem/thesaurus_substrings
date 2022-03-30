@@ -1,0 +1,37 @@
+<https://stad.gent/id/concept/670001299/2022-02-26T17:35:00.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:35:00.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2936941>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5662_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amandsberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5662_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001299/2022-02-26T17:35:00.831Z>.
+<https://stad.gent/id/concept/570025047/2022-02-26T16:02:42.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:02:42.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q912030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6322_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amands"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6322_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025047/2022-02-26T16:02:42.107Z>.
+<https://stad.gent/id/concept/570020214/2022-02-26T14:05:16.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:05:16.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026726>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7159_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Amandsberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_7159_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020214/2022-02-26T14:05:16.485Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sint+am.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sint+am.ttl>.

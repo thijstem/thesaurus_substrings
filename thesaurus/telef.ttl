@@ -1,0 +1,68 @@
+<https://stad.gent/id/concept/570012440/2022-02-26T10:49:50.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:49:50.535Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8557_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoon-adapter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8557_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012440/2022-02-26T10:49:50.535Z>.
+<https://stad.gent/id/concept/570011887/2022-02-26T10:42:45.955Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:42:45.955Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8608_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gidsen met namen van mensen met een telefoonaansluiting en de bijbehorende adressen en telefoonnummers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoonboeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8608_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011887/2022-02-26T10:42:45.955Z>.
+<https://stad.gent/id/concept/570009577/2022-02-26T10:07:12.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:12.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8863_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooninstallatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8863_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009577/2022-02-26T10:07:12.554Z>.
+<https://stad.gent/id/concept/570006970/2022-02-26T09:21:57.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:21:57.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9184_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefooncentrale"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9184_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006970/2022-02-26T09:21:57.785Z>.
+<https://stad.gent/id/concept/570004235/2022-02-26T09:10:28.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:10:28.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249768>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9268_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor instrumenten, toestellen of apparaten die geluiden over een afstand overbrengen of reproduceren, vooral die apparaten waarin een menselijke stem wordt overgebracht door een kabel of een satelliet. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9268_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004235/2022-02-26T09:10:28.368Z>.
+<https://stad.gent/id/concept/570001622/2022-02-26T09:01:03.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:03.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300343518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9334_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "telefonie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9334_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001622/2022-02-26T09:01:03.405Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/telef.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/telef.ttl>.

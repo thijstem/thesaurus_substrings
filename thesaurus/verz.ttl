@@ -1,0 +1,176 @@
+<https://stad.gent/id/concept/570025067/2022-03-11T06:40:03.955Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:40:03.955Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2458_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzekeringsbewijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2458_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025067/2022-03-11T06:40:03.955Z>.
+<https://stad.gent/id/concept/570024452/2022-03-11T06:13:56.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:13:56.527Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzorgen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000727>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000727> <http://www.w3.org/2004/02/skos/core#prefLabel> "wonen"@nl, "wonen"@nl.
+_:df_2644_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024452"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024452/2022-03-11T06:13:56.527Z>.
+<https://stad.gent/id/concept/570024432/2022-03-11T06:12:30.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:12:30.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2656_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024432/2022-03-11T06:12:30.790Z>.
+<https://stad.gent/id/concept/570023282/2022-03-11T05:21:35.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:21:35.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3019_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023282/2022-03-11T05:21:35.962Z>.
+<https://stad.gent/id/concept/570017645/2022-03-11T03:35:04.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:35:04.282Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422971>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3781_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzorgingstafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3781_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017645/2022-03-11T03:35:04.282Z>.
+<https://stad.gent/id/concept/570015881/2022-03-11T02:39:28.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:39:28.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4174_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzendingsboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4174_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015881/2022-03-11T02:39:28.379Z>.
+<https://stad.gent/id/concept/570009630/2022-03-11T00:44:43.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:44:43.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055719>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4996_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzekering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4996_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009630/2022-03-11T00:44:43.885Z>.
+<https://stad.gent/id/concept/570025067/2022-02-26T16:04:02.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:04:02.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6313_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzekeringsbewijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6313_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025067/2022-02-26T16:04:02.740Z>.
+<https://stad.gent/id/concept/570024452/2022-02-26T15:37:55.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:37:55.781Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6499_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzorgen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000727>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000727> <http://www.w3.org/2004/02/skos/core#prefLabel> "wonen"@nl, "wonen"@nl.
+_:df_6499_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024452"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024452/2022-02-26T15:37:55.781Z>.
+<https://stad.gent/id/concept/570024432/2022-02-26T15:36:30.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:36:30.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6508_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6508_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024432/2022-02-26T15:36:30.141Z>.
+<https://stad.gent/id/concept/570023282/2022-02-26T14:45:34.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:45:34.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6871_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzamelkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6871_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023282/2022-02-26T14:45:34.643Z>.
+<https://stad.gent/id/concept/570017645/2022-02-26T12:59:07.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:59:07.271Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422971>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7633_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzorgingstafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7633_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017645/2022-02-26T12:59:07.271Z>.
+<https://stad.gent/id/concept/570015881/2022-02-26T12:03:46.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:03:46.504Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8029_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzendingsboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8029_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015881/2022-02-26T12:03:46.504Z>.
+<https://stad.gent/id/concept/570009630/2022-02-26T10:09:08.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:09:08.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055719>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8848_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzekering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8848_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009630/2022-02-26T10:09:08.250Z>.
+<https://stad.gent/id/concept/570005242/2022-02-26T09:13:04.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:13:04.425Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300412117>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9250_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9250_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005242/2022-02-26T09:13:04.425Z>.
+<https://stad.gent/id/concept/570002156/2022-02-26T09:03:56.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:03:56.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q43183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9313_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verzekeringen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9313_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002156/2022-02-26T09:03:56.039Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/verz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/verz.ttl>.

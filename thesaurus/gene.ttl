@@ -1,0 +1,37 @@
+<https://stad.gent/id/concept/570012050/2022-02-26T10:44:16.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:44:16.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8596_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneesmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8596_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012050/2022-02-26T10:44:16.786Z>.
+<https://stad.gent/id/concept/570009093/2022-02-26T09:51:40.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:51:40.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8974_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneeskunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8974_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009093/2022-02-26T09:51:40.043Z>.
+<https://stad.gent/id/concept/570005637/2022-02-26T09:13:54.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:13:54.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9244_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Genève"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_9244_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005637/2022-02-26T09:13:54.743Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gene.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gene.ttl>.

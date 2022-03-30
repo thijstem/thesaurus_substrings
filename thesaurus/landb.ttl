@@ -1,0 +1,16 @@
+<https://stad.gent/id/concept/570001680/2022-02-26T09:01:33.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:33.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9331_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "landbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025200>, <https://stad.gent/id/concept/570025201>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025201> <http://www.w3.org/2004/02/skos/core#prefLabel> "serrenteelt"@nl.
+<https://stad.gent/id/concept/570025200> <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitteelt"@nl.
+_:df_9331_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001680"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001680/2022-02-26T09:01:33.874Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/landb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/landb.ttl>.

@@ -1,0 +1,255 @@
+<https://stad.gent/id/concept/670001401/2022-03-13T02:24:34.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:24:34.209Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippolyte De Kerckhove - Lippens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_457_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001401/2022-03-13T02:24:34.209Z>.
+<https://stad.gent/id/concept/670000935/2022-03-13T02:02:01.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:02:01.271Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_619_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippoliet Lammensstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_619_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000935/2022-03-13T02:02:01.271Z>.
+<https://stad.gent/id/concept/670000229/2022-03-13T01:06:47.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:06:47.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q40365391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1012_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "historische straat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1012_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000229/2022-03-13T01:06:47.537Z>.
+<https://stad.gent/id/concept/570025026/2022-03-13T00:42:32.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:42:32.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl, "Turkije"@nl.
+_:df_1186_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025026/2022-03-13T00:42:32.670Z>.
+<https://stad.gent/id/concept/670001596/2022-03-11T08:35:26.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:35:26.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1633_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippoliet Lippensplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1633_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001596/2022-03-11T08:35:26.230Z>.
+<https://stad.gent/id/concept/670001401/2022-03-11T08:19:04.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:19:04.934Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1750_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippolyte De Kerckhove - Lippens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1750_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001401/2022-03-11T08:19:04.934Z>.
+<https://stad.gent/id/concept/670000935/2022-03-11T07:56:51.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:56:51.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1909_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippoliet Lammensstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1909_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000935/2022-03-11T07:56:51.067Z>.
+<https://stad.gent/id/concept/670000229/2022-03-11T07:01:34.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:01:34.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q40365391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2305_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "historische straat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2305_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000229/2022-03-11T07:01:34.079Z>.
+<https://stad.gent/id/concept/570025026/2022-03-11T06:37:27.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:37:27.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl.
+_:df_2476_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025026/2022-03-11T06:37:27.977Z>.
+<https://stad.gent/id/concept/570023831/2022-03-11T05:42:54.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:42:54.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005248>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2866_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hildesheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2866_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023831/2022-03-11T05:42:54.481Z>.
+<https://stad.gent/id/concept/570023679/2022-03-11T05:34:36.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:34:36.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hingene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2926_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023679/2022-03-11T05:34:36.169Z>.
+<https://stad.gent/id/concept/570020758/2022-03-11T04:50:04.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:50:04.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hilvarenbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_3244_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020758/2022-03-11T04:50:04.867Z>.
+<https://stad.gent/id/concept/570015251/2022-03-11T02:28:06.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:28:06.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "historie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4255_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015251/2022-03-11T02:28:06.799Z>.
+<https://stad.gent/id/concept/570014215/2022-03-11T02:00:42.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:00:42.002Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4453_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hillegom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4453_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014215/2022-03-11T02:00:42.002Z>.
+<https://stad.gent/id/concept/570010411/2022-03-11T01:03:11.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:11.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4864_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hilversum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4864_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010411/2022-03-11T01:03:11.729Z>.
+<https://stad.gent/id/concept/670001596/2022-02-26T17:59:35.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:59:35.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5485_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippoliet Lippensplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5485_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001596/2022-02-26T17:59:35.547Z>.
+<https://stad.gent/id/concept/670001401/2022-02-26T17:43:14.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:43:14.034Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5602_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippolyte De Kerckhove - Lippens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5602_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001401/2022-02-26T17:43:14.034Z>.
+<https://stad.gent/id/concept/670000935/2022-02-26T17:20:40.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:20:40.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5764_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hippoliet Lammensstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5764_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000935/2022-02-26T17:20:40.283Z>.
+<https://stad.gent/id/concept/670000229/2022-02-26T16:25:25.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:25:25.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q40365391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6160_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "historische straat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6160_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000229/2022-02-26T16:25:25.983Z>.
+<https://stad.gent/id/concept/570025026/2022-02-26T16:01:26.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:01:26.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6331_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hinis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl, "Turkije"@nl.
+_:df_6331_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025026/2022-02-26T16:01:26.835Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hi.ttl> <https://w3id.org/tree#relation> _:df_1_2207.
+_:df_1_2207 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/hil.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "hil".
+<https://thijstem.github.io/substrings_coghent/thesaurus/hi.ttl> <https://w3id.org/tree#relation> _:df_1_2208.
+_:df_1_2208 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/hin.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "hin".
+<https://thijstem.github.io/substrings_coghent/thesaurus/hi.ttl> <https://w3id.org/tree#relation> _:df_1_2209.
+_:df_1_2209 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/his.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "his".
+<https://thijstem.github.io/substrings_coghent/thesaurus/hi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hi.ttl>.

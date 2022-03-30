@@ -1,0 +1,48 @@
+<https://stad.gent/id/concept/570014880/2022-02-26T11:42:27.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:42:27.715Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300403947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8182_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naamkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8182_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014880/2022-02-26T11:42:27.715Z>.
+<https://stad.gent/id/concept/570014032/2022-02-26T11:20:59.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:20:59.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8335_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte, vaak rechthoekige of ovale platen waarop een meestal gedrukte of ingegraveerde naam van bijvoorbeeld een persoon of bedrijf staat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naamplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8335_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014032/2022-02-26T11:20:59.342Z>.
+<https://stad.gent/id/concept/570012499/2022-02-26T10:51:56.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:51:56.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8542_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naametiket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8542_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012499/2022-02-26T10:51:56.242Z>.
+<https://stad.gent/id/concept/570008760/2022-02-26T09:40:25.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:40:25.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300403947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9052_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaartjes met iemands naam en contactgegevens, met een soortgelijk ontwerp als een adreskaartje, maar gebruikt door een persoon die niet aan een bepaald commercieel bedrijf verbonden is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naamkaartjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9052_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008760/2022-02-26T09:40:25.246Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/naam.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/naam.ttl>.

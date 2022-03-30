@@ -1,0 +1,130 @@
+<https://stad.gent/id/concept/570024778/2022-03-13T00:31:02.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:31:02.275Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1267_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024778/2022-03-13T00:31:02.275Z>.
+<https://stad.gent/id/concept/570024114/2022-03-13T00:00:19.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:00:19.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1486_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboeken en staalkaarten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1486_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024114/2022-03-13T00:00:19.836Z>.
+<https://stad.gent/id/concept/670001008/2022-03-11T08:02:22.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:02:22.886Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1870_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1870_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001008/2022-03-11T08:02:22.886Z>.
+<https://stad.gent/id/concept/570024778/2022-03-11T06:25:56.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:25:56.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2560_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2560_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024778/2022-03-11T06:25:56.536Z>.
+<https://stad.gent/id/concept/570024114/2022-03-11T05:55:15.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:55:15.834Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2779_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboeken en staalkaarten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2779_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024114/2022-03-11T05:55:15.834Z>.
+<https://stad.gent/id/concept/570009154/2022-03-11T00:29:58.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:29:58.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5101_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5101_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009154/2022-03-11T00:29:58.129Z>.
+<https://stad.gent/id/concept/570008526/2022-03-11T00:07:52.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:07:52.259Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5257_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalybridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_5257_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008526/2022-03-11T00:07:52.259Z>.
+<https://stad.gent/id/concept/670001008/2022-02-26T17:26:12.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:26:12.342Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5725_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5725_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001008/2022-02-26T17:26:12.342Z>.
+<https://stad.gent/id/concept/570024778/2022-02-26T15:49:55.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:49:55.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6412_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6412_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024778/2022-02-26T15:49:55.943Z>.
+<https://stad.gent/id/concept/570024114/2022-02-26T15:19:16.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:19:16.002Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6631_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboeken en staalkaarten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6631_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024114/2022-02-26T15:19:16.002Z>.
+<https://stad.gent/id/concept/570009154/2022-02-26T09:54:27.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:27.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8953_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8953_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009154/2022-02-26T09:54:27.403Z>.
+<https://stad.gent/id/concept/570008526/2022-02-26T09:32:26.953Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:26.953Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9109_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalybridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_9109_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008526/2022-02-26T09:32:26.953Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stal.ttl>.

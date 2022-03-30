@@ -1,0 +1,76 @@
+<https://stad.gent/id/concept/670000430/2022-03-13T01:21:29.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:21:29.719Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_907_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegeldekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_907_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000430/2022-03-13T01:21:29.719Z>.
+<https://stad.gent/id/concept/670000430/2022-03-11T07:16:16.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:16:16.817Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2200_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegeldekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2200_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000430/2022-03-11T07:16:16.817Z>.
+<https://stad.gent/id/concept/570019103/2022-03-11T04:04:48.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:04:48.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3568_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegengewicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3568_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019103/2022-03-11T04:04:48.644Z>.
+<https://stad.gent/id/concept/570018963/2022-03-11T03:58:16.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:58:16.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3613_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018963/2022-03-11T03:58:16.252Z>.
+<https://stad.gent/id/concept/670000430/2022-02-26T16:40:08.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:40:08.496Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6055_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegeldekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6055_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000430/2022-02-26T16:40:08.496Z>.
+<https://stad.gent/id/concept/570019103/2022-02-26T13:28:51.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:28:51.122Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7420_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegengewicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7420_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019103/2022-02-26T13:28:51.122Z>.
+<https://stad.gent/id/concept/570018963/2022-02-26T13:22:18.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:22:18.284Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7468_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7468_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018963/2022-02-26T13:22:18.284Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/teg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/teg.ttl>.

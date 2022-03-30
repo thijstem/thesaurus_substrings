@@ -1,0 +1,140 @@
+<https://stad.gent/id/concept/570022967/2022-03-11T05:05:51.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:51.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gele koperlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_3130_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022967/2022-03-11T05:05:51.875Z>.
+<https://stad.gent/id/concept/570022973/2022-03-11T05:06:11.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:11.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q29586604>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "staaldraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_3130_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022973/2022-03-11T05:06:11.884Z>.
+<https://stad.gent/id/concept/570022947/2022-03-11T05:05:01.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:01.529Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395635>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zamak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_3136_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022947/2022-03-11T05:05:01.529Z>.
+<https://stad.gent/id/concept/570022952/2022-03-11T05:05:16.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:16.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_3136_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022952/2022-03-11T05:05:16.536Z>.
+<https://stad.gent/id/concept/570022945/2022-03-11T05:04:56.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:04:56.526Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1884039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3139_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plaatmetaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_3139_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022945/2022-03-11T05:04:56.526Z>.
+<https://stad.gent/id/concept/570022880/2022-03-11T05:02:20.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:02:20.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoonmaakmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3157_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022880/2022-03-11T05:02:20.164Z>.
+<https://stad.gent/id/concept/570022756/2022-03-11T04:57:53.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:57:53.456Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3187_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kalksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016697>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016697> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl.
+_:df_3187_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022756/2022-03-11T04:57:53.456Z>.
+<https://stad.gent/id/concept/570022730/2022-03-11T04:56:27.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:27.814Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2675169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "varkenshaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3199_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022730/2022-03-11T04:56:27.814Z>.
+<https://stad.gent/id/concept/570022731/2022-03-11T04:56:32.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:32.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011124>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mica"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3199_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022731/2022-03-11T04:56:32.816Z>.
+<https://stad.gent/id/concept/570022714/2022-03-11T04:55:47.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:55:47.541Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3202_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_3202_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022714/2022-03-11T04:55:47.541Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/materia.ttl> <https://w3id.org/tree#relation> _:df_1_1436.
+_:df_1_1436 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/materiaa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "materiaa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/materia.ttl> <https://w3id.org/tree#relation> _:df_1_1437.
+_:df_1_1437 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/material.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "material".
+<https://thijstem.github.io/substrings_coghent/thesaurus/materia.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/materia.ttl>.

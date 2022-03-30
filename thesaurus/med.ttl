@@ -1,0 +1,212 @@
+<https://stad.gent/id/concept/570025289/2022-03-13T00:49:52.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:49:52.211Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische en paramedische sector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1132_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025289/2022-03-13T00:49:52.211Z>.
+<https://stad.gent/id/concept/570025289/2022-03-11T06:44:45.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:44:45.816Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische en paramedische sector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2425_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025289/2022-03-11T06:44:45.816Z>.
+<https://stad.gent/id/concept/570018869/2022-03-11T03:52:58.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:52:58.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medailleur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3652_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018869/2022-03-11T03:52:58.938Z>.
+<https://stad.gent/id/concept/570017741/2022-03-11T03:39:47.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:39:47.751Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379869>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3745_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoffen van dierlijke, plantaardige, minerale of synthetische herkomst die worden gebruikt als ingrediënt in de farmacie, om een ziekte te voorkomen of behandelen, als medicijn, of om anderszins een fysiologisch effect op een levend organisme te bewerkstelligen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medicijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3745_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017741/2022-03-11T03:39:47.751Z>.
+<https://stad.gent/id/concept/570017663/2022-03-11T03:35:50.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:35:50.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3775_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische apparatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3775_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017663/2022-03-11T03:35:50.083Z>.
+<https://stad.gent/id/concept/570017418/2022-03-11T03:27:01.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:27:01.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3838_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische toestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3838_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017418/2022-03-11T03:27:01.330Z>.
+<https://stad.gent/id/concept/570017315/2022-03-11T03:22:30.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:22:30.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q131647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3868_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3868_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017315/2022-03-11T03:22:30.887Z>.
+<https://stad.gent/id/concept/570016537/2022-03-11T02:57:10.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:57:10.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4048_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Borden waarop men briefjes, boodschappen, communiqués en advertenties kan ophangen, vaak in een publieke ruimte. Men gebruikt de term ook voor digitale faciliteiten met deze functie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mededelingenbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4048_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016537/2022-03-11T02:57:10.581Z>.
+<https://stad.gent/id/concept/570012509/2022-03-11T01:27:43.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:27:43.390Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4687_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4687_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012509/2022-03-11T01:27:43.390Z>.
+<https://stad.gent/id/concept/570008571/2022-03-11T00:08:52.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:08:52.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5251_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "media"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5251_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008571/2022-03-11T00:08:52.587Z>.
+<https://stad.gent/id/concept/570025289/2022-02-26T16:08:39.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:08:39.503Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6280_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische en paramedische sector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6280_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025289/2022-02-26T16:08:39.503Z>.
+<https://stad.gent/id/concept/570018869/2022-02-26T13:17:00.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:17:00.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7504_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medailleur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7504_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018869/2022-02-26T13:17:00.883Z>.
+<https://stad.gent/id/concept/570017741/2022-02-26T13:03:48.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:03:48.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379869>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7600_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoffen van dierlijke, plantaardige, minerale of synthetische herkomst die worden gebruikt als ingrediënt in de farmacie, om een ziekte te voorkomen of behandelen, als medicijn, of om anderszins een fysiologisch effect op een levend organisme te bewerkstelligen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medicijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7600_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017741/2022-02-26T13:03:48.987Z>.
+<https://stad.gent/id/concept/570017663/2022-02-26T12:59:52.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:59:52.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7627_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische apparatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7627_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017663/2022-02-26T12:59:52.634Z>.
+<https://stad.gent/id/concept/570017418/2022-02-26T12:51:08.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:51:08.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7690_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische toestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7690_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017418/2022-02-26T12:51:08.769Z>.
+<https://stad.gent/id/concept/570017315/2022-02-26T12:46:41.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:46:41.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q131647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7723_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7723_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017315/2022-02-26T12:46:41.957Z>.
+<https://stad.gent/id/concept/570016537/2022-02-26T12:21:29.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:21:29.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7903_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Borden waarop men briefjes, boodschappen, communiqués en advertenties kan ophangen, vaak in een publieke ruimte. Men gebruikt de term ook voor digitale faciliteiten met deze functie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mededelingenbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7903_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016537/2022-02-26T12:21:29.662Z>.
+<https://stad.gent/id/concept/570012509/2022-02-26T10:52:06.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:06.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8542_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8542_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012509/2022-02-26T10:52:06.245Z>.
+<https://stad.gent/id/concept/570008571/2022-02-26T09:33:27.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:27.282Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9103_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "media"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9103_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008571/2022-02-26T09:33:27.282Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/med.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/med.ttl>.

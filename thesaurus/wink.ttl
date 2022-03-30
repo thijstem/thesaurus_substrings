@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/570010841/2022-02-26T10:32:57.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:32:57.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8677_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelhaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8677_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010841/2022-02-26T10:32:57.260Z>.
+<https://stad.gent/id/concept/570008673/2022-02-26T09:37:23.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:37:23.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9076_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen waar handelswaar te koop wordt aangeboden, meestal detailhandel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020651>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020651> <http://www.w3.org/2004/02/skos/core#prefLabel> "distributie"@nl.
+_:df_9076_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008673/2022-02-26T09:37:23.548Z>.
+<https://stad.gent/id/concept/570000304/2022-02-26T08:52:29.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:52:29.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9397_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Detailhandelaren die een kleine tot middelgrote winkel bezitten en leiden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9397_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000304/2022-02-26T08:52:29.460Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wink.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wink.ttl>.

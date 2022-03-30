@@ -1,0 +1,190 @@
+<https://stad.gent/id/concept/570008647/2022-03-11T00:11:34.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:11:34.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5230_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedrijven, instellingen of andere administratieve organisaties die het proces van goederen maken regelen, met name dergelijke instellingen na de Industriële Revolutie van het midden van de 19e eeuw. Vaak maken ze gebruik van mechanische productiemethoden en werken ze niet alleen met de hand. Moderne fabrieken organiseren hun activiteiten zodanig dat productie op grote schaal mogelijk is, meestal met machines die door elektriciteit worden aangedreven. Gebruik 'manufacturen' voor organisaties die met de hand dingen maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>, <https://stad.gent/id/concept/570025282>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025282> <http://www.w3.org/2004/02/skos/core#prefLabel> "cokesfabriek"@nl.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_5230_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008647/2022-03-11T00:11:34.754Z>.
+<https://stad.gent/id/concept/570008627/2022-03-11T00:10:48.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:10:48.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5236_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een gebouw of groep gebouwen bedoeld als behuizing van activiteiten of processen die leiden tot de fabricage of productie van goederen of andere zaken, vóór of na de Industriële Revolutie die halverwege de 19de eeuw plaatsvond. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrieksgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_5236_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008627/2022-03-11T00:10:48.574Z>.
+<https://stad.gent/id/concept/570008647/2022-03-05T00:00:07.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-05T00:00:07.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5323_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedrijven, instellingen of andere administratieve organisaties die het proces van goederen maken regelen, met name dergelijke instellingen na de Industriële Revolutie van het midden van de 19e eeuw. Vaak maken ze gebruik van mechanische productiemethoden en werken ze niet alleen met de hand. Moderne fabrieken organiseren hun activiteiten zodanig dat productie op grote schaal mogelijk is, meestal met machines die door elektriciteit worden aangedreven. Gebruik 'manufacturen' voor organisaties die met de hand dingen maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>, <https://stad.gent/id/concept/570025282>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025282> <http://www.w3.org/2004/02/skos/core#prefLabel> "cokesfabriek"@nl.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_5323_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008647/2022-03-05T00:00:07.987Z>.
+<https://stad.gent/id/concept/670001775/2022-02-26T18:14:26.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:14:26.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5380_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5380_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001775/2022-02-26T18:14:26.310Z>.
+<https://stad.gent/id/concept/670001579/2022-02-26T17:58:09.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:58:09.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fabrieksplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5497_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001579/2022-02-26T17:58:09.789Z>.
+<https://stad.gent/id/concept/670000454/2022-02-26T16:42:04.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:42:04.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6040_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant tabak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6040_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000454/2022-02-26T16:42:04.035Z>.
+<https://stad.gent/id/concept/670000285/2022-02-26T16:29:44.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:44.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant in wol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6127_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000285/2022-02-26T16:29:44.246Z>.
+<https://stad.gent/id/concept/670000286/2022-02-26T16:29:49.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:49.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q212894>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant snuiftabak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6127_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000286/2022-02-26T16:29:49.249Z>.
+<https://stad.gent/id/concept/670000284/2022-02-26T16:29:38.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:38.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6130_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000284/2022-02-26T16:29:38.968Z>.
+<https://stad.gent/id/concept/570024659/2022-02-26T15:44:28.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:44:28.762Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6451_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriekshal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6451_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024659/2022-02-26T15:44:28.762Z>.
+<https://stad.gent/id/concept/570016344/2022-02-26T12:15:56.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:15:56.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q747353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7942_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fabrique Nationale, Herstal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7942_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016344/2022-02-26T12:15:56.230Z>.
+<https://stad.gent/id/concept/570015911/2022-02-26T12:05:06.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:05:06.807Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8020_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikanten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8020_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015911/2022-02-26T12:05:06.807Z>.
+<https://stad.gent/id/concept/570012212/2022-02-26T10:46:17.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:46:17.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8581_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8581_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012212/2022-02-26T10:46:17.716Z>.
+<https://stad.gent/id/concept/570008647/2022-02-26T09:36:08.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:36:08.207Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9085_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedrijven, instellingen of andere administratieve organisaties die het proces van goederen maken regelen, met name dergelijke instellingen na de Industriële Revolutie van het midden van de 19e eeuw. Vaak maken ze gebruik van mechanische productiemethoden en werken ze niet alleen met de hand. Moderne fabrieken organiseren hun activiteiten zodanig dat productie op grote schaal mogelijk is, meestal met machines die door elektriciteit worden aangedreven. Gebruik 'manufacturen' voor organisaties die met de hand dingen maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9085_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008647/2022-02-26T09:36:08.207Z>.
+<https://stad.gent/id/concept/570008627/2022-02-26T09:35:22.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:35:22.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9088_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een gebouw of groep gebouwen bedoeld als behuizing van activiteiten of processen die leiden tot de fabricage of productie van goederen of andere zaken, vóór of na de Industriële Revolutie die halverwege de 19de eeuw plaatsvond. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrieksgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008677>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008677> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielfabriek"@nl.
+_:df_9088_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008627/2022-02-26T09:35:22.917Z>.
+<https://stad.gent/id/concept/570001722/2022-02-26T09:01:48.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:48.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q49960796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9328_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fabelta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9328_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001722/2022-02-26T09:01:48.882Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fab.ttl>.

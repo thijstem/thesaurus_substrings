@@ -1,0 +1,247 @@
+<https://stad.gent/id/concept/670001865/2022-03-16T00:15:59.354Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:59.354Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300222725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_79_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_79_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001865/2022-03-16T00:15:59.354Z>.
+<https://stad.gent/id/concept/670001683/2022-03-16T00:03:39.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:03:39.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_169_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanjaardstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_169_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001683/2022-03-16T00:03:39.885Z>.
+<https://stad.gent/id/concept/670001865/2022-03-13T03:00:28.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T03:00:28.969Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300222725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_199_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_199_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001865/2022-03-13T03:00:28.969Z>.
+<https://stad.gent/id/concept/670001683/2022-03-13T02:48:09.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:48:09.109Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_289_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanjaardstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_289_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001683/2022-03-13T02:48:09.109Z>.
+<https://stad.gent/id/concept/670001509/2022-03-13T02:33:38.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:38.402Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_391_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanjaardenkasteel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001509/2022-03-13T02:33:38.402Z>.
+<https://stad.gent/id/concept/670001510/2022-03-13T02:33:43.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:43.404Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24680>;
+    <http://www.w3.org/ns/adms#identifier> _:df_391_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spijkeboort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001510/2022-03-13T02:33:43.404Z>.
+<https://stad.gent/id/concept/670001511/2022-03-13T02:33:48.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:48.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_391_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001511/2022-03-13T02:33:48.406Z>.
+<https://stad.gent/id/concept/670001512/2022-03-13T02:33:53.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:53.409Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_391_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoorwegviaduct"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001512/2022-03-13T02:33:53.409Z>.
+<https://stad.gent/id/concept/670001507/2022-03-13T02:33:28.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:28.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_394_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spaans Hospitaalpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_394_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001507/2022-03-13T02:33:28.396Z>.
+<https://stad.gent/id/concept/670001508/2022-03-13T02:33:33.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:33:33.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_394_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spaans Koertje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_394_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001508/2022-03-13T02:33:33.399Z>.
+<https://stad.gent/id/concept/670001307/2022-03-13T02:16:58.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:16:58.212Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_511_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelweek film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_511_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001307/2022-03-13T02:16:58.212Z>.
+<https://stad.gent/id/concept/670001291/2022-03-13T02:15:42.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:15:42.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_520_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spion"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_520_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001291/2022-03-13T02:15:42.766Z>.
+<https://stad.gent/id/concept/670001281/2022-03-13T02:14:52.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:14:52.484Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_526_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiegelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_526_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001281/2022-03-13T02:14:52.484Z>.
+<https://stad.gent/id/concept/670000781/2022-03-13T01:49:41.185Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:49:41.185Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_706_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Speldenmakersbrug (Spellebrug)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_706_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000781/2022-03-13T01:49:41.185Z>.
+<https://stad.gent/id/concept/670000596/2022-03-13T01:34:49.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:34:49.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24711>;
+    <http://www.w3.org/ns/adms#identifier> _:df_811_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_811_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000596/2022-03-13T01:34:49.950Z>.
+<https://stad.gent/id/concept/670000597/2022-03-13T01:34:54.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:34:54.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinnewiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_811_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000597/2022-03-13T01:34:54.951Z>.
+<https://stad.gent/id/concept/670000429/2022-03-13T01:21:24.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:21:24.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_907_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speldenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_907_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000429/2022-03-13T01:21:24.717Z>.
+<https://stad.gent/id/concept/670000223/2022-03-13T01:06:17.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:06:17.170Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1015_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Speldenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1015_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000223/2022-03-13T01:06:17.170Z>.
+<https://stad.gent/id/concept/570025299/2022-03-13T00:50:22.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:22.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300248196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor het geheel van rails, bielzen en bevestigingsmiddelen waarover spoorwegvoertuigen rijden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoorlijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025299/2022-03-13T00:50:22.220Z>.
+<https://stad.gent/id/concept/570025272/2022-03-13T00:49:11.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:49:11.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/1752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een rijtuig van een spoortrein of -tram.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoorrijtuig"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1138_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025272/2022-03-13T00:49:11.884Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_891.
+_:df_1_891 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spi".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_892.
+_:df_1_892 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_893.
+_:df_1_893 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_894.
+_:df_1_894 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_895.
+_:df_1_895 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spe".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_896.
+_:df_1_896 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/spu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "spu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sp.ttl>.

@@ -1,0 +1,54 @@
+<https://stad.gent/id/concept/570023196/2022-03-11T05:16:43.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:16:43.719Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenbrakel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_3055_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023196/2022-03-11T05:16:43.719Z>.
+<https://stad.gent/id/concept/570009585/2022-03-11T00:43:13.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:13.479Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5005_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenhage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_5005_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009585/2022-03-11T00:43:13.479Z>.
+<https://stad.gent/id/concept/570023196/2022-02-26T14:40:42.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:40:42.445Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6907_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenbrakel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_6907_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023196/2022-02-26T14:40:42.445Z>.
+<https://stad.gent/id/concept/570009585/2022-02-26T10:07:37.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:37.564Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8860_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenhage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_8860_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009585/2022-02-26T10:07:37.564Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/s+g.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/s+g.ttl>.

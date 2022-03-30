@@ -1,0 +1,79 @@
+<https://stad.gent/id/concept/570013372/2022-03-11T01:45:10.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:45:10.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4564_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beenzwart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4564_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013372/2022-03-11T01:45:10.741Z>.
+<https://stad.gent/id/concept/570008039/2022-03-11T00:02:59.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:02:59.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13164546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5293_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beenhouwerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5293_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008039/2022-03-11T00:02:59.288Z>.
+<https://stad.gent/id/concept/670000071/2022-02-26T16:12:16.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:12:16.011Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6253_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beenhouwerstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6253_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000071/2022-02-26T16:12:16.011Z>.
+<https://stad.gent/id/concept/570017633/2022-02-26T12:58:41.929Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:58:41.929Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7636_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "been"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7636_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017633/2022-02-26T12:58:41.929Z>.
+<https://stad.gent/id/concept/570013372/2022-02-26T11:09:34.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:09:34.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8416_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beenzwart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8416_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013372/2022-02-26T11:09:34.103Z>.
+<https://stad.gent/id/concept/570008039/2022-02-26T09:27:35.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:27:35.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13164546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9145_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beenhouwerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9145_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008039/2022-02-26T09:27:35.039Z>.
+<https://stad.gent/id/concept/570006743/2022-02-26T09:21:02.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:21:02.521Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209985>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9193_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voetloze beenbedekkingen meestal gedragen over panty's, broeken, laarzen en dergelijke, voor de warmte of als een modieus accessoire. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beenverwarmers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9193_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006743/2022-02-26T09:21:02.521Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/been.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/been.ttl>.

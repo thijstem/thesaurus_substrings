@@ -1,0 +1,93 @@
+<https://stad.gent/id/concept/670001509/2022-02-26T17:52:17.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:52:17.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5539_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanjaardenkasteel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5539_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001509/2022-02-26T17:52:17.642Z>.
+<https://stad.gent/id/concept/570020399/2022-02-26T14:07:32.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:07:32.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001892>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7144_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Assemblages van onderdelen (zoals balken, stangen of staven), vooral wanneer opgesteld in een driehoek of combinaties van driehoeken, om zo een onbuigzaam geraamte te vormen (om een gewicht over een groot gebied te ondersteunen), dat niet kan worden vervormd door de werking van een van buitenaf inwerkende kracht zonder dat een of meer van de onderdelen vervormen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7144_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020399/2022-02-26T14:07:32.125Z>.
+<https://stad.gent/id/concept/570017318/2022-02-26T12:46:56.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:46:56.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7720_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570022926>, <https://stad.gent/id/concept/570010247>, <https://stad.gent/id/concept/570009016>, <https://stad.gent/id/concept/570014221>, <https://stad.gent/id/concept/570023800>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saragossa"@nl.
+<https://stad.gent/id/concept/570014221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarrasa"@nl.
+<https://stad.gent/id/concept/570009016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manresa"@nl.
+<https://stad.gent/id/concept/570010247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barcelona"@nl.
+<https://stad.gent/id/concept/570022926> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Coruña"@nl.
+_:df_7720_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017318/2022-02-26T12:46:56.962Z>.
+<https://stad.gent/id/concept/570016487/2022-02-26T12:19:13.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:19:13.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7918_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7918_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016487/2022-02-26T12:19:13.595Z>.
+<https://stad.gent/id/concept/570016386/2022-02-26T12:16:31.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:16:31.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7936_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanvijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7936_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016386/2022-02-26T12:16:31.536Z>.
+<https://stad.gent/id/concept/570015902/2022-02-26T12:04:36.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:04:36.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033341>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8023_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanjoletten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8023_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015902/2022-02-26T12:04:36.795Z>.
+<https://stad.gent/id/concept/570014694/2022-02-26T11:37:41.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:37:41.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8215_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stukken doek of ander flexibel materiaal waarop tekens of decoratieve ontwerpen zijn geschilderd, en die zijn bedoeld om te worden uitgestald door ze ergens op of aan te bevestigen. In de heraldiek wordt het gebruikt voor vierkante vlaggen met heraldische afbeeldingen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spandoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8215_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014694/2022-02-26T11:37:41.162Z>.
+<https://stad.gent/id/concept/570014363/2022-02-26T11:27:47.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:27:47.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8287_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen of apparaten die worden gebruikt voor het strekken van stof zodat deze wordt gespannen, de kreukels worden verwijderd en dergelijke. De benaming wordt vooral gebruiktom te verwijzen naar frames waarop canvas of ander textiel wordt gespannen om erop te schilderen, waarbij de verstek gezaagde hoeken uit elkaar kunnen worden geduwd door wiggen of andere voorwerpen om het textiel goed te kunnen strekken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spanraam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8287_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014363/2022-02-26T11:27:47.089Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/span.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/span.ttl>.

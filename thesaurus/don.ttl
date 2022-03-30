@@ -1,0 +1,80 @@
+<https://stad.gent/id/concept/570019806/2022-03-11T04:32:57.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:32:57.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3367_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019806/2022-03-11T04:32:57.545Z>.
+<https://stad.gent/id/concept/570009845/2022-03-11T00:49:26.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:49:26.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4960_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dongelberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_4960_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009845/2022-03-11T00:49:26.216Z>.
+<https://stad.gent/id/concept/670001371/2022-02-26T17:40:43.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:40:43.028Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/19618;300866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Donkere Poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001371/2022-02-26T17:40:43.028Z>.
+<https://stad.gent/id/concept/670000655/2022-02-26T16:58:06.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000655>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:58:06.159Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5926_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Donkerstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5926_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000655"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000655/2022-02-26T16:58:06.159Z>.
+<https://stad.gent/id/concept/670000099/2022-02-26T16:14:31.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:14:31.767Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6238_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Donkersteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6238_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000099/2022-02-26T16:14:31.767Z>.
+<https://stad.gent/id/concept/570019806/2022-02-26T13:56:57.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:56:57.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7219_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7219_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019806/2022-02-26T13:56:57.845Z>.
+<https://stad.gent/id/concept/570009845/2022-02-26T10:13:50.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:13:50.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8815_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dongelberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_8815_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009845/2022-02-26T10:13:50.052Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/don.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/don.ttl>.

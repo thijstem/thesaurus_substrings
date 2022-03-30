@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570017466/2022-02-26T12:52:44.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:52:44.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7678_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handgereedschap met een handvat en een steel met een punt die is gevormd om in de kop van een schroef te passen. Wordt gebruikt voor indraaien en verwijderen van schroeven. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schroevendraaier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7678_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017466/2022-02-26T12:52:44.426Z>.
+<https://stad.gent/id/concept/570016095/2022-02-26T12:08:58.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:08:58.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q189155>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7990_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schroef van Archimedes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7990_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016095/2022-02-26T12:08:58.441Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schro.ttl>.

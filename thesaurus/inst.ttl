@@ -1,0 +1,86 @@
+<https://stad.gent/id/concept/570023603/2022-03-11T05:31:34.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:31:34.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "installatieautomaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2947_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023603/2022-03-11T05:31:34.885Z>.
+<https://stad.gent/id/concept/570013214/2022-03-11T01:41:29.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:41:29.659Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4588_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instructieboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4588_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013214/2022-03-11T01:41:29.659Z>.
+<https://stad.gent/id/concept/570009205/2022-03-11T00:31:45.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:31:45.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5086_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instructies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5086_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009205/2022-03-11T00:31:45.654Z>.
+<https://stad.gent/id/concept/670001561/2022-02-26T17:56:39.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:56:39.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/25120>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5506_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Instituut Piers de Raveschoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5506_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001561/2022-02-26T17:56:39.206Z>.
+<https://stad.gent/id/concept/570024820/2022-02-26T15:51:36.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:51:36.625Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024838>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6400_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6400_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024820/2022-02-26T15:51:36.625Z>.
+<https://stad.gent/id/concept/570023603/2022-02-26T14:55:35.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:55:35.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6802_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "installatieautomaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6802_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023603/2022-02-26T14:55:35.065Z>.
+<https://stad.gent/id/concept/570013214/2022-02-26T11:05:52.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:05:52.916Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8443_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instructieboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8443_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013214/2022-02-26T11:05:52.916Z>.
+<https://stad.gent/id/concept/570009205/2022-02-26T09:56:12.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:56:12.966Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8941_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instructies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8941_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009205/2022-02-26T09:56:12.966Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/inst.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/inst.ttl>.

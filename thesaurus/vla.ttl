@@ -1,0 +1,296 @@
+<https://stad.gent/id/concept/570024984/2022-03-11T06:35:26.870Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:35:26.870Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2491_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasnijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2491_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024984/2022-03-11T06:35:26.870Z>.
+<https://stad.gent/id/concept/570024980/2022-03-11T06:35:16.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:35:16.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasweverij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2494_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024980/2022-03-11T06:35:16.563Z>.
+<https://stad.gent/id/concept/570024375/2022-03-11T06:09:29.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:29.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2677_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor afdrukprocédés waarbij het beeld vanaf een plat oppervlak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019124>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019768>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019768> <http://www.w3.org/2004/02/skos/core#prefLabel> "lithografie"@nl.
+<https://stad.gent/id/concept/570019124> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafische technieken"@nl.
+_:df_2677_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024375/2022-03-11T06:09:29.885Z>.
+<https://stad.gent/id/concept/570024060/2022-03-11T05:52:08.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:52:08.326Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022508>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakgom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2800_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024060/2022-03-11T05:52:08.326Z>.
+<https://stad.gent/id/concept/570024024/2022-03-11T05:50:32.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:50:32.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlaskam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2812_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024024/2022-03-11T05:50:32.743Z>.
+<https://stad.gent/id/concept/570019916/2022-03-11T04:35:48.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:35:48.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3346_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+_:df_3346_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019916/2022-03-11T04:35:48.503Z>.
+<https://stad.gent/id/concept/570019573/2022-03-11T04:25:29.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:25:29.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018239>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3421_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000154>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570010303>, <https://stad.gent/id/concept/570023251>, <https://stad.gent/id/concept/570016777>, <https://stad.gent/id/concept/570023313>, <https://stad.gent/id/concept/570024888>, <https://stad.gent/id/concept/570017046>, <https://stad.gent/id/concept/570023008>, <https://stad.gent/id/concept/570012295>, <https://stad.gent/id/concept/570024345>, <https://stad.gent/id/concept/570023243>, <https://stad.gent/id/concept/570023239>, <https://stad.gent/id/concept/570019766>, <https://stad.gent/id/concept/570017703>, <https://stad.gent/id/concept/570016518>, <https://stad.gent/id/concept/570000992>, <https://stad.gent/id/concept/570013336>, <https://stad.gent/id/concept/570022853>, <https://stad.gent/id/concept/570023257>, <https://stad.gent/id/concept/570014836>, <https://stad.gent/id/concept/570020780>, <https://stad.gent/id/concept/570017039>, <https://stad.gent/id/concept/570020309>, <https://stad.gent/id/concept/570009718>, <https://stad.gent/id/concept/570025204>, <https://stad.gent/id/concept/570006173>, <https://stad.gent/id/concept/570021420>, <https://stad.gent/id/concept/570023199>, <https://stad.gent/id/concept/570022794>, <https://stad.gent/id/concept/570019979>, <https://stad.gent/id/concept/570018319>, <https://stad.gent/id/concept/570024208>, <https://stad.gent/id/concept/570023678>, <https://stad.gent/id/concept/570011920>, <https://stad.gent/id/concept/570016784>, <https://stad.gent/id/concept/570020070>, <https://stad.gent/id/concept/570009980>, <https://stad.gent/id/concept/570012160>, <https://stad.gent/id/concept/570023020>, <https://stad.gent/id/concept/570016704>, <https://stad.gent/id/concept/570017186>, <https://stad.gent/id/concept/570024709>, <https://stad.gent/id/concept/570010305>, <https://stad.gent/id/concept/570017698>, <https://stad.gent/id/concept/570023184>, <https://stad.gent/id/concept/570018885>, <https://stad.gent/id/concept/570019712>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zellik"@nl.
+<https://stad.gent/id/concept/570018885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaventem"@nl.
+<https://stad.gent/id/concept/570023184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wilsele"@nl.
+<https://stad.gent/id/concept/570017698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijgmaal-Herent"@nl.
+<https://stad.gent/id/concept/570010305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijgmaal"@nl.
+<https://stad.gent/id/concept/570024709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wezemaal"@nl.
+<https://stad.gent/id/concept/570017186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wespelaar"@nl.
+<https://stad.gent/id/concept/570016704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Werchter"@nl.
+<https://stad.gent/id/concept/570023020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waanrode"@nl.
+<https://stad.gent/id/concept/570012160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vilvoorde"@nl.
+<https://stad.gent/id/concept/570009980> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tollembeek"@nl.
+<https://stad.gent/id/concept/570020070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tienen"@nl.
+<https://stad.gent/id/concept/570016784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tervuren"@nl.
+<https://stad.gent/id/concept/570011920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strombeek-Bever"@nl.
+<https://stad.gent/id/concept/570023678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenhuffel"@nl.
+<https://stad.gent/id/concept/570024208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Stevens-Woluwe"@nl.
+<https://stad.gent/id/concept/570018319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Genesius-Rode"@nl.
+<https://stad.gent/id/concept/570019979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rotselaar"@nl.
+<https://stad.gent/id/concept/570022794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opwijk"@nl.
+<https://stad.gent/id/concept/570023199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merchtem"@nl.
+<https://stad.gent/id/concept/570021420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meise"@nl.
+<https://stad.gent/id/concept/570006173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machelen"@nl.
+<https://stad.gent/id/concept/570025204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Londerzeel"@nl.
+<https://stad.gent/id/concept/570009718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl.
+<https://stad.gent/id/concept/570020309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landen"@nl.
+<https://stad.gent/id/concept/570017039> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kessel-Lo"@nl.
+<https://stad.gent/id/concept/570020780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapelle-op-den-Bos"@nl.
+<https://stad.gent/id/concept/570014836> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampenhout"@nl.
+<https://stad.gent/id/concept/570023257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Itterbeek (Dilbeek)"@nl.
+<https://stad.gent/id/concept/570022853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humbeek"@nl.
+<https://stad.gent/id/concept/570013336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herent (Leuven)"@nl.
+<https://stad.gent/id/concept/570000992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Halle"@nl.
+<https://stad.gent/id/concept/570016518> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Bijgaarden"@nl.
+<https://stad.gent/id/concept/570017703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelrode (Aarschot)"@nl.
+<https://stad.gent/id/concept/570019766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaasbeek"@nl.
+<https://stad.gent/id/concept/570023239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erps-Kwerps"@nl.
+<https://stad.gent/id/concept/570023243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dworp"@nl.
+<https://stad.gent/id/concept/570024345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drogenbos"@nl.
+<https://stad.gent/id/concept/570012295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diegem"@nl.
+<https://stad.gent/id/concept/570023008> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boortmeerbeek"@nl.
+<https://stad.gent/id/concept/570017046> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bekkevoort"@nl.
+<https://stad.gent/id/concept/570024888> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beigem (Grimbergen)"@nl.
+<https://stad.gent/id/concept/570023313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beersel"@nl.
+<https://stad.gent/id/concept/570016777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Averbode"@nl.
+<https://stad.gent/id/concept/570023251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alsemberg"@nl.
+<https://stad.gent/id/concept/570010303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aarschot"@nl.
+<https://stad.gent/id/concept/570000154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+_:df_3421_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019573/2022-03-11T04:25:29.290Z>.
+<https://stad.gent/id/concept/570015496/2022-03-11T02:32:50.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:32:50.307Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4222_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams parlement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4222_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015496/2022-03-11T02:32:50.307Z>.
+<https://stad.gent/id/concept/570015368/2022-03-11T02:30:53.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:30:53.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4237_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4237_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015368/2022-03-11T02:30:53.289Z>.
+<https://stad.gent/id/concept/570015299/2022-03-11T02:28:41.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:28:41.809Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse open bedrijvendag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4252_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015299/2022-03-11T02:28:41.809Z>.
+<https://stad.gent/id/concept/570014656/2022-03-11T02:11:47.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:11:47.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300443910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4372_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4372_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014656/2022-03-11T02:11:47.055Z>.
+<https://stad.gent/id/concept/570014076/2022-03-11T01:58:05.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:58:05.843Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1943203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4471_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen Vakantieland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4471_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014076/2022-03-11T01:58:05.843Z>.
+<https://stad.gent/id/concept/570010147/2022-03-11T00:58:14.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:58:14.739Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4897_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasgaren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020664>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020664> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+_:df_4897_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010147/2022-03-11T00:58:14.739Z>.
+<https://stad.gent/id/concept/570009548/2022-03-11T00:41:57.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:41:57.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5014_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlaslinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5014_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009548/2022-03-11T00:41:57.714Z>.
+<https://stad.gent/id/concept/570008856/2022-03-11T00:18:51.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:18:51.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5179_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasspinnerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5179_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008856/2022-03-11T00:18:51.332Z>.
+<https://stad.gent/id/concept/570008753/2022-03-11T00:15:23.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:15:23.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q290209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5203_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse beweging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5203_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008753/2022-03-11T00:15:23.676Z>.
+<https://stad.gent/id/concept/530000575/2022-03-03T00:00:09.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:00:09.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3347056>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5347_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse neorenaissance"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000211>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000211> <http://www.w3.org/2004/02/skos/core#prefLabel> "neorenaissance"@nl.
+_:df_5347_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000575/2022-03-03T00:00:09.225Z>.
+<https://stad.gent/id/concept/670001712/2022-02-26T18:09:09.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001712>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:09:09.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5416_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamsekaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5416_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001712"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001712/2022-02-26T18:09:09.398Z>.
+<https://stad.gent/id/concept/670001020/2022-02-26T17:27:12.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:12.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5716_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5716_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001020/2022-02-26T17:27:12.601Z>.
+<https://stad.gent/id/concept/670001019/2022-02-26T17:27:07.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:07.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5719_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Kaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5719_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001019/2022-02-26T17:27:07.600Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl> <https://w3id.org/tree#relation> _:df_1_2089.
+_:df_1_2089 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/vlas.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vlas".
+<https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl> <https://w3id.org/tree#relation> _:df_1_2090.
+_:df_1_2090 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/vlak.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vlak".
+<https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl> <https://w3id.org/tree#relation> _:df_1_2091.
+_:df_1_2091 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/vlaa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vlaa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl> <https://w3id.org/tree#relation> _:df_1_2092.
+_:df_1_2092 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/vlag.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "vlag".
+<https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vla.ttl>.

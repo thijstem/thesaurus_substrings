@@ -1,0 +1,78 @@
+<https://stad.gent/id/concept/570017954/2022-03-11T03:44:55.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:44:55.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300424671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwasmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3709_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017954/2022-03-11T03:44:55.177Z>.
+<https://stad.gent/id/concept/570016979/2022-03-11T03:14:06.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:06.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3928_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3928_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016979/2022-03-11T03:14:06.905Z>.
+<https://stad.gent/id/concept/570010872/2022-03-11T01:08:49.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:08:49.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4822_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaandel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4822_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010872/2022-03-11T01:08:49.080Z>.
+<https://stad.gent/id/concept/670001539/2022-02-26T17:54:48.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:48.610Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5521_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5521_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001539/2022-02-26T17:54:48.610Z>.
+<https://stad.gent/id/concept/570017954/2022-02-26T13:08:57.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:08:57.541Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300424671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7564_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwasmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7564_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017954/2022-02-26T13:08:57.541Z>.
+<https://stad.gent/id/concept/570016979/2022-02-26T12:38:23.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:38:23.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7780_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7780_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016979/2022-02-26T12:38:23.738Z>.
+<https://stad.gent/id/concept/570010872/2022-02-26T10:33:12.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:33:12.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8677_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vaandel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8677_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010872/2022-02-26T10:33:12.265Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vaa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vaa.ttl>.

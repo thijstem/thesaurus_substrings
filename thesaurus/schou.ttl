@@ -1,0 +1,87 @@
+<https://stad.gent/id/concept/570023765/2022-03-11T05:39:53.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023765>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:39:53.596Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2887_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudertas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2887_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023765"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023765/2022-03-11T05:39:53.596Z>.
+<https://stad.gent/id/concept/570019116/2022-03-11T04:05:08.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:05:08.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudermantel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3565_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019116/2022-03-11T04:05:08.983Z>.
+<https://stad.gent/id/concept/670001805/2022-02-26T18:16:57.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:16:57.250Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5362_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schouwmantel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5362_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001805/2022-02-26T18:16:57.250Z>.
+<https://stad.gent/id/concept/670001662/2022-02-26T18:05:02.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:05:02.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5446_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schouwburgstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5446_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001662/2022-02-26T18:05:02.414Z>.
+<https://stad.gent/id/concept/670000754/2022-02-26T17:06:09.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:06:09.575Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3115>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5869_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schouwvegersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5869_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000754/2022-02-26T17:06:09.575Z>.
+<https://stad.gent/id/concept/670000413/2022-02-26T16:38:47.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:38:47.798Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6064_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schouwmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6064_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000413/2022-02-26T16:38:47.798Z>.
+<https://stad.gent/id/concept/570023765/2022-02-26T15:03:53.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023765>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:03:53.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6742_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudertas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6742_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023765"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023765/2022-02-26T15:03:53.848Z>.
+<https://stad.gent/id/concept/570019116/2022-02-26T13:29:11.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:29:11.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7417_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudermantel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7417_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019116/2022-02-26T13:29:11.418Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schou.ttl>.

@@ -1,0 +1,296 @@
+<https://stad.gent/id/concept/670001567/2022-03-13T02:38:30.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:38:30.262Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_358_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albrecht Rodenbachstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_358_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001567/2022-03-13T02:38:30.262Z>.
+<https://stad.gent/id/concept/670000870/2022-03-13T01:56:38.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:56:38.925Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_655_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alphonse Sifferlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_655_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000870/2022-03-13T01:56:38.925Z>.
+<https://stad.gent/id/concept/670000867/2022-03-13T01:56:23.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:56:23.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_658_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albert Baertsoenkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_658_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000867/2022-03-13T01:56:23.919Z>.
+<https://stad.gent/id/concept/670000868/2022-03-13T01:56:28.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:56:28.921Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_658_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexianenvest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_658_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000868/2022-03-13T01:56:28.921Z>.
+<https://stad.gent/id/concept/670000869/2022-03-13T01:56:33.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:56:33.923Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_658_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aloïs Joosstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_658_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000869/2022-03-13T01:56:33.923Z>.
+<https://stad.gent/id/concept/570024229/2022-03-13T00:07:00.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:07:00.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1438_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexandrië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008725>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Egypte"@nl.
+_:df_1438_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024229/2022-03-13T00:07:00.896Z>.
+<https://stad.gent/id/concept/670001567/2022-03-11T08:33:00.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:33:00.248Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albrecht Rodenbachstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1651_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001567/2022-03-11T08:33:00.248Z>.
+<https://stad.gent/id/concept/670000869/2022-03-11T07:51:23.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:51:23.566Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1948_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aloïs Joosstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1948_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000869/2022-03-11T07:51:23.566Z>.
+<https://stad.gent/id/concept/670000870/2022-03-11T07:51:28.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:51:28.566Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1948_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alphonse Sifferlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1948_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000870/2022-03-11T07:51:28.566Z>.
+<https://stad.gent/id/concept/670000867/2022-03-11T07:51:13.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:51:13.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1951_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albert Baertsoenkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1951_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000867/2022-03-11T07:51:13.563Z>.
+<https://stad.gent/id/concept/670000868/2022-03-11T07:51:18.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:51:18.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1951_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexianenvest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1951_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000868/2022-03-11T07:51:18.564Z>.
+<https://stad.gent/id/concept/570024229/2022-03-11T06:01:56.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:01:56.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2731_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexandrië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008725>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Egypte"@nl.
+_:df_2731_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024229/2022-03-11T06:01:56.658Z>.
+<https://stad.gent/id/concept/570023938/2022-03-11T05:46:10.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:46:10.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4705562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alefors"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_2842_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023938/2022-03-11T05:46:10.866Z>.
+<https://stad.gent/id/concept/570023251/2022-03-11T05:20:15.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:20:15.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245495>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alsemberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_3028_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023251/2022-03-11T05:20:15.296Z>.
+<https://stad.gent/id/concept/570023244/2022-03-11T05:19:45.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:19:45.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245386>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3031_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_3031_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023244/2022-03-11T05:19:45.283Z>.
+<https://stad.gent/id/concept/570020786/2022-03-11T04:50:35.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:50:35.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391084>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3241_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zeer dun uitgewalst aluminium, meestal gebruikt als verpakkingsmateriaal voor levensmiddelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminiumfolie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3241_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020786/2022-03-11T04:50:35.216Z>.
+<https://stad.gent/id/concept/570019792/2022-03-11T04:32:27.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:32:27.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300189153>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3370_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "alcoholisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3370_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019792/2022-03-11T04:32:27.039Z>.
+<https://stad.gent/id/concept/570019513/2022-03-11T04:23:13.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019513>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:23:13.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3436_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "albe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3436_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019513"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019513/2022-03-11T04:23:13.121Z>.
+<https://stad.gent/id/concept/570014474/2022-03-11T02:06:29.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:06:29.996Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4411_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "alpaca"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570002245>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570002245> <http://www.w3.org/2004/02/skos/core#prefLabel> "wol"@nl.
+_:df_4411_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014474/2022-03-11T02:06:29.996Z>.
+<https://stad.gent/id/concept/570014427/2022-03-11T02:05:24.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:05:24.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q55008046>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albert I"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4417_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014427/2022-03-11T02:05:24.464Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1781.
+_:df_1_1781 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ala.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ala".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1782.
+_:df_1_1782 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1783.
+_:df_1_1783 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alt.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alt".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1784.
+_:df_1_1784 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alv.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alv".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1785.
+_:df_1_1785 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ale.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ale".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1786.
+_:df_1_1786 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alg".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1787.
+_:df_1_1787 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1788.
+_:df_1_1788 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/als.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "als".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1789.
+_:df_1_1789 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1790.
+_:df_1_1790 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1791.
+_:df_1_1791 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1792.
+_:df_1_1792 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> <https://w3id.org/tree#relation> _:df_1_1793.
+_:df_1_1793 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/alm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "alm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/al.ttl>.

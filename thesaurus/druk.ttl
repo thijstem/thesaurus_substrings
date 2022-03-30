@@ -1,0 +1,243 @@
+<https://stad.gent/id/concept/670001773/2022-02-26T18:14:16.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:14:16.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300006247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5380_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5380_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001773/2022-02-26T18:14:16.306Z>.
+<https://stad.gent/id/concept/670000281/2022-02-26T16:29:23.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:23.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6130_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000281/2022-02-26T16:29:23.963Z>.
+<https://stad.gent/id/concept/570024386/2022-02-26T15:34:03.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:34:03.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300187371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6526_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen inkt die specifiek is gemaakt voor drukken met platen of blokken. Deze inkt bestaat gewoonlijk uit pigment dat gesuspendeerd is in olie, in combinatie met hars, oplosmiddel, hechtmiddel en droogmiddel, maar er zijn talloze recepten voor drukinkt, afhankelijk van het doel waarvoor deze wordt gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukinkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6526_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024386/2022-02-26T15:34:03.740Z>.
+<https://stad.gent/id/concept/570024269/2022-02-26T15:27:41.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:27:41.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2720040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6571_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukknoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6571_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024269/2022-02-26T15:27:41.319Z>.
+<https://stad.gent/id/concept/570023744/2022-02-26T15:02:38.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:02:38.426Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6751_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukregistreertoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6751_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023744/2022-02-26T15:02:38.426Z>.
+<https://stad.gent/id/concept/570023519/2022-02-26T14:52:53.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:52:53.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6820_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukregelaar (gas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6820_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023519/2022-02-26T14:52:53.792Z>.
+<https://stad.gent/id/concept/570022832/2022-02-26T14:24:54.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:24:54.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7021_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukrol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7021_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022832/2022-02-26T14:24:54.871Z>.
+<https://stad.gent/id/concept/570020804/2022-02-26T14:15:21.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:15:21.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7087_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7087_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020804/2022-02-26T14:15:21.159Z>.
+<https://stad.gent/id/concept/570020641/2022-02-26T14:12:09.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:12:09.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7111_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7111_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020641/2022-02-26T14:12:09.483Z>.
+<https://stad.gent/id/concept/570019331/2022-02-26T13:37:59.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:37:59.742Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7354_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukopdrijver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7354_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019331/2022-02-26T13:37:59.742Z>.
+<https://stad.gent/id/concept/570019010/2022-02-26T13:25:09.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:25:09.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2639380>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7447_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7447_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019010/2022-02-26T13:25:09.770Z>.
+<https://stad.gent/id/concept/570018042/2022-02-26T13:09:53.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:09:53.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7555_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012816>, <https://stad.gent/id/concept/570011401>, <https://stad.gent/id/concept/570008310>, <https://stad.gent/id/concept/570018189>, <https://stad.gent/id/concept/570014291>, <https://stad.gent/id/concept/570001397>, <https://stad.gent/id/concept/570017759>, <https://stad.gent/id/concept/570024077>, <https://stad.gent/id/concept/570024109>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024109> <http://www.w3.org/2004/02/skos/core#prefLabel> "diepdrukpers"@nl.
+<https://stad.gent/id/concept/570024077> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopieerpers"@nl.
+<https://stad.gent/id/concept/570017759> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpers"@nl.
+<https://stad.gent/id/concept/570001397> <http://www.w3.org/2004/02/skos/core#prefLabel> "steendrukpers"@nl.
+<https://stad.gent/id/concept/570014291> <http://www.w3.org/2004/02/skos/core#prefLabel> "rotatiepers"@nl.
+<https://stad.gent/id/concept/570018189> <http://www.w3.org/2004/02/skos/core#prefLabel> "proefpers"@nl.
+<https://stad.gent/id/concept/570008310> <http://www.w3.org/2004/02/skos/core#prefLabel> "handpers"@nl.
+<https://stad.gent/id/concept/570011401> <http://www.w3.org/2004/02/skos/core#prefLabel> "degelpers"@nl.
+<https://stad.gent/id/concept/570012816> <http://www.w3.org/2004/02/skos/core#prefLabel> "cilinderpers"@nl.
+_:df_7555_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018042/2022-02-26T13:09:53.219Z>.
+<https://stad.gent/id/concept/570017759/2022-02-26T13:04:24.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:24.390Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7594_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_7594_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017759/2022-02-26T13:04:24.390Z>.
+<https://stad.gent/id/concept/570017674/2022-02-26T13:00:32.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:00:32.650Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7624_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in het algemeen gebruikt voor blokken, meestal van hout, die zijn bewerkt om een afdruk op papier, stof of ander materiaal te drukken, of om andere materialen die het eigenlijke drukvlak vormen, te ondersteunen. Gebruik waar mogelijk een specifiekere benaming; geef de voorkeur aan 'drukplaten' voor metalen drukvlakken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukblok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7624_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017674/2022-02-26T13:00:32.650Z>.
+<https://stad.gent/id/concept/570015834/2022-02-26T12:02:56.154Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:02:56.154Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8035_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukproeven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8035_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015834/2022-02-26T12:02:56.154Z>.
+<https://stad.gent/id/concept/570015269/2022-02-26T11:52:42.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:52:42.027Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185327>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8107_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "druktechnieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8107_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015269/2022-02-26T11:52:42.027Z>.
+<https://stad.gent/id/concept/570015245/2022-02-26T11:52:16.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:52:16.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8110_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte stukken metaal waarvan afbeeldingen, hetzij van tekst, hetzij van plaatjes, worden gedrukt. Gebruik 'cliché's' of een specifiekere term voor blokken van ander materiaal, meestal hout, die worden bewerkt om een afbeelding te drukken of worden gebruikt om andere materialen die het drukvlak vormen te ondersteunen ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8110_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015245/2022-02-26T11:52:16.761Z>.
+<https://stad.gent/id/concept/570011902/2022-02-26T10:42:50.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:42:50.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8608_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het meten van druk, meestal van gassen of vloeistoffen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8608_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011902/2022-02-26T10:42:50.957Z>.
+<https://stad.gent/id/concept/570009904/2022-02-26T10:14:50.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:50.329Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12820205>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8806_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8806_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009904/2022-02-26T10:14:50.329Z>.
+<https://stad.gent/id/concept/570009172/2022-02-26T09:54:57.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:57.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q740460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8950_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8950_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009172/2022-02-26T09:54:57.416Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/druk.ttl> <https://w3id.org/tree#relation> _:df_1_2543.
+_:df_1_2543 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/drukk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "drukk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/druk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/druk.ttl>.

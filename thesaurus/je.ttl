@@ -1,0 +1,214 @@
+<https://stad.gent/id/concept/570020585/2022-03-11T04:46:53.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:46:53.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1033515>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeumont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3268_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020585/2022-03-11T04:46:53.079Z>.
+<https://stad.gent/id/concept/570017407/2022-03-11T03:26:26.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:26:26.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209918>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3841_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3841_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017407/2022-03-11T03:26:26.315Z>.
+<https://stad.gent/id/concept/570016798/2022-03-11T03:06:10.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:06:10.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243987>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_3985_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016798/2022-03-11T03:06:10.932Z>.
+<https://stad.gent/id/concept/570016702/2022-03-11T03:02:23.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:02:23.432Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4012_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_4012_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016702/2022-03-11T03:02:23.432Z>.
+<https://stad.gent/id/concept/570016629/2022-03-11T03:00:02.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:00:02.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q168838>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jerrycan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016629/2022-03-11T03:00:02.167Z>.
+<https://stad.gent/id/concept/570014193/2022-03-11T02:00:16.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:00:16.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4456_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jena"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_4456_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014193/2022-03-11T02:00:16.708Z>.
+<https://stad.gent/id/concept/570013472/2022-03-11T01:47:31.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:47:31.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1711247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeugdwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4546_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013472/2022-03-11T01:47:31.882Z>.
+<https://stad.gent/id/concept/570011258/2022-03-11T01:12:51.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:12:51.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025944>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeugd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4795_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011258/2022-03-11T01:12:51.986Z>.
+<https://stad.gent/id/concept/570009059/2022-03-11T00:25:40.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:25:40.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5131_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jenever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5131_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009059/2022-03-11T00:25:40.962Z>.
+<https://stad.gent/id/concept/570020585/2022-02-26T14:10:53.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:10:53.709Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1033515>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7120_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeumont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7120_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020585/2022-02-26T14:10:53.709Z>.
+<https://stad.gent/id/concept/570017407/2022-02-26T12:50:33.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:50:33.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209918>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7693_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7693_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017407/2022-02-26T12:50:33.755Z>.
+<https://stad.gent/id/concept/570016798/2022-02-26T12:30:30.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:30:30.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243987>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7837_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_7837_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016798/2022-02-26T12:30:30.738Z>.
+<https://stad.gent/id/concept/570016702/2022-02-26T12:26:42.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:26:42.908Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7864_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_7864_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016702/2022-02-26T12:26:42.908Z>.
+<https://stad.gent/id/concept/570016629/2022-02-26T12:24:21.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:24:21.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q168838>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7882_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jerrycan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7882_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016629/2022-02-26T12:24:21.825Z>.
+<https://stad.gent/id/concept/570014193/2022-02-26T11:24:40.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:24:40.561Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8308_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jena"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_8308_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014193/2022-02-26T11:24:40.561Z>.
+<https://stad.gent/id/concept/570013472/2022-02-26T11:11:55.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:11:55.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1711247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8398_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeugdwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8398_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013472/2022-02-26T11:11:55.080Z>.
+<https://stad.gent/id/concept/570011258/2022-02-26T10:37:13.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:37:13.914Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025944>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8647_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeugd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8647_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011258/2022-02-26T10:37:13.914Z>.
+<https://stad.gent/id/concept/570009059/2022-02-26T09:50:09.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:50:09.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8983_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jenever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8983_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009059/2022-02-26T09:50:09.557Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/je.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/je.ttl>.

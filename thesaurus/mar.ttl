@@ -1,0 +1,303 @@
+<https://stad.gent/id/concept/570025028/2022-03-13T00:42:37.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:42:37.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300245255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marokkaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1186_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025028/2022-03-13T00:42:37.672Z>.
+<https://stad.gent/id/concept/570024967/2022-03-13T00:39:36.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:39:36.099Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "marbrite"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1207_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024967/2022-03-13T00:39:36.099Z>.
+<https://stad.gent/id/concept/570024702/2022-03-13T00:27:15.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:27:15.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1294_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marloie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_1294_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024702/2022-03-13T00:27:15.574Z>.
+<https://stad.gent/id/concept/570024475/2022-03-13T00:20:16.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:20:16.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2050078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marlborough"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_1345_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024475/2022-03-13T00:20:16.330Z>.
+<https://stad.gent/id/concept/570024443/2022-03-13T00:18:20.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:18:20.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1357_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariekerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1357_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024443/2022-03-13T00:18:20.607Z>.
+<https://stad.gent/id/concept/670001619/2022-03-11T08:37:16.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:37:16.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1621_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Martelaarslaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1621_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001619/2022-03-11T08:37:16.840Z>.
+<https://stad.gent/id/concept/670001449/2022-03-11T08:23:06.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:06.490Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1723_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcellisbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1723_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001449/2022-03-11T08:23:06.490Z>.
+<https://stad.gent/id/concept/670001450/2022-03-11T08:23:11.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:23:11.491Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1723_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maria Magdalena"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1723_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001450/2022-03-11T08:23:11.491Z>.
+<https://stad.gent/id/concept/670001300/2022-03-11T08:11:11.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:11:11.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1015356>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1807_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariakerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1807_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001300/2022-03-11T08:11:11.968Z>.
+<https://stad.gent/id/concept/570025028/2022-03-11T06:37:32.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:37:32.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300245255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marokkaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2476_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025028/2022-03-11T06:37:32.979Z>.
+<https://stad.gent/id/concept/570024967/2022-03-11T06:34:31.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:34:31.547Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "marbrite"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2497_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024967/2022-03-11T06:34:31.547Z>.
+<https://stad.gent/id/concept/570024702/2022-03-11T06:22:10.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:22:10.136Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marloie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_2587_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024702/2022-03-11T06:22:10.136Z>.
+<https://stad.gent/id/concept/570024475/2022-03-11T06:15:12.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:15:12.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2050078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2635_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marlborough"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_2635_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024475/2022-03-11T06:15:12.117Z>.
+<https://stad.gent/id/concept/570024443/2022-03-11T06:13:16.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:13:16.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2650_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariekerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_2650_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024443/2022-03-11T06:13:16.080Z>.
+<https://stad.gent/id/concept/570023985/2022-03-11T05:48:37.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:48:37.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marienheide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_2827_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023985/2022-03-11T05:48:37.031Z>.
+<https://stad.gent/id/concept/570023897/2022-03-11T05:44:35.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:44:35.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7626318>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2854_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marseillan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2854_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023897/2022-03-11T05:44:35.254Z>.
+<https://stad.gent/id/concept/570023691/2022-03-11T05:35:26.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:35:26.527Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2920_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marquise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2920_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023691/2022-03-11T05:35:26.527Z>.
+<https://stad.gent/id/concept/570022768/2022-03-11T04:58:33.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:58:33.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3184_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marokko"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024841>, <https://stad.gent/id/concept/570025037>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tanger"@nl.
+<https://stad.gent/id/concept/570024841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Casablanca"@nl.
+_:df_3184_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022768/2022-03-11T04:58:33.472Z>.
+<https://stad.gent/id/concept/570020013/2022-03-11T04:37:34.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:37:34.314Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariakerke (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_3334_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020013/2022-03-11T04:37:34.314Z>.
+<https://stad.gent/id/concept/570019588/2022-03-11T04:26:04.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:26:04.625Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marseille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3415_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019588/2022-03-11T04:26:04.625Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1521.
+_:df_1_1521 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mark.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mark".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1522.
+_:df_1_1522 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/marc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "marc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1523.
+_:df_1_1523 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mary.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mary".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1524.
+_:df_1_1524 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mart.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mart".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1525.
+_:df_1_1525 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mari.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mari".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1526.
+_:df_1_1526 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/maro.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "maro".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1527.
+_:df_1_1527 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/marb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "marb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1528.
+_:df_1_1528 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/marl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "marl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1529.
+_:df_1_1529 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mars.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mars".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1530.
+_:df_1_1530 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/marq.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "marq".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> <https://w3id.org/tree#relation> _:df_1_1531.
+_:df_1_1531 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/marm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "marm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mar.ttl>.

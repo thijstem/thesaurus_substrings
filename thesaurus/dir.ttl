@@ -1,0 +1,130 @@
+<https://stad.gent/id/concept/670000278/2022-03-11T07:05:15.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:05:15.842Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2278_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur Provinciale Rechten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2278_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000278/2022-03-11T07:05:15.842Z>.
+<https://stad.gent/id/concept/670000279/2022-03-11T07:05:20.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:05:20.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2278_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur Provinciale Werken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2278_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000279/2022-03-11T07:05:20.844Z>.
+<https://stad.gent/id/concept/670000280/2022-03-11T07:05:25.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:05:25.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2278_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directrice postkantoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2278_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000280/2022-03-11T07:05:25.845Z>.
+<https://stad.gent/id/concept/570024963/2022-03-11T06:34:16.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:34:16.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeurswoning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2500_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024963/2022-03-11T06:34:16.286Z>.
+<https://stad.gent/id/concept/570014142/2022-03-11T01:59:31.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:59:31.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q926871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4459_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directe belastingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4459_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014142/2022-03-11T01:59:31.696Z>.
+<https://stad.gent/id/concept/670001289/2022-02-26T17:34:10.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:34:10.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q158852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5668_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dirigent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5668_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001289/2022-02-26T17:34:10.474Z>.
+<https://stad.gent/id/concept/670000324/2022-02-26T16:32:30.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:32:30.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47112169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6109_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur klooster Conceptionisten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6109_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000324/2022-02-26T16:32:30.461Z>.
+<https://stad.gent/id/concept/670000280/2022-02-26T16:29:18.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:18.960Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directrice postkantoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6130_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000280/2022-02-26T16:29:18.960Z>.
+<https://stad.gent/id/concept/670000278/2022-02-26T16:29:08.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:08.956Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6133_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur Provinciale Rechten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6133_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000278/2022-02-26T16:29:08.956Z>.
+<https://stad.gent/id/concept/670000279/2022-02-26T16:29:13.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:13.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6133_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur Provinciale Werken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6133_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000279/2022-02-26T16:29:13.959Z>.
+<https://stad.gent/id/concept/570024963/2022-02-26T15:58:14.612Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:58:14.612Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6352_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeurswoning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6352_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024963/2022-02-26T15:58:14.612Z>.
+<https://stad.gent/id/concept/570014142/2022-02-26T11:23:55.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:23:55.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q926871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8314_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directe belastingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8314_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014142/2022-02-26T11:23:55.258Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/dir.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/dir.ttl>.

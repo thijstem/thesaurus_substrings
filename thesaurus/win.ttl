@@ -1,0 +1,266 @@
+<https://stad.gent/id/concept/670001817/2022-03-11T08:53:44.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:53:44.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1504_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1504_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001817/2022-03-11T08:53:44.951Z>.
+<https://stad.gent/id/concept/670001279/2022-03-11T08:09:26.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:09:26.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1819_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelgallerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1819_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001279/2022-03-11T08:09:26.336Z>.
+<https://stad.gent/id/concept/570023922/2022-03-11T05:45:50.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:45:50.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1014349>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2845_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Windsor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_2845_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023922/2022-03-11T05:45:50.857Z>.
+<https://stad.gent/id/concept/570023479/2022-03-11T05:27:23.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:23.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gevels van winkels of pakhuizen aan de voorkant van een straat die meestal een etalage hebben. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelpui"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2977_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023479/2022-03-11T05:27:23.139Z>.
+<https://stad.gent/id/concept/570019696/2022-03-11T04:29:10.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:29:10.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een mechanisme voor het effectief benutten van windenergie; verwijst meestal ook naar het gebouw waarin het mechanisme is ondergebracht of de structuur die het mechanisme draagt. Kenmerkend voor het mechanisme is de roterende as waarop wieken zijn aangebracht, al dan niet in een hoek, waarbij de windkracht de wieken tot draaien brengt om aldus energie op te wekken. Van oudsher stonden windmolens meestal in vlakke gebieden en dienden ze voor het malen van graan, het pompen van water of het opwekken van elektriciteit. De oudere, meest karakteristieke vormen zoals die in Europa voorkomen, bestaan uit een kegelvormig molengebouw met woongedeelte met daarop een kap die vier wieken draagt. De moderne Amerikaanse vorm bestaat uit een schijf met wieken op een raamwerk van onderslagen, en wordt meestal gebruikt om een pomp of zaag aan te drijven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "windmolens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570002587>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570002587> <http://www.w3.org/2004/02/skos/core#prefLabel> "molens"@nl.
+_:df_3394_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019696/2022-03-11T04:29:10.597Z>.
+<https://stad.gent/id/concept/570019448/2022-03-11T04:19:50.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:19:50.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q100137724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3460_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelinterieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3460_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019448/2022-03-11T04:19:50.524Z>.
+<https://stad.gent/id/concept/570018016/2022-03-11T03:45:20.185Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:45:20.185Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q100137724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelinrichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3706_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018016/2022-03-11T03:45:20.185Z>.
+<https://stad.gent/id/concept/570016325/2022-03-11T02:50:42.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:50:42.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4096_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wintzenheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_4096_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016325/2022-03-11T02:50:42.777Z>.
+<https://stad.gent/id/concept/570010841/2022-03-11T01:08:34.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:08:34.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4825_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelhaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4825_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010841/2022-03-11T01:08:34.074Z>.
+<https://stad.gent/id/concept/570010215/2022-03-11T01:00:00.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:00:00.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4885_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Winterthur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_4885_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010215/2022-03-11T01:00:00.415Z>.
+<https://stad.gent/id/concept/570009146/2022-03-11T00:29:32.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:29:32.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5104_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gebruik van de energie van de wind om elektriciteit op te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "windenergie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570005870>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570005870> <http://www.w3.org/2004/02/skos/core#prefLabel> "alternatieve energie"@nl.
+_:df_5104_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009146"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009146/2022-03-11T00:29:32.789Z>.
+<https://stad.gent/id/concept/570008673/2022-03-11T00:12:51.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:12:51.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5221_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen waar handelswaar te koop wordt aangeboden, meestal detailhandel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020651>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020651> <http://www.w3.org/2004/02/skos/core#prefLabel> "distributie"@nl.
+_:df_5221_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008673/2022-03-11T00:12:51.258Z>.
+<https://stad.gent/id/concept/670001817/2022-02-26T18:17:57.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:17:57.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5353_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5353_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001817/2022-02-26T18:17:57.786Z>.
+<https://stad.gent/id/concept/670001279/2022-02-26T17:33:20.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:33:20.027Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5674_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelgallerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5674_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001279/2022-02-26T17:33:20.027Z>.
+<https://stad.gent/id/concept/570023922/2022-02-26T15:09:51.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:09:51.639Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1014349>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6700_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Windsor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_6700_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023922/2022-02-26T15:09:51.639Z>.
+<https://stad.gent/id/concept/570023479/2022-02-26T14:51:23.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:51:23.186Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6832_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gevels van winkels of pakhuizen aan de voorkant van een straat die meestal een etalage hebben. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelpui"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6832_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023479/2022-02-26T14:51:23.186Z>.
+<https://stad.gent/id/concept/570019696/2022-02-26T13:53:11.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:53:11.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7246_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een mechanisme voor het effectief benutten van windenergie; verwijst meestal ook naar het gebouw waarin het mechanisme is ondergebracht of de structuur die het mechanisme draagt. Kenmerkend voor het mechanisme is de roterende as waarop wieken zijn aangebracht, al dan niet in een hoek, waarbij de windkracht de wieken tot draaien brengt om aldus energie op te wekken. Van oudsher stonden windmolens meestal in vlakke gebieden en dienden ze voor het malen van graan, het pompen van water of het opwekken van elektriciteit. De oudere, meest karakteristieke vormen zoals die in Europa voorkomen, bestaan uit een kegelvormig molengebouw met woongedeelte met daarop een kap die vier wieken draagt. De moderne Amerikaanse vorm bestaat uit een schijf met wieken op een raamwerk van onderslagen, en wordt meestal gebruikt om een pomp of zaag aan te drijven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "windmolens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570002587>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570002587> <http://www.w3.org/2004/02/skos/core#prefLabel> "molens"@nl.
+_:df_7246_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019696/2022-02-26T13:53:11.193Z>.
+<https://stad.gent/id/concept/570019448/2022-02-26T13:43:52.104Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:43:52.104Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q100137724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7312_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelinterieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7312_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019448/2022-02-26T13:43:52.104Z>.
+<https://stad.gent/id/concept/570018016/2022-02-26T13:09:22.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:09:22.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q100137724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7561_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelinrichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7561_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018016/2022-02-26T13:09:22.873Z>.
+<https://stad.gent/id/concept/570016325/2022-02-26T12:15:00.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:15:00.843Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7948_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wintzenheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7948_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016325/2022-02-26T12:15:00.843Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/win.ttl> <https://w3id.org/tree#relation> _:df_1_2495.
+_:df_1_2495 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/wink.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wink".
+<https://thijstem.github.io/substrings_coghent/thesaurus/win.ttl> <https://w3id.org/tree#relation> _:df_1_2496.
+_:df_1_2496 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/wint.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wint".
+<https://thijstem.github.io/substrings_coghent/thesaurus/win.ttl> <https://w3id.org/tree#relation> _:df_1_2497.
+_:df_1_2497 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/wind.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wind".
+<https://thijstem.github.io/substrings_coghent/thesaurus/win.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/win.ttl>.

@@ -1,0 +1,156 @@
+<https://stad.gent/id/concept/670001481/2022-03-11T08:25:47.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:25:47.444Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rasphuisbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1702_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001481/2022-03-11T08:25:47.444Z>.
+<https://stad.gent/id/concept/670000734/2022-03-11T07:40:37.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:40:37.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rasphuisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2026_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000734/2022-03-11T07:40:37.177Z>.
+<https://stad.gent/id/concept/570024023/2022-03-11T05:50:27.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:50:27.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rastatt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2812_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024023/2022-03-11T05:50:27.741Z>.
+<https://stad.gent/id/concept/570019233/2022-03-11T04:09:45.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:09:45.741Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3532_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raspmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3532_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019233/2022-03-11T04:09:45.741Z>.
+<https://stad.gent/id/concept/570018978/2022-03-11T03:59:11.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:11.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3607_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018978/2022-03-11T03:59:11.642Z>.
+<https://stad.gent/id/concept/570017469/2022-03-11T03:28:49.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:28:49.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3823_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raspband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3823_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017469/2022-03-11T03:28:49.600Z>.
+<https://stad.gent/id/concept/570016936/2022-03-11T03:11:50.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:11:50.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse gebruiksvoorwerpen die worden gebruikt voor het raspen of versnipperen van voedsel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rasp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3943_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016936/2022-03-11T03:11:50.775Z>.
+<https://stad.gent/id/concept/670001481/2022-02-26T17:49:56.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:49:56.725Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5554_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rasphuisbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5554_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001481/2022-02-26T17:49:56.725Z>.
+<https://stad.gent/id/concept/670000734/2022-02-26T17:04:28.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:04:28.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5881_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rasphuisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5881_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000734/2022-02-26T17:04:28.840Z>.
+<https://stad.gent/id/concept/570024023/2022-02-26T15:14:28.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:14:28.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6667_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rastatt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6667_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024023/2022-02-26T15:14:28.844Z>.
+<https://stad.gent/id/concept/570019233/2022-02-26T13:33:47.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:33:47.993Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7384_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raspmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7384_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019233/2022-02-26T13:33:47.993Z>.
+<https://stad.gent/id/concept/570018978/2022-02-26T13:23:13.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:23:13.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7462_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7462_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018978/2022-02-26T13:23:13.798Z>.
+<https://stad.gent/id/concept/570017469/2022-02-26T12:52:54.429Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:52:54.429Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7678_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raspband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7678_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017469/2022-02-26T12:52:54.429Z>.
+<https://stad.gent/id/concept/570016936/2022-02-26T12:36:07.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:36:07.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7798_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse gebruiksvoorwerpen die worden gebruikt voor het raspen of versnipperen van voedsel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rasp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7798_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016936/2022-02-26T12:36:07.702Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ras.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ras.ttl>.

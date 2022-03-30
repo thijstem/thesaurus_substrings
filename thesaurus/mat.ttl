@@ -1,0 +1,152 @@
+<https://stad.gent/id/concept/670000012/2022-03-13T00:50:37.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:37.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "aspect"@nl, "aspect"@en, "materiaal"@nl, "material"@en, "eenheid"@nl, "unit"@en, "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000012/2022-03-13T00:50:37.557Z>.
+<https://stad.gent/id/concept/570025009/2022-03-13T00:41:37.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:41:37.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1192_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025009/2022-03-13T00:41:37.224Z>.
+<https://stad.gent/id/concept/570024624/2022-03-13T00:23:58.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:23:58.126Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1318_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tekenwerktuigen van paraffine, bijenwas, carnaubawas of synthetische was.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waskrijt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1318_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024624/2022-03-13T00:23:58.126Z>.
+<https://stad.gent/id/concept/570024363/2022-03-13T00:13:58.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:13:58.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "matrijskast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024363/2022-03-13T00:13:58.980Z>.
+<https://stad.gent/id/concept/570024344/2022-03-13T00:12:53.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:12:53.565Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2042162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1396_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schuimkarton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1396_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024344/2022-03-13T00:12:53.565Z>.
+<https://stad.gent/id/concept/570024326/2022-03-13T00:11:52.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:11:52.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "krijt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1405_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024326/2022-03-13T00:11:52.985Z>.
+<https://stad.gent/id/concept/570024300/2022-03-13T00:10:17.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:10:17.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaalhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024300/2022-03-13T00:10:17.657Z>.
+<https://stad.gent/id/concept/570024171/2022-03-13T00:03:29.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:03:29.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011792>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1465_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1465_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024171/2022-03-13T00:03:29.063Z>.
+<https://stad.gent/id/concept/570024140/2022-03-13T00:01:58.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:58.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q146537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ureumformaldehyde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1474_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024140/2022-03-13T00:01:58.563Z>.
+<https://stad.gent/id/concept/670000979/2022-03-11T08:00:27.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:00:27.199Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1885_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mathias Gesweinstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1885_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000979/2022-03-11T08:00:27.199Z>.
+<https://stad.gent/id/concept/670000012/2022-03-11T06:45:31.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:31.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2419_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "aspect"@nl, "aspect"@en, "materiaal"@nl, "material"@en, "eenheid"@nl, "unit"@en, "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2419_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000012/2022-03-11T06:45:31.139Z>.
+<https://stad.gent/id/concept/570025009/2022-03-11T06:36:32.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:36:32.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2485_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baksteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2485_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025009/2022-03-11T06:36:32.582Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mat.ttl> <https://w3id.org/tree#relation> _:df_1_1279.
+_:df_1_1279 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mate.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mate".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mat.ttl> <https://w3id.org/tree#relation> _:df_1_1280.
+_:df_1_1280 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/matr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "matr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mat.ttl> <https://w3id.org/tree#relation> _:df_1_1281.
+_:df_1_1281 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/math.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "math".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mat.ttl>.

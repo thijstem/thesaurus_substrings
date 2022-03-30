@@ -1,0 +1,110 @@
+<https://stad.gent/id/concept/670001391/2022-02-26T17:42:23.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:42:23.692Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5608_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsdok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5608_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001391/2022-02-26T17:42:23.692Z>.
+<https://stad.gent/id/concept/670000302/2022-02-26T16:30:59.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:30:59.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6118_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelaar in steen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6118_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000302/2022-02-26T16:30:59.686Z>.
+<https://stad.gent/id/concept/670000283/2022-02-26T16:29:33.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:33.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6130_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6130_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000283/2022-02-26T16:29:33.967Z>.
+<https://stad.gent/id/concept/570024845/2022-02-26T15:52:52.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:52:52.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6391_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsdok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6391_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024845/2022-02-26T15:52:52.254Z>.
+<https://stad.gent/id/concept/570024451/2022-02-26T15:37:50.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:37:50.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300061886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6499_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handel en distributie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6499_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024451/2022-02-26T15:37:50.778Z>.
+<https://stad.gent/id/concept/570015377/2022-02-26T11:55:28.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:55:28.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q33767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8089_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8089_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015377/2022-02-26T11:55:28.091Z>.
+<https://stad.gent/id/concept/570014692/2022-02-26T11:37:36.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:37:36.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q215536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8215_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "trefwoord"@nl, "keyword"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8215_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014692/2022-02-26T11:37:36.160Z>.
+<https://stad.gent/id/concept/570010008/2022-02-26T10:17:36.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:17:36.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026914>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8788_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelscorrespondentie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8788_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010008/2022-02-26T10:17:36.215Z>.
+<https://stad.gent/id/concept/570009570/2022-02-26T10:06:57.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:57.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300061886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8863_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8863_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009570/2022-02-26T10:06:57.547Z>.
+<https://stad.gent/id/concept/570008728/2022-02-26T09:39:14.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:14.970Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9061_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelsbeurs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9061_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008728/2022-02-26T09:39:14.970Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hande.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hande.ttl>.

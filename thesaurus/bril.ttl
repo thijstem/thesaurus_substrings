@@ -1,0 +1,48 @@
+<https://stad.gent/id/concept/570013161/2022-02-26T11:04:17.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:04:17.273Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25931122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8455_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brillendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8455_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013161/2022-02-26T11:04:17.273Z>.
+<https://stad.gent/id/concept/570012185/2022-02-26T10:45:32.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:45:32.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225933>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8587_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doosjes van verschillende vorm en materiaal die voornamelijk zijn bedoeld voor het bewaren van een bril. Ze kunnen vrij decoratief zijn en hangen soms aan een ketting, zodat ze op de persoon zelf kunnen worden gedragen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brillenkoker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8587_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012185/2022-02-26T10:45:32.381Z>.
+<https://stad.gent/id/concept/570008938/2022-02-26T09:46:37.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:46:37.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q849904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9010_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brilliantine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9010_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008938/2022-02-26T09:46:37.420Z>.
+<https://stad.gent/id/concept/570007642/2022-02-26T09:24:59.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:24:59.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236409>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9163_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Brillen die op hun plaats worden gehouden door zijstukken die over de oren worden geplaatst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bril"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9163_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007642"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007642/2022-02-26T09:24:59.114Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bril.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bril.ttl>.

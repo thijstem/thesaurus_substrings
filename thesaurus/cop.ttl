@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570024544/2022-03-13T00:23:32.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:23:32.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47530946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1321_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "COPYRIGHT UNDETERMINED"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1321_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024544/2022-03-13T00:23:32.733Z>.
+<https://stad.gent/id/concept/570024544/2022-03-11T06:18:28.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:18:28.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47530946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2614_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "COPYRIGHT UNDETERMINED"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2614_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024544/2022-03-11T06:18:28.041Z>.
+<https://stad.gent/id/concept/570024544/2022-02-26T15:42:27.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:42:27.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q47530946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6466_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "COPYRIGHT UNDETERMINED"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6466_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024544/2022-02-26T15:42:27.554Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cop.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cop.ttl>.

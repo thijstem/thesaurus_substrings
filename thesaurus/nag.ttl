@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/570018920/2022-03-11T03:55:30.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:55:30.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3634_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nagelknipper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3634_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018920/2022-03-11T03:55:30.042Z>.
+<https://stad.gent/id/concept/570016201/2022-03-11T02:47:11.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:47:11.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nagel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4120_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016201/2022-03-11T02:47:11.309Z>.
+<https://stad.gent/id/concept/570018920/2022-02-26T13:19:32.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:19:32.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7486_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nagelknipper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7486_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018920/2022-02-26T13:19:32.172Z>.
+<https://stad.gent/id/concept/570016201/2022-02-26T12:11:29.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:11:29.448Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7972_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nagel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7972_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016201/2022-02-26T12:11:29.448Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nag.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nag.ttl>.

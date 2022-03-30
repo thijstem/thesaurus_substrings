@@ -1,0 +1,238 @@
+<https://stad.gent/id/concept/670001577/2022-03-13T02:39:20.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:39:20.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_352_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_352_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001577/2022-03-13T02:39:20.501Z>.
+<https://stad.gent/id/concept/670001374/2022-03-13T02:22:23.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:23.638Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_472_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergembrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001374/2022-03-13T02:22:23.638Z>.
+<https://stad.gent/id/concept/670000909/2022-03-13T01:59:50.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:59:50.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3028>;
+    <http://www.w3.org/ns/adms#identifier> _:df_634_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_634_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000909/2022-03-13T01:59:50.160Z>.
+<https://stad.gent/id/concept/570024884/2022-03-13T00:35:23.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:35:23.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1237_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024884/2022-03-13T00:35:23.764Z>.
+<https://stad.gent/id/concept/670001577/2022-03-11T08:33:50.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:33:50.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1645_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001577/2022-03-11T08:33:50.536Z>.
+<https://stad.gent/id/concept/670001374/2022-03-11T08:16:53.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:16:53.876Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergembrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1768_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001374/2022-03-11T08:16:53.876Z>.
+<https://stad.gent/id/concept/670000909/2022-03-11T07:54:40.104Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:54:40.104Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3028>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000909/2022-03-11T07:54:40.104Z>.
+<https://stad.gent/id/concept/570024884/2022-03-11T06:30:18.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:30:18.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2527_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024884/2022-03-11T06:30:18.607Z>.
+<https://stad.gent/id/concept/570023025/2022-03-11T05:09:25.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:09:25.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3106_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eke (Nazareth)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3106_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023025/2022-03-11T05:09:25.744Z>.
+<https://stad.gent/id/concept/570010663/2022-03-11T01:06:28.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:06:28.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003563>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekeren (Antwerpen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_4840_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010663/2022-03-11T01:06:28.133Z>.
+<https://stad.gent/id/concept/570010599/2022-03-11T01:06:03.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:06:03.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4843_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eksaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_4843_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010599/2022-03-11T01:06:03.123Z>.
+<https://stad.gent/id/concept/570008890/2022-03-11T00:19:52.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:19:52.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12012813>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5173_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_5173_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008890/2022-03-11T00:19:52.014Z>.
+<https://stad.gent/id/concept/670001577/2022-02-26T17:57:59.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:57:59.784Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5497_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001577/2022-02-26T17:57:59.784Z>.
+<https://stad.gent/id/concept/670001374/2022-02-26T17:40:58.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:40:58.034Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergembrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001374/2022-02-26T17:40:58.034Z>.
+<https://stad.gent/id/concept/670000909/2022-02-26T17:18:29.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:18:29.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3028>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5779_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergemstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5779_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000909/2022-02-26T17:18:29.645Z>.
+<https://stad.gent/id/concept/570024884/2022-02-26T15:54:17.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:54:17.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6382_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6382_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024884/2022-02-26T15:54:17.740Z>.
+<https://stad.gent/id/concept/570023025/2022-02-26T14:33:24.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:33:24.519Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6958_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eke (Nazareth)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6958_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023025/2022-02-26T14:33:24.519Z>.
+<https://stad.gent/id/concept/570010663/2022-02-26T10:30:51.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:30:51.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003563>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8692_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekeren (Antwerpen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_8692_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010663/2022-02-26T10:30:51.248Z>.
+<https://stad.gent/id/concept/570010599/2022-02-26T10:30:26.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:30:26.241Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8695_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eksaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_8695_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010599/2022-02-26T10:30:26.241Z>.
+<https://stad.gent/id/concept/570008890/2022-02-26T09:44:21.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:44:21.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12012813>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9025_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekkergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_9025_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008890/2022-02-26T09:44:21.773Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ek.ttl>.

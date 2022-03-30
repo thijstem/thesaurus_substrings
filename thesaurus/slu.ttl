@@ -1,0 +1,146 @@
+<https://stad.gent/id/concept/670000779/2022-03-11T07:44:20.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:44:20.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1999_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1999_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000779/2022-03-11T07:44:20.047Z>.
+<https://stad.gent/id/concept/670000780/2022-03-11T07:44:25.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:44:25.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1999_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizekenkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1999_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000780/2022-03-11T07:44:25.049Z>.
+<https://stad.gent/id/concept/570025110/2022-03-11T06:41:39.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:41:39.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2446_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025110/2022-03-11T06:41:39.503Z>.
+<https://stad.gent/id/concept/570024762/2022-03-11T06:25:11.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:25:11.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizeken - Tolhuis - Ham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_2566_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024762/2022-03-11T06:25:11.092Z>.
+<https://stad.gent/id/concept/570019495/2022-03-11T04:22:06.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:22:06.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3445_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3445_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019495/2022-03-11T04:22:06.528Z>.
+<https://stad.gent/id/concept/570013250/2022-03-11T01:42:29.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:42:29.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4582_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4582_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013250/2022-03-11T01:42:29.930Z>.
+<https://stad.gent/id/concept/670000845/2022-02-26T17:13:37.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:13:37.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5815_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizekensbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5815_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000845/2022-02-26T17:13:37.635Z>.
+<https://stad.gent/id/concept/670000779/2022-02-26T17:08:10.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:08:10.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5854_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5854_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000779/2022-02-26T17:08:10.188Z>.
+<https://stad.gent/id/concept/670000780/2022-02-26T17:08:15.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:08:15.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5854_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizekenkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5854_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000780/2022-02-26T17:08:15.189Z>.
+<https://stad.gent/id/concept/570025110/2022-02-26T16:05:38.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:05:38.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6301_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6301_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025110/2022-02-26T16:05:38.522Z>.
+<https://stad.gent/id/concept/570024762/2022-02-26T15:49:10.636Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:49:10.636Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6418_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluizeken - Tolhuis - Ham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_6418_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024762/2022-02-26T15:49:10.636Z>.
+<https://stad.gent/id/concept/570019495/2022-02-26T13:46:08.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:46:08.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7297_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7297_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019495/2022-02-26T13:46:08.070Z>.
+<https://stad.gent/id/concept/570013250/2022-02-26T11:06:53.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:06:53.204Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8434_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sluier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8434_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013250/2022-02-26T11:06:53.204Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/slu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/slu.ttl>.

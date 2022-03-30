@@ -1,0 +1,249 @@
+<https://stad.gent/id/concept/670000081/2022-03-13T00:54:23.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:54:23.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1102_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Jacobs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1102_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000081/2022-03-13T00:54:23.841Z>.
+<https://stad.gent/id/concept/570025268/2022-03-13T00:49:01.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:49:01.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/63>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008720>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008720> <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl.
+_:df_1138_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025268/2022-03-13T00:49:01.880Z>.
+<https://stad.gent/id/concept/670001765/2022-03-11T08:49:23.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001765>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:49:23.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2654750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokeabdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1534_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001765"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001765/2022-03-11T08:49:23.363Z>.
+<https://stad.gent/id/concept/670001766/2022-03-11T08:49:28.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:49:28.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q980285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokemuseum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1534_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001766/2022-03-11T08:49:28.365Z>.
+<https://stad.gent/id/concept/670001573/2022-03-11T08:33:30.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:33:30.259Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1648_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Baafs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1648_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001573/2022-03-11T08:33:30.259Z>.
+<https://stad.gent/id/concept/670000882/2022-03-11T07:52:23.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:52:23.824Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1942_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokekaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1942_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000882/2022-03-11T07:52:23.824Z>.
+<https://stad.gent/id/concept/670000658/2022-03-11T07:34:29.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:34:29.387Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2071_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij de Groene Briel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2071_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000658/2022-03-11T07:34:29.387Z>.
+<https://stad.gent/id/concept/670000651/2022-03-11T07:33:54.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:33:54.116Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2074_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Joris op het Zand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2074_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000651/2022-03-11T07:33:54.116Z>.
+<https://stad.gent/id/concept/670000652/2022-03-11T07:33:59.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:33:59.117Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2074_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij de Brugse Poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2074_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000652/2022-03-11T07:33:59.117Z>.
+<https://stad.gent/id/concept/670000648/2022-03-11T07:33:39.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:33:39.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2077_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij de Vijf Windgaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2077_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000648/2022-03-11T07:33:39.111Z>.
+<https://stad.gent/id/concept/670000081/2022-03-11T06:49:17.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:49:17.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Jacobs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2392_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000081/2022-03-11T06:49:17.444Z>.
+<https://stad.gent/id/concept/670000082/2022-03-11T06:49:22.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:49:22.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3011>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokevest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2392_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000082/2022-03-11T06:49:22.446Z>.
+<https://stad.gent/id/concept/570025268/2022-03-11T06:43:55.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:43:55.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/63>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2431_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008720>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008720> <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl.
+_:df_2431_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025268/2022-03-11T06:43:55.538Z>.
+<https://stad.gent/id/concept/570023523/2022-03-11T05:29:08.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:29:08.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2965_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine tafeltjes die in bij een bank of stoel worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijzettafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2965_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023523/2022-03-11T05:29:08.811Z>.
+<https://stad.gent/id/concept/570013982/2022-03-11T01:55:29.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:55:29.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4489_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4489_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013982/2022-03-11T01:55:29.983Z>.
+<https://stad.gent/id/concept/570008906/2022-03-11T00:20:32.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:20:32.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2654750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5167_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijloke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5167_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008906/2022-03-11T00:20:32.732Z>.
+<https://stad.gent/id/concept/670001765/2022-02-26T18:13:35.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001765>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:13:35.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2654750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5386_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokeabdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5386_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001765"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001765/2022-02-26T18:13:35.997Z>.
+<https://stad.gent/id/concept/670001766/2022-02-26T18:13:41.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:13:41.000Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q980285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5386_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokemuseum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5386_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001766/2022-02-26T18:13:41.000Z>.
+<https://stad.gent/id/concept/670001573/2022-02-26T17:57:39.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:57:39.480Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5500_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bij Sint-Baafs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5500_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001573/2022-02-26T17:57:39.480Z>.
+<https://stad.gent/id/concept/670000882/2022-02-26T17:16:13.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:16:13.591Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5797_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokekaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5797_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000882/2022-02-26T17:16:13.591Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> <https://w3id.org/tree#relation> _:df_1_2105.
+_:df_1_2105 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bij+d.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bij", "d".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> <https://w3id.org/tree#relation> _:df_1_2106.
+_:df_1_2106 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bij+s.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bij", "s".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> <https://w3id.org/tree#relation> _:df_1_2107.
+_:df_1_2107 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bijl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bijl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> <https://w3id.org/tree#relation> _:df_1_2108.
+_:df_1_2108 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bijg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bijg".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> <https://w3id.org/tree#relation> _:df_1_2109.
+_:df_1_2109 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bijz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bijz".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bij.ttl>.

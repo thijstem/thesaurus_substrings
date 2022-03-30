@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/570012821/2022-03-11T01:32:45.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012821>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:32:45.813Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4651_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4651_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012821"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012821/2022-03-11T01:32:45.813Z>.
+<https://stad.gent/id/concept/570012776/2022-03-11T01:32:20.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:32:20.461Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4654_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4654_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012776/2022-03-11T01:32:20.461Z>.
+<https://stad.gent/id/concept/570011166/2022-03-11T01:11:21.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:11:21.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300101256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4804_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4804_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011166/2022-03-11T01:11:21.244Z>.
+<https://stad.gent/id/concept/570024721/2022-02-26T15:47:09.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:47:09.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6433_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasturbine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6433_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024721/2022-02-26T15:47:09.891Z>.
+<https://stad.gent/id/concept/570018829/2022-02-26T13:15:00.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:15:00.132Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7519_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gastuche (Graven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_7519_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018829/2022-02-26T13:15:00.132Z>.
+<https://stad.gent/id/concept/570012821/2022-02-26T10:57:08.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012821>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:57:08.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8506_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8506_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012821"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012821/2022-02-26T10:57:08.003Z>.
+<https://stad.gent/id/concept/570012776/2022-02-26T10:56:42.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:56:42.991Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8509_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8509_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012776/2022-02-26T10:56:42.991Z>.
+<https://stad.gent/id/concept/570011166/2022-02-26T10:35:43.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:35:43.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300101256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8659_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gastank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8659_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011166/2022-02-26T10:35:43.168Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gast.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gast.ttl>.

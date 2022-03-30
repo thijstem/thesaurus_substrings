@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570016449/2022-03-11T02:53:19.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:53:19.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133746>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4075_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hangslot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4075_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016449/2022-03-11T02:53:19.254Z>.
+<https://stad.gent/id/concept/570017474/2022-02-26T12:53:14.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:53:14.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037621>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7675_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die zijn ontworpen om aan het plafond te hangen zodat het licht naar beneden schijnt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hanglamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7675_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017474/2022-02-26T12:53:14.724Z>.
+<https://stad.gent/id/concept/570016449/2022-02-26T12:17:36.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:17:36.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133746>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7930_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hangslot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7930_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016449/2022-02-26T12:17:36.825Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hang.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hang.ttl>.

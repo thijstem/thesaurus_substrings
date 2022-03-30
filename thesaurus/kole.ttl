@@ -1,0 +1,33 @@
+<https://stad.gent/id/concept/570017029/2022-02-26T12:40:44.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:40:44.685Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7765_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kolenkit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7765_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017029/2022-02-26T12:40:44.685Z>.
+<https://stad.gent/id/concept/570014203/2022-02-26T11:24:50.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:24:50.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8308_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kolenchemie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8308_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014203/2022-02-26T11:24:50.563Z>.
+<https://stad.gent/id/concept/570008472/2022-02-26T09:31:26.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:31:26.347Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q24489>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9118_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9118_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008472/2022-02-26T09:31:26.347Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kole.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kole.ttl>.

@@ -1,0 +1,43 @@
+<https://stad.gent/id/concept/670001601/2022-02-26T18:00:00.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:00:00.553Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5482_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5482_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001601/2022-02-26T18:00:00.553Z>.
+<https://stad.gent/id/concept/670000669/2022-02-26T16:59:11.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:59:11.725Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5917_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5917_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000669/2022-02-26T16:59:11.725Z>.
+<https://stad.gent/id/concept/670000160/2022-02-26T16:19:39.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:19:39.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6199_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6199_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000160/2022-02-26T16:19:39.036Z>.
+<https://stad.gent/id/concept/570013468/2022-02-26T11:11:50.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:11:50.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8401_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koepels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8401_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013468/2022-02-26T11:11:50.079Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/koep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/koep.ttl>.

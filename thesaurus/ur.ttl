@@ -1,0 +1,168 @@
+<https://stad.gent/id/concept/670000795/2022-03-11T07:45:40.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:45:40.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1990_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursulinenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1990_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000795/2022-03-11T07:45:40.343Z>.
+<https://stad.gent/id/concept/570024436/2022-03-11T06:12:51.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:12:51.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursel (Aalter)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2653_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024436/2022-03-11T06:12:51.070Z>.
+<https://stad.gent/id/concept/570024140/2022-03-11T05:56:52.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:56:52.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q146537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2767_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ureumformaldehyde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2767_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024140/2022-03-11T05:56:52.603Z>.
+<https://stad.gent/id/concept/570018861/2022-03-11T03:52:33.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:52:33.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3655_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor urine; aangepaste vorm voor vrouwen of voor mannen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3655_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018861/2022-03-11T03:52:33.928Z>.
+<https://stad.gent/id/concept/570017508/2022-03-11T03:30:15.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:30:15.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3814_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3814_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017508/2022-03-11T03:30:15.209Z>.
+<https://stad.gent/id/concept/570015201/2022-03-11T02:26:46.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:26:46.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4267_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4267_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015201/2022-03-11T02:26:46.076Z>.
+<https://stad.gent/id/concept/570012113/2022-03-11T01:20:10.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:20:10.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4741_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "verstedelijking, concentratie van het leven in steden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urbanisatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4741_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012113/2022-03-11T01:20:10.303Z>.
+<https://stad.gent/id/concept/670001698/2022-02-26T18:08:04.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:08:04.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5425_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursulinestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5425_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001698/2022-02-26T18:08:04.086Z>.
+<https://stad.gent/id/concept/670000795/2022-02-26T17:09:30.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:09:30.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5845_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursulinenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5845_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000795/2022-02-26T17:09:30.784Z>.
+<https://stad.gent/id/concept/570024436/2022-02-26T15:36:50.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:36:50.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6505_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ursel (Aalter)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6505_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024436/2022-02-26T15:36:50.444Z>.
+<https://stad.gent/id/concept/570024140/2022-02-26T15:20:51.931Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:20:51.931Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q146537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6619_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ureumformaldehyde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6619_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024140/2022-02-26T15:20:51.931Z>.
+<https://stad.gent/id/concept/570018861/2022-02-26T13:16:35.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:16:35.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7507_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor urine; aangepaste vorm voor vrouwen of voor mannen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7507_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018861/2022-02-26T13:16:35.873Z>.
+<https://stad.gent/id/concept/570017508/2022-02-26T12:54:20.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:54:20.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7666_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7666_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017508/2022-02-26T12:54:20.063Z>.
+<https://stad.gent/id/concept/570015201/2022-02-26T11:51:06.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:51:06.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8119_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urinoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8119_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015201/2022-02-26T11:51:06.365Z>.
+<https://stad.gent/id/concept/570012113/2022-02-26T10:44:31.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:44:31.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8596_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "verstedelijking, concentratie van het leven in steden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "urbanisatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8596_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012113/2022-02-26T10:44:31.794Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ur.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ur.ttl>.

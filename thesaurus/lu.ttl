@@ -1,0 +1,338 @@
+<https://stad.gent/id/concept/670001283/2022-03-13T02:15:02.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:15:02.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q32>;
+    <http://www.w3.org/ns/adms#identifier> _:df_526_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_526_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001283/2022-03-13T02:15:02.488Z>.
+<https://stad.gent/id/concept/670000847/2022-03-13T01:55:08.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:55:08.210Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_667_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luypaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_667_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000847/2022-03-13T01:55:08.210Z>.
+<https://stad.gent/id/concept/670000348/2022-03-13T01:15:36.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:15:36.378Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q493898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_949_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luitenant kolonel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_949_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000348/2022-03-13T01:15:36.378Z>.
+<https://stad.gent/id/concept/670000193/2022-03-13T01:03:43.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:03:43.048Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburgstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1033_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000193/2022-03-13T01:03:43.048Z>.
+<https://stad.gent/id/concept/570025004/2022-03-13T00:41:27.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:41:27.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lubbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1192_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025004/2022-03-13T00:41:27.220Z>.
+<https://stad.gent/id/concept/570024331/2022-03-13T00:12:13.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:12:13.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7625817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luigne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1402_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024331/2022-03-13T00:12:13.245Z>.
+<https://stad.gent/id/concept/570024160/2022-03-13T00:02:59.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:02:59.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (land)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1468_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024160/2022-03-13T00:02:59.051Z>.
+<https://stad.gent/id/concept/670001283/2022-03-11T08:09:46.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:09:46.344Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q32>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1819_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1819_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001283/2022-03-11T08:09:46.344Z>.
+<https://stad.gent/id/concept/670000847/2022-03-11T07:49:57.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:49:57.528Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1960_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luypaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1960_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000847/2022-03-11T07:49:57.528Z>.
+<https://stad.gent/id/concept/670000348/2022-03-11T07:10:22.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:10:22.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q493898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "luitenant kolonel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2242_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000348/2022-03-11T07:10:22.780Z>.
+<https://stad.gent/id/concept/670000193/2022-03-11T06:58:31.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:58:31.960Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2326_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburgstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2326_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000193/2022-03-11T06:58:31.960Z>.
+<https://stad.gent/id/concept/570025004/2022-03-11T06:36:22.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:36:22.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2485_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lubbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2485_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025004/2022-03-11T06:36:22.577Z>.
+<https://stad.gent/id/concept/570024331/2022-03-11T06:07:08.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:07:08.822Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7625817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2695_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luigne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2695_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024331/2022-03-11T06:07:08.822Z>.
+<https://stad.gent/id/concept/570024160/2022-03-11T05:57:55.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:57:55.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2761_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (land)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2761_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024160/2022-03-11T05:57:55.092Z>.
+<https://stad.gent/id/concept/570023886/2022-03-11T05:44:20.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:44:20.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7012587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ludwigsstadt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2857_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023886/2022-03-11T05:44:20.248Z>.
+<https://stad.gent/id/concept/570023607/2022-03-11T05:31:49.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:31:49.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine kartonnen mapjes waarin papieren lucifers vast zijn geniet of gelijmd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lucifersboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2947_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023607/2022-03-11T05:31:49.891Z>.
+<https://stad.gent/id/concept/570023601/2022-03-11T05:31:24.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:31:24.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lüdenscheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2950_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023601/2022-03-11T05:31:24.600Z>.
+<https://stad.gent/id/concept/570023213/2022-03-11T05:17:54.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:17:54.198Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3046_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011549>, <https://stad.gent/id/concept/570025186>, <https://stad.gent/id/concept/570025178>, <https://stad.gent/id/concept/570022977>, <https://stad.gent/id/concept/570025185>, <https://stad.gent/id/concept/570016802>, <https://stad.gent/id/concept/570025181>, <https://stad.gent/id/concept/570024702>, <https://stad.gent/id/concept/570025183>, <https://stad.gent/id/concept/570025176>, <https://stad.gent/id/concept/570025182>, <https://stad.gent/id/concept/570025174>, <https://stad.gent/id/concept/570016792>, <https://stad.gent/id/concept/570025188>, <https://stad.gent/id/concept/570025180>, <https://stad.gent/id/concept/570025184>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wellin"@nl.
+<https://stad.gent/id/concept/570025180> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virton"@nl.
+<https://stad.gent/id/concept/570025188> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vielsalm"@nl.
+<https://stad.gent/id/concept/570016792> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sainte-Cécile"@nl.
+<https://stad.gent/id/concept/570025174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Hubert"@nl.
+<https://stad.gent/id/concept/570025182> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rouvroy"@nl.
+<https://stad.gent/id/concept/570025176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neufchâteau"@nl.
+<https://stad.gent/id/concept/570025183> <http://www.w3.org/2004/02/skos/core#prefLabel> "Martelange"@nl.
+<https://stad.gent/id/concept/570024702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marloie"@nl.
+<https://stad.gent/id/concept/570025181> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etalle"@nl.
+<https://stad.gent/id/concept/570016802> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiny"@nl.
+<https://stad.gent/id/concept/570025185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chatillon"@nl.
+<https://stad.gent/id/concept/570022977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouillon"@nl.
+<https://stad.gent/id/concept/570025178> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bastogne"@nl.
+<https://stad.gent/id/concept/570025186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aubange"@nl.
+<https://stad.gent/id/concept/570011549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aarlen"@nl.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_3046_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023213/2022-03-11T05:17:54.198Z>.
+<https://stad.gent/id/concept/570023203/2022-03-11T05:17:19.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:17:19.180Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025220>, <https://stad.gent/id/concept/570025219>, <https://stad.gent/id/concept/570025218>, <https://stad.gent/id/concept/570023219>, <https://stad.gent/id/concept/570023029>, <https://stad.gent/id/concept/570019359>, <https://stad.gent/id/concept/570010294>, <https://stad.gent/id/concept/570016790>, <https://stad.gent/id/concept/570009964>, <https://stad.gent/id/concept/570025228>, <https://stad.gent/id/concept/570020607>, <https://stad.gent/id/concept/570013622>, <https://stad.gent/id/concept/570016343>, <https://stad.gent/id/concept/570013359>, <https://stad.gent/id/concept/570025222>, <https://stad.gent/id/concept/570017653>, <https://stad.gent/id/concept/570016803>, <https://stad.gent/id/concept/570025216>, <https://stad.gent/id/concept/570025225>, <https://stad.gent/id/concept/570001410>, <https://stad.gent/id/concept/570015328>, <https://stad.gent/id/concept/570025227>, <https://stad.gent/id/concept/570014429>, <https://stad.gent/id/concept/570025224>, <https://stad.gent/id/concept/570015122>, <https://stad.gent/id/concept/570013943>, <https://stad.gent/id/concept/570019062>, <https://stad.gent/id/concept/570023103>, <https://stad.gent/id/concept/570003773>, <https://stad.gent/id/concept/570025214>, <https://stad.gent/id/concept/570025215>, <https://stad.gent/id/concept/570025217>, <https://stad.gent/id/concept/570018897>, <https://stad.gent/id/concept/570016525>, <https://stad.gent/id/concept/570025226>, <https://stad.gent/id/concept/570020797>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl.
+<https://stad.gent/id/concept/570025226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaux-sous-Chèvremont"@nl.
+<https://stad.gent/id/concept/570016525> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trooz"@nl.
+<https://stad.gent/id/concept/570018897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stembert"@nl.
+<https://stad.gent/id/concept/570025217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stavelot"@nl.
+<https://stad.gent/id/concept/570025215> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprimont"@nl.
+<https://stad.gent/id/concept/570025214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprimont"@nl.
+<https://stad.gent/id/concept/570003773> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spa"@nl.
+<https://stad.gent/id/concept/570023103> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seraing"@nl.
+<https://stad.gent/id/concept/570019062> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sclessin (Luik)"@nl.
+<https://stad.gent/id/concept/570013943> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Vith"@nl.
+<https://stad.gent/id/concept/570015122> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rocourt"@nl.
+<https://stad.gent/id/concept/570025224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pepinster"@nl.
+<https://stad.gent/id/concept/570014429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ougrée (Seraing)"@nl.
+<https://stad.gent/id/concept/570025227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mousset"@nl.
+<https://stad.gent/id/concept/570015328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malmédy"@nl.
+<https://stad.gent/id/concept/570001410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (stad)"@nl.
+<https://stad.gent/id/concept/570025225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limbourg"@nl.
+<https://stad.gent/id/concept/570025216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lhoneux"@nl.
+<https://stad.gent/id/concept/570016803> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Gileppe"@nl.
+<https://stad.gent/id/concept/570017653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupille-sur-Meuse"@nl.
+<https://stad.gent/id/concept/570025222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupille"@nl.
+<https://stad.gent/id/concept/570013359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoei"@nl.
+<https://stad.gent/id/concept/570016343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herstal"@nl.
+<https://stad.gent/id/concept/570013622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grivegnée"@nl.
+<https://stad.gent/id/concept/570020607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eupen"@nl.
+<https://stad.gent/id/concept/570025228> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esneux"@nl.
+<https://stad.gent/id/concept/570009964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ensival (Verviers)"@nl.
+<https://stad.gent/id/concept/570016790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsenborn (Bütgenbach)"@nl.
+<https://stad.gent/id/concept/570010294> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dison"@nl.
+<https://stad.gent/id/concept/570019359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chokier"@nl.
+<https://stad.gent/id/concept/570023029> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chaudfontaine"@nl.
+<https://stad.gent/id/concept/570023219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borgworm"@nl.
+<https://stad.gent/id/concept/570025218> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blégny"@nl.
+<https://stad.gent/id/concept/570025219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ans"@nl.
+<https://stad.gent/id/concept/570025220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amay"@nl.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_3049_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023203/2022-03-11T05:17:19.180Z>.
+<https://stad.gent/id/concept/570022792/2022-03-11T04:59:39.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:59:39.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3175_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luzern"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_3175_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022792/2022-03-11T04:59:39.250Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1559.
+_:df_1_1559 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/luc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "luc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1560.
+_:df_1_1560 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lui".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1561.
+_:df_1_1561 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lus.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lus".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1562.
+_:df_1_1562 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lub.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lub".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1563.
+_:df_1_1563 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lur.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lur".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1564.
+_:df_1_1564 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lud.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lud".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1565.
+_:df_1_1565 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lux.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lux".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1566.
+_:df_1_1566 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/luy.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "luy".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1567.
+_:df_1_1567 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/luz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "luz".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> <https://w3id.org/tree#relation> _:df_1_1568.
+_:df_1_1568 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lum.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lum".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lu.ttl>.

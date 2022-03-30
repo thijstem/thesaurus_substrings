@@ -1,0 +1,90 @@
+<https://stad.gent/id/concept/670001789/2022-03-11T08:51:24.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:51:24.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1519_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazerne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1519_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001789/2022-03-11T08:51:24.286Z>.
+<https://stad.gent/id/concept/670000954/2022-03-11T07:58:26.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:58:26.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazernenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000954/2022-03-11T07:58:26.345Z>.
+<https://stad.gent/id/concept/570019277/2022-03-11T04:11:36.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:11:36.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3520_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazuifel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3520_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019277/2022-03-11T04:11:36.368Z>.
+<https://stad.gent/id/concept/570008714/2022-03-11T00:14:06.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:14:06.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5212_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazematten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5212_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008714/2022-03-11T00:14:06.902Z>.
+<https://stad.gent/id/concept/670001789/2022-02-26T18:15:36.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:15:36.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5371_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazerne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5371_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001789/2022-02-26T18:15:36.834Z>.
+<https://stad.gent/id/concept/670000954/2022-02-26T17:22:15.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:22:15.826Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5752_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazernenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5752_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000954/2022-02-26T17:22:15.826Z>.
+<https://stad.gent/id/concept/570019277/2022-02-26T13:35:38.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:35:38.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7372_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazuifel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7372_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019277/2022-02-26T13:35:38.572Z>.
+<https://stad.gent/id/concept/570008714/2022-02-26T09:38:39.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:38:39.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9067_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazematten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9067_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008714/2022-02-26T09:38:39.686Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kaz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kaz.ttl>.

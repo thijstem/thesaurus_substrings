@@ -1,0 +1,241 @@
+<https://stad.gent/id/concept/670001862/2022-03-16T00:15:44.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:44.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_82_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_82_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001862/2022-03-16T00:15:44.348Z>.
+<https://stad.gent/id/concept/670001862/2022-03-13T03:00:13.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T03:00:13.963Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_202_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_202_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001862/2022-03-13T03:00:13.963Z>.
+<https://stad.gent/id/concept/670000291/2022-03-13T01:11:34.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:11:34.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_979_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_979_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000291/2022-03-13T01:11:34.875Z>.
+<https://stad.gent/id/concept/570024924/2022-03-13T00:37:04.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:04.470Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q785222>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1225_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024924/2022-03-13T00:37:04.470Z>.
+<https://stad.gent/id/concept/670001862/2022-03-11T08:54:40.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:54:40.406Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001862/2022-03-11T08:54:40.406Z>.
+<https://stad.gent/id/concept/670000291/2022-03-11T07:06:21.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:06:21.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2272_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000291/2022-03-11T07:06:21.111Z>.
+<https://stad.gent/id/concept/570024924/2022-03-11T06:31:59.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:31:59.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q785222>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2515_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024924/2022-03-11T06:31:59.226Z>.
+<https://stad.gent/id/concept/570024102/2022-03-11T05:54:25.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:54:25.452Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glanspers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2785_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024102"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024102/2022-03-11T05:54:25.452Z>.
+<https://stad.gent/id/concept/570023878/2022-03-11T05:44:10.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:44:10.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Glashütte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_2857_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023878/2022-03-11T05:44:10.244Z>.
+<https://stad.gent/id/concept/570023487/2022-03-11T05:27:38.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:38.145Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glijbaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2977_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023487/2022-03-11T05:27:38.145Z>.
+<https://stad.gent/id/concept/570023162/2022-03-11T05:14:43.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:14:43.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209578>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuurspuit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3067_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023162/2022-03-11T05:14:43.074Z>.
+<https://stad.gent/id/concept/570022969/2022-03-11T05:06:01.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:01.879Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glansstrijkijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3130_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022969/2022-03-11T05:06:01.879Z>.
+<https://stad.gent/id/concept/570022301/2022-03-11T04:53:31.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:53:31.407Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3220_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glas petroleumlamp binnenin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3220_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022301/2022-03-11T04:53:31.407Z>.
+<https://stad.gent/id/concept/570022238/2022-03-11T04:52:51.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:52:51.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3223_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glas lamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022238/2022-03-11T04:52:51.397Z>.
+<https://stad.gent/id/concept/570019742/2022-03-11T04:30:21.410Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:30:21.410Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3385_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasgow"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000533>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl.
+_:df_3385_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019742/2022-03-11T04:30:21.410Z>.
+<https://stad.gent/id/concept/570019646/2022-03-11T04:27:29.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:27:29.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3406_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570003287>, <https://stad.gent/id/concept/570023301>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023301> <http://www.w3.org/2004/02/skos/core#prefLabel> "kwartsglas"@nl.
+<https://stad.gent/id/concept/570003287> <http://www.w3.org/2004/02/skos/core#prefLabel> "glasindustrie"@nl.
+_:df_3406_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019646/2022-03-11T04:27:29.981Z>.
+<https://stad.gent/id/concept/570019374/2022-03-11T04:16:18.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:16:18.868Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1522170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glassnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3484_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019374/2022-03-11T04:16:18.868Z>.
+<https://stad.gent/id/concept/570019056/2022-03-11T04:03:13.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019056>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:03:13.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3580_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3580_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019056"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019056/2022-03-11T04:03:13.111Z>.
+<https://stad.gent/id/concept/570016641/2022-03-11T03:00:27.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:00:27.177Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4024_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4024_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016641/2022-03-11T03:00:27.177Z>.
+<https://stad.gent/id/concept/570016138/2022-03-11T02:45:30.636Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:45:30.636Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q781080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4132_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikous"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4132_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016138/2022-03-11T02:45:30.636Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gl.ttl> <https://w3id.org/tree#relation> _:df_1_1736.
+_:df_1_1736 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/glo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "glo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gl.ttl> <https://w3id.org/tree#relation> _:df_1_1737.
+_:df_1_1737 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gla.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gla".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gl.ttl> <https://w3id.org/tree#relation> _:df_1_1738.
+_:df_1_1738 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gli.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gli".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gl.ttl>.

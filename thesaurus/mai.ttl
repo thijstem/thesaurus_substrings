@@ -1,0 +1,106 @@
+<https://stad.gent/id/concept/570024022/2022-03-11T05:50:22.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:50:22.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maillezais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2812_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024022/2022-03-11T05:50:22.739Z>.
+<https://stad.gent/id/concept/570023166/2022-03-11T05:15:03.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:15:03.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maidstone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_3067_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023166/2022-03-11T05:15:03.080Z>.
+<https://stad.gent/id/concept/570019415/2022-03-11T04:18:25.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:18:25.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017990>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3469_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mainz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3469_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019415/2022-03-11T04:18:25.052Z>.
+<https://stad.gent/id/concept/570014484/2022-03-11T02:06:39.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:06:39.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4408_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maison de Maître Brasseur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coupure"@nl.
+_:df_4408_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014484/2022-03-11T02:06:39.998Z>.
+<https://stad.gent/id/concept/570024022/2022-02-26T15:14:23.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:14:23.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6667_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maillezais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_6667_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024022/2022-02-26T15:14:23.840Z>.
+<https://stad.gent/id/concept/570023166/2022-02-26T14:39:01.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:39:01.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6919_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maidstone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_6919_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023166/2022-02-26T14:39:01.818Z>.
+<https://stad.gent/id/concept/570019415/2022-02-26T13:42:26.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:42:26.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017990>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7324_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mainz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7324_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019415/2022-02-26T13:42:26.423Z>.
+<https://stad.gent/id/concept/570014484/2022-02-26T11:31:03.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:31:03.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8263_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maison de Maître Brasseur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coupure"@nl.
+_:df_8263_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014484/2022-02-26T11:31:03.361Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mai.ttl>.

@@ -1,0 +1,80 @@
+<https://stad.gent/id/concept/670000818/2022-02-26T17:11:26.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:11:26.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5830_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijngaardbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5830_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000818/2022-02-26T17:11:26.463Z>.
+<https://stad.gent/id/concept/670000819/2022-02-26T17:11:31.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000819>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:11:31.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3140>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5830_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijngaardstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5830_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000819"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000819/2022-02-26T17:11:31.465Z>.
+<https://stad.gent/id/concept/670000466/2022-02-26T16:43:04.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:43:04.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6034_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6034_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000466/2022-02-26T16:43:04.328Z>.
+<https://stad.gent/id/concept/570023179/2022-02-26T14:39:52.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:39:52.127Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6913_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6913_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023179/2022-02-26T14:39:52.127Z>.
+<https://stad.gent/id/concept/570020793/2022-02-26T14:15:05.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:15:05.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7256672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7090_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijnegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_7090_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020793/2022-02-26T14:15:05.757Z>.
+<https://stad.gent/id/concept/570017586/2022-02-26T12:56:51.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:56:51.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203675>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7648_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7648_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017586/2022-02-26T12:56:51.106Z>.
+<https://stad.gent/id/concept/570001718/2022-02-26T09:01:43.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:43.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9331_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9331_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001718/2022-02-26T09:01:43.880Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wijn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wijn.ttl>.

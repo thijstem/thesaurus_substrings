@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570014634/2022-02-26T11:35:35.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:35:35.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8230_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cristal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8230_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014634/2022-02-26T11:35:35.109Z>.
+<https://stad.gent/id/concept/570001331/2022-02-26T08:59:12.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:59:12.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q290178>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9349_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "crisis (economisch)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9349_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001331/2022-02-26T08:59:12.704Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cri.ttl>.

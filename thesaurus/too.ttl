@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/570024097/2022-03-11T05:54:15.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:54:15.449Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2785_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonzaalmodellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2785_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024097/2022-03-11T05:54:15.449Z>.
+<https://stad.gent/id/concept/570019253/2022-03-11T04:10:36.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:10:36.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3526_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019253/2022-03-11T04:10:36.039Z>.
+<https://stad.gent/id/concept/570024097/2022-02-26T15:18:15.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:15.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonzaalmodellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6640_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024097/2022-02-26T15:18:15.245Z>.
+<https://stad.gent/id/concept/570019253/2022-02-26T13:34:38.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:34:38.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7378_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7378_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019253/2022-02-26T13:34:38.293Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/too.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/too.ttl>.

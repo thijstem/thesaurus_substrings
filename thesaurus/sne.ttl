@@ -1,0 +1,96 @@
+<https://stad.gent/id/concept/570016162/2022-03-11T02:46:10.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:46:10.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4126_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtdichte apparaten die worden gebruikt voor snelkoken of het goed houden van voeding door middel van verhitte stoom onder druk. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snelkookpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4126_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016162/2022-03-11T02:46:10.963Z>.
+<https://stad.gent/id/concept/570015962/2022-03-11T02:41:54.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:41:54.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4159_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snelheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4159_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015962/2022-03-11T02:41:54.334Z>.
+<https://stad.gent/id/concept/670001681/2022-02-26T18:06:38.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:06:38.338Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5434_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Snepdijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5434_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001681/2022-02-26T18:06:38.338Z>.
+<https://stad.gent/id/concept/670001682/2022-02-26T18:06:43.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:06:43.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5434_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Snepkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5434_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001682/2022-02-26T18:06:43.341Z>.
+<https://stad.gent/id/concept/670001505/2022-02-26T17:51:57.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:51:57.633Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5539_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Snellaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5539_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001505/2022-02-26T17:51:57.633Z>.
+<https://stad.gent/id/concept/670001506/2022-02-26T17:52:02.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:52:02.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5539_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Snepbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5539_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001506/2022-02-26T17:52:02.635Z>.
+<https://stad.gent/id/concept/670001005/2022-02-26T17:26:02.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:26:02.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5725_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sneppenbrugstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5725_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001005/2022-02-26T17:26:02.339Z>.
+<https://stad.gent/id/concept/570016162/2022-02-26T12:10:29.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:10:29.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7981_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtdichte apparaten die worden gebruikt voor snelkoken of het goed houden van voeding door middel van verhitte stoom onder druk. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snelkookpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7981_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016162/2022-02-26T12:10:29.160Z>.
+<https://stad.gent/id/concept/570015962/2022-02-26T12:06:12.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:06:12.327Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8011_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snelheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8011_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015962/2022-02-26T12:06:12.327Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sne.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sne.ttl>.

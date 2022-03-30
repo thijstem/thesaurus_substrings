@@ -1,0 +1,234 @@
+<https://stad.gent/id/concept/570014717/2022-03-11T02:13:52.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:13:52.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4357_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaardmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4357_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014717/2022-03-11T02:13:52.921Z>.
+<https://stad.gent/id/concept/570013985/2022-03-11T01:55:39.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:55:39.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164491>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4489_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden met een grote, rechtopstaande post en een verschuifbare dwarsbalk, die op verschillende hoogtes kan worden ingesteld, met pinnen waaraan kaarten kunnen worden opgehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarthouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4489_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013985/2022-03-11T01:55:39.986Z>.
+<https://stad.gent/id/concept/570009090/2022-03-11T00:27:01.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:27:01.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5122_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het voorbereiden van relatief korte vezels om te spinnen, door ze te reinigen, te ontwarren en samen te voegen met behulp van een kaard.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5122_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009090/2022-03-11T00:27:01.678Z>.
+<https://stad.gent/id/concept/570008562/2022-03-11T00:08:37.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:08:37.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5251_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaartje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5251_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008562/2022-03-11T00:08:37.579Z>.
+<https://stad.gent/id/concept/670000316/2022-02-26T16:32:09.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:32:09.999Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6112_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6112_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000316/2022-02-26T16:32:09.999Z>.
+<https://stad.gent/id/concept/570025010/2022-02-26T16:00:36.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:00:36.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6337_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsengieterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6337_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025010/2022-02-26T16:00:36.543Z>.
+<https://stad.gent/id/concept/570024529/2022-02-26T15:42:07.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:42:07.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6469_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kegelvormige instrumenten die worden gebruikt om vlammen te doven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsendover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6469_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024529/2022-02-26T15:42:07.547Z>.
+<https://stad.gent/id/concept/570024477/2022-02-26T15:39:16.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:39:16.155Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6490_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6490_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024477/2022-02-26T15:39:16.155Z>.
+<https://stad.gent/id/concept/570024397/2022-02-26T15:34:49.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:34:49.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6520_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machine om vezels te kaarden (ontwarren en evenwijdig leggen), bestaande uit twee beklede oppervlaktes die differentiaal over elkaar bewegen en waartussen de vezels worden getrokken om ze te ontwarren en de individuele vezels terug samen te voegen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6520_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024397/2022-02-26T15:34:49.068Z>.
+<https://stad.gent/id/concept/570023823/2022-02-26T15:06:30.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023823>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:06:30.144Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6724_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het afknippen van de pitten van kaarsen en lampen om het uiteinde van de pit gelijkmatig te maken en schoon te houden; meestal in de vorm van scharen met een doosvormig bakje aan een blad om de afgeknipte eindjes van de verkoolde pit op te vangen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarssnuiter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6724_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023823"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023823/2022-02-26T15:06:30.144Z>.
+<https://stad.gent/id/concept/570022786/2022-02-26T14:23:24.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:23:24.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7030_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaartlezer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7030_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022786/2022-02-26T14:23:24.097Z>.
+<https://stad.gent/id/concept/570022750/2022-02-26T14:21:33.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:21:33.346Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7045_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Cilinders waarin de onderkant van de kaars kan worden gestoken om deze rechtop te laten staan. Ze kunnen kort zijn om alleen het uiteinde van de kaars vast te houden, of verlengd, in de vorm van een buis, om het grootste deel van de kaars vast te houden, met een instrument om de kaars op te tillen terwijl deze brandt. Is te vinden op kaarsenstandaards en kandelaars en op muurkandelaars en kroonluchters. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarshouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7045_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022750/2022-02-26T14:21:33.346Z>.
+<https://stad.gent/id/concept/570019438/2022-02-26T13:43:11.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:43:11.713Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191227>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7318_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaartspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7318_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019438"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019438/2022-02-26T13:43:11.713Z>.
+<https://stad.gent/id/concept/570019104/2022-02-26T13:28:56.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:28:56.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037654>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7420_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, cilindervormige massa, meestal van kaarsvet of was, met een pit of losjes gedraaide linnen of katoenen draden, die worden aangestoken om licht te geven. Ze worden gegoten of getrokken in een metalen mal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7420_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019104/2022-02-26T13:28:56.125Z>.
+<https://stad.gent/id/concept/570018808/2022-02-26T13:14:19.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:14:19.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7525_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaalsoort"@nl, "document type"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7525_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018808/2022-02-26T13:14:19.809Z>.
+<https://stad.gent/id/concept/570017859/2022-02-26T13:06:36.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:06:36.663Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7579_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaartruitertje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7579_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017859/2022-02-26T13:06:36.663Z>.
+<https://stad.gent/id/concept/570017129/2022-02-26T12:43:05.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:43:05.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7747_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsverlichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7747_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017129/2022-02-26T12:43:05.679Z>.
+<https://stad.gent/id/concept/570014717/2022-02-26T11:38:16.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:38:16.176Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8212_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaardmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8212_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014717/2022-02-26T11:38:16.176Z>.
+<https://stad.gent/id/concept/570013985/2022-02-26T11:20:04.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:20:04.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164491>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8341_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden met een grote, rechtopstaande post en een verschuifbare dwarsbalk, die op verschillende hoogtes kan worden ingesteld, met pinnen waaraan kaarten kunnen worden opgehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarthouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8341_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013985/2022-02-26T11:20:04.052Z>.
+<https://stad.gent/id/concept/570009090/2022-02-26T09:51:30.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:51:30.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8974_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het voorbereiden van relatief korte vezels om te spinnen, door ze te reinigen, te ontwarren en samen te voegen met behulp van een kaard.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8974_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009090/2022-02-26T09:51:30.040Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kaar.ttl> <https://w3id.org/tree#relation> _:df_1_2537.
+_:df_1_2537 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kaart.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kaart".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kaar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kaar.ttl>.

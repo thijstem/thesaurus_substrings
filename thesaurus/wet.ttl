@@ -1,0 +1,138 @@
+<https://stad.gent/id/concept/570019960/2022-03-11T04:36:14.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:36:14.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3343_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019960/2022-03-11T04:36:14.001Z>.
+<https://stad.gent/id/concept/570017748/2022-03-11T03:40:02.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:40:02.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3745_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetenschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3745_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017748/2022-03-11T03:40:02.756Z>.
+<https://stad.gent/id/concept/570016906/2022-03-11T03:10:14.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:10:14.406Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetplankje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016906/2022-03-11T03:10:14.406Z>.
+<https://stad.gent/id/concept/570013987/2022-03-11T01:55:44.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:55:44.988Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4486_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4486_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013987/2022-03-11T01:55:44.988Z>.
+<https://stad.gent/id/concept/570009315/2022-03-11T00:36:35.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:36:35.066Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5053_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5053_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009315/2022-03-11T00:36:35.066Z>.
+<https://stad.gent/id/concept/570019960/2022-02-26T14:00:14.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:00:14.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7195_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_7195_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019960/2022-02-26T14:00:14.409Z>.
+<https://stad.gent/id/concept/570017748/2022-02-26T13:04:04.382Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017748>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:04.382Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7597_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetenschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7597_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017748"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017748/2022-02-26T13:04:04.382Z>.
+<https://stad.gent/id/concept/570016906/2022-02-26T12:34:32.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:34:32.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7810_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetplankje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7810_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016906/2022-02-26T12:34:32.065Z>.
+<https://stad.gent/id/concept/570013987/2022-02-26T11:20:09.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:20:09.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8341_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8341_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013987/2022-02-26T11:20:09.054Z>.
+<https://stad.gent/id/concept/570009315/2022-02-26T10:01:00.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:01:00.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8905_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8905_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009315/2022-02-26T10:01:00.461Z>.
+<https://stad.gent/id/concept/570006019/2022-02-26T09:15:50.691Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:15:50.691Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9229_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetenschappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9229_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006019/2022-02-26T09:15:50.691Z>.
+<https://stad.gent/id/concept/570000170/2022-02-26T08:51:08.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:51:08.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9406_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetzlar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_9406_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000170/2022-02-26T08:51:08.798Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wet.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wet.ttl>.

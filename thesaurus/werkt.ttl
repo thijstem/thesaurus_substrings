@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570008218/2022-02-26T09:28:35.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:28:35.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q39546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9139_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9139_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008218/2022-02-26T09:28:35.361Z>.
+<https://stad.gent/id/concept/570003673/2022-02-26T09:08:47.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:47.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q101333>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9280_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003673/2022-02-26T09:08:47.789Z>.
+<https://stad.gent/id/concept/570000046/2022-02-26T08:48:53.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:48:53.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054504>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9421_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werktuigbouwkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9421_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000046/2022-02-26T08:48:53.102Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/werkt.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/werkt.ttl>.

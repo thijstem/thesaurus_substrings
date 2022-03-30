@@ -1,0 +1,127 @@
+<https://stad.gent/id/concept/570024469/2022-03-13T00:20:06.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:20:06.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1345_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024469/2022-03-13T00:20:06.324Z>.
+<https://stad.gent/id/concept/670000738/2022-03-11T07:40:57.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:40:57.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2023_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000738/2022-03-11T07:40:57.484Z>.
+<https://stad.gent/id/concept/670000696/2022-03-11T07:37:31.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:37:31.098Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2047_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reeks 535"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2047_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000696/2022-03-11T07:37:31.098Z>.
+<https://stad.gent/id/concept/570024469/2022-03-11T06:15:01.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:15:01.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2638_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2638_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024469/2022-03-11T06:15:01.818Z>.
+<https://stad.gent/id/concept/570016678/2022-03-11T03:01:32.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:01:32.723Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reedschakelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4018_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016678/2022-03-11T03:01:32.723Z>.
+<https://stad.gent/id/concept/570008913/2022-03-11T00:21:02.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:21:02.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5164_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_5164_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008913/2022-03-11T00:21:02.746Z>.
+<https://stad.gent/id/concept/670000738/2022-02-26T17:04:48.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:04:48.847Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5878_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5878_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000738/2022-02-26T17:04:48.847Z>.
+<https://stad.gent/id/concept/670000696/2022-02-26T17:01:22.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:01:22.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5902_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reeks 535"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5902_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000696/2022-02-26T17:01:22.414Z>.
+<https://stad.gent/id/concept/570024469/2022-02-26T15:39:01.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:39:01.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251562>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6490_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_6490_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024469/2022-02-26T15:39:01.151Z>.
+<https://stad.gent/id/concept/570016678/2022-02-26T12:25:52.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:25:52.491Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7870_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reedschakelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7870_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016678/2022-02-26T12:25:52.491Z>.
+<https://stad.gent/id/concept/570008913/2022-02-26T09:45:32.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:32.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9016_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_9016_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008913/2022-02-26T09:45:32.141Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ree.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ree.ttl>.

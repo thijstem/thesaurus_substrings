@@ -1,0 +1,172 @@
+<https://stad.gent/id/concept/670001482/2022-03-11T08:25:52.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:25:52.446Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rietgracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1702_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001482/2022-03-11T08:25:52.446Z>.
+<https://stad.gent/id/concept/570024323/2022-03-11T06:06:38.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:06:38.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemenhaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2698_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024323/2022-03-11T06:06:38.529Z>.
+<https://stad.gent/id/concept/570019487/2022-03-11T04:21:46.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:21:46.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014690>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3445_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3445_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019487/2022-03-11T04:21:46.520Z>.
+<https://stad.gent/id/concept/570019008/2022-03-11T04:00:57.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:00:57.226Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3595_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemensnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3595_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019008/2022-03-11T04:00:57.226Z>.
+<https://stad.gent/id/concept/570017471/2022-03-11T03:28:54.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:28:54.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3823_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Buigzame banden die rond het middel of de heupen worden gedragen en meestal een soort sluiting hebben, bijvoorbeeld een gesp. Worden gedragen ter decoratie, steun of om geld, documenten of dergelijke te bevatten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3823_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017471/2022-03-11T03:28:54.601Z>.
+<https://stad.gent/id/concept/570015861/2022-03-11T02:39:03.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:39:03.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024574>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wielen met een groef in de zijkant waar een touw of kabel doorheen loopt; het geheel draait in een frame. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemschijven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015861/2022-03-11T02:39:03.368Z>.
+<https://stad.gent/id/concept/570013646/2022-03-11T01:50:33.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:50:33.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4525_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemensnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4525_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013646/2022-03-11T01:50:33.010Z>.
+<https://stad.gent/id/concept/570008859/2022-03-11T00:18:56.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:18:56.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4420094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5179_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rietgracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5179_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008859/2022-03-11T00:18:56.335Z>.
+<https://stad.gent/id/concept/670001482/2022-02-26T17:50:01.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:50:01.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5554_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rietgracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5554_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001482/2022-02-26T17:50:01.727Z>.
+<https://stad.gent/id/concept/570024323/2022-02-26T15:30:37.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:30:37.386Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6550_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemenhaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6550_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024323/2022-02-26T15:30:37.386Z>.
+<https://stad.gent/id/concept/570019487/2022-02-26T13:45:47.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:45:47.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014690>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7300_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7300_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019487/2022-02-26T13:45:47.778Z>.
+<https://stad.gent/id/concept/570019008/2022-02-26T13:24:59.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019008>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:24:59.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7447_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemensnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7447_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019008"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019008/2022-02-26T13:24:59.761Z>.
+<https://stad.gent/id/concept/570017471/2022-02-26T12:52:59.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:52:59.431Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7678_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Buigzame banden die rond het middel of de heupen worden gedragen en meestal een soort sluiting hebben, bijvoorbeeld een gesp. Worden gedragen ter decoratie, steun of om geld, documenten of dergelijke te bevatten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7678_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017471/2022-02-26T12:52:59.431Z>.
+<https://stad.gent/id/concept/570015861/2022-02-26T12:03:21.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:03:21.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024574>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8032_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wielen met een groef in de zijkant waar een touw of kabel doorheen loopt; het geheel draait in een frame. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemschijven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8032_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015861/2022-02-26T12:03:21.168Z>.
+<https://stad.gent/id/concept/570013646/2022-02-26T11:14:56.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:14:56.916Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8377_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemensnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8377_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013646/2022-02-26T11:14:56.916Z>.
+<https://stad.gent/id/concept/570008859/2022-02-26T09:43:26.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:43:26.504Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4420094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9031_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rietgracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9031_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008859/2022-02-26T09:43:26.504Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rie.ttl>.

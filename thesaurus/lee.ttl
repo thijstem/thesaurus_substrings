@@ -1,0 +1,245 @@
+<https://stad.gent/id/concept/670001293/2022-03-11T08:10:36.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:10:36.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q37226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1813_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerkracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1813_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001293/2022-03-11T08:10:36.647Z>.
+<https://stad.gent/id/concept/670000682/2022-03-11T07:36:20.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:36:20.450Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leestestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2056_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000682/2022-03-11T07:36:20.450Z>.
+<https://stad.gent/id/concept/670000557/2022-03-11T07:26:31.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:26:31.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2128_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeuwken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2128_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000557/2022-03-11T07:26:31.348Z>.
+<https://stad.gent/id/concept/670000342/2022-03-11T07:09:52.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:09:52.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2245_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leenheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2245_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000342/2022-03-11T07:09:52.770Z>.
+<https://stad.gent/id/concept/570024095/2022-03-11T05:54:05.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:54:05.200Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerlooierij en lederbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2788_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024095/2022-03-11T05:54:05.200Z>.
+<https://stad.gent/id/concept/570023221/2022-03-11T05:18:24.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:18:24.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025296>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3043_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerlooier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3043_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023221/2022-03-11T05:18:24.577Z>.
+<https://stad.gent/id/concept/570019750/2022-03-11T04:30:51.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:30:51.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeds"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_3382_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019750/2022-03-11T04:30:51.419Z>.
+<https://stad.gent/id/concept/570017102/2022-03-11T03:18:37.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:18:37.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022925>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3895_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017102"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017102/2022-03-11T03:18:37.485Z>.
+<https://stad.gent/id/concept/570014695/2022-03-11T02:13:22.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:13:22.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4360_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeuwarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4360_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014695/2022-03-11T02:13:22.653Z>.
+<https://stad.gent/id/concept/570009813/2022-03-11T00:49:06.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:49:06.208Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4963_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerdam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4963_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009813/2022-03-11T00:49:06.208Z>.
+<https://stad.gent/id/concept/570009512/2022-03-11T00:41:07.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:41:07.213Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q600134>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5020_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leergang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5020_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009512/2022-03-11T00:41:07.213Z>.
+<https://stad.gent/id/concept/570009262/2022-03-11T00:34:27.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:34:27.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5068_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken die bij uitstek worden gebruikt bij de studie van een bepaald onderwerp of een bepaalde wetenschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5068_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009262/2022-03-11T00:34:27.900Z>.
+<https://stad.gent/id/concept/570008322/2022-03-11T00:05:10.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:05:10.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5275_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5275_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008322/2022-03-11T00:05:10.853Z>.
+<https://stad.gent/id/concept/670001293/2022-02-26T17:34:30.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:34:30.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q37226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5665_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerkracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5665_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001293/2022-02-26T17:34:30.818Z>.
+<https://stad.gent/id/concept/670000682/2022-02-26T17:00:12.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:00:12.038Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5911_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leestestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5911_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000682/2022-02-26T17:00:12.038Z>.
+<https://stad.gent/id/concept/670000557/2022-02-26T16:50:23.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:50:23.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5980_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeuwken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5980_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000557/2022-02-26T16:50:23.249Z>.
+<https://stad.gent/id/concept/670000342/2022-02-26T16:33:45.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:33:45.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6100_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leenheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6100_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000342/2022-02-26T16:33:45.863Z>.
+<https://stad.gent/id/concept/570024095/2022-02-26T15:18:05.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:05.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerlooierij en lederbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6640_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024095/2022-02-26T15:18:05.240Z>.
+<https://stad.gent/id/concept/570023221/2022-02-26T14:42:23.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:42:23.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025296>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6895_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerlooier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6895_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023221/2022-02-26T14:42:23.073Z>.
+<https://stad.gent/id/concept/570019750/2022-02-26T13:54:51.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:54:51.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7234_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeds"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_7234_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019750/2022-02-26T13:54:51.856Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lee.ttl> <https://w3id.org/tree#relation> _:df_1_2384.
+_:df_1_2384 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/lees.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "lees".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lee.ttl> <https://w3id.org/tree#relation> _:df_1_2385.
+_:df_1_2385 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/leeu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "leeu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lee.ttl> <https://w3id.org/tree#relation> _:df_1_2386.
+_:df_1_2386 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/leer.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "leer".
+<https://thijstem.github.io/substrings_coghent/thesaurus/lee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lee.ttl>.

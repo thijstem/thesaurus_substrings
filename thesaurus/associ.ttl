@@ -1,0 +1,131 @@
+<https://stad.gent/id/concept/570024722/2022-03-11T06:23:15.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:23:15.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het vakgebied dat zich bezighoudt met het gehele proces van het overbrengen van kennis, attitudes, vaardigheden of sociaal gewaardeerde karakter- of gedragseigenschappen. Gebruik 'opleiden' voor de specifieke activiteiten die betrekking hebben op het doelbewust overdragen van kennis, vaardigheden of sociale normen aan anderen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs en opleiding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570001874>, <https://stad.gent/id/concept/570009852>, <https://stad.gent/id/concept/570015259>, <https://stad.gent/id/concept/570020393>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020393> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielonderwijs"@nl.
+<https://stad.gent/id/concept/570015259> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenonderwijs"@nl.
+<https://stad.gent/id/concept/570009852> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs & schrijnwerk"@nl.
+<https://stad.gent/id/concept/570001874> <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsonderwijs"@nl.
+_:df_2578_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024722/2022-03-11T06:23:15.403Z>.
+<https://stad.gent/id/concept/570024692/2022-03-11T06:21:55.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:21:55.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeider"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2587_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024692/2022-03-11T06:21:55.131Z>.
+<https://stad.gent/id/concept/570024694/2022-03-11T06:22:00.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:22:00.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004346>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote eetruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eetzaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2587_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024694/2022-03-11T06:22:00.133Z>.
+<https://stad.gent/id/concept/570024637/2022-03-11T06:19:29.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:19:29.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q185925>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2605_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafisch ontwerp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2605_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024637/2022-03-11T06:19:29.005Z>.
+<https://stad.gent/id/concept/570024223/2022-03-11T06:01:36.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:01:36.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 21ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024221>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024221> <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl, "21ste eeuw"@nl.
+_:df_2734_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024223> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 21ste eeuw"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024223/2022-03-11T06:01:36.412Z>.
+<https://stad.gent/id/concept/570023483/2022-03-11T05:27:28.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:28.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "productie van kartonnen dozen en borden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kartonnage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2977_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023483/2022-03-11T05:27:28.141Z>.
+<https://stad.gent/id/concept/570023484/2022-03-11T05:27:33.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:33.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053207>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een fotomechanisch procédé voor diepdruk waarbij de metalen drukplaat wordt geprepareerd met behulp van een bichromaat procédé, waardoor een gelatinebestendige laag ontstaat van variërende dikte. De plaat wordt geëtst om cellen te vormen van variërende diepte die verschillende hoeveelheden inkt kunnen vasthouden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotogravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2977_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023484/2022-03-11T05:27:33.143Z>.
+<https://stad.gent/id/concept/570023470/2022-03-11T05:26:57.870Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:26:57.870Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2980_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2980_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023470/2022-03-11T05:26:57.870Z>.
+<https://stad.gent/id/concept/570023471/2022-03-11T05:27:02.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:02.872Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2980_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafische sector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2980_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023471/2022-03-11T05:27:02.872Z>.
+<https://stad.gent/id/concept/570023473/2022-03-11T05:27:07.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:27:07.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2980_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De opmaak van een tekst met behulp van elektronische en fotografische methoden. Afbeeldingen van letters van een bepaald lettertype worden van een film of schijf geprojecteerd op papier; zo wordt een pagina verkregen die wordt gebruikt voor de offsetplaat ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotozetten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2980_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023473/2022-03-11T05:27:07.874Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/associ.ttl> <https://w3id.org/tree#relation> _:df_1_1396.
+_:df_1_1396 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/associa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "associa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/associ.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/associ.ttl>.

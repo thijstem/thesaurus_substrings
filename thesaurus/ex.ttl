@@ -1,0 +1,78 @@
+<https://stad.gent/id/concept/670001376/2022-03-13T02:22:33.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:33.644Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_472_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Excelsior"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001376/2022-03-13T02:22:33.644Z>.
+<https://stad.gent/id/concept/670001376/2022-03-11T08:17:04.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:04.142Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1765_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Excelsior"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1765_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001376/2022-03-11T08:17:04.142Z>.
+<https://stad.gent/id/concept/570013076/2022-03-11T01:38:03.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:38:03.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q464980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4615_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "expo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4615_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013076/2022-03-11T01:38:03.403Z>.
+<https://stad.gent/id/concept/570011255/2022-03-11T01:12:36.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:12:36.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q74035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Expo 58"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004888>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004888> <http://www.w3.org/2004/02/skos/core#prefLabel> "wereldtentoonstelling"@nl.
+_:df_4795_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011255/2022-03-11T01:12:36.978Z>.
+<https://stad.gent/id/concept/670001376/2022-02-26T17:41:08.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:08.343Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5617_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Excelsior"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5617_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001376/2022-02-26T17:41:08.343Z>.
+<https://stad.gent/id/concept/570013076/2022-02-26T11:02:26.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:02:26.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q464980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8467_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "expo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8467_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013076/2022-02-26T11:02:26.627Z>.
+<https://stad.gent/id/concept/570011255/2022-02-26T10:36:58.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:36:58.564Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q74035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8650_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Expo 58"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004888>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004888> <http://www.w3.org/2004/02/skos/core#prefLabel> "wereldtentoonstelling"@nl.
+_:df_8650_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011255/2022-02-26T10:36:58.564Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ex.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ex.ttl>.

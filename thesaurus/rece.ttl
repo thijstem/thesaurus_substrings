@@ -1,0 +1,64 @@
+<https://stad.gent/id/concept/570014847/2022-03-11T02:17:24.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:17:24.549Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4333_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenbrochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4333_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014847/2022-03-11T02:17:24.549Z>.
+<https://stad.gent/id/concept/570009505/2022-03-11T00:40:52.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:40:52.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5023_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "recept"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5023_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009505/2022-03-11T00:40:52.206Z>.
+<https://stad.gent/id/concept/570009331/2022-03-11T00:37:30.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:37:30.452Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5047_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5047_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009331/2022-03-11T00:37:30.452Z>.
+<https://stad.gent/id/concept/570014847/2022-02-26T11:41:47.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:41:47.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8185_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenbrochure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8185_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014847/2022-02-26T11:41:47.701Z>.
+<https://stad.gent/id/concept/570009505/2022-02-26T10:05:16.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:05:16.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8875_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "recept"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8875_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009505/2022-02-26T10:05:16.942Z>.
+<https://stad.gent/id/concept/570009331/2022-02-26T10:01:55.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:01:55.749Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8899_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "receptenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8899_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009331/2022-02-26T10:01:55.749Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rece.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rece.ttl>.

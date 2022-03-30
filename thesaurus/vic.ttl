@@ -1,0 +1,70 @@
+<https://stad.gent/id/concept/670001247/2022-03-11T08:07:10.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:07:10.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q93351>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1837_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1837_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001247/2022-03-11T08:07:10.238Z>.
+<https://stad.gent/id/concept/670001018/2022-03-11T08:03:13.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:03:13.247Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1864_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Victor Frisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1864_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001018/2022-03-11T08:03:13.247Z>.
+<https://stad.gent/id/concept/570011393/2022-03-11T01:13:52.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:13:52.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4786_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_4786_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011393/2022-03-11T01:13:52.310Z>.
+<https://stad.gent/id/concept/670001247/2022-02-26T17:30:59.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:30:59.222Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q93351>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5689_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5689_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001247/2022-02-26T17:30:59.222Z>.
+<https://stad.gent/id/concept/670001018/2022-02-26T17:27:02.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:02.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5719_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Victor Frisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5719_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001018/2022-02-26T17:27:02.596Z>.
+<https://stad.gent/id/concept/570011393/2022-02-26T10:38:14.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:38:14.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8641_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vichy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_8641_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011393/2022-02-26T10:38:14.353Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vic.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vic.ttl>.

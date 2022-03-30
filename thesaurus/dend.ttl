@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/670000899/2022-02-26T17:17:39.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:17:39.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5785_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dendermondsesteenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5785_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000899/2022-02-26T17:17:39.258Z>.
+<https://stad.gent/id/concept/670000491/2022-02-26T16:45:06.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:45:06.325Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6019_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dendermonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6019_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000491/2022-02-26T16:45:06.325Z>.
+<https://stad.gent/id/concept/570023693/2022-02-26T14:59:31.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:59:31.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7249075>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6772_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Denderhoutem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6772_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023693/2022-02-26T14:59:31.959Z>.
+<https://stad.gent/id/concept/570006031/2022-02-26T09:16:00.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006031>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:16:00.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7007872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9229_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dendermonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_9229_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006031"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006031/2022-02-26T09:16:00.700Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/dend.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/dend.ttl>.

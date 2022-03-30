@@ -1,0 +1,142 @@
+<https://stad.gent/id/concept/570024753/2022-02-26T15:48:30.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:48:30.297Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6424_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden textielveredeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6424_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024753/2022-02-26T15:48:30.297Z>.
+<https://stad.gent/id/concept/570024714/2022-02-26T15:46:59.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:46:59.887Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6433_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden strijken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6433_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024714/2022-02-26T15:46:59.887Z>.
+<https://stad.gent/id/concept/570024496/2022-02-26T15:40:31.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:40:31.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6481_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden wassen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6481_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024496/2022-02-26T15:40:31.913Z>.
+<https://stad.gent/id/concept/570024483/2022-02-26T15:39:36.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:39:36.544Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6487_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden schoonmaken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6487_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024483/2022-02-26T15:39:36.544Z>.
+<https://stad.gent/id/concept/570024294/2022-02-26T15:28:56.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:56.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6562_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden transport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6562_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024294/2022-02-26T15:28:56.624Z>.
+<https://stad.gent/id/concept/570024297/2022-02-26T15:29:01.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:01.625Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6562_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden naaien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6562_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024297/2022-02-26T15:29:01.625Z>.
+<https://stad.gent/id/concept/570024299/2022-02-26T15:29:06.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:06.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6562_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden logistiek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6562_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024299/2022-02-26T15:29:06.627Z>.
+<https://stad.gent/id/concept/570024250/2022-02-26T15:26:35.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:26:35.624Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6580_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden drukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6580_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024250/2022-02-26T15:26:35.624Z>.
+<https://stad.gent/id/concept/570024120/2022-02-26T15:19:41.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:19:41.013Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6628_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden passementerie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6628_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024120/2022-02-26T15:19:41.013Z>.
+<https://stad.gent/id/concept/570024093/2022-02-26T15:18:00.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:00.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden hoedenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6640_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024093/2022-02-26T15:18:00.239Z>.
+<https://stad.gent/id/concept/570024096/2022-02-26T15:18:10.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:10.242Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden lederbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6640_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024096/2022-02-26T15:18:10.242Z>.
+<https://stad.gent/id/concept/570024087/2022-02-26T15:17:40.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:17:40.233Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6643_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6643_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024087/2022-02-26T15:17:40.233Z>.
+<https://stad.gent/id/concept/570024090/2022-02-26T15:17:50.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:17:50.236Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6643_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6643_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024090/2022-02-26T15:17:50.236Z>.
+<https://stad.gent/id/concept/570023503/2022-02-26T14:52:28.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:52:28.780Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6823_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden bontbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6823_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023503/2022-02-26T14:52:28.780Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/benod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/benod.ttl>.

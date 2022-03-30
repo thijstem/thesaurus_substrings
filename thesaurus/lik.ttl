@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/570016970/2022-03-11T03:13:31.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:13:31.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q99304114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3931_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3931_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016970/2022-03-11T03:13:31.891Z>.
+<https://stad.gent/id/concept/570009163/2022-03-11T00:30:08.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:30:08.134Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5098_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5098_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009163/2022-03-11T00:30:08.134Z>.
+<https://stad.gent/id/concept/570016970/2022-02-26T12:37:48.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:37:48.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q99304114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7786_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7786_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016970/2022-02-26T12:37:48.435Z>.
+<https://stad.gent/id/concept/570009163/2022-02-26T09:54:37.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:37.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8953_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "likeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8953_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009163/2022-02-26T09:54:37.407Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lik.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lik.ttl>.

@@ -1,0 +1,67 @@
+<https://stad.gent/id/concept/570010164/2022-03-11T00:58:49.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:58:49.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4894_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maalderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4894_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010164/2022-03-11T00:58:49.753Z>.
+<https://stad.gent/id/concept/570010165/2022-03-11T00:58:54.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:58:54.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1543947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4894_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maalsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4894_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010165/2022-03-11T00:58:54.755Z>.
+<https://stad.gent/id/concept/670001617/2022-02-26T18:01:21.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:01:21.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3234>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5473_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaltebruggestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5473_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001617/2022-02-26T18:01:21.151Z>.
+<https://stad.gent/id/concept/570023340/2022-02-26T14:48:46.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:48:46.904Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6850_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maalbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6850_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023340/2022-02-26T14:48:46.904Z>.
+<https://stad.gent/id/concept/570010164/2022-02-26T10:23:13.371Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:23:13.371Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8746_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maalderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8746_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010164/2022-02-26T10:23:13.371Z>.
+<https://stad.gent/id/concept/570010165/2022-02-26T10:23:18.373Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:23:18.373Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1543947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8746_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maalsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8746_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010165/2022-02-26T10:23:18.373Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/maal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/maal.ttl>.

@@ -1,0 +1,196 @@
+<https://stad.gent/id/concept/670001585/2022-03-11T08:34:30.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:34:30.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3180>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Forelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1642_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001585/2022-03-11T08:34:30.548Z>.
+<https://stad.gent/id/concept/670000527/2022-03-11T07:24:09.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:24:09.741Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortuijntje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2143_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000527/2022-03-11T07:24:09.741Z>.
+<https://stad.gent/id/concept/670000528/2022-03-11T07:24:14.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:24:14.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortune"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2143_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000528/2022-03-11T07:24:14.743Z>.
+<https://stad.gent/id/concept/570018967/2022-03-11T03:58:31.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:58:31.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "forex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3613_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018967/2022-03-11T03:58:31.257Z>.
+<https://stad.gent/id/concept/570017776/2022-03-11T03:40:38.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:40:38.112Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toestel dat wordt gebruikt om op te koken. het fornuis ontwikkelde zich vanuit een kachel waarop eveneens kon worden gekookt. Later kwam de mogelijkheid om meerdere gerechten tegelijkertijd te koken. Tegenwoordig spreekt men in het algemeen over een fornuis als het een combinatie van een aantal kookpitten en een oven betreft. Er bestaan o.a. kolen-, gas- en elektrische fornuizen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3739_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017776/2022-03-11T03:40:38.112Z>.
+<https://stad.gent/id/concept/570016543/2022-03-11T02:57:20.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:57:20.584Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4048_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fort Worth (Texas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_4048_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016543/2022-03-11T02:57:20.584Z>.
+<https://stad.gent/id/concept/570014784/2022-03-11T02:16:24.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:16:24.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4339_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "formule"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4339_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014784/2022-03-11T02:16:24.083Z>.
+<https://stad.gent/id/concept/570011874/2022-03-11T01:18:14.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:18:14.316Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4756_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ford ( auto's )"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4756_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011874/2022-03-11T01:18:14.316Z>.
+<https://stad.gent/id/concept/570011199/2022-03-11T01:11:46.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:11:46.573Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4801_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4801_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011199/2022-03-11T01:11:46.573Z>.
+<https://stad.gent/id/concept/670001585/2022-02-26T17:58:40.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:58:40.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3180>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5491_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Forelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5491_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001585/2022-02-26T17:58:40.119Z>.
+<https://stad.gent/id/concept/670000527/2022-02-26T16:48:02.278Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:48:02.278Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortuijntje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5998_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000527/2022-02-26T16:48:02.278Z>.
+<https://stad.gent/id/concept/670000528/2022-02-26T16:48:07.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:48:07.279Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortune"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5998_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000528/2022-02-26T16:48:07.279Z>.
+<https://stad.gent/id/concept/570018967/2022-02-26T13:22:33.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:22:33.781Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7465_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "forex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7465_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018967/2022-02-26T13:22:33.781Z>.
+<https://stad.gent/id/concept/570017776/2022-02-26T13:04:39.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:39.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7594_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toestel dat wordt gebruikt om op te koken. het fornuis ontwikkelde zich vanuit een kachel waarop eveneens kon worden gekookt. Later kwam de mogelijkheid om meerdere gerechten tegelijkertijd te koken. Tegenwoordig spreekt men in het algemeen over een fornuis als het een combinatie van een aantal kookpitten en een oven betreft. Er bestaan o.a. kolen-, gas- en elektrische fornuizen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7594_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017776/2022-02-26T13:04:39.397Z>.
+<https://stad.gent/id/concept/570016543/2022-02-26T12:21:39.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:21:39.666Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7900_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fort Worth (Texas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_7900_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016543/2022-02-26T12:21:39.666Z>.
+<https://stad.gent/id/concept/570014784/2022-02-26T11:40:47.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:40:47.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8194_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "formule"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8194_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014784/2022-02-26T11:40:47.192Z>.
+<https://stad.gent/id/concept/570011874/2022-02-26T10:42:35.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:42:35.949Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8608_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ford ( auto's )"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8608_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011874/2022-02-26T10:42:35.949Z>.
+<https://stad.gent/id/concept/570011199/2022-02-26T10:36:08.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:36:08.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8656_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8656_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011199/2022-02-26T10:36:08.177Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/for.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/for.ttl>.

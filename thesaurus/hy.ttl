@@ -1,0 +1,97 @@
+<https://stad.gent/id/concept/670001411/2022-03-11T08:19:55.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:19:55.233Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hye-de Crom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1744_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001411/2022-03-11T08:19:55.233Z>.
+<https://stad.gent/id/concept/570022918/2022-03-11T05:03:46.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:03:46.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300426350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3145_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hyfrecator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3145_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022918/2022-03-11T05:03:46.051Z>.
+<https://stad.gent/id/concept/570017011/2022-03-11T03:15:48.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:15:48.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3916_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydrometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3916_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017011/2022-03-11T03:15:48.727Z>.
+<https://stad.gent/id/concept/570012916/2022-03-11T01:34:26.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:34:26.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2318337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4639_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische cilinders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4639_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012916/2022-03-11T01:34:26.478Z>.
+<https://stad.gent/id/concept/670001411/2022-02-26T17:44:04.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:04.392Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5596_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hye-de Crom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5596_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001411/2022-02-26T17:44:04.392Z>.
+<https://stad.gent/id/concept/570022918/2022-02-26T14:27:45.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:27:45.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300426350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7000_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hyfrecator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7000_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022918/2022-02-26T14:27:45.789Z>.
+<https://stad.gent/id/concept/570017011/2022-02-26T12:40:04.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:40:04.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7768_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydrometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7768_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017011/2022-02-26T12:40:04.434Z>.
+<https://stad.gent/id/concept/570012916/2022-02-26T10:58:49.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:58:49.948Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2318337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8494_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydraulische cilinders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8494_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012916/2022-02-26T10:58:49.948Z>.
+<https://stad.gent/id/concept/570001373/2022-02-26T08:59:22.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:59:22.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9346_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hygiëne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9346_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001373/2022-02-26T08:59:22.708Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hy.ttl>.

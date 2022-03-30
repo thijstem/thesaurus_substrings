@@ -1,0 +1,119 @@
+<https://stad.gent/id/concept/570020361/2022-03-11T04:43:01.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:43:01.717Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3295_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijvel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_3295_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020361/2022-03-11T04:43:01.717Z>.
+<https://stad.gent/id/concept/570017708/2022-03-11T03:38:11.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:38:11.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7031832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3757_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijmegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3757_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017708/2022-03-11T03:38:11.961Z>.
+<https://stad.gent/id/concept/570010014/2022-03-11T00:53:32.912Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:53:32.912Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4933_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nijverheidstentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4933_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010014/2022-03-11T00:53:32.912Z>.
+<https://stad.gent/id/concept/570009593/2022-03-11T00:43:33.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:33.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5002_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009593/2022-03-11T00:43:33.488Z>.
+<https://stad.gent/id/concept/670001630/2022-02-26T18:02:26.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:02:26.550Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5464_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijverheidskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5464_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001630/2022-02-26T18:02:26.550Z>.
+<https://stad.gent/id/concept/670001246/2022-02-26T17:30:53.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:30:53.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q319463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5692_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijvel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5692_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001246/2022-02-26T17:30:53.782Z>.
+<https://stad.gent/id/concept/570020361/2022-02-26T14:07:02.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:07:02.115Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7147_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijvel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_7147_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020361/2022-02-26T14:07:02.115Z>.
+<https://stad.gent/id/concept/570017708/2022-02-26T13:02:13.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:02:13.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7031832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7612_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijmegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_7612_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017708/2022-02-26T13:02:13.219Z>.
+<https://stad.gent/id/concept/570010014/2022-02-26T10:17:56.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:17:56.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8785_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nijverheidstentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8785_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010014/2022-02-26T10:17:56.557Z>.
+<https://stad.gent/id/concept/570009593/2022-02-26T10:07:57.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:57.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8857_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8857_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009593/2022-02-26T10:07:57.934Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nij.ttl>.

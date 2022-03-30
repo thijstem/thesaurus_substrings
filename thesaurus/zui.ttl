@@ -1,0 +1,85 @@
+<https://stad.gent/id/concept/670000829/2022-02-26T17:12:21.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:12:21.723Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2996>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5824_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuivelbrugstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5824_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000829/2022-02-26T17:12:21.723Z>.
+<https://stad.gent/id/concept/570020401/2022-02-26T14:07:42.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:07:42.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7144_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7144_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020401/2022-02-26T14:07:42.129Z>.
+<https://stad.gent/id/concept/570017382/2022-02-26T12:49:08.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:49:08.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7705_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuigfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7705_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017382/2022-02-26T12:49:08.077Z>.
+<https://stad.gent/id/concept/570008907/2022-02-26T09:45:07.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:07.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12012980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9019_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuidpark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9019_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008907/2022-02-26T09:45:07.133Z>.
+<https://stad.gent/id/concept/570007868/2022-02-26T09:26:34.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:26:34.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q185217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9151_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuivel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011632>, <https://stad.gent/id/concept/570010842>, <https://stad.gent/id/concept/570010840>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010840> <http://www.w3.org/2004/02/skos/core#prefLabel> "melk"@nl.
+<https://stad.gent/id/concept/570010842> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaas"@nl.
+<https://stad.gent/id/concept/570011632> <http://www.w3.org/2004/02/skos/core#prefLabel> "boter"@nl.
+_:df_9151_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007868/2022-02-26T09:26:34.730Z>.
+<https://stad.gent/id/concept/570004637/2022-02-26T09:11:18.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:18.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000193>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9262_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Afrika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570014260>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014260> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pretoria"@nl.
+_:df_9262_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004637/2022-02-26T09:11:18.752Z>.
+<https://stad.gent/id/concept/570002344/2022-02-26T09:05:06.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:05:06.348Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9307_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Korea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9307_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002344/2022-02-26T09:05:06.348Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/zui.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/zui.ttl>.

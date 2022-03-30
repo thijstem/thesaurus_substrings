@@ -1,0 +1,90 @@
+<https://stad.gent/id/concept/570019451/2022-03-11T04:20:00.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:20:00.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q65546963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3460_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3460_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019451/2022-03-11T04:20:00.528Z>.
+<https://stad.gent/id/concept/570016985/2022-03-11T03:14:27.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:27.632Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schalen om echt of kunstfruit op te leggen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016985/2022-03-11T03:14:27.632Z>.
+<https://stad.gent/id/concept/570015103/2022-03-11T02:23:54.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:23:54.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5506416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4285_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitsiroop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4285_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015103/2022-03-11T02:23:54.840Z>.
+<https://stad.gent/id/concept/570014944/2022-03-11T02:20:25.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:20:25.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4312_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4312_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014944/2022-03-11T02:20:25.930Z>.
+<https://stad.gent/id/concept/570019451/2022-02-26T13:44:02.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:44:02.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q65546963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7312_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7312_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019451/2022-02-26T13:44:02.109Z>.
+<https://stad.gent/id/concept/570016985/2022-02-26T12:38:43.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:38:43.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7780_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schalen om echt of kunstfruit op te leggen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7780_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016985/2022-02-26T12:38:43.745Z>.
+<https://stad.gent/id/concept/570015103/2022-02-26T11:48:14.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:48:14.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5506416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8140_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitsiroop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8140_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015103/2022-02-26T11:48:14.927Z>.
+<https://stad.gent/id/concept/570014944/2022-02-26T11:44:48.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:44:48.659Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8164_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8164_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014944/2022-02-26T11:44:48.659Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fru.ttl>.

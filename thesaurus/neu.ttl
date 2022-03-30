@@ -1,0 +1,130 @@
+<https://stad.gent/id/concept/570016884/2022-03-11T03:09:23.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:23.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3961_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuruppin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3961_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016884/2022-03-11T03:09:23.705Z>.
+<https://stad.gent/id/concept/570016813/2022-03-11T03:07:06.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:07:06.541Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3979_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuchâtel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl, "Zwitserland"@nl.
+_:df_3979_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016813/2022-03-11T03:07:06.541Z>.
+<https://stad.gent/id/concept/570008540/2022-03-11T00:08:07.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:08:07.266Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009402>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5254_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuilly-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_5254_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008540/2022-03-11T00:08:07.266Z>.
+<https://stad.gent/id/concept/570024701/2022-02-26T15:46:04.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:46:04.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6439_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neukirchen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6439_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024701/2022-02-26T15:46:04.398Z>.
+<https://stad.gent/id/concept/570023817/2022-02-26T15:06:15.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:06:15.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6724_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neu-Ulm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_6724_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023817/2022-02-26T15:06:15.139Z>.
+<https://stad.gent/id/concept/570023714/2022-02-26T15:00:37.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:00:37.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6766_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6766_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023714/2022-02-26T15:00:37.398Z>.
+<https://stad.gent/id/concept/570016884/2022-02-26T12:33:41.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:33:41.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuruppin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7816_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016884/2022-02-26T12:33:41.682Z>.
+<https://stad.gent/id/concept/570016813/2022-02-26T12:31:26.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:31:26.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7831_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuchâtel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_7831_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016813/2022-02-26T12:31:26.034Z>.
+<https://stad.gent/id/concept/570008540/2022-02-26T09:32:41.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:41.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009402>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9109_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuilly-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_9109_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008540/2022-02-26T09:32:41.959Z>.
+<https://stad.gent/id/concept/570004541/2022-02-26T09:11:08.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:08.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9262_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "neus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9262_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004541/2022-02-26T09:11:08.748Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/neu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/neu.ttl>.

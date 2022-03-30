@@ -1,0 +1,48 @@
+<https://stad.gent/id/concept/570024280/2022-02-26T15:28:21.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:21.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q378499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6568_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optische telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012269> <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl, "telegrafie"@nl.
+_:df_6568_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024280/2022-02-26T15:28:21.337Z>.
+<https://stad.gent/id/concept/570022741/2022-02-26T14:21:03.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:21:03.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7048_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optica"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7048_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022741/2022-02-26T14:21:03.040Z>.
+<https://stad.gent/id/concept/570017516/2022-02-26T12:54:55.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:54:55.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7663_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optische instrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7663_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017516/2022-02-26T12:54:55.465Z>.
+<https://stad.gent/id/concept/570008803/2022-02-26T09:41:35.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:35.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9046_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optochten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9046_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008803/2022-02-26T09:41:35.600Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/opt.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/opt.ttl>.

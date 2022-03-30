@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/670001359/2022-03-11T08:15:43.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:15:43.595Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Vier Gekroonden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001359/2022-03-11T08:15:43.595Z>.
+<https://stad.gent/id/concept/670001360/2022-03-11T08:15:48.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:15:48.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Vier Heemskinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001360/2022-03-11T08:15:48.596Z>.
+<https://stad.gent/id/concept/670001360/2022-02-26T17:39:47.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:39:47.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5626_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Vier Heemskinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5626_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001360/2022-02-26T17:39:47.766Z>.
+<https://stad.gent/id/concept/670001359/2022-02-26T17:39:42.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:39:42.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Vier Gekroonden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5629_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001359/2022-02-26T17:39:42.765Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/de+v.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/de+v.ttl>.

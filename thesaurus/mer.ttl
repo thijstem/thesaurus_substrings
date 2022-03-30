@@ -1,0 +1,263 @@
+<https://stad.gent/id/concept/570025095/2022-03-13T00:46:20.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:46:20.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7252109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1159_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merlemont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_1159_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025095/2022-03-13T00:46:20.063Z>.
+<https://stad.gent/id/concept/570024995/2022-03-13T00:41:01.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:41:01.796Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252125>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1195_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merendree"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1195_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024995/2022-03-13T00:41:01.796Z>.
+<https://stad.gent/id/concept/570024378/2022-03-13T00:14:44.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:14:44.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q740777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merchandising"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1384_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024378/2022-03-13T00:14:44.323Z>.
+<https://stad.gent/id/concept/570025095/2022-03-11T06:41:14.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:41:14.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7252109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2449_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merlemont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_2449_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025095/2022-03-11T06:41:14.494Z>.
+<https://stad.gent/id/concept/570024995/2022-03-11T06:35:56.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:35:56.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252125>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2488_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merendree"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_2488_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024995/2022-03-11T06:35:56.879Z>.
+<https://stad.gent/id/concept/570024378/2022-03-11T06:09:39.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:39.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q740777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2677_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merchandising"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2677_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024378/2022-03-11T06:09:39.889Z>.
+<https://stad.gent/id/concept/570023336/2022-03-11T05:24:36.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:24:36.946Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merxem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2998_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023336/2022-03-11T05:24:36.946Z>.
+<https://stad.gent/id/concept/570023199/2022-03-11T05:16:58.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:16:58.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3052_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merchtem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_3052_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023199/2022-03-11T05:16:58.722Z>.
+<https://stad.gent/id/concept/570022996/2022-03-11T05:07:27.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:07:27.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1034361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3121_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3121_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022996/2022-03-11T05:07:27.534Z>.
+<https://stad.gent/id/concept/570019763/2022-03-11T04:31:21.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:31:21.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meran"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3379_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019763/2022-03-11T04:31:21.700Z>.
+<https://stad.gent/id/concept/570017719/2022-03-11T03:38:36.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:38:36.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300343372>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3754_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merknaam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3754_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017719/2022-03-11T03:38:36.971Z>.
+<https://stad.gent/id/concept/570010446/2022-03-11T01:03:52.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:52.020Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4858_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merksem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_4858_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010446/2022-03-11T01:03:52.020Z>.
+<https://stad.gent/id/concept/570025095/2022-02-26T16:05:13.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:05:13.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7252109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6304_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merlemont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_6304_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025095/2022-02-26T16:05:13.167Z>.
+<https://stad.gent/id/concept/570024995/2022-02-26T15:59:56.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:59:56.099Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252125>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6340_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merendree"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6340_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024995/2022-02-26T15:59:56.099Z>.
+<https://stad.gent/id/concept/570024378/2022-02-26T15:33:38.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:33:38.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q740777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merchandising"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6529_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024378/2022-02-26T15:33:38.729Z>.
+<https://stad.gent/id/concept/570023336/2022-02-26T14:48:36.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:48:36.901Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6850_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merxem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6850_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023336/2022-02-26T14:48:36.901Z>.
+<https://stad.gent/id/concept/570023199/2022-02-26T14:40:57.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:40:57.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6904_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merchtem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_6904_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023199/2022-02-26T14:40:57.450Z>.
+<https://stad.gent/id/concept/570022996/2022-02-26T14:31:28.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:31:28.725Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1034361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6973_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Merville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_6973_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022996/2022-02-26T14:31:28.725Z>.
+<https://stad.gent/id/concept/570019763/2022-02-26T13:55:22.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:55:22.212Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7231_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meran"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_7231_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019763/2022-02-26T13:55:22.212Z>.
+<https://stad.gent/id/concept/570017719/2022-02-26T13:02:38.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:02:38.640Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300343372>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7609_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merknaam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7609_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017719/2022-02-26T13:02:38.640Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mer.ttl> <https://w3id.org/tree#relation> _:df_1_2500.
+_:df_1_2500 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/merk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "merk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mer.ttl> <https://w3id.org/tree#relation> _:df_1_2501.
+_:df_1_2501 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mere.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mere".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mer.ttl>.

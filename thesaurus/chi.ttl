@@ -1,0 +1,139 @@
+<https://stad.gent/id/concept/570016879/2022-03-11T03:09:12.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:12.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000111>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3964_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "China"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016716>, <https://stad.gent/id/concept/570012485>, <https://stad.gent/id/concept/570019541>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zhejiang"@nl.
+<https://stad.gent/id/concept/570012485> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan"@nl.
+<https://stad.gent/id/concept/570016716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong"@nl.
+_:df_3964_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016879/2022-03-11T03:09:12.745Z>.
+<https://stad.gent/id/concept/570016802/2022-03-11T03:06:25.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:06:25.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3982_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiny"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_3982_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016802/2022-03-11T03:06:25.938Z>.
+<https://stad.gent/id/concept/570016529/2022-03-11T02:56:50.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:56:50.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4051_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago (Illinois)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_4051_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016529/2022-03-11T02:56:50.576Z>.
+<https://stad.gent/id/concept/570008875/2022-03-11T00:19:16.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:19:16.348Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q158514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5176_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chicorei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5176_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008875/2022-03-11T00:19:16.348Z>.
+<https://stad.gent/id/concept/670000271/2022-02-26T16:28:38.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:28:38.658Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6136_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6136_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000271/2022-02-26T16:28:38.658Z>.
+<https://stad.gent/id/concept/670000272/2022-02-26T16:28:43.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:28:43.660Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6136_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn-barbier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6136_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000272/2022-02-26T16:28:43.660Z>.
+<https://stad.gent/id/concept/570023620/2022-02-26T14:56:35.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:56:35.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6793_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6793_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023620/2022-02-26T14:56:35.977Z>.
+<https://stad.gent/id/concept/570016879/2022-02-26T12:33:31.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:33:31.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000111>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "China"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016716>, <https://stad.gent/id/concept/570012485>, <https://stad.gent/id/concept/570019541>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zhejiang"@nl.
+<https://stad.gent/id/concept/570012485> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan"@nl.
+<https://stad.gent/id/concept/570016716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong"@nl.
+_:df_7816_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016879/2022-02-26T12:33:31.679Z>.
+<https://stad.gent/id/concept/570016802/2022-02-26T12:30:45.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:30:45.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7837_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiny"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_7837_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016802/2022-02-26T12:30:45.743Z>.
+<https://stad.gent/id/concept/570016529/2022-02-26T12:21:09.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:21:09.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7903_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago (Illinois)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_7903_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016529/2022-02-26T12:21:09.654Z>.
+<https://stad.gent/id/concept/570008875/2022-02-26T09:43:46.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:43:46.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q158514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9028_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chicorei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9028_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008875/2022-02-26T09:43:46.513Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/chi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/chi.ttl>.

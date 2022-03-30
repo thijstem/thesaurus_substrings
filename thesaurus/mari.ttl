@@ -1,0 +1,63 @@
+<https://stad.gent/id/concept/670001450/2022-02-26T17:47:20.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:47:20.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5572_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maria Magdalena"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5572_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001450/2022-02-26T17:47:20.789Z>.
+<https://stad.gent/id/concept/670001300/2022-02-26T17:35:05.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:35:05.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1015356>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5662_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariakerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5662_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001300/2022-02-26T17:35:05.832Z>.
+<https://stad.gent/id/concept/570024443/2022-02-26T15:37:15.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:37:15.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6502_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariekerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_6502_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024443/2022-02-26T15:37:15.454Z>.
+<https://stad.gent/id/concept/570023985/2022-02-26T15:12:37.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:12:37.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040246>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6679_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marienheide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6679_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023985/2022-02-26T15:12:37.987Z>.
+<https://stad.gent/id/concept/570020013/2022-02-26T14:01:34.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:01:34.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7186_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariakerke (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_7186_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020013/2022-02-26T14:01:34.755Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mari.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mari.ttl>.

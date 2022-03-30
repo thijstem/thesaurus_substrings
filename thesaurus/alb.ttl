@@ -1,0 +1,109 @@
+<https://stad.gent/id/concept/570013745/2022-03-11T01:52:03.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:52:03.697Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4513_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alba"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl, "Italië"@nl.
+_:df_4513_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013745/2022-03-11T01:52:03.697Z>.
+<https://stad.gent/id/concept/570013010/2022-03-11T01:36:22.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:36:22.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q244027>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4627_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albese con Cassano"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_4627_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013010/2022-03-11T01:36:22.262Z>.
+<https://stad.gent/id/concept/670001567/2022-02-26T17:57:09.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:57:09.467Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5503_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albrecht Rodenbachstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5503_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001567/2022-02-26T17:57:09.467Z>.
+<https://stad.gent/id/concept/670000867/2022-02-26T17:15:03.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:15:03.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5803_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albert Baertsoenkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5803_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000867/2022-02-26T17:15:03.304Z>.
+<https://stad.gent/id/concept/570019513/2022-02-26T13:47:13.373Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019513>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:47:13.373Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7288_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "albe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7288_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019513"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019513/2022-02-26T13:47:13.373Z>.
+<https://stad.gent/id/concept/570014427/2022-02-26T11:29:47.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:29:47.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q55008046>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8272_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albert I"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8272_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014427/2022-02-26T11:29:47.806Z>.
+<https://stad.gent/id/concept/570013745/2022-02-26T11:16:27.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:16:27.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8368_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alba"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_8368_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013745/2022-02-26T11:16:27.230Z>.
+<https://stad.gent/id/concept/570013010/2022-02-26T11:00:45.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:00:45.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q244027>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8479_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Albese con Cassano"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_8479_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013010/2022-02-26T11:00:45.893Z>.
+<https://stad.gent/id/concept/570000189/2022-02-26T08:51:13.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:51:13.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026690>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9406_43;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor ongepubliceerde reeksen bladen, gebonden of los, waarin materiaal van allerlei aard bevestigd is of kan worden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "album"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9406_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000189/2022-02-26T08:51:13.800Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/alb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/alb.ttl>.

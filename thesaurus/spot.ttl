@@ -1,0 +1,38 @@
+<https://stad.gent/id/concept/570017643/2022-02-26T12:59:02.270Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:59:02.270Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7633_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een lens of lenssysteem die een geconcentreerde, sterke lichtbundel maakt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotlicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7633_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017643/2022-02-26T12:59:02.270Z>.
+<https://stad.gent/id/concept/570017020/2022-02-26T12:40:19.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:40:19.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7768_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een lens of lenssysteem die een geconcentreerde, sterke lichtbundel maakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7768_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017020/2022-02-26T12:40:19.440Z>.
+<https://stad.gent/id/concept/570009683/2022-02-26T10:10:38.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:10:38.943Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8836_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getekende afbeeldingen, die gewoonlijk met scherpzinnigheid en humor en kritiek leveren op actuele gebeurtenissen, maatschappelijke gewoonten of politieke tendensen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8836_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009683/2022-02-26T10:10:38.943Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/spot.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/spot.ttl>.

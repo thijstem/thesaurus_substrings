@@ -1,0 +1,63 @@
+<https://stad.gent/id/concept/570008216/2022-03-11T00:03:49.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:03:49.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5287_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_5287_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008216/2022-03-11T00:03:49.800Z>.
+<https://stad.gent/id/concept/670000788/2022-02-26T17:08:55.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:08:55.516Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2834>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5848_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinnenpotstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5848_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000788/2022-02-26T17:08:55.516Z>.
+<https://stad.gent/id/concept/670000458/2022-02-26T16:42:24.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:42:24.312Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q852718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6037_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6037_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000458/2022-02-26T16:42:24.312Z>.
+<https://stad.gent/id/concept/570022952/2022-02-26T14:29:17.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:29:17.711Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6988_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_6988_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022952/2022-02-26T14:29:17.711Z>.
+<https://stad.gent/id/concept/570008216/2022-02-26T09:28:25.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:28:25.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9139_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_9139_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008216/2022-02-26T09:28:25.355Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tin.ttl>.

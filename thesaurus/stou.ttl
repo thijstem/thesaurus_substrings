@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570017792/2022-03-11T03:41:08.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:41:08.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stourbridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_3736_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017792/2022-03-11T03:41:08.125Z>.
+<https://stad.gent/id/concept/570017792/2022-02-26T13:05:09.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:05:09.793Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7591_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stourbridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_7591_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017792/2022-02-26T13:05:09.793Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stou.ttl>.

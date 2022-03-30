@@ -1,0 +1,258 @@
+<https://stad.gent/id/concept/550008835/2022-03-23T00:02:41.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:02:41.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap : thermoplastisch of thermoharder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008816>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009285>, <https://stad.gent/id/concept/550007545>, <https://stad.gent/id/concept/550009084>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009084> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyurethaan"@nl.
+<https://stad.gent/id/concept/550007545> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl.
+<https://stad.gent/id/concept/550009285> <http://www.w3.org/2004/02/skos/core#prefLabel> " Poly Vinyl Chloride"@nl.
+<https://stad.gent/id/concept/550008816> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap"@nl.
+_:df_34_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008835> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap : thermoplastisch of thermoharder"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008835/2022-03-23T00:02:41.514Z>.
+<https://stad.gent/id/concept/670001595/2022-03-13T02:40:51.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:40:51.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gustaaf Callierlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_340_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001595/2022-03-13T02:40:51.297Z>.
+<https://stad.gent/id/concept/670000926/2022-03-13T02:01:15.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:01:15.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_622_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guldenvliesstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_622_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000926/2022-03-13T02:01:15.976Z>.
+<https://stad.gent/id/concept/670000659/2022-03-13T01:39:47.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:39:47.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_778_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guldenhoofdstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_778_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000659/2022-03-13T01:39:47.227Z>.
+<https://stad.gent/id/concept/670000542/2022-03-13T01:30:33.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:30:33.240Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_844_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gulden Standeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_844_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000542/2022-03-13T01:30:33.240Z>.
+<https://stad.gent/id/concept/670001595/2022-03-11T08:35:20.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:35:20.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1636_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gustaaf Callierlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1636_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001595/2022-03-11T08:35:20.938Z>.
+<https://stad.gent/id/concept/670000926/2022-03-11T07:56:05.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:56:05.778Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guldenvliesstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1915_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000926/2022-03-11T07:56:05.778Z>.
+<https://stad.gent/id/concept/670000659/2022-03-11T07:34:34.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:34:34.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2068_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guldenhoofdstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2068_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000659/2022-03-11T07:34:34.389Z>.
+<https://stad.gent/id/concept/670000542/2022-03-11T07:25:20.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:25:20.131Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2134_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gulden Standeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2134_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000542/2022-03-11T07:25:20.131Z>.
+<https://stad.gent/id/concept/570023764/2022-03-11T05:39:48.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:39:48.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gütersloh"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2890_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023764/2022-03-11T05:39:48.317Z>.
+<https://stad.gent/id/concept/570023292/2022-03-11T05:22:16.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:22:16.258Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3013_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "guirlande passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3013_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023292/2022-03-11T05:22:16.258Z>.
+<https://stad.gent/id/concept/570022895/2022-03-11T05:02:55.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:02:55.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3151_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022895/2022-03-11T05:02:55.769Z>.
+<https://stad.gent/id/concept/570019724/2022-03-11T04:30:01.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019724>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:30:01.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gutta-percha"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3388_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019724"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019724/2022-03-11T04:30:01.086Z>.
+<https://stad.gent/id/concept/570019164/2022-03-11T04:06:44.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:06:44.689Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13420170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3553_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "guipure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3553_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019164/2022-03-11T04:06:44.689Z>.
+<https://stad.gent/id/concept/570015947/2022-03-11T02:41:34.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:41:34.327Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008121>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4159_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guebwiller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_4159_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015947/2022-03-11T02:41:34.327Z>.
+<https://stad.gent/id/concept/570013186/2022-03-11T01:40:59.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:40:59.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4594_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gutsbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4594_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013186"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013186/2022-03-11T01:40:59.257Z>.
+<https://stad.gent/id/concept/570012971/2022-03-11T01:35:31.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:35:31.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7239797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4633_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gullegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_4633_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012971"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012971/2022-03-11T01:35:31.841Z>.
+<https://stad.gent/id/concept/570011480/2022-03-11T01:14:37.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:14:37.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q44732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4780_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Guldensporenslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4780_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011480/2022-03-11T01:14:37.629Z>.
+<https://stad.gent/id/concept/530010502/2022-03-03T00:02:00.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:02:00.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5335_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> " Algemene term voor allen die werken met of aan glas of glazen objecten. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glaswerkers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010436>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010492>, <https://stad.gent/id/concept/530010503>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010503> <http://www.w3.org/2004/02/skos/core#prefLabel> "glaszetter"@nl.
+<https://stad.gent/id/concept/530010492> <http://www.w3.org/2004/02/skos/core#prefLabel> "glasblazer"@nl.
+<https://stad.gent/id/concept/530010436> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in ambachten en beroepen"@nl.
+_:df_5335_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010502/2022-03-03T00:02:00.990Z>.
+<https://stad.gent/id/concept/670001595/2022-02-26T17:59:30.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:59:30.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5485_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gustaaf Callierlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5485_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001595/2022-02-26T17:59:30.545Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl> <https://w3id.org/tree#relation> _:df_1_2076.
+_:df_1_2076 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gul.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gul".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl> <https://w3id.org/tree#relation> _:df_1_2077.
+_:df_1_2077 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gut.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gut".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl> <https://w3id.org/tree#relation> _:df_1_2078.
+_:df_1_2078 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gui".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl> <https://w3id.org/tree#relation> _:df_1_2079.
+_:df_1_2079 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gue.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gue".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gu.ttl>.

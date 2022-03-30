@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/570022738/2022-03-11T04:56:47.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:47.821Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt ter bevestiging en soms ter decoratie; bestaan uit een ring van meestal metaal, bedekt of onbedekt, en een of meer tanden, tongen of pallen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3196_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022738/2022-03-11T04:56:47.821Z>.
+<https://stad.gent/id/concept/570016921/2022-03-11T03:11:10.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:11:10.045Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3949_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gestanst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3949_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016921/2022-03-11T03:11:10.045Z>.
+<https://stad.gent/id/concept/570015371/2022-03-11T02:30:58.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:30:58.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4237_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesticht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4237_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015371/2022-03-11T02:30:58.290Z>.
+<https://stad.gent/id/concept/570008225/2022-03-11T00:04:09.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:04:09.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5284_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geschiedenis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5284_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008225/2022-03-11T00:04:09.808Z>.
+<https://stad.gent/id/concept/570022738/2022-02-26T14:20:48.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:20:48.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7048_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt ter bevestiging en soms ter decoratie; bestaan uit een ring van meestal metaal, bedekt of onbedekt, en een of meer tanden, tongen of pallen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7048_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022738/2022-02-26T14:20:48.035Z>.
+<https://stad.gent/id/concept/570016921/2022-02-26T12:35:27.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:35:27.683Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7801_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gestanst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7801_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016921/2022-02-26T12:35:27.683Z>.
+<https://stad.gent/id/concept/570015371/2022-02-26T11:55:18.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:55:18.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8089_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesticht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8089_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015371/2022-02-26T11:55:18.087Z>.
+<https://stad.gent/id/concept/570008225/2022-02-26T09:28:45.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:28:45.364Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054394>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9136_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geschiedenis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9136_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008225/2022-02-26T09:28:45.364Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ges.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ges.ttl>.

@@ -1,0 +1,250 @@
+<https://stad.gent/id/concept/670001377/2022-03-13T02:22:38.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:38.646Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_472_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontein der Geknielden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001377/2022-03-13T02:22:38.646Z>.
+<https://stad.gent/id/concept/670001288/2022-03-13T02:15:27.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:15:27.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q33231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_523_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001288/2022-03-13T02:15:27.760Z>.
+<https://stad.gent/id/concept/670001248/2022-03-13T02:12:26.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:12:26.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q46712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_544_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-lès-Dijon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_544_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001248/2022-03-13T02:12:26.454Z>.
+<https://stad.gent/id/concept/670001030/2022-03-13T02:09:14.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:14.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_565_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_565_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001030/2022-03-13T02:09:14.993Z>.
+<https://stad.gent/id/concept/670001028/2022-03-13T02:09:04.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:04.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_568_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Foto’s Stedelijke Commissie voor Monumenten en Stadsgezichten (MA_SCMS_FO)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_568_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001028/2022-03-13T02:09:04.989Z>.
+<https://stad.gent/id/concept/670001029/2022-03-13T02:09:09.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:09.991Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_568_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's SCMS"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_568_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001029/2022-03-13T02:09:09.991Z>.
+<https://stad.gent/id/concept/670000527/2022-03-13T01:29:22.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:22.908Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_850_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortuijntje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_850_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000527/2022-03-13T01:29:22.908Z>.
+<https://stad.gent/id/concept/670000528/2022-03-13T01:29:27.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:27.910Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_850_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortune"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_850_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000528/2022-03-13T01:29:27.910Z>.
+<https://stad.gent/id/concept/570024839/2022-03-13T00:33:43.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:33:43.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300134334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Technieken voor het nemen of arrangeren van foto's en voor het bewerken van foto's tijdens het ontwikkelen of afdrukken";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografische technieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1249_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024839/2022-03-13T00:33:43.194Z>.
+<https://stad.gent/id/concept/570024761/2022-03-13T00:30:11.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:30:11.711Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q350039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fourniture"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1273_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024761/2022-03-13T00:30:11.711Z>.
+<https://stad.gent/id/concept/570024744/2022-03-13T00:29:16.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:29:16.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300429481>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foulard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024744/2022-03-13T00:29:16.357Z>.
+<https://stad.gent/id/concept/570024527/2022-03-13T00:23:07.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:23:07.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1324_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografische uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1324_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024527/2022-03-13T00:23:07.722Z>.
+<https://stad.gent/id/concept/570024461/2022-03-13T00:19:41.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:19:41.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotocollectie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1348_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024461/2022-03-13T00:19:41.313Z>.
+<https://stad.gent/id/concept/570024258/2022-03-13T00:08:11.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:08:11.314Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foliestrip"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1432_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024258/2022-03-13T00:08:11.314Z>.
+<https://stad.gent/id/concept/570024143/2022-03-13T00:02:13.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:02:13.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240950>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fontaine-l´Evêque (Henegouwen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1474_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024143/2022-03-13T00:02:13.570Z>.
+<https://stad.gent/id/concept/570024133/2022-03-13T00:01:38.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:38.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografie en film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1477_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024133/2022-03-13T00:01:38.286Z>.
+<https://stad.gent/id/concept/570024138/2022-03-13T00:01:53.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:53.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fossiele brandstof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1477_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024138/2022-03-13T00:01:53.560Z>.
+<https://stad.gent/id/concept/570024123/2022-03-13T00:00:54.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:00:54.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1483_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vroeger was dit een verzameling lettervormen die bestond uit alle letters, cijfers, leestekens en andere tekens die tot één ontwerp en puntgrootte behoorden, waarbij andere reeksen tekens, zoals het vet gedrukte soort van hetzelfde ontwerp, er niet bij werden gerekend. In de fotocompositie en desktop publishing is een font de reeks tekens en andere symbolen van één stijl die als eenheid beschikbaar is, bijvoorbeeld op een strook film of programmamodule.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "font"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1483_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024123/2022-03-13T00:00:54.850Z>.
+<https://stad.gent/id/concept/670001863/2022-03-11T08:54:45.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:54:45.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001863/2022-03-11T08:54:45.657Z>.
+<https://stad.gent/id/concept/670001861/2022-03-11T08:54:35.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:54:35.404Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotoarchief Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001861/2022-03-11T08:54:35.404Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1012.
+_:df_1_1012 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/for.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "for".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1013.
+_:df_1_1013 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fon".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1014.
+_:df_1_1014 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fot.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fot".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1015.
+_:df_1_1015 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fou.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fou".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1016.
+_:df_1_1016 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fol.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fol".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> <https://w3id.org/tree#relation> _:df_1_1017.
+_:df_1_1017 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fos.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fos".
+<https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fo.ttl>.

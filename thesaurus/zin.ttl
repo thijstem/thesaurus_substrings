@@ -1,0 +1,65 @@
+<https://stad.gent/id/concept/570017377/2022-03-11T03:24:49.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:24:49.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zink"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_3853_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017377/2022-03-11T03:24:49.095Z>.
+<https://stad.gent/id/concept/570012956/2022-03-11T01:35:16.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:35:16.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4633_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zingem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_4633_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012956/2022-03-11T01:35:16.837Z>.
+<https://stad.gent/id/concept/570017377/2022-02-26T12:48:58.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:48:58.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7705_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zink"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_7705_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017377/2022-02-26T12:48:58.073Z>.
+<https://stad.gent/id/concept/570012956/2022-02-26T10:59:40.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:59:40.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8488_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zingem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_8488_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012956/2022-02-26T10:59:40.224Z>.
+<https://stad.gent/id/concept/570007136/2022-02-26T09:23:28.510Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:28.510Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q204867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9175_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zincografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9175_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007136/2022-02-26T09:23:28.510Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/zin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/zin.ttl>.

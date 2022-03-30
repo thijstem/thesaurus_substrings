@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570010419/2022-03-11T01:03:37.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:03:37.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulgarije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023105>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippopolis"@nl.
+_:df_4861_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010419/2022-03-11T01:03:37.014Z>.
+<https://stad.gent/id/concept/570010133/2022-03-11T00:57:39.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:57:39.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4903_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bulletin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4903_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010133/2022-03-11T00:57:39.459Z>.
+<https://stad.gent/id/concept/570010419/2022-02-26T10:28:00.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:28:00.268Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8713_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulgarije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023105>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippopolis"@nl.
+_:df_8713_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010419/2022-02-26T10:28:00.268Z>.
+<https://stad.gent/id/concept/570010133/2022-02-26T10:22:03.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:22:03.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8755_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bulletin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8755_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010133/2022-02-26T10:22:03.036Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bul.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bul.ttl>.

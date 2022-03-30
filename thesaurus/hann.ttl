@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570016499/2022-03-11T02:55:29.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:55:29.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hannover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4060_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016499/2022-03-11T02:55:29.878Z>.
+<https://stad.gent/id/concept/570016499/2022-02-26T12:19:48.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:19:48.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7915_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hannover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7915_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016499/2022-02-26T12:19:48.887Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hann.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hann.ttl>.

@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/570024333/2022-03-11T06:07:18.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:07:18.826Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarten, waarop van iedere werknemer elke dag de aankomsttijd en de vertrektijd wordt geregistreerd, en die of door de werknemer zelf worden ingevuld of door een prikklok worden afgestempeld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2692_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024333/2022-03-11T06:07:18.826Z>.
+<https://stad.gent/id/concept/570024301/2022-03-11T06:05:18.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:05:18.218Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikkaarthouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2707_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024301/2022-03-11T06:05:18.218Z>.
+<https://stad.gent/id/concept/570023097/2022-03-11T05:12:06.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:12:06.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3088_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikrader"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3088_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023097/2022-03-11T05:12:06.681Z>.
+<https://stad.gent/id/concept/570017073/2022-03-11T03:17:35.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:17:35.861Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1500858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3904_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3904_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017073/2022-03-11T03:17:35.861Z>.
+<https://stad.gent/id/concept/570024333/2022-02-26T15:31:17.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:31:17.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6547_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarten, waarop van iedere werknemer elke dag de aankomsttijd en de vertrektijd wordt geregistreerd, en die of door de werknemer zelf worden ingevuld of door een prikklok worden afgestempeld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6547_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024333/2022-02-26T15:31:17.681Z>.
+<https://stad.gent/id/concept/570024301/2022-02-26T15:29:16.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:16.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6559_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikkaarthouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6559_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024301/2022-02-26T15:29:16.939Z>.
+<https://stad.gent/id/concept/570023097/2022-02-26T14:36:05.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:36:05.574Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6940_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikrader"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6940_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023097/2022-02-26T14:36:05.574Z>.
+<https://stad.gent/id/concept/570017073/2022-02-26T12:41:49.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:41:49.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1500858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7756_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prikklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7756_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017073/2022-02-26T12:41:49.968Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prik.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prik.ttl>.

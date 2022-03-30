@@ -1,0 +1,254 @@
+<https://stad.gent/id/concept/570024826/2022-03-11T06:27:42.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:27:42.182Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2548_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "voedingsmiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2548_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024826/2022-03-11T06:27:42.182Z>.
+<https://stad.gent/id/concept/570024722/2022-03-11T06:23:15.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:23:15.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het vakgebied dat zich bezighoudt met het gehele proces van het overbrengen van kennis, attitudes, vaardigheden of sociaal gewaardeerde karakter- of gedragseigenschappen. Gebruik 'opleiden' voor de specifieke activiteiten die betrekking hebben op het doelbewust overdragen van kennis, vaardigheden of sociale normen aan anderen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs en opleiding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570001874>, <https://stad.gent/id/concept/570009852>, <https://stad.gent/id/concept/570015259>, <https://stad.gent/id/concept/570020393>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020393> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielonderwijs"@nl.
+<https://stad.gent/id/concept/570015259> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenonderwijs"@nl.
+<https://stad.gent/id/concept/570009852> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderwijs & schrijnwerk"@nl.
+<https://stad.gent/id/concept/570001874> <http://www.w3.org/2004/02/skos/core#prefLabel> "beroepsonderwijs"@nl.
+_:df_2578_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024722/2022-03-11T06:23:15.403Z>.
+<https://stad.gent/id/concept/570024527/2022-03-11T06:18:03.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:18:03.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2617_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografische uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2617_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024527/2022-03-11T06:18:03.033Z>.
+<https://stad.gent/id/concept/570024401/2022-03-11T06:11:10.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:11:10.505Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007135>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2665_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bioscoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2665_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024401/2022-03-11T06:11:10.505Z>.
+<https://stad.gent/id/concept/570024381/2022-03-11T06:09:49.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:49.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2674_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen die door brandstof of elektriciteit worden aangedreven en die in het huishouden worden gebruikt voor het vergemakkelijken van taken zoals het bereiden van een maaltijd, het opslaan van voeding, schoonmaken en verzorging. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijke toestellen & apparaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en, "collectie"@nl, "collection"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2674_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024381/2022-03-11T06:09:49.892Z>.
+<https://stad.gent/id/concept/570024164/2022-03-11T05:58:10.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:58:10.098Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textiellaboratorium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2758_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024164/2022-03-11T05:58:10.098Z>.
+<https://stad.gent/id/concept/570024133/2022-03-11T05:56:31.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:56:31.235Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2770_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografie en film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2770_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024133/2022-03-11T05:56:31.235Z>.
+<https://stad.gent/id/concept/570024095/2022-03-11T05:54:05.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:54:05.200Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leerlooierij en lederbewerking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2788_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024095/2022-03-11T05:54:05.200Z>.
+<https://stad.gent/id/concept/570024082/2022-03-11T05:53:20.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:53:20.182Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137794>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het overbrengen van een gewaarwording, kennis of informatie op anderen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatie en communicatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024479>, <https://stad.gent/id/concept/570024360>, <https://stad.gent/id/concept/570024112>, <https://stad.gent/id/concept/570009105>, <https://stad.gent/id/concept/570020197>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020197> <http://www.w3.org/2004/02/skos/core#prefLabel> "telecommunicatie"@nl.
+<https://stad.gent/id/concept/570009105> <http://www.w3.org/2004/02/skos/core#prefLabel> "publiciteit"@nl.
+<https://stad.gent/id/concept/570024112> <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoor"@nl.
+<https://stad.gent/id/concept/570024360> <http://www.w3.org/2004/02/skos/core#prefLabel> "dataverwerking"@nl.
+<https://stad.gent/id/concept/570024479> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeld en geluid"@nl.
+_:df_2791_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024082/2022-03-11T05:53:20.182Z>.
+<https://stad.gent/id/concept/570024071/2022-03-11T05:52:53.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:52:53.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Roulers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2794_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024071/2022-03-11T05:52:53.634Z>.
+<https://stad.gent/id/concept/570024055/2022-03-11T05:51:53.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:51:53.318Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2803_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Amengijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2803_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024055/2022-03-11T05:51:53.318Z>.
+<https://stad.gent/id/concept/570023658/2022-03-11T05:33:35.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:33:35.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13450335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "duikpak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2932_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023658/2022-03-11T05:33:35.778Z>.
+<https://stad.gent/id/concept/570023499/2022-03-11T05:28:08.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:28:08.499Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op gas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2971_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023499/2022-03-11T05:28:08.499Z>.
+<https://stad.gent/id/concept/570023109/2022-03-11T05:12:42.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:12:42.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen die door brandstof of elektriciteit worden aangedreven en die in het huishouden worden gebruikt voor het vergemakkelijken van taken zoals het bereiden van een maaltijd, het opslaan van voeding, schoonmaken en verzorging.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijke apparaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3082_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023109/2022-03-11T05:12:42.083Z>.
+<https://stad.gent/id/concept/570022954/2022-03-11T05:05:26.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:26.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "motiefijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3133_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022954/2022-03-11T05:05:26.865Z>.
+<https://stad.gent/id/concept/570022738/2022-03-11T04:56:47.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:47.821Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt ter bevestiging en soms ter decoratie; bestaan uit een ring van meestal metaal, bedekt of onbedekt, en een of meer tanden, tongen of pallen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gesp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3196_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022738/2022-03-11T04:56:47.821Z>.
+<https://stad.gent/id/concept/570022693/2022-03-11T04:55:17.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:55:17.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3208_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Omvat termen voor materialen die tot stand zijn gekomen door middel van weven, vervilten, knopen, twijnen of andersoortige bewerking van natuurlijke of synthetische vezels zodanig dat zij bijeenblijven in een vorm of eenheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008484>, <https://stad.gent/id/concept/570006051>, <https://stad.gent/id/concept/570012955>, <https://stad.gent/id/concept/570018991>, <https://stad.gent/id/concept/570024305>, <https://stad.gent/id/concept/570003128>, <https://stad.gent/id/concept/570023069>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "materiaal"@nl, "material"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en, "activiteit"@nl, "activity"@en, _:df_3208_49, _:df_3208_50;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023069> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenmaker"@nl.
+<https://stad.gent/id/concept/570003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielonderzoek"@nl.
+<https://stad.gent/id/concept/570024305> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding en accessoires"@nl.
+<https://stad.gent/id/concept/570018991> <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl.
+<https://stad.gent/id/concept/570012955> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielveredeling"@nl.
+<https://stad.gent/id/concept/570006051> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnen"@nl.
+<https://stad.gent/id/concept/570008484> <http://www.w3.org/2004/02/skos/core#prefLabel> "confectie"@nl.
+_:df_3208_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022693/2022-03-11T04:55:17.237Z>.
+<https://stad.gent/id/concept/570020813/2022-03-11T04:51:35.641Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:51:35.641Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300256385>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3232_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "abonnement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3232_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020813/2022-03-11T04:51:35.641Z>.
+<https://stad.gent/id/concept/570020816/2022-03-11T04:51:40.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:51:40.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q657718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3232_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haven Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3232_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020816/2022-03-11T04:51:40.642Z>.
+<https://stad.gent/id/concept/570020797/2022-03-11T04:51:15.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:51:15.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3235_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3235_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020797/2022-03-11T04:51:15.634Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/motie.ttl> <https://w3id.org/tree#relation> _:df_1_1441.
+_:df_1_1441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/motief.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "motief".
+<https://thijstem.github.io/substrings_coghent/thesaurus/motie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/motie.ttl>.

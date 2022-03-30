@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/670001669/2022-03-11T08:41:24.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:41:24.471Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Hubertusstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1591_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001669/2022-03-11T08:41:24.471Z>.
+<https://stad.gent/id/concept/670001669/2022-02-26T18:05:37.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:05:37.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5443_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Hubertusstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5443_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001669/2022-02-26T18:05:37.939Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sint+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sint+h.ttl>.

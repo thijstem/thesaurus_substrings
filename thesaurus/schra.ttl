@@ -1,0 +1,14 @@
+<https://stad.gent/id/concept/570010191/2022-02-26T10:23:58.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:23:58.666Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024836>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8743_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse gereedschappen die worden gebruikt om af te krabben waardoor een schoon of een glad afgewerkt oppervlak tevoorschijn komt, om groeven te maken of om objecten te maken door overbodig materiaal weg te krabben. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schraper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8743_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010191/2022-02-26T10:23:58.666Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schra.ttl>.

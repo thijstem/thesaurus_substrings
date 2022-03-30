@@ -1,0 +1,68 @@
+<https://stad.gent/id/concept/670000858/2022-03-11T07:50:32.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:50:32.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1954_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaasstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1954_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000858/2022-03-11T07:50:32.836Z>.
+<https://stad.gent/id/concept/570014406/2022-03-11T02:04:39.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:04:39.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1841314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4423_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaaskerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4423_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014406/2022-03-11T02:04:39.138Z>.
+<https://stad.gent/id/concept/570008491/2022-03-11T00:07:11.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:07:11.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7007989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5263_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_5263_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008491/2022-03-11T00:07:11.926Z>.
+<https://stad.gent/id/concept/670000858/2022-02-26T17:14:22.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:14:22.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5809_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaasstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5809_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000858/2022-02-26T17:14:22.978Z>.
+<https://stad.gent/id/concept/570014406/2022-02-26T11:29:02.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:29:02.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1841314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8278_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaaskerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8278_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014406/2022-02-26T11:29:02.408Z>.
+<https://stad.gent/id/concept/570008491/2022-02-26T09:31:46.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:31:46.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/7007989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9115_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_9115_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008491/2022-02-26T09:31:46.597Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sint+n.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sint+n.ttl>.

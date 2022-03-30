@@ -1,0 +1,248 @@
+<https://stad.gent/id/concept/570025129/2022-03-13T00:47:46.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:47:46.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Comines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_1147_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025129/2022-03-13T00:47:46.093Z>.
+<https://stad.gent/id/concept/570024798/2022-03-13T00:32:12.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:32:12.888Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compound"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1258_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024798/2022-03-13T00:32:12.888Z>.
+<https://stad.gent/id/concept/570024760/2022-03-13T00:30:06.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:30:06.710Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "componist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1273_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024760/2022-03-13T00:30:06.710Z>.
+<https://stad.gent/id/concept/570024279/2022-03-13T00:09:21.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:09:21.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q340169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "communicatiemiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1423_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024279/2022-03-13T00:09:21.895Z>.
+<https://stad.gent/id/concept/570024198/2022-03-13T00:05:15.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:05:15.259Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028673>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compact disk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1453_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024198/2022-03-13T00:05:15.259Z>.
+<https://stad.gent/id/concept/670001234/2022-03-11T08:06:14.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:06:14.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/wiki/q36834>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "componist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1843_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001234/2022-03-11T08:06:14.892Z>.
+<https://stad.gent/id/concept/570025129/2022-03-11T06:42:39.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:42:39.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2440_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Comines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_2440_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025129/2022-03-11T06:42:39.819Z>.
+<https://stad.gent/id/concept/570024798/2022-03-11T06:27:07.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:27:07.169Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2551_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compound"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2551_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024798/2022-03-11T06:27:07.169Z>.
+<https://stad.gent/id/concept/570024760/2022-03-11T06:25:01.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:25:01.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "componist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2566_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024760/2022-03-11T06:25:01.089Z>.
+<https://stad.gent/id/concept/570024279/2022-03-11T06:04:17.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:04:17.854Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q340169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2713_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "communicatiemiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2713_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024279/2022-03-11T06:04:17.854Z>.
+<https://stad.gent/id/concept/570024198/2022-03-11T06:00:11.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:00:11.108Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028673>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compact disk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2743_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024198/2022-03-11T06:00:11.108Z>.
+<https://stad.gent/id/concept/570023861/2022-03-11T05:43:29.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:43:29.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265818>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compactdiscspeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2863_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023861/2022-03-11T05:43:29.928Z>.
+<https://stad.gent/id/concept/570022764/2022-03-11T04:58:18.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:58:18.467Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300168291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3184_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, met knoppen bediende apparaten die worden bewogen op een plat bureau of tekentableau om de bewegingen van de cursor op het scherm te controleren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "computermuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3184_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022764/2022-03-11T04:58:18.467Z>.
+<https://stad.gent/id/concept/570020451/2022-03-11T04:44:37.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:44:37.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237906>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "composiet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3283_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020451/2022-03-11T04:44:37.428Z>.
+<https://stad.gent/id/concept/570019767/2022-03-11T04:31:41.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019767>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:31:41.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compressor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3376_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019767"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019767/2022-03-11T04:31:41.706Z>.
+<https://stad.gent/id/concept/570015851/2022-03-11T02:38:53.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:38:53.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4180_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "commissie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4180_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015851/2022-03-11T02:38:53.102Z>.
+<https://stad.gent/id/concept/570007923/2022-03-11T00:02:18.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:02:18.854Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5296_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Como"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_5296_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007923/2022-03-11T00:02:18.854Z>.
+<https://stad.gent/id/concept/570019767/2022-03-05T00:00:22.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019767>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-05T00:00:22.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5320_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "compressor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5320_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019767"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019767/2022-03-05T00:00:22.992Z>.
+<https://stad.gent/id/concept/670001234/2022-02-26T17:30:03.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:30:03.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/wiki/q36834>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5698_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "componist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5698_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001234/2022-02-26T17:30:03.508Z>.
+<https://stad.gent/id/concept/570025129/2022-02-26T16:06:38.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:06:38.817Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6292_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Comines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_6292_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025129/2022-02-26T16:06:38.817Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/com.ttl> <https://w3id.org/tree#relation> _:df_1_2196.
+_:df_1_2196 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/comp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "comp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/com.ttl> <https://w3id.org/tree#relation> _:df_1_2197.
+_:df_1_2197 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/comm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "comm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/com.ttl> <https://w3id.org/tree#relation> _:df_1_2198.
+_:df_1_2198 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/como.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "como".
+<https://thijstem.github.io/substrings_coghent/thesaurus/com.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/com.ttl>.

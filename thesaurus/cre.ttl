@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570022943/2022-02-26T14:28:47.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:28:47.697Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6991_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "crème brûlée ijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6991_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022943/2022-02-26T14:28:47.697Z>.
+<https://stad.gent/id/concept/570004952/2022-02-26T09:12:14.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:14.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9256_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "crête passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9256_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004952/2022-02-26T09:12:14.064Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cre.ttl>.

@@ -1,0 +1,38 @@
+<https://stad.gent/id/concept/570024867/2022-02-26T15:53:42.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:53:42.725Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7237593>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6385_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herdersem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003523>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aalst"@nl.
+_:df_6385_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024867/2022-02-26T15:53:42.725Z>.
+<https://stad.gent/id/concept/570024282/2022-02-26T15:28:26.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:26.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6565_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gedenktekens bestaande uit een afbeelding of tekst in ondiep reliëf op een platte beelddrager.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingsplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6565_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024282/2022-02-26T15:28:26.615Z>.
+<https://stad.gent/id/concept/570023283/2022-02-26T14:45:39.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:45:39.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6871_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6871_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023283/2022-02-26T14:45:39.644Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/herd.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/herd.ttl>.

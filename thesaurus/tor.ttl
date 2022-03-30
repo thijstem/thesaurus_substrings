@@ -1,0 +1,213 @@
+<https://stad.gent/id/concept/670001694/2022-03-11T08:43:30.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:43:30.277Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torrepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1576_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001694/2022-03-11T08:43:30.277Z>.
+<https://stad.gent/id/concept/670001537/2022-03-11T08:30:29.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:30:29.285Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1669_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torenpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1669_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001537/2022-03-11T08:30:29.285Z>.
+<https://stad.gent/id/concept/670001538/2022-03-11T08:30:34.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:30:34.287Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1669_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torrepoortbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1669_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001538/2022-03-11T08:30:34.287Z>.
+<https://stad.gent/id/concept/670001398/2022-03-11T08:18:54.929Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:18:54.929Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/26075>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toreken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1753_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001398/2022-03-11T08:18:54.929Z>.
+<https://stad.gent/id/concept/670000789/2022-03-11T07:45:10.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:45:10.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1993_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1993_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000789/2022-03-11T07:45:10.334Z>.
+<https://stad.gent/id/concept/570023760/2022-03-11T05:39:28.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:39:28.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Balansen waarbij de weegoppervlakken kleine platte platformpjes of ondiepe schaaltjes zijn, die weinig uitslag hebben en op de balk zijn geplaatst; wordt gebruikt met conventionele gewichten of een waagbalk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "torsiebalans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2890_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023760/2022-03-11T05:39:28.309Z>.
+<https://stad.gent/id/concept/570023200/2022-03-11T05:17:03.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:17:03.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3052_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toronto (Ontario)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_3052_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023200/2022-03-11T05:17:03.724Z>.
+<https://stad.gent/id/concept/570020532/2022-03-11T04:45:57.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:45:57.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008017>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3274_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3274_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020532/2022-03-11T04:45:57.789Z>.
+<https://stad.gent/id/concept/570012162/2022-03-11T01:20:55.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:20:55.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4735_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "torsiemeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4735_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012162/2022-03-11T01:20:55.651Z>.
+<https://stad.gent/id/concept/670001694/2022-02-26T18:07:43.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:07:43.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5428_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torrepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5428_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001694/2022-02-26T18:07:43.681Z>.
+<https://stad.gent/id/concept/670001537/2022-02-26T17:54:38.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:38.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5521_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torenpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5521_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001537/2022-02-26T17:54:38.608Z>.
+<https://stad.gent/id/concept/670001538/2022-02-26T17:54:43.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:43.609Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5521_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torrepoortbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5521_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001538/2022-02-26T17:54:43.609Z>.
+<https://stad.gent/id/concept/670001398/2022-02-26T17:42:59.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:42:59.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/26075>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5605_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toreken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5605_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001398/2022-02-26T17:42:59.026Z>.
+<https://stad.gent/id/concept/670001278/2022-02-26T17:33:15.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:33:15.025Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004847>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5674_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5674_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001278/2022-02-26T17:33:15.025Z>.
+<https://stad.gent/id/concept/670000789/2022-02-26T17:09:00.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:09:00.518Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5848_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5848_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000789/2022-02-26T17:09:00.518Z>.
+<https://stad.gent/id/concept/570023760/2022-02-26T15:03:28.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:03:28.836Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6745_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Balansen waarbij de weegoppervlakken kleine platte platformpjes of ondiepe schaaltjes zijn, die weinig uitslag hebben en op de balk zijn geplaatst; wordt gebruikt met conventionele gewichten of een waagbalk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "torsiebalans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6745_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023760/2022-02-26T15:03:28.836Z>.
+<https://stad.gent/id/concept/570023200/2022-02-26T14:41:02.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:41:02.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6904_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toronto (Ontario)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_6904_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023200/2022-02-26T14:41:02.454Z>.
+<https://stad.gent/id/concept/570020532/2022-02-26T14:09:58.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:09:58.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008017>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7126_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_7126_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020532/2022-02-26T14:09:58.333Z>.
+<https://stad.gent/id/concept/570012162/2022-02-26T10:45:17.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:45:17.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8590_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "torsiemeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8590_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012162/2022-02-26T10:45:17.113Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tor.ttl>.

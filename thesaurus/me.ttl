@@ -1,0 +1,291 @@
+<https://stad.gent/id/concept/570014690/2022-03-17T00:01:55.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:55.008Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_58_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metselaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_58_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014690/2022-03-17T00:01:55.008Z>.
+<https://stad.gent/id/concept/530006442/2022-03-17T00:00:38.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:38.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045374>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_77;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Items, usually of metal, used to assemble, join, or manipulate components of furniture. This may include objects such as hinges and knobs, or otherwise purely decorative applications.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000217>, <https://stad.gent/id/concept/530008616>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000607>, <https://stad.gent/id/concept/530006447>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006447> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelplaat (afwerkingsijzerwaar)"@nl.
+<https://stad.gent/id/concept/530000607> <http://www.w3.org/2004/02/skos/core#prefLabel> "ladegreep"@nl.
+<https://stad.gent/id/concept/530008616> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelonderdeel"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl.
+_:df_67_77 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006442/2022-03-17T00:00:38.840Z>.
+<https://stad.gent/id/concept/570014663/2022-03-16T00:16:55.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:55.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025401>;
+    <http://www.w3.org/ns/adms#identifier> _:df_73_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_73_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014663/2022-03-16T00:16:55.111Z>.
+<https://stad.gent/id/concept/530006442/2022-03-16T00:16:29.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:29.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045374>;
+    <http://www.w3.org/ns/adms#identifier> _:df_76_202;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Items, usually of metal, used to assemble, join, or manipulate components of furniture. This may include objects such as hinges and knobs, or otherwise purely decorative applications.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000217>, <https://stad.gent/id/concept/530008616>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000607>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000607> <http://www.w3.org/2004/02/skos/core#prefLabel> "ladegreep"@nl.
+<https://stad.gent/id/concept/530008616> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelonderdeel"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_76_202 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006442/2022-03-16T00:16:29.848Z>.
+<https://stad.gent/id/concept/670001747/2022-03-16T00:08:56.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:56.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_130_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_130_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001747/2022-03-16T00:08:56.744Z>.
+<https://stad.gent/id/concept/670001747/2022-03-13T02:53:26.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:26.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001747/2022-03-13T02:53:26.449Z>.
+<https://stad.gent/id/concept/670001620/2022-03-13T02:42:56.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:56.990Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_325_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerschstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_325_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001620/2022-03-13T02:42:56.990Z>.
+<https://stad.gent/id/concept/670001621/2022-03-13T02:43:01.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:01.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3239>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_325_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001621/2022-03-13T02:43:01.992Z>.
+<https://stad.gent/id/concept/670001622/2022-03-13T02:43:06.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:06.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_325_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meeuwstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_325_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001622/2022-03-13T02:43:06.994Z>.
+<https://stad.gent/id/concept/670001451/2022-03-13T02:28:46.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:28:46.220Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_427_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhemkanaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_427_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001451/2022-03-13T02:28:46.220Z>.
+<https://stad.gent/id/concept/670001452/2022-03-13T02:28:51.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:28:51.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_427_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meulestedebrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_427_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001452"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001452/2022-03-13T02:28:51.223Z>.
+<https://stad.gent/id/concept/670001151/2022-03-13T02:10:05.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:10:05.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_559_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Metselaarshuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_559_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001151/2022-03-13T02:10:05.552Z>.
+<https://stad.gent/id/concept/670000687/2022-03-13T01:41:58.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:41:58.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_760_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meulegat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_760_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000687/2022-03-13T01:41:58.148Z>.
+<https://stad.gent/id/concept/670000685/2022-03-13T01:41:47.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:41:47.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_763_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meester Gillisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000685/2022-03-13T01:41:47.845Z>.
+<https://stad.gent/id/concept/670000686/2022-03-13T01:41:53.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:41:53.147Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_763_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mestelinkstraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000686/2022-03-13T01:41:53.147Z>.
+<https://stad.gent/id/concept/670000352/2022-03-13T01:15:57.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:15:57.906Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_946_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meersenier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000352/2022-03-13T01:15:57.906Z>.
+<https://stad.gent/id/concept/670000353/2022-03-13T01:16:02.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:16:02.908Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_946_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meester metselaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000353/2022-03-13T01:16:02.908Z>.
+<https://stad.gent/id/concept/670000354/2022-03-13T01:16:07.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:16:07.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_946_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metselaarsknecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000354/2022-03-13T01:16:07.910Z>.
+<https://stad.gent/id/concept/670000195/2022-03-13T01:03:53.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:03:53.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/16628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerhem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1033_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000195/2022-03-13T01:03:53.052Z>.
+<https://stad.gent/id/concept/670000196/2022-03-13T01:03:58.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:03:58.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerseniersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1033_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000196/2022-03-13T01:03:58.052Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_671.
+_:df_1_671 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/meu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "meu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_672.
+_:df_1_672 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mee".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_673.
+_:df_1_673 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/med.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "med".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_674.
+_:df_1_674 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mer.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mer".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_675.
+_:df_1_675 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mec.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mec".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_676.
+_:df_1_676 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/met.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "met".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_677.
+_:df_1_677 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mei".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_678.
+_:df_1_678 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mes.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mes".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_679.
+_:df_1_679 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mem.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mem".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_680.
+_:df_1_680 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mel".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_681.
+_:df_1_681 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/men.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "men".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_682.
+_:df_1_682 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mex.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mex".
+<https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/me.ttl>.

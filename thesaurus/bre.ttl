@@ -1,0 +1,259 @@
+<https://stad.gent/id/concept/670000006/2022-03-13T00:50:27.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:27.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000006/2022-03-13T00:50:27.222Z>.
+<https://stad.gent/id/concept/570024749/2022-03-13T00:29:21.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:29:21.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breigoednijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024749/2022-03-13T00:29:21.359Z>.
+<https://stad.gent/id/concept/670000006/2022-03-11T06:45:20.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:20.828Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2422_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000006/2022-03-11T06:45:20.828Z>.
+<https://stad.gent/id/concept/570024749/2022-03-11T06:24:15.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:24:15.807Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2572_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breigoednijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2572_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024749/2022-03-11T06:24:15.807Z>.
+<https://stad.gent/id/concept/570023167/2022-03-11T05:15:08.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:15:08.082Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breskens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3064_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023167/2022-03-11T05:15:08.082Z>.
+<https://stad.gent/id/concept/570023027/2022-03-11T05:09:35.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:09:35.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7247769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3106_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breendonk (Puurs)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3106_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023027/2022-03-11T05:09:35.748Z>.
+<https://stad.gent/id/concept/570020790/2022-03-11T04:50:55.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:50:55.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005968>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3238_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breisach am Rhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_3238_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020790/2022-03-11T04:50:55.226Z>.
+<https://stad.gent/id/concept/570020509/2022-03-11T04:45:42.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:45:42.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3274_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormen en verbinden van lussen door middel van naalden of haakjes volgens een voorgeschreven manier of patroon, machinaal of met de hand; meestal gebruikt voor textiel en kleding. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3274_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020509/2022-03-11T04:45:42.783Z>.
+<https://stad.gent/id/concept/570020014/2022-03-11T04:37:39.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:37:39.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3334_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020014/2022-03-11T04:37:39.316Z>.
+<https://stad.gent/id/concept/570019352/2022-03-11T04:15:13.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:15:13.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1440357>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3493_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breinaald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3493_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019352/2022-03-11T04:15:13.041Z>.
+<https://stad.gent/id/concept/570019309/2022-03-11T04:12:57.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:12:57.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breiwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3508_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019309/2022-03-11T04:12:57.077Z>.
+<https://stad.gent/id/concept/570017874/2022-03-11T03:42:59.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:42:59.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1094365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breimachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3724_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017874/2022-03-11T03:42:59.014Z>.
+<https://stad.gent/id/concept/570016476/2022-03-11T02:54:24.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:54:24.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breekijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016476/2022-03-11T02:54:24.580Z>.
+<https://stad.gent/id/concept/570015643/2022-03-11T02:35:26.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:35:26.430Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077114>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4204_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brevet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4204_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015643/2022-03-11T02:35:26.430Z>.
+<https://stad.gent/id/concept/570012211/2022-03-11T01:21:50.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:21:50.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q35059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4729_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4729_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012211/2022-03-11T01:21:50.935Z>.
+<https://stad.gent/id/concept/570008949/2022-03-11T00:22:18.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:22:18.701Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1094365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5155_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breimachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5155_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008949/2022-03-11T00:22:18.701Z>.
+<https://stad.gent/id/concept/670000006/2022-02-26T16:09:09.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:09:09.846Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6274_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6274_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000006/2022-02-26T16:09:09.846Z>.
+<https://stad.gent/id/concept/570024749/2022-02-26T15:48:15.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:48:15.290Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6424_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breigoednijverheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6424_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024749/2022-02-26T15:48:15.290Z>.
+<https://stad.gent/id/concept/570023167/2022-02-26T14:39:06.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:39:06.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047676>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6919_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breskens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_6919_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023167/2022-02-26T14:39:06.819Z>.
+<https://stad.gent/id/concept/570023027/2022-02-26T14:33:34.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:33:34.523Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7247769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6958_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Breendonk (Puurs)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_6958_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023027/2022-02-26T14:33:34.523Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> <https://w3id.org/tree#relation> _:df_1_2282.
+_:df_1_2282 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brei".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> <https://w3id.org/tree#relation> _:df_1_2283.
+_:df_1_2283 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bred.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bred".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> <https://w3id.org/tree#relation> _:df_1_2284.
+_:df_1_2284 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bree.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bree".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> <https://w3id.org/tree#relation> _:df_1_2285.
+_:df_1_2285 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brev.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brev".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> <https://w3id.org/tree#relation> _:df_1_2286.
+_:df_1_2286 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/brem.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "brem".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bre.ttl>.

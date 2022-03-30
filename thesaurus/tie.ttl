@@ -1,0 +1,119 @@
+<https://stad.gent/id/concept/570022922/2022-03-11T05:04:01.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:04:01.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006875>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3145_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3145_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022922/2022-03-11T05:04:01.055Z>.
+<https://stad.gent/id/concept/570022884/2022-03-11T05:02:30.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:02:30.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiegem (Kortrijk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3154_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022884/2022-03-11T05:02:30.168Z>.
+<https://stad.gent/id/concept/570020070/2022-03-11T04:38:44.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:38:44.989Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3325_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tienen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_3325_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020070/2022-03-11T04:38:44.989Z>.
+<https://stad.gent/id/concept/570019845/2022-03-11T04:34:28.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:34:28.136Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3355_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tielt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3355_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019845/2022-03-11T04:34:28.136Z>.
+<https://stad.gent/id/concept/570023681/2022-02-26T14:58:41.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:58:41.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6778_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tielrode"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_6778_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023681/2022-02-26T14:58:41.647Z>.
+<https://stad.gent/id/concept/570022922/2022-02-26T14:28:02.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:28:02.374Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006875>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6997_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_6997_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022922/2022-02-26T14:28:02.374Z>.
+<https://stad.gent/id/concept/570022884/2022-02-26T14:26:30.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:26:30.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7009_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiegem (Kortrijk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_7009_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022884/2022-02-26T14:26:30.493Z>.
+<https://stad.gent/id/concept/570020070/2022-02-26T14:02:45.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:02:45.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7177_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tienen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_7177_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020070/2022-02-26T14:02:45.471Z>.
+<https://stad.gent/id/concept/570019845/2022-02-26T13:58:28.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:58:28.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7210_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tielt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_7210_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019845/2022-02-26T13:58:28.442Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tie.ttl>.

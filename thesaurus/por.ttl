@@ -1,0 +1,254 @@
+<https://stad.gent/id/concept/570025297/2022-03-13T00:50:17.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:17.218Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PORTRETRECHT"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025297/2022-03-13T00:50:17.218Z>.
+<https://stad.gent/id/concept/570024190/2022-03-13T00:04:34.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:04:34.804Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1456_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1456_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024190/2022-03-13T00:04:34.804Z>.
+<https://stad.gent/id/concept/670001799/2022-03-11T08:52:14.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:52:14.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portretfoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1513_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001799/2022-03-11T08:52:14.561Z>.
+<https://stad.gent/id/concept/570025297/2022-03-11T06:45:10.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:10.825Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PORTRETRECHT"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2422_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025297/2022-03-11T06:45:10.825Z>.
+<https://stad.gent/id/concept/570024190/2022-03-11T05:59:30.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:59:30.788Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2749_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2749_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024190/2022-03-11T05:59:30.788Z>.
+<https://stad.gent/id/concept/570023952/2022-03-11T05:46:41.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:46:41.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2839_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portslade (Sussex)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2839_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023952/2022-03-11T05:46:41.226Z>.
+<https://stad.gent/id/concept/570014542/2022-03-11T02:07:50.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:07:50.298Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020333>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacavém"@nl.
+_:df_4402_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014542/2022-03-11T02:07:50.298Z>.
+<https://stad.gent/id/concept/570010202/2022-03-11T00:59:45.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:59:45.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4888_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte, draagbare houders gebruikt om papieren of tekeningen in te vervoeren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portefeuille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4888_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010202/2022-03-11T00:59:45.109Z>.
+<https://stad.gent/id/concept/570010017/2022-03-11T00:53:47.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:53:47.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395491>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4930_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gedrukte kaartjes op gecoat karton met een glanzend oppervlak dat op porselein lijkt, gewoonlijk met commerciële advertenties en vaak met afbeeldingen. Ze kunnen gelithografeerd of gedrukt zijn, en handmatig beschilderd zijn met metallieke details. De productie werd eind 19e of begin 20e eeuw gestaakt, omdat de gebruikte materialen lood bevatten, dat giftig was voor de drukkers en schilders die de kaarten maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "porseleinkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4930_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010017/2022-03-11T00:53:47.918Z>.
+<https://stad.gent/id/concept/570009001/2022-03-11T00:24:00.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:24:00.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5143_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pordenone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_5143_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009001/2022-03-11T00:24:00.077Z>.
+<https://stad.gent/id/concept/570008622/2022-03-11T00:10:28.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:10:28.565Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015637>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5239_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorstellingen van personen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portret"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008643>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008643> <http://www.w3.org/2004/02/skos/core#prefLabel> "familieportret"@nl.
+_:df_5239_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008622/2022-03-11T00:10:28.565Z>.
+<https://stad.gent/id/concept/570008585/2022-03-11T00:09:28.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:09:28.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5245_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "porfier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016697>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016697> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl.
+_:df_5245_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008585/2022-03-11T00:09:28.081Z>.
+<https://stad.gent/id/concept/670001799/2022-02-26T18:16:27.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:16:27.241Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portretfoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5365_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001799/2022-02-26T18:16:27.241Z>.
+<https://stad.gent/id/concept/570025297/2022-02-26T16:09:04.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:09:04.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6277_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PORTRETRECHT"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6277_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025297/2022-02-26T16:09:04.845Z>.
+<https://stad.gent/id/concept/570024190/2022-02-26T15:23:29.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:23:29.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6601_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6601_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024190/2022-02-26T15:23:29.299Z>.
+<https://stad.gent/id/concept/570023952/2022-02-26T15:10:41.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:10:41.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6694_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portslade (Sussex)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6694_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023952/2022-02-26T15:10:41.971Z>.
+<https://stad.gent/id/concept/570014542/2022-02-26T11:32:13.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:32:13.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8254_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020333>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacavém"@nl.
+_:df_8254_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014542/2022-02-26T11:32:13.795Z>.
+<https://stad.gent/id/concept/570010202/2022-02-26T10:24:08.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:24:08.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8740_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte, draagbare houders gebruikt om papieren of tekeningen in te vervoeren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portefeuille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8740_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010202/2022-02-26T10:24:08.670Z>.
+<https://stad.gent/id/concept/570010017/2022-02-26T10:18:11.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:18:11.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395491>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8782_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gedrukte kaartjes op gecoat karton met een glanzend oppervlak dat op porselein lijkt, gewoonlijk met commerciële advertenties en vaak met afbeeldingen. Ze kunnen gelithografeerd of gedrukt zijn, en handmatig beschilderd zijn met metallieke details. De productie werd eind 19e of begin 20e eeuw gestaakt, omdat de gebruikte materialen lood bevatten, dat giftig was voor de drukkers en schilders die de kaarten maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "porseleinkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8782_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010017/2022-02-26T10:18:11.563Z>.
+<https://stad.gent/id/concept/570009001/2022-02-26T09:48:28.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:28.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8995_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pordenone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_8995_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009001/2022-02-26T09:48:28.935Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/por.ttl> <https://w3id.org/tree#relation> _:df_1_2534.
+_:df_1_2534 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/port.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "port".
+<https://thijstem.github.io/substrings_coghent/thesaurus/por.ttl> <https://w3id.org/tree#relation> _:df_1_2535.
+_:df_1_2535 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/porf.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "porf".
+<https://thijstem.github.io/substrings_coghent/thesaurus/por.ttl> <https://w3id.org/tree#relation> _:df_1_2536.
+_:df_1_2536 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pors.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pors".
+<https://thijstem.github.io/substrings_coghent/thesaurus/por.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/por.ttl>.

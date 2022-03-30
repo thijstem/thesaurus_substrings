@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570018835/2022-03-11T03:51:18.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:51:18.241Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Giftige of dodelijke stoffen die worden gebruikt om insecten te doden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insecticide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3664_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018835/2022-03-11T03:51:18.241Z>.
+<https://stad.gent/id/concept/570018835/2022-02-26T13:15:20.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:15:20.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7516_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Giftige of dodelijke stoffen die worden gebruikt om insecten te doden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insecticide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7516_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018835/2022-02-26T13:15:20.139Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/inse.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/inse.ttl>.

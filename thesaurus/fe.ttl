@@ -1,0 +1,121 @@
+<https://stad.gent/id/concept/670000911/2022-03-13T02:00:00.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:00.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_631_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ferdinand Lousbergskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_631_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000911/2022-03-13T02:00:00.163Z>.
+<https://stad.gent/id/concept/670001580/2022-03-11T08:34:05.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:34:05.540Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fernand Scribedreef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1645_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001580/2022-03-11T08:34:05.540Z>.
+<https://stad.gent/id/concept/670000911/2022-03-11T07:54:50.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:54:50.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1924_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ferdinand Lousbergskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1924_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000911/2022-03-11T07:54:50.107Z>.
+<https://stad.gent/id/concept/570016983/2022-03-11T03:14:16.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:16.909Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3928_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fenton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_3928_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016983/2022-03-11T03:14:16.909Z>.
+<https://stad.gent/id/concept/570015390/2022-03-11T02:31:29.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:31:29.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4231_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "feest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4231_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015390/2022-03-11T02:31:29.286Z>.
+<https://stad.gent/id/concept/570015441/2022-03-11T02:31:44.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:31:44.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q21670237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4231_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "feestmaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4231_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015441/2022-03-11T02:31:44.293Z>.
+<https://stad.gent/id/concept/670001580/2022-02-26T17:58:14.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:58:14.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5494_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fernand Scribedreef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5494_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001580/2022-02-26T17:58:14.790Z>.
+<https://stad.gent/id/concept/670000911/2022-02-26T17:18:39.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:18:39.648Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5779_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ferdinand Lousbergskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5779_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000911/2022-02-26T17:18:39.648Z>.
+<https://stad.gent/id/concept/570016983/2022-02-26T12:38:33.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:38:33.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7780_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fenton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_7780_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016983/2022-02-26T12:38:33.741Z>.
+<https://stad.gent/id/concept/570015441/2022-02-26T11:56:03.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:56:03.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q21670237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8083_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "feestmaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8083_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015441/2022-02-26T11:56:03.444Z>.
+<https://stad.gent/id/concept/570015390/2022-02-26T11:55:48.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:55:48.098Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8086_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "feest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8086_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015390/2022-02-26T11:55:48.098Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fe.ttl>.

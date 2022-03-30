@@ -1,0 +1,205 @@
+<https://stad.gent/id/concept/570024670/2022-03-13T00:26:04.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:26:04.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q841217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, hydraulische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1303_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024670/2022-03-13T00:26:04.984Z>.
+<https://stad.gent/id/concept/570024666/2022-03-13T00:25:49.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:25:49.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1306_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, mechanische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1306_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024666/2022-03-13T00:25:49.980Z>.
+<https://stad.gent/id/concept/570024374/2022-03-13T00:14:29.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:14:29.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1387_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 17de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023273>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023273> <http://www.w3.org/2004/02/skos/core#prefLabel> "17de eeuw"@nl.
+_:df_1387_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024374/2022-03-13T00:14:29.317Z>.
+<https://stad.gent/id/concept/570024222/2022-03-13T00:06:35.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:06:35.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1075>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1441_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 21ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024221>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024221> <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl, "21ste eeuw"@nl.
+_:df_1441_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024222/2022-03-13T00:06:35.607Z>.
+<https://stad.gent/id/concept/570024223/2022-03-13T00:06:40.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:06:40.609Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1441_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 21ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024221>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024221> <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl, "21ste eeuw"@nl.
+_:df_1441_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024223/2022-03-13T00:06:40.609Z>.
+<https://stad.gent/id/concept/570024225/2022-03-13T00:06:45.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:06:45.611Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1441_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke beschermingsmiddelen (PBM)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1441_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024225/2022-03-13T00:06:45.611Z>.
+<https://stad.gent/id/concept/570024221/2022-03-13T00:06:30.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:06:30.605Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1444_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024222>, <https://stad.gent/id/concept/570024223>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024223> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 21ste eeuw"@nl.
+<https://stad.gent/id/concept/570024222> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 21ste eeuw"@nl.
+_:df_1444_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024221/2022-03-13T00:06:30.605Z>.
+<https://stad.gent/id/concept/570024134/2022-03-13T00:01:43.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:43.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q183122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "periscoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1477_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024134/2022-03-13T00:01:43.288Z>.
+<https://stad.gent/id/concept/670001860/2022-03-11T08:54:30.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:54:30.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q506858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persfotografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001860/2022-03-11T08:54:30.402Z>.
+<https://stad.gent/id/concept/670000719/2022-03-11T07:39:21.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:39:21.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Perkamentstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2035_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000719/2022-03-11T07:39:21.905Z>.
+<https://stad.gent/id/concept/570024666/2022-03-11T06:20:44.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:20:44.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2596_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, mechanische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2596_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024666/2022-03-11T06:20:44.593Z>.
+<https://stad.gent/id/concept/570024670/2022-03-11T06:20:59.599Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:20:59.599Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q841217>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2596_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers, hydraulische"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2596_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024670/2022-03-11T06:20:59.599Z>.
+<https://stad.gent/id/concept/570024374/2022-03-11T06:09:24.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:24.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/1052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2677_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 17de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023273>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023273> <http://www.w3.org/2004/02/skos/core#prefLabel> "17de eeuw"@nl.
+_:df_2677_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024374/2022-03-11T06:09:24.884Z>.
+<https://stad.gent/id/concept/570024221/2022-03-11T06:01:26.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:01:26.407Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024222>, <https://stad.gent/id/concept/570024223>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024223> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 21ste eeuw"@nl.
+<https://stad.gent/id/concept/570024222> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 21ste eeuw"@nl.
+_:df_2734_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024221> <http://www.w3.org/2004/02/skos/core#prefLabel> "21ste eeuw"@nl, "21ste eeuw"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024221/2022-03-11T06:01:26.407Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1330.
+_:df_1_1330 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/peri.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "peri".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1331.
+_:df_1_1331 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pers.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pers".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1332.
+_:df_1_1332 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/perl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1333.
+_:df_1_1333 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/perc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1334.
+_:df_1_1334 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/perf.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perf".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1335.
+_:df_1_1335 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/peru.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "peru".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> <https://w3id.org/tree#relation> _:df_1_1336.
+_:df_1_1336 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/perk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "perk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/per.ttl>.

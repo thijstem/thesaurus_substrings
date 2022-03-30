@@ -1,0 +1,45 @@
+<https://stad.gent/id/concept/570012691/2022-03-11T01:31:05.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:31:05.155Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1667685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasfornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4663_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012691/2022-03-11T01:31:05.155Z>.
+<https://stad.gent/id/concept/570024493/2022-02-26T15:40:16.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:40:16.906Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3241469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6481_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6481_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024493/2022-02-26T15:40:16.906Z>.
+<https://stad.gent/id/concept/570023596/2022-02-26T14:55:15.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:55:15.058Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6802_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasfilter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6802_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023596/2022-02-26T14:55:15.058Z>.
+<https://stad.gent/id/concept/570012691/2022-02-26T10:55:27.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:55:27.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1667685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8518_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasfornuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8518_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012691/2022-02-26T10:55:27.440Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gasf.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gasf.ttl>.

@@ -1,0 +1,215 @@
+<https://stad.gent/id/concept/570023112/2022-03-11T05:12:47.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:12:47.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3082_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023112/2022-03-11T05:12:47.085Z>.
+<https://stad.gent/id/concept/570022974/2022-03-11T05:06:17.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022974>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:17.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3127_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022974"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022974/2022-03-11T05:06:17.217Z>.
+<https://stad.gent/id/concept/570019796/2022-03-11T04:32:37.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:32:37.043Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3370_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3370_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019796/2022-03-11T04:32:37.043Z>.
+<https://stad.gent/id/concept/570018910/2022-03-11T03:54:55.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:54:55.028Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3637_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenborstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3637_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018910/2022-03-11T03:54:55.028Z>.
+<https://stad.gent/id/concept/570017481/2022-03-11T03:29:24.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:29:24.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q913617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoensmeer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017481/2022-03-11T03:29:24.613Z>.
+<https://stad.gent/id/concept/570016204/2022-03-11T02:47:16.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:47:16.311Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Uitschuifbare apparaten in de vorm van een voet, inclusief teen- en hieldelen, die worden gebruikt voor het oprekken van schoenen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenspanner"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4120_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016204/2022-03-11T02:47:16.311Z>.
+<https://stad.gent/id/concept/570012666/2022-03-11T01:30:49.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:30:49.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4666_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012666/2022-03-11T01:30:49.426Z>.
+<https://stad.gent/id/concept/570009231/2022-03-11T00:33:01.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:33:01.617Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5077_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoeisel met een relatief stijve zool en hak dat gewoonlijk de voet tot op of onder het enkelgewricht bedekt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5077_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009231/2022-03-11T00:33:01.617Z>.
+<https://stad.gent/id/concept/670000421/2022-02-26T16:39:23.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:39:23.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6058_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6058_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000421/2022-02-26T16:39:23.087Z>.
+<https://stad.gent/id/concept/670000420/2022-02-26T16:39:18.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:39:18.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136719>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6061_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenlapper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6061_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000420/2022-02-26T16:39:18.085Z>.
+<https://stad.gent/id/concept/570024530/2022-02-26T15:42:12.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:42:12.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400785>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6469_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenzool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6469_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024530/2022-02-26T15:42:12.548Z>.
+<https://stad.gent/id/concept/570023112/2022-02-26T14:36:45.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:36:45.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6934_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6934_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023112/2022-02-26T14:36:45.892Z>.
+<https://stad.gent/id/concept/570022974/2022-02-26T14:30:18.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022974>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:30:18.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6982_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6982_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022974"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022974/2022-02-26T14:30:18.034Z>.
+<https://stad.gent/id/concept/570019796/2022-02-26T13:56:37.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:56:37.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7222_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7222_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019796/2022-02-26T13:56:37.539Z>.
+<https://stad.gent/id/concept/570018910/2022-02-26T13:18:56.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:56.635Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7492_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenborstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7492_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018910/2022-02-26T13:18:56.635Z>.
+<https://stad.gent/id/concept/570017481/2022-02-26T12:53:29.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:53:29.731Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q913617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7672_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoensmeer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7672_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017481/2022-02-26T12:53:29.731Z>.
+<https://stad.gent/id/concept/570016204/2022-02-26T12:11:34.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:11:34.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7972_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Uitschuifbare apparaten in de vorm van een voet, inclusief teen- en hieldelen, die worden gebruikt voor het oprekken van schoenen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenspanner"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7972_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016204/2022-02-26T12:11:34.449Z>.
+<https://stad.gent/id/concept/570012666/2022-02-26T10:55:12.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:55:12.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8518_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8518_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012666/2022-02-26T10:55:12.434Z>.
+<https://stad.gent/id/concept/570009231/2022-02-26T09:57:28.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:28.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8932_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoeisel met een relatief stijve zool en hak dat gewoonlijk de voet tot op of onder het enkelgewricht bedekt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8932_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009231/2022-02-26T09:57:28.287Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schoe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schoe.ttl>.

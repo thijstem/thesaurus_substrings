@@ -1,0 +1,197 @@
+<https://stad.gent/id/concept/670001379/2022-03-13T02:22:48.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:48.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_469_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Emile Braun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001379/2022-03-13T02:22:48.650Z>.
+<https://stad.gent/id/concept/670001380/2022-03-13T02:22:53.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:53.652Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_469_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Ingel Seghers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001380/2022-03-13T02:22:53.652Z>.
+<https://stad.gent/id/concept/670001381/2022-03-13T02:22:58.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:58.654Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_469_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Verdrag van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001381/2022-03-13T02:22:58.654Z>.
+<https://stad.gent/id/concept/670001382/2022-03-13T02:23:03.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:23:03.914Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_469_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaats Jacob Van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001382/2022-03-13T02:23:03.914Z>.
+<https://stad.gent/id/concept/670001254/2022-03-13T02:12:56.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:12:56.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_541_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_541_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001254/2022-03-13T02:12:56.777Z>.
+<https://stad.gent/id/concept/670001380/2022-03-11T08:17:24.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:24.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Ingel Seghers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1762_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001380/2022-03-11T08:17:24.148Z>.
+<https://stad.gent/id/concept/670001381/2022-03-11T08:17:29.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:29.149Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Verdrag van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1762_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001381/2022-03-11T08:17:29.149Z>.
+<https://stad.gent/id/concept/670001382/2022-03-11T08:17:34.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:34.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaats Jacob Van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1762_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001382/2022-03-11T08:17:34.151Z>.
+<https://stad.gent/id/concept/670001379/2022-03-11T08:17:19.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:17:19.147Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1765_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Emile Braun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1765_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001379/2022-03-11T08:17:19.147Z>.
+<https://stad.gent/id/concept/670001254/2022-03-11T08:07:45.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:07:45.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1831_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001254/2022-03-11T08:07:45.500Z>.
+<https://stad.gent/id/concept/570018988/2022-03-11T03:59:51.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:51.659Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3604_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018988/2022-03-11T03:59:51.659Z>.
+<https://stad.gent/id/concept/570015101/2022-03-11T02:23:49.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:23:49.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q234901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4288_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedroogd fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4288_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015101/2022-03-11T02:23:49.458Z>.
+<https://stad.gent/id/concept/670001380/2022-02-26T17:41:28.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:28.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5614_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Ingel Seghers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5614_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001380/2022-02-26T17:41:28.353Z>.
+<https://stad.gent/id/concept/670001381/2022-02-26T17:41:33.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:33.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5614_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Verdrag van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5614_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001381/2022-02-26T17:41:33.355Z>.
+<https://stad.gent/id/concept/670001382/2022-02-26T17:41:38.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:38.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5614_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaats Jacob Van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5614_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001382/2022-02-26T17:41:38.357Z>.
+<https://stad.gent/id/concept/670001379/2022-02-26T17:41:23.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:23.351Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5617_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat Emile Braun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5617_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001379/2022-02-26T17:41:23.351Z>.
+<https://stad.gent/id/concept/670001254/2022-02-26T17:31:34.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:31:34.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5686_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5686_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001254/2022-02-26T17:31:34.242Z>.
+<https://stad.gent/id/concept/570018988/2022-02-26T13:23:54.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:23:54.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7456_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7456_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018988/2022-02-26T13:23:54.092Z>.
+<https://stad.gent/id/concept/570015101/2022-02-26T11:48:09.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:48:09.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q234901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8140_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gedroogd fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8140_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015101/2022-02-26T11:48:09.925Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ged.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ged.ttl>.

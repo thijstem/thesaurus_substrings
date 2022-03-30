@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/570023280/2022-03-11T05:21:25.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:21:25.960Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biais passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3019_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023280/2022-03-11T05:21:25.960Z>.
+<https://stad.gent/id/concept/570019496/2022-03-11T04:22:11.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:22:11.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300421626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3442_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3442_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019496/2022-03-11T04:22:11.531Z>.
+<https://stad.gent/id/concept/570023280/2022-02-26T14:45:24.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:45:24.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6874_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biais passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6874_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023280/2022-02-26T14:45:24.357Z>.
+<https://stad.gent/id/concept/570019496/2022-02-26T13:46:13.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:46:13.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300421626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7297_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biais"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7297_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019496/2022-02-26T13:46:13.071Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bia.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bia.ttl>.

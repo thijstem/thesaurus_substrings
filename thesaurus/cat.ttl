@@ -1,0 +1,67 @@
+<https://stad.gent/id/concept/570018593/2022-03-11T03:49:57.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:49:57.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor, doorgaans systematische, lijsten van voorwerpen in boek- of pamfletvorm, op kaartjes of on-line, meestal met vermelding van bijzonderheden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "catalogus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570013301>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570013301> <http://www.w3.org/2004/02/skos/core#prefLabel> "wooncatalogus"@nl.
+_:df_3673_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018593/2022-03-11T03:49:57.785Z>.
+<https://stad.gent/id/concept/570016039/2022-03-11T02:43:39.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:43:39.913Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7337734>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Catalonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570017318>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570017318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_4144_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016039/2022-03-11T02:43:39.913Z>.
+<https://stad.gent/id/concept/670000095/2022-02-26T16:14:11.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:14:11.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6238_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloniëstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6238_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000095/2022-02-26T16:14:11.760Z>.
+<https://stad.gent/id/concept/570018593/2022-02-26T13:13:59.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:13:59.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7528_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor, doorgaans systematische, lijsten van voorwerpen in boek- of pamfletvorm, op kaartjes of on-line, meestal met vermelding van bijzonderheden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "catalogus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570013301>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570013301> <http://www.w3.org/2004/02/skos/core#prefLabel> "wooncatalogus"@nl.
+_:df_7528_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018593/2022-02-26T13:13:59.560Z>.
+<https://stad.gent/id/concept/570016039/2022-02-26T12:07:58.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:07:58.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7337734>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7999_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Catalonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570017318>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570017318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_7999_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016039/2022-02-26T12:07:58.068Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cat.ttl>.

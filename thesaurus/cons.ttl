@@ -1,0 +1,133 @@
+<https://stad.gent/id/concept/570024291/2022-03-11T06:04:42.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:04:42.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2710_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een industrieel of ambachtelijk bedrijf waar metalen constructies en onderdelen gemonteerd en hersteld worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructiewerkplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2710_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024291/2022-03-11T06:04:42.865Z>.
+<https://stad.gent/id/concept/570018892/2022-03-11T03:54:04.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:54:04.771Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300075330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3643_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "console"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3643_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018892/2022-03-11T03:54:04.771Z>.
+<https://stad.gent/id/concept/570012929/2022-03-11T01:34:41.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:34:41.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q385378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4639_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4639_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012929/2022-03-11T01:34:41.483Z>.
+<https://stad.gent/id/concept/570011698/2022-03-11T01:17:03.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:17:03.849Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2682038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4765_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "conserven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4765_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011698/2022-03-11T01:17:03.849Z>.
+<https://stad.gent/id/concept/570009713/2022-03-11T00:47:15.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:47:15.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1049476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4978_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4978_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009713/2022-03-11T00:47:15.239Z>.
+<https://stad.gent/id/concept/670001771/2022-02-26T18:14:06.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:14:06.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300343438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5383_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "conservatorium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5383_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001771/2022-02-26T18:14:06.304Z>.
+<https://stad.gent/id/concept/670001576/2022-02-26T17:57:54.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:57:54.783Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Constributiestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5497_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001576/2022-02-26T17:57:54.783Z>.
+<https://stad.gent/id/concept/570024291/2022-02-26T15:28:41.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:41.619Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6565_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een industrieel of ambachtelijk bedrijf waar metalen constructies en onderdelen gemonteerd en hersteld worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructiewerkplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6565_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024291/2022-02-26T15:28:41.619Z>.
+<https://stad.gent/id/concept/570018892/2022-02-26T13:18:06.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:06.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300075330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7498_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "console"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7498_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018892/2022-02-26T13:18:06.236Z>.
+<https://stad.gent/id/concept/570012929/2022-02-26T10:59:05.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:59:05.207Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q385378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8491_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8491_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012929/2022-02-26T10:59:05.207Z>.
+<https://stad.gent/id/concept/570011698/2022-02-26T10:41:25.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:41:25.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2682038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8617_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "conserven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8617_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011698/2022-02-26T10:41:25.652Z>.
+<https://stad.gent/id/concept/570009713/2022-02-26T10:11:39.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:39.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1049476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8830_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "constructeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8830_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009713/2022-02-26T10:11:39.235Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cons.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cons.ttl>.

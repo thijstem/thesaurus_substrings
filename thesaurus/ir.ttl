@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570022872/2022-03-11T05:02:10.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:02:10.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300426586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "irrigator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3157_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022872/2022-03-11T05:02:10.160Z>.
+<https://stad.gent/id/concept/570016046/2022-03-11T02:43:49.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:43:49.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2065039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Irvington"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_4144_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016046/2022-03-11T02:43:49.917Z>.
+<https://stad.gent/id/concept/570022872/2022-02-26T14:26:10.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:26:10.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300426586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7012_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "irrigator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7012_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022872/2022-02-26T14:26:10.174Z>.
+<https://stad.gent/id/concept/570016046/2022-02-26T12:08:08.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:08:08.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2065039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7996_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Irvington"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_7996_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016046/2022-02-26T12:08:08.073Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ir.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ir.ttl>.

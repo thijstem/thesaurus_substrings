@@ -1,0 +1,64 @@
+<https://stad.gent/id/concept/670001740/2022-02-26T18:11:30.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:11:30.436Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5401_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Goethem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5401_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001740/2022-02-26T18:11:30.436Z>.
+<https://stad.gent/id/concept/670001699/2022-02-26T18:08:09.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:08:09.088Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5425_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Arteveldeplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5425_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001699/2022-02-26T18:08:09.088Z>.
+<https://stad.gent/id/concept/670001700/2022-02-26T18:08:14.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:08:14.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5425_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Stopenberghestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5425_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001700/2022-02-26T18:08:14.091Z>.
+<https://stad.gent/id/concept/670001540/2022-02-26T17:54:53.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:53.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5518_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5518_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001540/2022-02-26T17:54:53.613Z>.
+<https://stad.gent/id/concept/670001541/2022-02-26T17:54:58.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:58.615Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5518_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Eyck"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5518_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001541/2022-02-26T17:54:58.615Z>.
+<https://stad.gent/id/concept/670001542/2022-02-26T17:55:03.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:55:03.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/300928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5518_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanderdoncktdoorgang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5518_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001542/2022-02-26T17:55:03.616Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/van.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/van.ttl>.

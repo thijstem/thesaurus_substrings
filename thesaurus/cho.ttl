@@ -1,0 +1,77 @@
+<https://stad.gent/id/concept/570019359/2022-03-11T04:15:43.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:15:43.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chokier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3490_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019359/2022-03-11T04:15:43.052Z>.
+<https://stad.gent/id/concept/570018336/2022-03-11T03:49:42.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:49:42.386Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Holle vorm waarmee men chocoladetabletten, ook pralines en holle chocoladefiguurtjes maakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chocoladevorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3676_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018336/2022-03-11T03:49:42.386Z>.
+<https://stad.gent/id/concept/570023637/2022-02-26T14:57:05.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:57:05.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6790_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Choisy-le-Roi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_6790_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023637/2022-02-26T14:57:05.991Z>.
+<https://stad.gent/id/concept/570020698/2022-02-26T14:12:59.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:12:59.946Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300387485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7105_57;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voedings- en genotmiddelen, m.n. versnaperingen uit cacao, suiker en cacaoboter bereid, eventueel met nog andere stoffen vermengd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chocolade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7105_57 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020698/2022-02-26T14:12:59.946Z>.
+<https://stad.gent/id/concept/570019359/2022-02-26T13:39:45.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:45.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7342_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chokier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_7342_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019359/2022-02-26T13:39:45.545Z>.
+<https://stad.gent/id/concept/570018336/2022-02-26T13:13:44.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:13:44.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7528_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Holle vorm waarmee men chocoladetabletten, ook pralines en holle chocoladefiguurtjes maakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chocoladevorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7528_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018336/2022-02-26T13:13:44.554Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cho.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cho.ttl>.

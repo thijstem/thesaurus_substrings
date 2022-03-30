@@ -1,0 +1,180 @@
+<https://stad.gent/id/concept/570024389/2022-03-11T06:10:15.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:10:15.187Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2671_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024389/2022-03-11T06:10:15.187Z>.
+<https://stad.gent/id/concept/570023966/2022-03-11T05:47:26.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:47:26.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor water, meestal van metaal of plastic, met een tuit waarvan het mondstuk geperforeerd is, om planten water mee te geven of te besproeien. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2833_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023966/2022-03-11T05:47:26.568Z>.
+<https://stad.gent/id/concept/570023816/2022-03-11T05:42:09.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:42:09.211Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2872_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Giessen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_2872_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023816/2022-03-11T05:42:09.211Z>.
+<https://stad.gent/id/concept/570020495/2022-03-11T04:45:07.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:45:07.439Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1941820>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3280_52;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietmal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3280_52 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020495/2022-03-11T04:45:07.439Z>.
+<https://stad.gent/id/concept/570019362/2022-03-11T04:15:53.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:15:53.858Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019362/2022-03-11T04:15:53.858Z>.
+<https://stad.gent/id/concept/570011135/2022-03-11T01:11:06.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:11:06.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4807_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_4807_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011135/2022-03-11T01:11:06.237Z>.
+<https://stad.gent/id/concept/570009376/2022-03-11T00:39:06.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:39:06.203Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5035_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5035_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009376/2022-03-11T00:39:06.203Z>.
+<https://stad.gent/id/concept/570024389/2022-02-26T15:34:13.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:34:13.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6526_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6526_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024389/2022-02-26T15:34:13.745Z>.
+<https://stad.gent/id/concept/570023966/2022-02-26T15:11:27.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:11:27.347Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6688_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor water, meestal van metaal of plastic, met een tuit waarvan het mondstuk geperforeerd is, om planten water mee te geven of te besproeien. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6688_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023966/2022-02-26T15:11:27.347Z>.
+<https://stad.gent/id/concept/570023816/2022-02-26T15:06:10.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:06:10.136Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6724_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Giessen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_6724_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023816/2022-02-26T15:06:10.136Z>.
+<https://stad.gent/id/concept/570020495/2022-02-26T14:09:08.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:09:08.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1941820>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7132_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietmal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7132_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020495/2022-02-26T14:09:08.016Z>.
+<https://stad.gent/id/concept/570019362/2022-02-26T13:39:55.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:55.549Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008335>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7342_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7342_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019362/2022-02-26T13:39:55.549Z>.
+<https://stad.gent/id/concept/570011135/2022-02-26T10:35:28.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:35:28.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8659_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_8659_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011135/2022-02-26T10:35:28.163Z>.
+<https://stad.gent/id/concept/570009376/2022-02-26T10:03:31.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:03:31.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8887_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8887_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009376/2022-02-26T10:03:31.343Z>.
+<https://stad.gent/id/concept/570001424/2022-02-26T09:00:18.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001424>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:00:18.101Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9340_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houten of metalen houders met het zand dat in de metaalgieterij de gietvorm vormt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9340_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001424"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001424/2022-02-26T09:00:18.101Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gie.ttl>.

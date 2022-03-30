@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570009558/2022-02-26T10:06:37.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:37.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300050773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8866_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elektrische hulpmiddelen om circuits wederzijds te koppelen, over het algemeen gebruikt om de energietoevoer van het ene naar het andere voltage over te schakelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transformator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8866_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009558/2022-02-26T10:06:37.254Z>.
+<https://stad.gent/id/concept/570006204/2022-02-26T09:18:11.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:18:11.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9211_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het proces of de handeling waarbij iets naar elders wordt overgebracht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011271>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570011271> <http://www.w3.org/2004/02/skos/core#prefLabel> "openbaar vervoer"@nl, "openbaar vervoer"@nl.
+_:df_9211_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006204/2022-02-26T09:18:11.522Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tran.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tran.ttl>.

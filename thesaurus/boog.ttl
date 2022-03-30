@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570017287/2022-02-26T12:45:46.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:45:46.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7729_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elektrische lampen waarin de stroom door een luchtspleet tussen twee elektrodes, meestal van koolstof, wordt geleid. De twee elektroden en de lucht in de spleet worden zo warm dat ze helder opgloeien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "booglamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7729_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017287/2022-02-26T12:45:46.672Z>.
+<https://stad.gent/id/concept/570015887/2022-02-26T12:03:56.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:03:56.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053966>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8026_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "booglassen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8026_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015887/2022-02-26T12:03:56.508Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/boog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/boog.ttl>.

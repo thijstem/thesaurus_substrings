@@ -1,0 +1,201 @@
+<https://stad.gent/id/concept/570008846/2022-03-11T00:18:35.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:18:35.771Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q190117>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5182_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auto-industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5182_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008846/2022-03-11T00:18:35.771Z>.
+<https://stad.gent/id/concept/570008732/2022-03-11T00:14:57.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:14:57.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212677>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5206_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor grote, gemotoriseerde, openbare straatvoertuigen voor grote hoeveelheden personen, meestal zeer lang en uitgerust met banken en zitplaatsen voor passagiers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autobus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5206_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008732/2022-03-11T00:14:57.991Z>.
+<https://stad.gent/id/concept/670001242/2022-02-26T17:30:33.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:30:33.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5692_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auteur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5692_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001242/2022-02-26T17:30:33.769Z>.
+<https://stad.gent/id/concept/570023295/2022-02-26T14:46:24.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:46:24.993Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6865_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autolamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6865_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023295/2022-02-26T14:46:24.993Z>.
+<https://stad.gent/id/concept/570020092/2022-02-26T14:03:15.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:03:15.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2851878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7174_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autotelefoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7174_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020092/2022-02-26T14:03:15.483Z>.
+<https://stad.gent/id/concept/570018051/2022-02-26T13:10:23.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:10:23.229Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056084>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7552_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het installeren van mechanische of elektronische apparaten, processen of systemen die de plaats innemen van menselijke inspanning, observatie of beslissingen en die een minimum aan menselijk ingrijpen vereisen om te functioneren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "automatisering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7552_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018051/2022-02-26T13:10:23.229Z>.
+<https://stad.gent/id/concept/570017221/2022-02-26T12:44:01.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:01.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7741_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autoradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7741_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017221/2022-02-26T12:44:01.065Z>.
+<https://stad.gent/id/concept/570016825/2022-02-26T12:31:56.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:31:56.045Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7828_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auto-cassettespeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7828_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016825/2022-02-26T12:31:56.045Z>.
+<https://stad.gent/id/concept/570016323/2022-02-26T12:14:50.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:14:50.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7948_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mechanische figuren of toestellen die zo zijn gemaakt dat zij schijnbaar uit zichzelf bewegen; zijn meestal voorzien van ingewikkelde verborgen mechanismen; al bekend vanaf de hellenistische tijd als speelgoed, amusement en in klokken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "automaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7948_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016323/2022-02-26T12:14:50.837Z>.
+<https://stad.gent/id/concept/570012911/2022-02-26T10:58:39.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:58:39.944Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8494_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8494_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012911/2022-02-26T10:58:39.944Z>.
+<https://stad.gent/id/concept/570011640/2022-02-26T10:41:05.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:41:05.374Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8620_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autowielsleutel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8620_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011640/2022-02-26T10:41:05.374Z>.
+<https://stad.gent/id/concept/570010135/2022-02-26T10:22:13.043Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:22:13.043Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8755_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autogarage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8755_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010135/2022-02-26T10:22:13.043Z>.
+<https://stad.gent/id/concept/570010108/2022-02-26T10:21:12.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:21:12.730Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8761_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autohoes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8761_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010108/2022-02-26T10:21:12.730Z>.
+<https://stad.gent/id/concept/570009170/2022-02-26T09:54:47.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:47.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247478>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8950_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtdichte kamers die kunnen worden gevuld met stoom onder druk of zijn omringd door een andere kamer die zorgt voor de stoom en worden gebruikt om te steriliseren, koken of voor andere doeleinden die vochtige of droge temperaturen boven 212 graden Fahrenheit vereisen zonder te koken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autoclaaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8950_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009170/2022-02-26T09:54:47.412Z>.
+<https://stad.gent/id/concept/570008846/2022-02-26T09:43:06.196Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:43:06.196Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q190117>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9034_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auto-industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9034_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008846/2022-02-26T09:43:06.196Z>.
+<https://stad.gent/id/concept/570008732/2022-02-26T09:39:29.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:39:29.977Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212677>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9061_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor grote, gemotoriseerde, openbare straatvoertuigen voor grote hoeveelheden personen, meestal zeer lang en uitgerust met banken en zitplaatsen voor passagiers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "autobus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9061_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008732/2022-02-26T09:39:29.977Z>.
+<https://stad.gent/id/concept/570005985/2022-02-26T09:15:25.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:15:25.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178739>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9232_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor zichzelf voortstuwende voertuigen die vooral zijn bedoeld voor het transporteren van passagiers over gewone wegen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9232_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005985/2022-02-26T09:15:25.316Z>.
+<https://stad.gent/id/concept/570004636/2022-02-26T09:11:13.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:11:13.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9262_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "auteur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9262_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004636/2022-02-26T09:11:13.749Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/aut.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/aut.ttl>.

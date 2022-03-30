@@ -1,0 +1,253 @@
+<https://stad.gent/id/concept/570024058/2022-03-11T05:52:03.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:52:03.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meetinstrumenten met twee beweegbare armen met een scharnier of een draaipunt; lijken op tekenpassers maar met twee metalen punten die bijvoorbeeld worden gebruikt om lijnen te verdelen, maten over te zetten of om cirkels of bogen uit te zetten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekpasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2800_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024058/2022-03-11T05:52:03.324Z>.
+<https://stad.gent/id/concept/570023678/2022-03-11T05:34:31.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:34:31.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenhuffel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_2926_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023678/2022-03-11T05:34:31.168Z>.
+<https://stad.gent/id/concept/570023311/2022-03-11T05:23:16.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:23:16.661Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steengoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023306>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023306> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiek"@nl.
+_:df_3007_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023311/2022-03-11T05:23:16.661Z>.
+<https://stad.gent/id/concept/570019477/2022-03-11T04:21:11.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:21:11.145Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011176>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3451_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019477/2022-03-11T04:21:11.145Z>.
+<https://stad.gent/id/concept/570019014/2022-03-11T04:01:12.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:01:12.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042987>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders meestal gebruikt om in te koken; ook om er sauzen in te maken, boter in te smelten; metaal, ca. 1 tot 2 liter, platte bodem, lange rechte steel, soms met deksel, soms met schenktuit. Ook benaming van pannen met verticale, bollende of ojiefvorrmige zijden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steelpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3592_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019014/2022-03-11T04:01:12.232Z>.
+<https://stad.gent/id/concept/570016964/2022-03-11T03:13:16.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:13:16.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q384580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3934_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016964/2022-03-11T03:13:16.249Z>.
+<https://stad.gent/id/concept/570016561/2022-03-11T02:58:00.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:58:00.884Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4042_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4042_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016561/2022-03-11T02:58:00.884Z>.
+<https://stad.gent/id/concept/570016559/2022-03-11T02:57:50.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:57:50.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25158699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4045_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4045_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016559/2022-03-11T02:57:50.880Z>.
+<https://stad.gent/id/concept/570014898/2022-03-11T02:18:30.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:18:30.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4324_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zij die bakstenen maken voor hun beroep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4324_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014898/2022-03-11T02:18:30.151Z>.
+<https://stad.gent/id/concept/570009292/2022-03-11T00:35:39.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:35:39.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q959309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5059_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenkoolmijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5059_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009292/2022-03-11T00:35:39.775Z>.
+<https://stad.gent/id/concept/570008598/2022-03-11T00:09:43.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:09:43.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5245_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fabrieken waar bakstenen worden gemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbakkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5245_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008598/2022-03-11T00:09:43.087Z>.
+<https://stad.gent/id/concept/670000598/2022-02-26T16:53:39.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:53:39.496Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5956_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenput"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5956_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000598/2022-02-26T16:53:39.496Z>.
+<https://stad.gent/id/concept/670000445/2022-02-26T16:41:18.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:41:18.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386356>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6046_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenhouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6046_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000445/2022-02-26T16:41:18.774Z>.
+<https://stad.gent/id/concept/670000446/2022-02-26T16:41:23.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:41:23.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6046_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenkoolhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6046_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000446/2022-02-26T16:41:23.777Z>.
+<https://stad.gent/id/concept/670000224/2022-02-26T16:25:00.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:25:00.973Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6163_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steendam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6163_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000224/2022-02-26T16:25:00.973Z>.
+<https://stad.gent/id/concept/570024969/2022-02-26T15:58:39.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:58:39.940Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000402>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6349_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steengroeve"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6349_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024969/2022-02-26T15:58:39.940Z>.
+<https://stad.gent/id/concept/570024058/2022-02-26T15:16:04.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:16:04.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6655_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meetinstrumenten met twee beweegbare armen met een scharnier of een draaipunt; lijken op tekenpassers maar met twee metalen punten die bijvoorbeeld worden gebruikt om lijnen te verdelen, maten over te zetten of om cirkels of bogen uit te zetten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steekpasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6655_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024058/2022-02-26T15:16:04.497Z>.
+<https://stad.gent/id/concept/570023678/2022-02-26T14:58:31.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:58:31.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6781_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenhuffel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_6781_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023678/2022-02-26T14:58:31.642Z>.
+<https://stad.gent/id/concept/570023311/2022-02-26T14:47:15.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:47:15.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6859_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steengoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023306>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023306> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiek"@nl.
+_:df_6859_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023311/2022-02-26T14:47:15.337Z>.
+<https://stad.gent/id/concept/570019477/2022-02-26T13:45:12.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:45:12.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011176>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7303_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7303_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019477/2022-02-26T13:45:12.765Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stee.ttl> <https://w3id.org/tree#relation> _:df_1_2335.
+_:df_1_2335 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/steel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "steel".
+<https://thijstem.github.io/substrings_coghent/thesaurus/stee.ttl> <https://w3id.org/tree#relation> _:df_1_2336.
+_:df_1_2336 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/steek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "steek".
+<https://thijstem.github.io/substrings_coghent/thesaurus/stee.ttl> <https://w3id.org/tree#relation> _:df_1_2337.
+_:df_1_2337 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/steen.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "steen".
+<https://thijstem.github.io/substrings_coghent/thesaurus/stee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stee.ttl>.

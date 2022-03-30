@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570019878/2022-02-26T13:59:29.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:59:29.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7201_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen of gedeelten van gebouwen waar brood en andere gebakken producten worden bereid. Het kan een ruimte voor de verkoop van gebakken producten omvatten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7201_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019878/2022-02-26T13:59:29.111Z>.
+<https://stad.gent/id/concept/570014998/2022-02-26T11:46:19.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:46:19.308Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8152_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakkerijgrondstoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8152_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014998/2022-02-26T11:46:19.308Z>.
+<https://stad.gent/id/concept/570014942/2022-02-26T11:44:38.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:44:38.656Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136385>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8164_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die gespecialiseerd zijn in het bereiden van voedsel door middel van geleiding van droge warmte (dus niet via straling), in een oven of een andere gesloten ruimte, of op een verhit oppervlak, en dus niet op een warmtebron. Brood, taarten, koekjes en gebakjes zijn bekende voorbeelden van producten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8164_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014942/2022-02-26T11:44:38.656Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bakk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bakk.ttl>.

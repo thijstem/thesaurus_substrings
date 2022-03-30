@@ -1,0 +1,148 @@
+<https://stad.gent/id/concept/670000627/2022-03-11T07:31:58.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:31:58.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25137>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2089_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildehuis der Onvrije Schippers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2089_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000627/2022-03-11T07:31:58.465Z>.
+<https://stad.gent/id/concept/670000114/2022-03-11T06:51:58.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:51:58.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2374_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000114/2022-03-11T06:51:58.462Z>.
+<https://stad.gent/id/concept/670000115/2022-03-11T06:52:03.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:52:03.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gillis Coppinsstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2374_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000115/2022-03-11T06:52:03.464Z>.
+<https://stad.gent/id/concept/570010397/2022-03-11T01:02:41.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:02:41.719Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012141>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4867_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gillingham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4867_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010397/2022-03-11T01:02:41.719Z>.
+<https://stad.gent/id/concept/670001591/2022-02-26T17:59:10.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:59:10.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5488_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gillis Coppinstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5488_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001591/2022-02-26T17:59:10.133Z>.
+<https://stad.gent/id/concept/670001386/2022-02-26T17:41:58.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:41:58.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5611_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildehuis Den Enghel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5611_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001386/2022-02-26T17:41:58.680Z>.
+<https://stad.gent/id/concept/670001387/2022-02-26T17:42:03.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:42:03.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24761>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5611_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildehuis der Vrije Schippers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5611_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001387/2022-02-26T17:42:03.682Z>.
+<https://stad.gent/id/concept/670001370/2022-02-26T17:40:38.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:40:38.026Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gildehuis der Kraankinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001370/2022-02-26T17:40:38.026Z>.
+<https://stad.gent/id/concept/670001255/2022-02-26T17:31:39.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:31:39.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5686_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gildehuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5686_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001255/2022-02-26T17:31:39.244Z>.
+<https://stad.gent/id/concept/670000627/2022-02-26T16:55:50.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:55:50.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25137>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5941_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildehuis der Onvrije Schippers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5941_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000627/2022-02-26T16:55:50.531Z>.
+<https://stad.gent/id/concept/670000115/2022-02-26T16:15:52.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:52.376Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2741>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6226_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gillis Coppinsstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6226_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000115/2022-02-26T16:15:52.376Z>.
+<https://stad.gent/id/concept/670000114/2022-02-26T16:15:47.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:47.374Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6229_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gildestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6229_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000114/2022-02-26T16:15:47.374Z>.
+<https://stad.gent/id/concept/570010397/2022-02-26T10:27:04.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:27:04.903Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012141>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8719_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gillingham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_8719_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010397/2022-02-26T10:27:04.903Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gil.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gil.ttl>.

@@ -1,0 +1,70 @@
+<https://stad.gent/id/concept/670001652/2022-03-11T08:39:58.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:39:58.814Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3107>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1603_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabotstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1603_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001652/2022-03-11T08:39:58.814Z>.
+<https://stad.gent/id/concept/670001480/2022-03-11T08:25:42.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:25:42.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/88343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1705_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001480/2022-03-11T08:25:42.443Z>.
+<https://stad.gent/id/concept/570024931/2022-03-11T06:32:34.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:34.241Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2512_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabot - Blaisantvest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2512_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024931/2022-03-11T06:32:34.241Z>.
+<https://stad.gent/id/concept/670001652/2022-02-26T18:04:12.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:04:12.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3107>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5452_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabotstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5452_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001652/2022-02-26T18:04:12.118Z>.
+<https://stad.gent/id/concept/670001480/2022-02-26T17:49:51.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:49:51.723Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/88343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5554_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5554_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001480/2022-02-26T17:49:51.723Z>.
+<https://stad.gent/id/concept/570024931/2022-02-26T15:56:33.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:56:33.841Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6364_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabot - Blaisantvest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_6364_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024931/2022-02-26T15:56:33.841Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rab.ttl>.

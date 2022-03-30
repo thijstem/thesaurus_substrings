@@ -1,0 +1,136 @@
+<https://stad.gent/id/concept/570010523/2022-02-26T10:29:25.612Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:29:25.612Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000322>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8704_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor woningen die een bedrijf voor zijn de werknemers beschikbaar stelt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidershuisvesting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008695>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008695> <http://www.w3.org/2004/02/skos/core#prefLabel> "huisvesting"@nl.
+_:df_8704_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010523/2022-02-26T10:29:25.612Z>.
+<https://stad.gent/id/concept/570009940/2022-02-26T10:15:25.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:15:25.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8803_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidersprotest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8803_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009940/2022-02-26T10:15:25.640Z>.
+<https://stad.gent/id/concept/570009857/2022-02-26T10:14:05.059Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:05.059Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8812_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsmeting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8812_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009857/2022-02-26T10:14:05.059Z>.
+<https://stad.gent/id/concept/570009858/2022-02-26T10:14:10.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:10.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8812_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidscontrole"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8812_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009858/2022-02-26T10:14:10.061Z>.
+<https://stad.gent/id/concept/570009859/2022-02-26T10:14:15.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:15.063Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8812_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsbeloning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8812_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009859/2022-02-26T10:14:15.063Z>.
+<https://stad.gent/id/concept/570009648/2022-02-26T10:09:38.636Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:09:38.636Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q629257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8845_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsongeval"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8845_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009648/2022-02-26T10:09:38.636Z>.
+<https://stad.gent/id/concept/570009232/2022-02-26T09:57:33.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:33.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4509352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8932_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsreglement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8932_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009232/2022-02-26T09:57:33.294Z>.
+<https://stad.gent/id/concept/570009052/2022-02-26T09:49:49.276Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:49:49.276Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q628967>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8986_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "wetgeving en jurisprudentie in verband met werknemerschap";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidswetgeving"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8986_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009052/2022-02-26T09:49:49.276Z>.
+<https://stad.gent/id/concept/570008563/2022-02-26T09:33:17.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:17.279Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q6013750>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9103_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsmigratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9103_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008563/2022-02-26T09:33:17.279Z>.
+<https://stad.gent/id/concept/570004331/2022-02-26T09:10:43.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:10:43.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9265_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Menselijke activiteit die de goederen voortbrengt of de diensten verzorgt die in een economie worden gevraagd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9265_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004331/2022-02-26T09:10:43.735Z>.
+<https://stad.gent/id/concept/570002568/2022-02-26T09:05:51.623Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:05:51.623Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q629029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9301_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidsomstandigheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "associatie"@nl, "association"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9301_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002568/2022-02-26T09:05:51.623Z>.
+<https://stad.gent/id/concept/570002079/2022-02-26T09:03:20.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:03:20.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9319_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klasse van personen die in loondienst zijn, vaak voor handenarbeid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "arbeidersklasse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9319_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002079/2022-02-26T09:03:20.683Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/arbe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/arbe.ttl>.

@@ -1,0 +1,95 @@
+<https://stad.gent/id/concept/670000684/2022-03-13T01:41:42.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:41:42.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_763_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooi Hoveke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000684/2022-03-13T01:41:42.844Z>.
+<https://stad.gent/id/concept/670000562/2022-03-13T01:32:04.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:32:04.015Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_832_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooren Landt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_832_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000562/2022-03-13T01:32:04.015Z>.
+<https://stad.gent/id/concept/570024290/2022-03-13T00:09:42.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:09:42.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1474956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1420_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moodboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1420_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024290/2022-03-13T00:09:42.233Z>.
+<https://stad.gent/id/concept/670000684/2022-03-11T07:36:30.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:36:30.454Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooi Hoveke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2056_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000684/2022-03-11T07:36:30.454Z>.
+<https://stad.gent/id/concept/670000562/2022-03-11T07:26:51.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:26:51.609Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2125_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooren Landt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2125_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000562/2022-03-11T07:26:51.609Z>.
+<https://stad.gent/id/concept/570024290/2022-03-11T06:04:37.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:04:37.863Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1474956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2713_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moodboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2713_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024290/2022-03-11T06:04:37.863Z>.
+<https://stad.gent/id/concept/670000684/2022-02-26T17:00:22.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:00:22.041Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5908_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooi Hoveke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5908_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000684/2022-02-26T17:00:22.041Z>.
+<https://stad.gent/id/concept/670000562/2022-02-26T16:50:43.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:50:43.540Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5977_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mooren Landt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5977_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000562/2022-02-26T16:50:43.540Z>.
+<https://stad.gent/id/concept/570024290/2022-02-26T15:28:36.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:36.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1474956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6565_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moodboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6565_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024290/2022-02-26T15:28:36.618Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/moo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/moo.ttl>.

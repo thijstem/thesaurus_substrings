@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570019858/2022-03-11T04:34:53.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:34:53.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q38462881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3352_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "pan om poffertjes mee te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poffertjespan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3352_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019858/2022-03-11T04:34:53.147Z>.
+<https://stad.gent/id/concept/570019858/2022-02-26T13:58:53.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:58:53.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q38462881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7207_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "pan om poffertjes mee te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poffertjespan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7207_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019858/2022-02-26T13:58:53.756Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pof.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pof.ttl>.

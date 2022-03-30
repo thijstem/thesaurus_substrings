@@ -1,0 +1,241 @@
+<https://stad.gent/id/concept/570025107/2022-03-11T06:41:29.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:41:29.499Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q10431511>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2449_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemisterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2449_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025107/2022-03-11T06:41:29.499Z>.
+<https://stad.gent/id/concept/570024932/2022-03-11T06:32:39.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:39.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2805919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2512_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloemekenswijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2512_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024932/2022-03-11T06:32:39.243Z>.
+<https://stad.gent/id/concept/570024850/2022-03-11T06:29:07.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:29:07.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2536_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024850/2022-03-11T06:29:07.845Z>.
+<https://stad.gent/id/concept/570019357/2022-03-11T04:15:33.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:15:33.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voornamenlijk om planten in te kweken; zowel voor praktisch gebruik als voor decoratieve doeleinden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloempot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3490_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019357/2022-03-11T04:15:33.049Z>.
+<https://stad.gent/id/concept/570019310/2022-03-11T04:13:02.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:13:02.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blouse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3508_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019310/2022-03-11T04:13:02.079Z>.
+<https://stad.gent/id/concept/570019191/2022-03-11T04:07:45.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:07:45.126Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237566>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3547_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders waarin planten worden gekweekt, of waarin ze worden geplaatst voor decoratieve doeleinden; ze komen voor in een grote verscheidenheid aan vormen, maten en versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloembak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3547_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019191/2022-03-11T04:07:45.126Z>.
+<https://stad.gent/id/concept/570017601/2022-03-11T03:33:32.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:33:32.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2064131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3790_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloomfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3790_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017601/2022-03-11T03:33:32.727Z>.
+<https://stad.gent/id/concept/570016507/2022-03-11T02:55:50.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:55:50.172Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2363145>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blocnote"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4057_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016507/2022-03-11T02:55:50.172Z>.
+<https://stad.gent/id/concept/570014506/2022-03-11T02:06:45.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:06:45.000Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q105420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4408_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemlezing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4408_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014506/2022-03-11T02:06:45.000Z>.
+<https://stad.gent/id/concept/570010160/2022-03-11T00:58:34.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:58:34.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q16735601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4897_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4897_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010160/2022-03-11T00:58:34.747Z>.
+<https://stad.gent/id/concept/670000254/2022-02-26T16:27:12.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:27:12.150Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6145_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloempelder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6145_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000254/2022-02-26T16:27:12.150Z>.
+<https://stad.gent/id/concept/570025107/2022-02-26T16:05:28.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:05:28.518Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q10431511>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6301_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemisterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6301_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025107/2022-02-26T16:05:28.518Z>.
+<https://stad.gent/id/concept/570024932/2022-02-26T15:56:38.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:56:38.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2805919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6364_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloemekenswijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_6364_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024932/2022-02-26T15:56:38.844Z>.
+<https://stad.gent/id/concept/570024850/2022-02-26T15:53:07.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:53:07.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6391_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6391_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024850/2022-02-26T15:53:07.258Z>.
+<https://stad.gent/id/concept/570019357/2022-02-26T13:39:35.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:35.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7345_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voornamenlijk om planten in te kweken; zowel voor praktisch gebruik als voor decoratieve doeleinden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloempot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7345_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019357/2022-02-26T13:39:35.542Z>.
+<https://stad.gent/id/concept/570019310/2022-02-26T13:37:04.278Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:37:04.278Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7363_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blouse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7363_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019310/2022-02-26T13:37:04.278Z>.
+<https://stad.gent/id/concept/570019191/2022-02-26T13:31:47.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:31:47.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237566>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7399_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders waarin planten worden gekweekt, of waarin ze worden geplaatst voor decoratieve doeleinden; ze komen voor in een grote verscheidenheid aan vormen, maten en versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloembak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7399_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019191/2022-02-26T13:31:47.295Z>.
+<https://stad.gent/id/concept/570017601/2022-02-26T12:57:36.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:57:36.578Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2064131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7645_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloomfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_7645_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017601/2022-02-26T12:57:36.578Z>.
+<https://stad.gent/id/concept/570016507/2022-02-26T12:20:08.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:20:08.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2363145>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7912_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blocnote"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7912_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016507/2022-02-26T12:20:08.895Z>.
+<https://stad.gent/id/concept/570014506/2022-02-26T11:31:08.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:31:08.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q105420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8263_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemlezing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8263_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014506/2022-02-26T11:31:08.363Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/blo.ttl> <https://w3id.org/tree#relation> _:df_1_2506.
+_:df_1_2506 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bloe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bloe".
+<https://thijstem.github.io/substrings_coghent/thesaurus/blo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/blo.ttl>.

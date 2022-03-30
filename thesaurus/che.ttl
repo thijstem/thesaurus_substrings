@@ -1,0 +1,164 @@
+<https://stad.gent/id/concept/570017927/2022-03-11T03:44:14.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:44:14.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q207652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3715_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemische industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3715_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017927/2022-03-11T03:44:14.802Z>.
+<https://stad.gent/id/concept/570016471/2022-03-11T02:54:14.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:54:14.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q29570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chevrolet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016471/2022-03-11T02:54:14.576Z>.
+<https://stad.gent/id/concept/570014559/2022-03-11T02:08:20.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:08:20.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4396_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemische producten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4396_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014559/2022-03-11T02:08:20.567Z>.
+<https://stad.gent/id/concept/570013033/2022-03-11T01:37:02.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:37:02.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4621_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chesham (Buckinghamshire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4621_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013033/2022-03-11T01:37:02.553Z>.
+<https://stad.gent/id/concept/570010245/2022-03-11T01:00:30.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:00:30.430Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemnitz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_4882_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010245/2022-03-11T01:00:30.430Z>.
+<https://stad.gent/id/concept/570009114/2022-03-11T00:28:07.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:28:07.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191339>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5113_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cheque"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5113_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009114/2022-03-11T00:28:07.483Z>.
+<https://stad.gent/id/concept/570024001/2022-02-26T15:13:23.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:13:23.349Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6673_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemnitz-Kappel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_6673_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024001/2022-02-26T15:13:23.349Z>.
+<https://stad.gent/id/concept/570017927/2022-02-26T13:08:17.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:08:17.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q207652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7567_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemische industrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7567_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017927/2022-02-26T13:08:17.520Z>.
+<https://stad.gent/id/concept/570016471/2022-02-26T12:18:32.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:18:32.090Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q29570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7924_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chevrolet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7924_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016471/2022-02-26T12:18:32.090Z>.
+<https://stad.gent/id/concept/570014559/2022-02-26T11:32:44.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:32:44.066Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8251_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemische producten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8251_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014559/2022-02-26T11:32:44.066Z>.
+<https://stad.gent/id/concept/570013033/2022-02-26T11:01:26.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:01:26.277Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8473_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chesham (Buckinghamshire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_8473_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013033/2022-02-26T11:01:26.277Z>.
+<https://stad.gent/id/concept/570010245/2022-02-26T10:24:54.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:24:54.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8734_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemnitz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_8734_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010245/2022-02-26T10:24:54.013Z>.
+<https://stad.gent/id/concept/570009114/2022-02-26T09:52:36.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:52:36.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191339>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8965_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cheque"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8965_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009114/2022-02-26T09:52:36.883Z>.
+<https://stad.gent/id/concept/570003806/2022-02-26T09:09:18.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:09:18.072Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9277_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tak van fysische wetenschap die zich bezighoudt met de samenstelling en eigenschappen van de elementaire stoffen waaruit alle lichamen zijn opgebouwd, de wetten die hun samenstelling regelen en de verschillende verschijnselen die samengaan met hun blootstelling aan diverse fysische omstandigheden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9277_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003806/2022-02-26T09:09:18.072Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/che.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/che.ttl>.

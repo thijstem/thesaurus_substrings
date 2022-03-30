@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/570014686/2022-03-11T02:12:47.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:12:47.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300375128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "heren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4366_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014686/2022-03-11T02:12:47.343Z>.
+<https://stad.gent/id/concept/570013336/2022-03-11T01:44:15.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:44:15.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4570_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herent (Leuven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_4570_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013336/2022-03-11T01:44:15.474Z>.
+<https://stad.gent/id/concept/570025271/2022-02-26T16:07:54.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:07:54.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6283_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een aanzienlijk woonhuis, doorgaans van vier of meer traveeën en in de stad meestal met koetsdoorrit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herenhuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000292>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000292> <http://www.w3.org/2004/02/skos/core#prefLabel> "huis"@nl.
+_:df_6283_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025271/2022-02-26T16:07:54.486Z>.
+<https://stad.gent/id/concept/570025043/2022-02-26T16:02:22.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:02:22.100Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7237579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6325_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herenthout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_6325_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025043/2022-02-26T16:02:22.100Z>.
+<https://stad.gent/id/concept/570018117/2022-02-26T13:11:38.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:11:38.897Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007892>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7543_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herentals"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_7543_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018117/2022-02-26T13:11:38.897Z>.
+<https://stad.gent/id/concept/570014686/2022-02-26T11:37:10.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:37:10.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300375128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8218_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "heren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8218_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014686/2022-02-26T11:37:10.883Z>.
+<https://stad.gent/id/concept/570013336/2022-02-26T11:08:38.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:08:38.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8422_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herent (Leuven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_8422_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013336/2022-02-26T11:08:38.765Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/here.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/here.ttl>.

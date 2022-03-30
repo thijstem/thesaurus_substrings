@@ -1,0 +1,170 @@
+<https://stad.gent/id/concept/670001275/2022-03-11T08:09:10.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001275>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:09:10.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/57>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1822_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1822_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001275"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001275/2022-03-11T08:09:10.961Z>.
+<https://stad.gent/id/concept/670001039/2022-03-11T08:04:08.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:04:08.805Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1858_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001039/2022-03-11T08:04:08.805Z>.
+<https://stad.gent/id/concept/570009616/2022-03-11T00:44:08.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:44:08.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4999_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "groep van meestal kleine arbeiderswoningen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4999_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2022-03-11T00:44:08.869Z>.
+<https://stad.gent/id/concept/670001562/2022-02-26T17:56:44.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:56:44.209Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5506_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 10 Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5506_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001562/2022-02-26T17:56:44.209Z>.
+<https://stad.gent/id/concept/670001563/2022-02-26T17:56:49.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:56:49.212Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5506_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik de Vreese"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5506_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001563/2022-02-26T17:56:49.212Z>.
+<https://stad.gent/id/concept/670001323/2022-02-26T17:36:51.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:36:51.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Roggebrood Koer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5647_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001323/2022-02-26T17:36:51.871Z>.
+<https://stad.gent/id/concept/670001324/2022-02-26T17:36:56.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:36:56.872Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Jipkensdreef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5647_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001324/2022-02-26T17:36:56.872Z>.
+<https://stad.gent/id/concept/670001325/2022-02-26T17:37:01.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:37:01.874Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Lattestraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5647_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001325/2022-02-26T17:37:01.874Z>.
+<https://stad.gent/id/concept/670001326/2022-02-26T17:37:06.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:37:06.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Rolbaantje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5647_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001326/2022-02-26T17:37:06.875Z>.
+<https://stad.gent/id/concept/670001327/2022-02-26T17:37:11.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:37:11.877Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5647_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Wittekoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5647_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001327/2022-02-26T17:37:11.877Z>.
+<https://stad.gent/id/concept/670001320/2022-02-26T17:36:36.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:36:36.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5650_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Hanenkoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5650_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001320/2022-02-26T17:36:36.555Z>.
+<https://stad.gent/id/concept/670001321/2022-02-26T17:36:41.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:36:41.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5650_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5650_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001321/2022-02-26T17:36:41.556Z>.
+<https://stad.gent/id/concept/670001322/2022-02-26T17:36:46.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:36:46.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5650_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Keizerinnekoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5650_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001322/2022-02-26T17:36:46.557Z>.
+<https://stad.gent/id/concept/670001275/2022-02-26T17:33:00.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001275>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:33:00.017Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/57>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5677_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5677_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001275"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001275/2022-02-26T17:33:00.017Z>.
+<https://stad.gent/id/concept/670001039/2022-02-26T17:27:57.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:57.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5713_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5713_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001039/2022-02-26T17:27:57.865Z>.
+<https://stad.gent/id/concept/570009616/2022-02-26T10:08:33.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:33.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2693423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8851_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "groep van meestal kleine arbeiderswoningen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8851_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009616/2022-02-26T10:08:33.237Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/belu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/belu.ttl>.

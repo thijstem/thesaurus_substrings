@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570019479/2022-03-11T04:21:21.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:21:21.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1411453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3448_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "epaulet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019479/2022-03-11T04:21:21.147Z>.
+<https://stad.gent/id/concept/570016878/2022-03-11T03:09:07.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:07.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3964_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Épinal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3964_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016878/2022-03-11T03:09:07.742Z>.
+<https://stad.gent/id/concept/570019479/2022-02-26T13:45:22.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:45:22.768Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1411453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7303_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "epaulet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7303_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019479/2022-02-26T13:45:22.768Z>.
+<https://stad.gent/id/concept/570016878/2022-02-26T12:33:26.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:33:26.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Épinal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7816_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016878/2022-02-26T12:33:26.677Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ep.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ep.ttl>.

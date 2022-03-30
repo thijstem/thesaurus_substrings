@@ -1,0 +1,27 @@
+<https://stad.gent/id/concept/570022240/2022-02-26T14:16:56.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:16:56.507Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7078_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garantie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7078_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022240/2022-02-26T14:16:56.507Z>.
+<https://stad.gent/id/concept/570008720/2022-02-26T09:38:54.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:38:54.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9064_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vrijstaande overdekte stalling voor motorvoertuigen van bewoners.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570025268>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025268> <http://www.w3.org/2004/02/skos/core#prefLabel> "bijgebouw"@nl.
+_:df_9064_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008720/2022-02-26T09:38:54.693Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gara.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gara.ttl>.

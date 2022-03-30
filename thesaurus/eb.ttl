@@ -1,0 +1,58 @@
+<https://stad.gent/id/concept/670000277/2022-03-13T01:10:24.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:10:24.496Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_988_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ebbenhoutbewerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000277/2022-03-13T01:10:24.496Z>.
+<https://stad.gent/id/concept/670000277/2022-03-11T07:05:10.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:05:10.839Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2278_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ebbenhoutbewerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2278_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000277/2022-03-11T07:05:10.839Z>.
+<https://stad.gent/id/concept/570013849/2022-03-11T01:53:44.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:53:44.368Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7198905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4501_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eberbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4501_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013849/2022-03-11T01:53:44.368Z>.
+<https://stad.gent/id/concept/670000277/2022-02-26T16:29:03.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:03.954Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6133_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ebbenhoutbewerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6133_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000277/2022-02-26T16:29:03.954Z>.
+<https://stad.gent/id/concept/570013849/2022-02-26T11:18:07.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:18:07.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7198905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8356_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eberbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_8356_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013849/2022-02-26T11:18:07.884Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/eb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/eb.ttl>.

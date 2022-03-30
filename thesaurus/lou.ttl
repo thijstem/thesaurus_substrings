@@ -1,0 +1,115 @@
+<https://stad.gent/id/concept/570018964/2022-03-11T03:58:21.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:58:21.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013915>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louisville (Kentucky)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3613_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018964/2022-03-11T03:58:21.254Z>.
+<https://stad.gent/id/concept/570016797/2022-03-11T03:06:05.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:06:05.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242847>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louise-Marie (Maarkedal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_3985_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016797/2022-03-11T03:06:05.930Z>.
+<https://stad.gent/id/concept/570015322/2022-03-11T02:29:17.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:29:17.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q19675>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4249_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louvre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4249_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015322/2022-03-11T02:29:17.397Z>.
+<https://stad.gent/id/concept/670001616/2022-02-26T18:01:16.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:01:16.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5473_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lousbergskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5473_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001616/2022-02-26T18:01:16.148Z>.
+<https://stad.gent/id/concept/670001445/2022-02-26T17:46:55.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:46:55.781Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5575_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5575_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001445/2022-02-26T17:46:55.781Z>.
+<https://stad.gent/id/concept/670001446/2022-02-26T17:47:00.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:47:00.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5575_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lousbergsbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5575_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001446/2022-02-26T17:47:00.782Z>.
+<https://stad.gent/id/concept/670001447/2022-02-26T17:47:05.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:47:05.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/19315>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5575_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lousbergs-De Hemptinne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5575_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001447/2022-02-26T17:47:05.784Z>.
+<https://stad.gent/id/concept/570018964/2022-02-26T13:22:23.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:22:23.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013915>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7468_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louisville (Kentucky)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_7468_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018964/2022-02-26T13:22:23.286Z>.
+<https://stad.gent/id/concept/570016797/2022-02-26T12:30:25.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:30:25.737Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242847>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7837_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louise-Marie (Maarkedal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_7837_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016797/2022-02-26T12:30:25.737Z>.
+<https://stad.gent/id/concept/570015322/2022-02-26T11:53:37.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:53:37.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q19675>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8101_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louvre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8101_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015322/2022-02-26T11:53:37.441Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lou.ttl>.

@@ -1,0 +1,86 @@
+<https://stad.gent/id/concept/570024876/2022-03-11T06:29:58.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:29:58.141Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo-Kinshasa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024872>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024896>, <https://stad.gent/id/concept/570010496>, <https://stad.gent/id/concept/570024273>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024273> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwilu-Ngongo"@nl.
+<https://stad.gent/id/concept/570010496> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katanga"@nl.
+<https://stad.gent/id/concept/570024896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalemie"@nl.
+<https://stad.gent/id/concept/570024872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_2530_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo-Kinshasa"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024876/2022-03-11T06:29:58.141Z>.
+<https://stad.gent/id/concept/570010490/2022-03-11T01:04:22.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:04:22.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4855_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4855_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010490/2022-03-11T01:04:22.301Z>.
+<https://stad.gent/id/concept/570009015/2022-03-11T00:24:30.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:24:30.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028924>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5140_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congleton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_5140_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009015/2022-03-11T00:24:30.092Z>.
+<https://stad.gent/id/concept/570024876/2022-02-26T15:53:57.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:53:57.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6385_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo-Kinshasa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024872>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024896>, <https://stad.gent/id/concept/570010496>, <https://stad.gent/id/concept/570024273>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024273> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwilu-Ngongo"@nl.
+<https://stad.gent/id/concept/570010496> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katanga"@nl.
+<https://stad.gent/id/concept/570024896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalemie"@nl.
+<https://stad.gent/id/concept/570024872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_6385_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo-Kinshasa"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024876/2022-02-26T15:53:57.733Z>.
+<https://stad.gent/id/concept/570010490/2022-02-26T10:28:45.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:28:45.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8707_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8707_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010490/2022-02-26T10:28:45.594Z>.
+<https://stad.gent/id/concept/570009015/2022-02-26T09:48:58.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:58.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028924>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8992_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Congleton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_8992_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009015/2022-02-26T09:48:58.949Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cong.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cong.ttl>.

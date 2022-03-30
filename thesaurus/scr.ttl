@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/570016096/2022-03-11T02:44:45.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:44:45.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4138_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "script"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4138_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016096/2022-03-11T02:44:45.336Z>.
+<https://stad.gent/id/concept/570013764/2022-03-11T01:52:23.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:52:23.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1266946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4510_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scriptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4510_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013764/2022-03-11T01:52:23.705Z>.
+<https://stad.gent/id/concept/570016096/2022-02-26T12:09:03.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:09:03.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7990_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "script"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7990_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016096/2022-02-26T12:09:03.443Z>.
+<https://stad.gent/id/concept/570013764/2022-02-26T11:16:47.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:16:47.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1266946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8365_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scriptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8365_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013764/2022-02-26T11:16:47.538Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/scr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/scr.ttl>.

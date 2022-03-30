@@ -1,0 +1,15 @@
+<https://stad.gent/id/concept/570010315/2022-02-26T10:25:39.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:25:39.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8731_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Puurs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_8731_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010315/2022-02-26T10:25:39.303Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/puu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/puu.ttl>.

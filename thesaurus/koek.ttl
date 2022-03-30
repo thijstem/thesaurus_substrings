@@ -1,0 +1,73 @@
+<https://stad.gent/id/concept/570009663/2022-03-11T00:45:44.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:45:44.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4987_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4987_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009663/2022-03-11T00:45:44.557Z>.
+<https://stad.gent/id/concept/570023161/2022-02-26T14:38:36.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:38:36.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6922_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koektrommel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6922_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023161/2022-02-26T14:38:36.534Z>.
+<https://stad.gent/id/concept/570016588/2022-02-26T12:22:55.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:22:55.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7891_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelberg (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_7891_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016588/2022-02-26T12:22:55.258Z>.
+<https://stad.gent/id/concept/570016166/2022-02-26T12:10:39.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:10:39.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7978_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen, aardewerken of plastic houders, meestal voor huishoudelijk gebruik en over het algemeen wijd, ondiep en open. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekenpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7978_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016166/2022-02-26T12:10:39.162Z>.
+<https://stad.gent/id/concept/570014750/2022-02-26T11:39:16.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:39:16.718Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8203_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelare"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_8203_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014750/2022-02-26T11:39:16.718Z>.
+<https://stad.gent/id/concept/570009663/2022-02-26T10:10:08.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:10:08.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8842_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8842_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009663/2022-02-26T10:10:08.647Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/koek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/koek.ttl>.

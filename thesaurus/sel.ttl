@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570015012/2022-03-11T02:22:29.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:22:29.038Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4297_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selectietest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4297_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015012/2022-03-11T02:22:29.038Z>.
+<https://stad.gent/id/concept/570012163/2022-03-11T01:21:00.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:21:00.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q522732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4735_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selfactor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008607>, <https://stad.gent/id/concept/570008903>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008903> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachine"@nl.
+<https://stad.gent/id/concept/570008607> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachines"@nl.
+_:df_4735_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012163/2022-03-11T01:21:00.653Z>.
+<https://stad.gent/id/concept/570015012/2022-02-26T11:46:49.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:46:49.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8149_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selectietest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8149_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015012/2022-02-26T11:46:49.603Z>.
+<https://stad.gent/id/concept/570012163/2022-02-26T10:45:22.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:45:22.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q522732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8590_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "selfactor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008607>, <https://stad.gent/id/concept/570008903>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008903> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachine"@nl.
+<https://stad.gent/id/concept/570008607> <http://www.w3.org/2004/02/skos/core#prefLabel> "spinmachines"@nl.
+_:df_8590_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012163/2022-02-26T10:45:22.117Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sel.ttl>.

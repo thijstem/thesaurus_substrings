@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570018867/2022-03-11T03:52:48.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:52:48.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026290>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arendonk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_3652_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018867/2022-03-11T03:52:48.934Z>.
+<https://stad.gent/id/concept/570018867/2022-02-26T13:16:50.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:16:50.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026290>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7507_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arendonk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_7507_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018867/2022-02-26T13:16:50.880Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/are.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/are.ttl>.

@@ -1,0 +1,223 @@
+<https://stad.gent/id/concept/670001787/2022-03-13T02:56:47.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:47.755Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_226_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurdetail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001787/2022-03-13T02:56:47.755Z>.
+<https://stad.gent/id/concept/670001788/2022-03-13T02:56:52.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:52.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300386338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kapper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001788/2022-03-13T02:56:52.757Z>.
+<https://stad.gent/id/concept/670001789/2022-03-13T02:56:57.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:57.759Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kazerne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001789/2022-03-13T02:56:57.759Z>.
+<https://stad.gent/id/concept/670001790/2022-03-13T02:57:02.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:57:02.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300312247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_226_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001790/2022-03-13T02:57:02.762Z>.
+<https://stad.gent/id/concept/670001781/2022-03-13T02:56:17.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:17.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_229_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gevelrij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001781/2022-03-13T02:56:17.330Z>.
+<https://stad.gent/id/concept/670001782/2022-03-13T02:56:22.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:22.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "herberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001782/2022-03-13T02:56:22.333Z>.
+<https://stad.gent/id/concept/670001783/2022-03-13T02:56:27.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:27.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_229_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoekhuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001783/2022-03-13T02:56:27.335Z>.
+<https://stad.gent/id/concept/670001784/2022-03-13T02:56:32.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:32.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hotel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001784/2022-03-13T02:56:32.337Z>.
+<https://stad.gent/id/concept/670001785/2022-03-13T02:56:37.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:37.747Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_229_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "individueel huis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001785/2022-03-13T02:56:37.747Z>.
+<https://stad.gent/id/concept/670001776/2022-03-13T02:55:52.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:52.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300000642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "abdij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001776/2022-03-13T02:55:52.320Z>.
+<https://stad.gent/id/concept/670001777/2022-03-13T02:55:57.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:57.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001777/2022-03-13T02:55:57.322Z>.
+<https://stad.gent/id/concept/670001778/2022-03-13T02:56:02.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:02.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300343479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gevangenis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001778/2022-03-13T02:56:02.324Z>.
+<https://stad.gent/id/concept/670001779/2022-03-13T02:56:07.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:07.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_232_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gevel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001779/2022-03-13T02:56:07.326Z>.
+<https://stad.gent/id/concept/670001780/2022-03-13T02:56:12.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:56:12.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_232_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geveldetail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001780/2022-03-13T02:56:12.328Z>.
+<https://stad.gent/id/concept/670001771/2022-03-13T02:55:27.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:27.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300343438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "conservatorium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001771/2022-03-13T02:55:27.062Z>.
+<https://stad.gent/id/concept/670001772/2022-03-13T02:55:32.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:32.067Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_235_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001772/2022-03-13T02:55:32.067Z>.
+<https://stad.gent/id/concept/670001773/2022-03-13T02:55:37.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:37.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300006247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001773/2022-03-13T02:55:37.069Z>.
+<https://stad.gent/id/concept/670001774/2022-03-13T02:55:42.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:42.071Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_235_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "estaminet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001774/2022-03-13T02:55:42.071Z>.
+<https://stad.gent/id/concept/670001775/2022-03-13T02:55:47.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:47.318Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_235_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_235_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001775/2022-03-13T02:55:47.318Z>.
+<https://stad.gent/id/concept/670001766/2022-03-13T02:55:02.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:55:02.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q980285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_238_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijlokemuseum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_238_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001766/2022-03-13T02:55:02.052Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/trefwoo.ttl> <https://w3id.org/tree#relation> _:df_1_317.
+_:df_1_317 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/trefwoor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "trefwoor".
+<https://thijstem.github.io/substrings_coghent/thesaurus/trefwoo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/trefwoo.ttl>.

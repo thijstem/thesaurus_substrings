@@ -1,0 +1,149 @@
+<https://stad.gent/id/concept/570023204/2022-03-11T05:17:24.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:17:24.184Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_54;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023194>, <https://stad.gent/id/concept/570020206>, <https://stad.gent/id/concept/570018198>, <https://stad.gent/id/concept/570011242>, <https://stad.gent/id/concept/570022885>, <https://stad.gent/id/concept/570023205>, <https://stad.gent/id/concept/570012795>, <https://stad.gent/id/concept/570016588>, <https://stad.gent/id/concept/570011241>, <https://stad.gent/id/concept/570014853>, <https://stad.gent/id/concept/570022994>, <https://stad.gent/id/concept/570015537>, <https://stad.gent/id/concept/570023207>, <https://stad.gent/id/concept/570023210>, <https://stad.gent/id/concept/570011244>, <https://stad.gent/id/concept/570008222>, <https://stad.gent/id/concept/570023211>, <https://stad.gent/id/concept/570024489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laken (Brussel)"@nl.
+<https://stad.gent/id/concept/570023211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Watermaal-Bosvoorde (Brussel)"@nl.
+<https://stad.gent/id/concept/570008222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorst (Brussel)"@nl.
+<https://stad.gent/id/concept/570011244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukkel (Brussel)"@nl.
+<https://stad.gent/id/concept/570023210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pieters-Woluwe (Brussel)"@nl.
+<https://stad.gent/id/concept/570023207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Jans-Molenbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570015537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Gillis (Brussel)"@nl.
+<https://stad.gent/id/concept/570022994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agatha-Berchem (Brussel)"@nl.
+<https://stad.gent/id/concept/570014853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schaarbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570011241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudergem (Brussel)"@nl.
+<https://stad.gent/id/concept/570016588> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelberg (Brussel)"@nl.
+<https://stad.gent/id/concept/570012795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haren (Brussel)"@nl.
+<https://stad.gent/id/concept/570023205> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren (Brussel)"@nl.
+<https://stad.gent/id/concept/570022885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evere (Brussel)"@nl.
+<https://stad.gent/id/concept/570011242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etterbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570018198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsene (Brussel)"@nl.
+<https://stad.gent/id/concept/570020206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel (stad)"@nl.
+<https://stad.gent/id/concept/570023194> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlecht"@nl.
+<https://stad.gent/id/concept/570012468> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_3049_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023204/2022-03-11T05:17:24.184Z>.
+<https://stad.gent/id/concept/570020206/2022-03-11T04:40:55.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:40:55.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3310_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_3310_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020206/2022-03-11T04:40:55.629Z>.
+<https://stad.gent/id/concept/670001236/2022-02-26T17:30:13.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:30:13.759Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q9005>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5695_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5695_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001236/2022-02-26T17:30:13.759Z>.
+<https://stad.gent/id/concept/670001058/2022-02-26T17:28:12.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:28:12.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2345749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5710_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5710_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001058/2022-02-26T17:28:12.871Z>.
+<https://stad.gent/id/concept/670000892/2022-02-26T17:17:03.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:17:03.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5791_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsesteenweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5791_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000892/2022-02-26T17:17:03.950Z>.
+<https://stad.gent/id/concept/670000092/2022-02-26T16:13:56.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:13:56.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6241_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusselsepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6241_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000092/2022-02-26T16:13:56.756Z>.
+<https://stad.gent/id/concept/570023664/2022-02-26T14:58:06.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:58:06.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6784_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6784_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023664/2022-02-26T14:58:06.264Z>.
+<https://stad.gent/id/concept/570023204/2022-02-26T14:41:22.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:41:22.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6901_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023194>, <https://stad.gent/id/concept/570020206>, <https://stad.gent/id/concept/570018198>, <https://stad.gent/id/concept/570011242>, <https://stad.gent/id/concept/570022885>, <https://stad.gent/id/concept/570023205>, <https://stad.gent/id/concept/570012795>, <https://stad.gent/id/concept/570016588>, <https://stad.gent/id/concept/570011241>, <https://stad.gent/id/concept/570014853>, <https://stad.gent/id/concept/570022994>, <https://stad.gent/id/concept/570015537>, <https://stad.gent/id/concept/570023207>, <https://stad.gent/id/concept/570023210>, <https://stad.gent/id/concept/570011244>, <https://stad.gent/id/concept/570008222>, <https://stad.gent/id/concept/570023211>, <https://stad.gent/id/concept/570024489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laken (Brussel)"@nl.
+<https://stad.gent/id/concept/570023211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Watermaal-Bosvoorde (Brussel)"@nl.
+<https://stad.gent/id/concept/570008222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorst (Brussel)"@nl.
+<https://stad.gent/id/concept/570011244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukkel (Brussel)"@nl.
+<https://stad.gent/id/concept/570023210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pieters-Woluwe (Brussel)"@nl.
+<https://stad.gent/id/concept/570023207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Jans-Molenbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570015537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Gillis (Brussel)"@nl.
+<https://stad.gent/id/concept/570022994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agatha-Berchem (Brussel)"@nl.
+<https://stad.gent/id/concept/570014853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schaarbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570011241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudergem (Brussel)"@nl.
+<https://stad.gent/id/concept/570016588> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koekelberg (Brussel)"@nl.
+<https://stad.gent/id/concept/570012795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haren (Brussel)"@nl.
+<https://stad.gent/id/concept/570023205> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren (Brussel)"@nl.
+<https://stad.gent/id/concept/570022885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evere (Brussel)"@nl.
+<https://stad.gent/id/concept/570011242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etterbeek (Brussel)"@nl.
+<https://stad.gent/id/concept/570018198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsene (Brussel)"@nl.
+<https://stad.gent/id/concept/570020206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel (stad)"@nl.
+<https://stad.gent/id/concept/570023194> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlecht"@nl.
+<https://stad.gent/id/concept/570012468> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_6901_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023204/2022-02-26T14:41:22.755Z>.
+<https://stad.gent/id/concept/570020206/2022-02-26T14:04:56.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:04:56.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7162_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_7162_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020206/2022-02-26T14:04:56.106Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/brus.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/brus.ttl>.

@@ -1,0 +1,191 @@
+<https://stad.gent/id/concept/570024061/2022-03-11T05:52:13.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:52:13.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverskam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2800_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024061/2022-03-11T05:52:13.328Z>.
+<https://stad.gent/id/concept/570024034/2022-03-11T05:50:58.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:50:58.013Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2809_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weversschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2809_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024034/2022-03-11T05:50:58.013Z>.
+<https://stad.gent/id/concept/570023982/2022-03-11T05:48:27.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:48:27.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wevershaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2827_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023982/2022-03-11T05:48:27.027Z>.
+<https://stad.gent/id/concept/570022841/2022-03-11T05:01:14.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:01:14.858Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3163_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3163_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022841/2022-03-11T05:01:14.858Z>.
+<https://stad.gent/id/concept/570019747/2022-03-11T04:30:41.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:30:41.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q19984037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3382_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019747/2022-03-11T04:30:41.416Z>.
+<https://stad.gent/id/concept/570018991/2022-03-11T04:00:06.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:00:06.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3601_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gewoonlijk gebruikt voor het dooreenvlechten van draden of stroken van verschillend materiaal, zoals riet, textiel of twijgen, om materialen of objecten zoals vlechtwerk, stof, manden of bloemkransen te maken. Wordt met name gebruikt voor het maken van textiel op een weefgetouw of een ander weefapparaat door middel van het ineenvlechten van schering en inslag in een bepaalde volgorde. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_3601_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018991/2022-03-11T04:00:06.924Z>.
+<https://stad.gent/id/concept/570012544/2022-03-11T01:28:33.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:28:33.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4681_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012544/2022-03-11T01:28:33.739Z>.
+<https://stad.gent/id/concept/570010270/2022-03-11T01:00:51.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:00:51.115Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wevelgem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_4879_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010270/2022-03-11T01:00:51.115Z>.
+<https://stad.gent/id/concept/570024061/2022-02-26T15:16:14.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:16:14.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6652_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverskam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6652_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024061/2022-02-26T15:16:14.501Z>.
+<https://stad.gent/id/concept/570024034/2022-02-26T15:14:59.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:14:59.192Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6661_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weversschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6661_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024034/2022-02-26T15:14:59.192Z>.
+<https://stad.gent/id/concept/570023982/2022-02-26T15:12:27.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:12:27.983Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6679_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wevershaak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6679_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023982/2022-02-26T15:12:27.983Z>.
+<https://stad.gent/id/concept/570022841/2022-02-26T14:25:14.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:25:14.880Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7018_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7018_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022841/2022-02-26T14:25:14.880Z>.
+<https://stad.gent/id/concept/570019747/2022-02-26T13:54:41.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:54:41.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q19984037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7237_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weverij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7237_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019747/2022-02-26T13:54:41.851Z>.
+<https://stad.gent/id/concept/570018991/2022-02-26T13:24:09.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:24:09.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7453_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gewoonlijk gebruikt voor het dooreenvlechten van draden of stroken van verschillend materiaal, zoals riet, textiel of twijgen, om materialen of objecten zoals vlechtwerk, stof, manden of bloemkransen te maken. Wordt met name gebruikt voor het maken van textiel op een weefgetouw of een ander weefapparaat door middel van het ineenvlechten van schering en inslag in een bepaalde volgorde. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_7453_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018991/2022-02-26T13:24:09.454Z>.
+<https://stad.gent/id/concept/570012544/2022-02-26T10:52:56.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:56.602Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8536_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8536_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012544/2022-02-26T10:52:56.602Z>.
+<https://stad.gent/id/concept/570010270/2022-02-26T10:25:14.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:25:14.020Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8734_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wevelgem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_8734_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010270/2022-02-26T10:25:14.020Z>.
+<https://stad.gent/id/concept/570005238/2022-02-26T09:12:59.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:59.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9250_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wevers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9250_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005238/2022-02-26T09:12:59.422Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wev.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wev.ttl>.

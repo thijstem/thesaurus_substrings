@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/670000150/2022-02-26T16:18:48.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:18:48.688Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6205_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalvermarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6205_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000150/2022-02-26T16:18:48.688Z>.
+<https://stad.gent/id/concept/670000151/2022-02-26T16:18:53.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:18:53.692Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6205_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalversteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6205_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000151/2022-02-26T16:18:53.692Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kalv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kalv.ttl>.

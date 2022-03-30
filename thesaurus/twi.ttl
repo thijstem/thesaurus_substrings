@@ -1,0 +1,58 @@
+<https://stad.gent/id/concept/570019602/2022-02-26T13:50:24.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:50:24.720Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7267_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Twickenham (Londen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_7267_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019602/2022-02-26T13:50:24.720Z>.
+<https://stad.gent/id/concept/570016609/2022-02-26T12:23:51.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:23:51.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q63379189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7885_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7885_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016609/2022-02-26T12:23:51.811Z>.
+<https://stad.gent/id/concept/570015940/2022-02-26T12:05:42.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:05:42.054Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8014_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8014_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015940/2022-02-26T12:05:42.054Z>.
+<https://stad.gent/id/concept/570008991/2022-02-26T09:48:08.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:08.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8998_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8998_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008991/2022-02-26T09:48:08.417Z>.
+<https://stad.gent/id/concept/570003582/2022-02-26T09:08:37.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:37.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het samendraaien van twee of meer draden garen, meestal in tegenovergestelde richting van de draaiing van de gebruikte draden, om dikker en sterker garen te verkrijgen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "twijnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9280_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003582/2022-02-26T09:08:37.787Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/twi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/twi.ttl>.

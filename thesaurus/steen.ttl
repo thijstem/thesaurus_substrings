@@ -1,0 +1,84 @@
+<https://stad.gent/id/concept/570016559/2022-02-26T12:22:09.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:22:09.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25158699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7897_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7897_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016559/2022-02-26T12:22:09.992Z>.
+<https://stad.gent/id/concept/570014898/2022-02-26T11:42:52.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:42:52.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8179_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zij die bakstenen maken voor hun beroep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8179_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014898/2022-02-26T11:42:52.986Z>.
+<https://stad.gent/id/concept/570009292/2022-02-26T10:00:04.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:00:04.906Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q959309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8914_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenkoolmijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8914_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009292/2022-02-26T10:00:04.906Z>.
+<https://stad.gent/id/concept/570008598/2022-02-26T09:34:17.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:34:17.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9097_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fabrieken waar bakstenen worden gemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenbakkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9097_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008598/2022-02-26T09:34:17.553Z>.
+<https://stad.gent/id/concept/570006045/2022-02-26T09:16:15.708Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:16:15.708Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9226_103;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenkool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9226_103 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006045/2022-02-26T09:16:15.708Z>.
+<https://stad.gent/id/concept/570001397/2022-02-26T08:59:43.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:59:43.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9343_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen voor lithografie die afdrukken maken door middel van een schraapijzer onder hoge druk. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steendrukpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_9343_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001397/2022-02-26T08:59:43.094Z>.
+<https://stad.gent/id/concept/570000128/2022-02-26T08:50:28.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:50:28.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1778629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9409_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "steenkolenindustrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9409_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000128/2022-02-26T08:50:28.780Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/steen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/steen.ttl>.

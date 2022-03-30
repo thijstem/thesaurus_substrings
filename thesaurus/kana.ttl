@@ -1,0 +1,34 @@
+<https://stad.gent/id/concept/570025293/2022-02-26T16:08:54.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:08:54.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300006075>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6277_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gegraven, bevaarbare waterwegen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6277_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025293/2022-02-26T16:08:54.841Z>.
+<https://stad.gent/id/concept/570016827/2022-02-26T12:32:06.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:32:06.344Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7825_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanaalzoeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7825_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016827/2022-02-26T12:32:06.344Z>.
+<https://stad.gent/id/concept/570015675/2022-02-26T12:00:30.175Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:00:30.175Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300444056>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8053_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanalisatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8053_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015675/2022-02-26T12:00:30.175Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kana.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kana.ttl>.

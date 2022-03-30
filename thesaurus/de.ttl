@@ -1,0 +1,375 @@
+<https://stad.gent/id/concept/670001739/2022-03-13T02:52:46.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:52:46.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_256_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delacre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_256_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001739/2022-03-13T02:52:46.128Z>.
+<https://stad.gent/id/concept/670001368/2022-03-13T02:21:53.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:53.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_475_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Den Rooden Hert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_475_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001368/2022-03-13T02:21:53.341Z>.
+<https://stad.gent/id/concept/670001369/2022-03-13T02:21:58.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:58.343Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_475_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Depape"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_475_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001369/2022-03-13T02:21:58.343Z>.
+<https://stad.gent/id/concept/670001363/2022-03-13T02:21:28.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:28.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_478_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Zeven Hoofdzonden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001363/2022-03-13T02:21:28.332Z>.
+<https://stad.gent/id/concept/670001364/2022-03-13T02:21:33.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:33.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Zeven Werken van Barmhartigheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001364/2022-03-13T02:21:33.334Z>.
+<https://stad.gent/id/concept/670001365/2022-03-13T02:21:38.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:38.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25139>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Zwaene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001365/2022-03-13T02:21:38.336Z>.
+<https://stad.gent/id/concept/670001366/2022-03-13T02:21:43.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:43.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Zwarte Moor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001366/2022-03-13T02:21:43.337Z>.
+<https://stad.gent/id/concept/670001367/2022-03-13T02:21:48.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:48.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Den Engel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001367/2022-03-13T02:21:48.339Z>.
+<https://stad.gent/id/concept/670001358/2022-03-13T02:20:59.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:59.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24711>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Spiegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001358/2022-03-13T02:20:59.626Z>.
+<https://stad.gent/id/concept/670001359/2022-03-13T02:21:04.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:04.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/20580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Vier Gekroonden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001359/2022-03-13T02:21:04.628Z>.
+<https://stad.gent/id/concept/670001360/2022-03-13T02:21:09.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:09.630Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_481_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Vier Heemskinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001360/2022-03-13T02:21:09.630Z>.
+<https://stad.gent/id/concept/670001361/2022-03-13T02:21:14.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:14.632Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Wapens van Zeeland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001361/2022-03-13T02:21:14.632Z>.
+<https://stad.gent/id/concept/670001362/2022-03-13T02:21:23.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:21:23.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Witte Moor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001362/2022-03-13T02:21:23.330Z>.
+<https://stad.gent/id/concept/670001352/2022-03-13T02:20:34.616Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:34.616Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_484_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Lelie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001352/2022-03-13T02:20:34.616Z>.
+<https://stad.gent/id/concept/670001353/2022-03-13T02:20:39.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:39.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_484_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Lintworm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001353/2022-03-13T02:20:39.618Z>.
+<https://stad.gent/id/concept/670001354/2022-03-13T02:20:44.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:44.619Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_484_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maagd van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001354/2022-03-13T02:20:44.619Z>.
+<https://stad.gent/id/concept/670001355/2022-03-13T02:20:49.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:49.622Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25152>;
+    <http://www.w3.org/ns/adms#identifier> _:df_484_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maecht van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001355/2022-03-13T02:20:49.622Z>.
+<https://stad.gent/id/concept/670001356/2022-03-13T02:20:54.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:54.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_484_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Den Ram"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001356/2022-03-13T02:20:54.624Z>.
+<https://stad.gent/id/concept/670001347/2022-03-13T02:20:09.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:09.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_487_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "de Grote Ameede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001347/2022-03-13T02:20:09.336Z>.
+<https://stad.gent/id/concept/670001348/2022-03-13T02:20:14.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:20:14.338Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_487_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Grote Steur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_487_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001348/2022-03-13T02:20:14.338Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_433.
+_:df_1_433 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+k.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "k".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_434.
+_:df_1_434 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+e.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "e".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_435.
+_:df_1_435 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+f.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "f".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_436.
+_:df_1_436 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+g.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "g".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_437.
+_:df_1_437 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+1.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "1".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_438.
+_:df_1_438 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+b.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "b".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_439.
+_:df_1_439 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+c.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "c".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_440.
+_:df_1_440 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+d.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "d".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_441.
+_:df_1_441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/den.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "den".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_442.
+_:df_1_442 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dek".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_443.
+_:df_1_443 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/deu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_444.
+_:df_1_444 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/des.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "des".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_445.
+_:df_1_445 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+z.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "z".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_446.
+_:df_1_446 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/del.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "del".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_447.
+_:df_1_447 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dep.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dep".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_448.
+_:df_1_448 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+v.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "v".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_449.
+_:df_1_449 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+w.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "w".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_450.
+_:df_1_450 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+l.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "l".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_451.
+_:df_1_451 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+m.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "m".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_452.
+_:df_1_452 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+s.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "s".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_453.
+_:df_1_453 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dee".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_454.
+_:df_1_454 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/deo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_455.
+_:df_1_455 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/det.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "det".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_456.
+_:df_1_456 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/deg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "deg".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_457.
+_:df_1_457 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/der.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "der".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_458.
+_:df_1_458 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+p.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "p".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_459.
+_:df_1_459 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dec.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dec".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_460.
+_:df_1_460 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dei".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_461.
+_:df_1_461 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/dev.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "dev".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_462.
+_:df_1_462 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+t.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "t".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> <https://w3id.org/tree#relation> _:df_1_463.
+_:df_1_463 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/de+r.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "de", "r".
+<https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/de.ttl>.

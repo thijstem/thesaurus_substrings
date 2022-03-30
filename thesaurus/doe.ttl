@@ -1,0 +1,92 @@
+<https://stad.gent/id/concept/570017249/2022-03-11T03:20:29.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:20:29.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12321255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3883_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3883_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017249/2022-03-11T03:20:29.363Z>.
+<https://stad.gent/id/concept/570015538/2022-03-11T02:33:40.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:33:40.843Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300378968>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4216_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doe-het-zelf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4216_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015538/2022-03-11T02:33:40.843Z>.
+<https://stad.gent/id/concept/570015165/2022-03-11T02:25:50.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:25:50.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006890>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4273_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Doetinchem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4273_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015165/2022-03-11T02:25:50.485Z>.
+<https://stad.gent/id/concept/570011865/2022-03-11T01:18:09.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:18:09.314Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1137665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4756_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Universiteit Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "doelgroep"@nl, "group"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4756_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011865/2022-03-11T01:18:09.314Z>.
+<https://stad.gent/id/concept/570017249/2022-02-26T12:44:41.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:41.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12321255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7735_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7735_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017249/2022-02-26T12:44:41.323Z>.
+<https://stad.gent/id/concept/570015538/2022-02-26T11:57:59.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:57:59.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300378968>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8071_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "doe-het-zelf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8071_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015538/2022-02-26T11:57:59.178Z>.
+<https://stad.gent/id/concept/570015165/2022-02-26T11:50:11.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:50:11.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006890>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8125_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Doetinchem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_8125_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015165/2022-02-26T11:50:11.056Z>.
+<https://stad.gent/id/concept/570011865/2022-02-26T10:42:30.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:42:30.947Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1137665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8608_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Universiteit Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "doelgroep"@nl, "group"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8608_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011865/2022-02-26T10:42:30.947Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/doe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/doe.ttl>.

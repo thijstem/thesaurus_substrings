@@ -1,0 +1,59 @@
+<https://stad.gent/id/concept/570017048/2022-03-11T03:17:10.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:17:10.852Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3907_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wattmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3907_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017048/2022-03-11T03:17:10.852Z>.
+<https://stad.gent/id/concept/570011069/2022-03-11T01:10:29.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:10:29.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1601749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4810_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4810_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011069/2022-03-11T01:10:29.706Z>.
+<https://stad.gent/id/concept/570024203/2022-02-26T15:24:24.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:24:24.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6595_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wattrelos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_6595_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024203/2022-02-26T15:24:24.642Z>.
+<https://stad.gent/id/concept/570017048/2022-02-26T12:41:24.958Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:41:24.958Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7759_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wattmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7759_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017048/2022-02-26T12:41:24.958Z>.
+<https://stad.gent/id/concept/570011069/2022-02-26T10:34:52.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:34:52.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1601749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8665_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8665_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011069/2022-02-26T10:34:52.834Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/watt.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/watt.ttl>.

@@ -1,0 +1,42 @@
+<https://stad.gent/id/concept/670001687/2022-03-16T00:03:59.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:03:59.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_166_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "t Nieuw Cauterstraatken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_166_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001687/2022-03-16T00:03:59.894Z>.
+<https://stad.gent/id/concept/670001687/2022-03-13T02:48:29.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:48:29.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_286_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "t Nieuw Cauterstraatken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_286_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001687/2022-03-13T02:48:29.376Z>.
+<https://stad.gent/id/concept/670001687/2022-03-11T08:42:54.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:42:54.816Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1582_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "t Nieuw Cauterstraatken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1582_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001687/2022-03-11T08:42:54.816Z>.
+<https://stad.gent/id/concept/670001687/2022-02-26T18:07:08.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:07:08.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5431_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "t Nieuw Cauterstraatken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5431_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001687/2022-02-26T18:07:08.664Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/t+n.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/t+n.ttl>.

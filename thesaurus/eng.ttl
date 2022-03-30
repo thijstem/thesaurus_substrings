@@ -1,0 +1,69 @@
+<https://stad.gent/id/concept/670001578/2022-02-26T17:58:04.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:58:04.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5497_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engelsteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5497_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001578/2022-02-26T17:58:04.786Z>.
+<https://stad.gent/id/concept/670000636/2022-02-26T16:56:35.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:56:35.825Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5935_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engel (Hoogpoort)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5935_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000636/2022-02-26T16:56:35.825Z>.
+<https://stad.gent/id/concept/670000525/2022-02-26T16:47:52.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:47:52.274Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engel (Brabantdam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5998_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000525/2022-02-26T16:47:52.274Z>.
+<https://stad.gent/id/concept/570018994/2022-02-26T13:24:14.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:24:14.456Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023380>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7453_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engelse sleutel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7453_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018994/2022-02-26T13:24:14.456Z>.
+<https://stad.gent/id/concept/570016510/2022-02-26T12:20:19.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:20:19.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7909_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "trefwoord"@nl, "keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl, "Groot-Brittannië"@nl.
+_:df_7909_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016510/2022-02-26T12:20:19.319Z>.
+<https://stad.gent/id/concept/570004489/2022-02-26T09:10:58.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:10:58.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9265_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Engelskirchen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_9265_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004489/2022-02-26T09:10:58.741Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/eng.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/eng.ttl>.

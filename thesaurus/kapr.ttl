@@ -1,0 +1,15 @@
+<https://stad.gent/id/concept/570022989/2022-02-26T14:31:08.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022989>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:31:08.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6976_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaprijke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6976_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022989"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022989/2022-02-26T14:31:08.336Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kapr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kapr.ttl>.

@@ -1,0 +1,107 @@
+<https://stad.gent/id/concept/570008577/2022-03-11T00:09:07.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:09:07.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5248_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Weergaven of kopieën van een object die groter of kleiner zijn dan de feitelijke grootte van het weer te geven object, en waar bij de vervaardiging de exacte onderlinge verhoudingen zijn gehandhaafd. Een schaalmodel is meestal kleiner dan het origineel en wordt gebruikt ter illustratie van het object, als speelgoed of verzamelobject, of als hulpmiddel bij het construeren van het object op volledige grootte. Schaalmodellen kunnen één- of tweedimensionaal zijn. Schaalmodellen worden meestal vervaardigd op basis van een standaardschaal voor het betreffende product. Zo bestaat voor modeltreinen de populaire H0-schaal (schaal 1:87), voor scheepsmodellen is een schaal van 1:500 gangbaar en bij meubilair voor een poppenhuis een schaal van 1:12. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaalmodel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5248_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008577/2022-03-11T00:09:07.594Z>.
+<https://stad.gent/id/concept/570017746/2022-02-26T13:03:59.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:03:59.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7597_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaafmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7597_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017746/2022-02-26T13:03:59.380Z>.
+<https://stad.gent/id/concept/570017368/2022-02-26T12:48:17.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:48:17.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300229600>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7711_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7711_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017368/2022-02-26T12:48:17.738Z>.
+<https://stad.gent/id/concept/570016473/2022-02-26T12:18:38.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:18:38.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7921_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaste of draagbare machines die worden gebruikt om hout of staal te schaven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaafbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7921_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016473/2022-02-26T12:18:38.580Z>.
+<https://stad.gent/id/concept/570016459/2022-02-26T12:18:02.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:18:02.078Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7927_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7927_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016459/2022-02-26T12:18:02.078Z>.
+<https://stad.gent/id/concept/570014853/2022-02-26T11:41:57.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:41:57.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8185_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schaarbeek (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_8185_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014853/2022-02-26T11:41:57.705Z>.
+<https://stad.gent/id/concept/570012622/2022-02-26T10:54:37.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:54:37.158Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8524_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open, vaak ondiepe houders, soms met een deksel. Gemaakt van aardewerk, glas, metaal, hout en dergelijke en gebruikt voor verschillende doeleinden, vooral om voedsel in te doen en uit te serveren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8524_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012622/2022-02-26T10:54:37.158Z>.
+<https://stad.gent/id/concept/570009708/2022-02-26T10:11:24.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:24.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023459>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8833_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Snijgereedschap dat bestaat uit twee schuingekante snijkanten met handvatten, die langs elkaar worden bewogen door middel van een draaiasje dat in het midden zit en dat beide snijkanten bij elkaar houdt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8833_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009708/2022-02-26T10:11:24.227Z>.
+<https://stad.gent/id/concept/570008577/2022-02-26T09:33:42.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:42.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9100_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Weergaven of kopieën van een object die groter of kleiner zijn dan de feitelijke grootte van het weer te geven object, en waar bij de vervaardiging de exacte onderlinge verhoudingen zijn gehandhaafd. Een schaalmodel is meestal kleiner dan het origineel en wordt gebruikt ter illustratie van het object, als speelgoed of verzamelobject, of als hulpmiddel bij het construeren van het object op volledige grootte. Schaalmodellen kunnen één- of tweedimensionaal zijn. Schaalmodellen worden meestal vervaardigd op basis van een standaardschaal voor het betreffende product. Zo bestaat voor modeltreinen de populaire H0-schaal (schaal 1:87), voor scheepsmodellen is een schaal van 1:500 gangbaar en bij meubilair voor een poppenhuis een schaal van 1:12. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schaalmodel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9100_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008577/2022-02-26T09:33:42.286Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/schaa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/schaa.ttl>.

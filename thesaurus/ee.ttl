@@ -1,0 +1,243 @@
+<https://stad.gent/id/concept/670001373/2022-03-13T02:22:18.636Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:22:18.636Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_472_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eernhoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_472_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001373/2022-03-13T02:22:18.636Z>.
+<https://stad.gent/id/concept/670000908/2022-03-13T01:59:45.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:59:45.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_634_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eekhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_634_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000908/2022-03-13T01:59:45.159Z>.
+<https://stad.gent/id/concept/670000006/2022-03-13T00:50:27.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:27.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000006/2022-03-13T00:50:27.222Z>.
+<https://stad.gent/id/concept/670000009/2022-03-13T00:50:32.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:32.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000009/2022-03-13T00:50:32.223Z>.
+<https://stad.gent/id/concept/670000012/2022-03-13T00:50:37.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:37.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "aspect"@nl, "aspect"@en, "materiaal"@nl, "material"@en, "eenheid"@nl, "unit"@en, "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000012/2022-03-13T00:50:37.557Z>.
+<https://stad.gent/id/concept/570024694/2022-03-13T00:27:05.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:27:05.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004346>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote eetruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eetzaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1297_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024694/2022-03-13T00:27:05.568Z>.
+<https://stad.gent/id/concept/670001373/2022-03-11T08:16:48.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:16:48.874Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eernhoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1768_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001373/2022-03-11T08:16:48.874Z>.
+<https://stad.gent/id/concept/670000908/2022-03-11T07:54:35.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:54:35.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eekhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000908/2022-03-11T07:54:35.102Z>.
+<https://stad.gent/id/concept/670000009/2022-03-11T06:45:26.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:26.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2419_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2419_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000009/2022-03-11T06:45:26.137Z>.
+<https://stad.gent/id/concept/670000012/2022-03-11T06:45:31.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:31.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2419_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "papier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "aspect"@nl, "aspect"@en, "materiaal"@nl, "material"@en, "eenheid"@nl, "unit"@en, "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2419_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000012/2022-03-11T06:45:31.139Z>.
+<https://stad.gent/id/concept/670000006/2022-03-11T06:45:20.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:20.828Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2422_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000006/2022-03-11T06:45:20.828Z>.
+<https://stad.gent/id/concept/570024694/2022-03-11T06:22:00.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:22:00.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004346>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote eetruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eetzaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2587_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024694/2022-03-11T06:22:00.133Z>.
+<https://stad.gent/id/concept/570019847/2022-03-11T04:34:33.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:34:33.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026406>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3355_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eeklo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3355_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019847/2022-03-11T04:34:33.138Z>.
+<https://stad.gent/id/concept/570016993/2022-03-11T03:14:52.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016993>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:52.639Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3922_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eetlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3922_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016993"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016993/2022-03-11T03:14:52.639Z>.
+<https://stad.gent/id/concept/570015389/2022-03-11T02:31:23.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:31:23.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1362402>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4234_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eerste communie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4234_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015389/2022-03-11T02:31:23.297Z>.
+<https://stad.gent/id/concept/570009360/2022-03-11T00:38:25.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:38:25.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5041_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eerste Wereldoorlog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5041_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009360/2022-03-11T00:38:25.774Z>.
+<https://stad.gent/id/concept/570008432/2022-03-11T00:06:11.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:06:11.279Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5269_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5269_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008432/2022-03-11T00:06:11.279Z>.
+<https://stad.gent/id/concept/570008305/2022-03-11T00:04:45.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:04:45.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379098>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5278_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5278_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008305/2022-03-11T00:04:45.129Z>.
+<https://stad.gent/id/concept/670001373/2022-02-26T17:40:53.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:40:53.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eernhoorn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001373/2022-02-26T17:40:53.032Z>.
+<https://stad.gent/id/concept/670000908/2022-02-26T17:18:24.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000908>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:18:24.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5779_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eekhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5779_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000908"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000908/2022-02-26T17:18:24.643Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl> <https://w3id.org/tree#relation> _:df_1_2174.
+_:df_1_2174 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/een.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "een".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl> <https://w3id.org/tree#relation> _:df_1_2175.
+_:df_1_2175 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/eet.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "eet".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl> <https://w3id.org/tree#relation> _:df_1_2176.
+_:df_1_2176 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/eek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "eek".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl> <https://w3id.org/tree#relation> _:df_1_2177.
+_:df_1_2177 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/eer.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "eer".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ee.ttl>.

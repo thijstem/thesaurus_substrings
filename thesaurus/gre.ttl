@@ -1,0 +1,76 @@
+<https://stad.gent/id/concept/570020608/2022-03-11T04:47:38.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:47:38.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grefrath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3262_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020608/2022-03-11T04:47:38.472Z>.
+<https://stad.gent/id/concept/570009195/2022-03-11T00:31:30.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:31:30.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1136498>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5089_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grenadine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5089_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009195/2022-03-11T00:31:30.649Z>.
+<https://stad.gent/id/concept/570008998/2022-03-11T00:23:50.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:23:50.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014143>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5143_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Greenville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_5143_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008998/2022-03-11T00:23:50.070Z>.
+<https://stad.gent/id/concept/570020608/2022-02-26T14:11:39.099Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:11:39.099Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7114_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grefrath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7114_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020608/2022-02-26T14:11:39.099Z>.
+<https://stad.gent/id/concept/570009195/2022-02-26T09:55:57.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:55:57.962Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1136498>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8941_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grenadine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8941_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009195/2022-02-26T09:55:57.962Z>.
+<https://stad.gent/id/concept/570008998/2022-02-26T09:48:18.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:48:18.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014143>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8998_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Greenville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_8998_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008998/2022-02-26T09:48:18.423Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gre.ttl>.

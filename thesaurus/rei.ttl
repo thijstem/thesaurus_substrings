@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/670001654/2022-03-11T08:40:08.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:40:08.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1600_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reigerstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1600_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001654/2022-03-11T08:40:08.818Z>.
+<https://stad.gent/id/concept/570022979/2022-03-11T05:06:37.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:37.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014906>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een middel waarmee vervuiling kan worden verwijderd van een vervuild oppervlak. Gewoonlijk vervaardigd van synthetische materialen, waardoor het afwijkt van zeep, dat is gemaakt van vetten en oliën. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3127_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022979/2022-03-11T05:06:37.225Z>.
+<https://stad.gent/id/concept/570015172/2022-03-11T02:26:10.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:26:10.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300412169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4270_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reichsmark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4270_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015172/2022-03-11T02:26:10.493Z>.
+<https://stad.gent/id/concept/570012424/2022-03-11T01:25:17.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012424>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:25:17.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4705_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigingstape"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4705_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012424"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012424/2022-03-11T01:25:17.312Z>.
+<https://stad.gent/id/concept/670001654/2022-02-26T18:04:22.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:04:22.122Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5452_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reigerstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5452_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001654/2022-02-26T18:04:22.122Z>.
+<https://stad.gent/id/concept/570022979/2022-02-26T14:30:38.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:30:38.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014906>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6979_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een middel waarmee vervuiling kan worden verwijderd van een vervuild oppervlak. Gewoonlijk vervaardigd van synthetische materialen, waardoor het afwijkt van zeep, dat is gemaakt van vetten en oliën. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigingsmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6979_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022979/2022-02-26T14:30:38.322Z>.
+<https://stad.gent/id/concept/570015172/2022-02-26T11:50:31.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:50:31.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300412169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8122_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reichsmark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8122_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015172/2022-02-26T11:50:31.063Z>.
+<https://stad.gent/id/concept/570012424/2022-02-26T10:49:40.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012424>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:49:40.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8557_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigingstape"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8557_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012424"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012424/2022-02-26T10:49:40.530Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rei.ttl>.

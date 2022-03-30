@@ -1,0 +1,226 @@
+<https://stad.gent/id/concept/570024777/2022-03-13T00:30:57.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:30:57.273Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300433752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stansmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1267_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024777/2022-03-13T00:30:57.273Z>.
+<https://stad.gent/id/concept/570024523/2022-03-13T00:22:52.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:22:52.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1327_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stansijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1327_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024523/2022-03-13T00:22:52.714Z>.
+<https://stad.gent/id/concept/570024361/2022-03-13T00:13:48.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:13:48.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stanspers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1390_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024361/2022-03-13T00:13:48.976Z>.
+<https://stad.gent/id/concept/670001516/2022-03-11T08:28:43.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:43.720Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Jan-Frans Willems"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001516/2022-03-11T08:28:43.720Z>.
+<https://stad.gent/id/concept/670001517/2022-03-11T08:28:48.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:48.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Lieven Bauwens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001517/2022-03-11T08:28:48.722Z>.
+<https://stad.gent/id/concept/670001518/2022-03-11T08:28:53.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:53.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld François Laurent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001518/2022-03-11T08:28:53.722Z>.
+<https://stad.gent/id/concept/670001519/2022-03-11T08:28:58.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:58.724Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Hippolyte Metdepenningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001519/2022-03-11T08:28:58.724Z>.
+<https://stad.gent/id/concept/670001520/2022-03-11T08:29:03.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:29:03.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Joseph Guislain"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1681_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001520/2022-03-11T08:29:03.726Z>.
+<https://stad.gent/id/concept/670001514/2022-03-11T08:28:33.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:33.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Georgen Rodenbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1684_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001514/2022-03-11T08:28:33.394Z>.
+<https://stad.gent/id/concept/670001515/2022-03-11T08:28:38.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:28:38.395Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Jacob van Artevelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1684_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001515/2022-03-11T08:28:38.395Z>.
+<https://stad.gent/id/concept/670001198/2022-03-11T08:05:19.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:05:19.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q89423557>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld van Hippolyte Metdepenningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001198/2022-03-11T08:05:19.570Z>.
+<https://stad.gent/id/concept/670001199/2022-03-11T08:05:24.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:05:24.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q89422343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld van Joseph Guislain"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001199/2022-03-11T08:05:24.571Z>.
+<https://stad.gent/id/concept/670001200/2022-03-11T08:05:29.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:05:29.573Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q88673501>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld van Lieven Bauwens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1849_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001200/2022-03-11T08:05:29.573Z>.
+<https://stad.gent/id/concept/570024777/2022-03-11T06:25:51.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:25:51.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300433752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2560_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stansmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2560_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024777/2022-03-11T06:25:51.534Z>.
+<https://stad.gent/id/concept/570024523/2022-03-11T06:17:48.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:17:48.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2617_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stansijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2617_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024523/2022-03-11T06:17:48.027Z>.
+<https://stad.gent/id/concept/570024361/2022-03-11T06:08:44.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:08:44.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2683_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stanspers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2683_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024361/2022-03-11T06:08:44.564Z>.
+<https://stad.gent/id/concept/570019002/2022-03-11T04:00:41.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:00:41.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1151067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019002/2022-03-11T04:00:41.937Z>.
+<https://stad.gent/id/concept/570016092/2022-03-11T02:44:35.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:44:35.332Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4138_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stempels die meestal zijn gegraveerd en worden gebruikt om een ontwerp in een zachter materiaal te drukken, bijvoorbeeld bij het munten van geld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4138_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016092/2022-03-11T02:44:35.332Z>.
+<https://stad.gent/id/concept/570008912/2022-03-11T00:20:57.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:20:57.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q88673501>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5164_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Standbeeld Lieven Bauwens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5164_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008912/2022-03-11T00:20:57.744Z>.
+<https://stad.gent/id/concept/670001520/2022-02-26T17:53:12.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:53:12.940Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5530_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld Joseph Guislain"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5530_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001520/2022-02-26T17:53:12.940Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stan.ttl> <https://w3id.org/tree#relation> _:df_1_2032.
+_:df_1_2032 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/stand.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stand".
+<https://thijstem.github.io/substrings_coghent/thesaurus/stan.ttl> <https://w3id.org/tree#relation> _:df_1_2033.
+_:df_1_2033 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/stans.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "stans".
+<https://thijstem.github.io/substrings_coghent/thesaurus/stan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stan.ttl>.

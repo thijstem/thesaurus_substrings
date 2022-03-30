@@ -1,0 +1,103 @@
+<https://stad.gent/id/concept/570018870/2022-03-11T03:53:03.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:53:03.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tondo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3652_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018870/2022-03-11T03:53:03.941Z>.
+<https://stad.gent/id/concept/570018818/2022-03-11T03:50:27.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:50:27.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300421486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tondeuse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3670_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018818/2022-03-11T03:50:27.797Z>.
+<https://stad.gent/id/concept/570016192/2022-03-11T02:46:41.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:46:41.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4123_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4123_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016192/2022-03-11T02:46:41.297Z>.
+<https://stad.gent/id/concept/570015278/2022-03-11T02:28:31.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:28:31.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11635>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4252_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toneel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaalsoort"@nl, "document type"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4252_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015278/2022-03-11T02:28:31.806Z>.
+<https://stad.gent/id/concept/570018870/2022-02-26T13:17:05.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:17:05.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7504_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tondo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7504_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018870/2022-02-26T13:17:05.885Z>.
+<https://stad.gent/id/concept/570018818/2022-02-26T13:14:29.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:14:29.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300421486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7522_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tondeuse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7522_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018818/2022-02-26T13:14:29.813Z>.
+<https://stad.gent/id/concept/570016192/2022-02-26T12:10:59.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:10:59.170Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7978_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7978_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016192/2022-02-26T12:10:59.170Z>.
+<https://stad.gent/id/concept/570015278/2022-02-26T11:52:52.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:52:52.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11635>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8107_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toneel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaalsoort"@nl, "document type"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8107_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015278/2022-02-26T11:52:52.031Z>.
+<https://stad.gent/id/concept/570000386/2022-02-26T08:53:04.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:53:04.768Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9391_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongeren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_9391_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000386/2022-02-26T08:53:04.768Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ton.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ton.ttl>.

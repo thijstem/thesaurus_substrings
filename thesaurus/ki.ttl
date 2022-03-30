@@ -1,0 +1,282 @@
+<https://stad.gent/id/concept/670001858/2022-03-16T00:15:24.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:24.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen Alijnhospitaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001858/2022-03-16T00:15:24.342Z>.
+<https://stad.gent/id/concept/670001858/2022-03-13T02:59:53.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:59:53.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen Alijnhospitaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_205_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001858/2022-03-13T02:59:53.684Z>.
+<https://stad.gent/id/concept/570024782/2022-03-13T00:31:17.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:31:17.606Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kierspe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1267_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024782/2022-03-13T00:31:17.606Z>.
+<https://stad.gent/id/concept/570024633/2022-03-13T00:24:13.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:24:13.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1315_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kiosk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1315_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024633/2022-03-13T00:24:13.131Z>.
+<https://stad.gent/id/concept/570024197/2022-03-13T00:05:09.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:05:09.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1453_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024197/2022-03-13T00:05:09.819Z>.
+<https://stad.gent/id/concept/670001858/2022-03-11T08:54:20.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:54:20.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen Alijnhospitaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001858/2022-03-11T08:54:20.399Z>.
+<https://stad.gent/id/concept/570024782/2022-03-11T06:26:11.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:26:11.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2557_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kierspe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2557_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024782/2022-03-11T06:26:11.800Z>.
+<https://stad.gent/id/concept/570024633/2022-03-11T06:19:08.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:19:08.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kiosk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2608_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024633/2022-03-11T06:19:08.727Z>.
+<https://stad.gent/id/concept/570024197/2022-03-11T06:00:06.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:00:06.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2743_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024197/2022-03-11T06:00:06.106Z>.
+<https://stad.gent/id/concept/570019664/2022-03-11T04:27:50.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:27:50.291Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gebruik van kinderen als arbeidskracht in de industrie of zakenwereld. Deze praktijk wordt nu vrijwel overal als onmenselijk beschouwd en is in de meeste ontwikkelde landen verboden. Tot de vroege 20e eeuw kwam het echter algemeen voor. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderarbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3403_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019664/2022-03-11T04:27:50.291Z>.
+<https://stad.gent/id/concept/570019510/2022-03-11T04:23:03.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:23:03.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3436_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor vaak opvouwbare, stoelachtige wagentjes die vooral zijn ontworpen om kleine kinderen die rechtop kunnen zitten in voort te duwen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3436_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019510/2022-03-11T04:23:03.119Z>.
+<https://stad.gent/id/concept/570019311/2022-03-11T04:13:07.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:13:07.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046171>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kimono"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3508_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019311/2022-03-11T04:13:07.081Z>.
+<https://stad.gent/id/concept/570019179/2022-03-11T04:07:19.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:07:19.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1725736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3550_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kilometerteller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3550_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019179/2022-03-11T04:07:19.703Z>.
+<https://stad.gent/id/concept/570019135/2022-03-11T04:05:43.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:05:43.994Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderbed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3562_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019135/2022-03-11T04:05:43.994Z>.
+<https://stad.gent/id/concept/570018981/2022-03-11T03:59:26.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:26.648Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022372>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kipper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3607_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018981/2022-03-11T03:59:26.648Z>.
+<https://stad.gent/id/concept/570017485/2022-03-11T03:29:40.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017485>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:29:40.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3817_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kiesurne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3817_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017485"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017485/2022-03-11T03:29:40.198Z>.
+<https://stad.gent/id/concept/570016883/2022-03-11T03:09:18.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:18.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1306119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3961_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Goedkoop vel papier, eenvoudig bedrukt met plaatjes en praatjes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3961_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016883/2022-03-11T03:09:18.703Z>.
+<https://stad.gent/id/concept/570016761/2022-03-11T03:04:14.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:04:14.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3997_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kieldrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3997_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016761/2022-03-11T03:04:14.924Z>.
+<https://stad.gent/id/concept/570016630/2022-03-11T03:00:07.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:00:07.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote kisten met scharnierende deksels die worden gebruikt om textiel, kleding en andere artikelen in op te bergen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "bewaarvorm"@nl, "preservation form"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016630/2022-03-11T03:00:07.169Z>.
+<https://stad.gent/id/concept/570014273/2022-03-11T02:01:32.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:01:32.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kidderminster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4447_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014273"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014273/2022-03-11T02:01:32.752Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1851.
+_:df_1_1851 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kil.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kil".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1852.
+_:df_1_1852 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kin.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kin".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1853.
+_:df_1_1853 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kie.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kie".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1854.
+_:df_1_1854 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kio.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kio".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1855.
+_:df_1_1855 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kim.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kim".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1856.
+_:df_1_1856 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kip.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kip".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1857.
+_:df_1_1857 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kis.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kis".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1858.
+_:df_1_1858 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kid.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kid".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ki.ttl>.

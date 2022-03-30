@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570023646/2022-03-11T05:33:25.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:33:25.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2935_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reageerbuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2935_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023646/2022-03-11T05:33:25.774Z>.
+<https://stad.gent/id/concept/570023151/2022-03-11T05:14:12.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:14:12.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011918>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3073_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reading"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_3073_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023151/2022-03-11T05:14:12.786Z>.
+<https://stad.gent/id/concept/570023646/2022-02-26T14:57:26.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:57:26.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6787_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reageerbuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6787_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023646/2022-02-26T14:57:26.249Z>.
+<https://stad.gent/id/concept/570023151/2022-02-26T14:38:11.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:38:11.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011918>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6925_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reading"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_6925_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023151/2022-02-26T14:38:11.524Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rea.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rea.ttl>.

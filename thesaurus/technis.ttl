@@ -1,0 +1,103 @@
+<https://stad.gent/id/concept/570015636/2022-03-11T02:35:06.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:35:06.425Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4207_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de omvangrijke categorie tekeningen voor bouwkundige, mechanische of karteringsdoeleinden, die worden ontwikkeld aan de hand van nauwkeurig omschreven conventies van schaal en projectie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4207_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015636/2022-03-11T02:35:06.425Z>.
+<https://stad.gent/id/concept/570014209/2022-03-11T02:00:37.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:00:37.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4453_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch woordenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4453_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014209/2022-03-11T02:00:37.001Z>.
+<https://stad.gent/id/concept/570013172/2022-03-11T01:40:29.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:40:29.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q766264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4597_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch onderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4597_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013172/2022-03-11T01:40:29.244Z>.
+<https://stad.gent/id/concept/570009039/2022-03-11T00:25:00.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:25:00.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5134_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rapporten die details en resultaten geven van een specifiek onderzoek naar een wetenschappelijk of technisch probleem.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische nota"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5134_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009039/2022-03-11T00:25:00.385Z>.
+<https://stad.gent/id/concept/570019896/2022-02-26T13:59:44.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019896>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:59:44.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q675342>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7201_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch textiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7201_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019896"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019896/2022-02-26T13:59:44.116Z>.
+<https://stad.gent/id/concept/570015636/2022-02-26T11:59:24.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:59:24.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8059_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de omvangrijke categorie tekeningen voor bouwkundige, mechanische of karteringsdoeleinden, die worden ontwikkeld aan de hand van nauwkeurig omschreven conventies van schaal en projectie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8059_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015636/2022-02-26T11:59:24.844Z>.
+<https://stad.gent/id/concept/570014209/2022-02-26T11:25:00.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:25:00.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8305_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch woordenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8305_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014209/2022-02-26T11:25:00.900Z>.
+<https://stad.gent/id/concept/570013172/2022-02-26T11:04:52.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:04:52.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q766264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8449_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technisch onderwijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8449_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013172/2022-02-26T11:04:52.574Z>.
+<https://stad.gent/id/concept/570009039/2022-02-26T09:49:29.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:49:29.267Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8989_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rapporten die details en resultaten geven van een specifiek onderzoek naar een wetenschappelijk of technisch probleem.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "technische nota"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8989_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009039/2022-02-26T09:49:29.267Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/technis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/technis.ttl>.

@@ -1,0 +1,103 @@
+<https://stad.gent/id/concept/570025061/2022-03-11T06:39:48.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:39:48.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q514641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2461_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hastière"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_2461_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025061/2022-03-11T06:39:48.951Z>.
+<https://stad.gent/id/concept/570023983/2022-03-11T05:48:32.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:48:32.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2827_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspelmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2827_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023983/2022-03-11T05:48:32.029Z>.
+<https://stad.gent/id/concept/570013524/2022-03-11T01:48:12.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:48:12.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4540_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4540_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013524/2022-03-11T01:48:12.151Z>.
+<https://stad.gent/id/concept/570012870/2022-03-11T01:33:25.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:33:25.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4648_80;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4648_80 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012870/2022-03-11T01:33:25.831Z>.
+<https://stad.gent/id/concept/570025061/2022-02-26T16:03:47.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:03:47.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q514641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6313_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hastière"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_6313_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025061/2022-02-26T16:03:47.733Z>.
+<https://stad.gent/id/concept/570023983/2022-02-26T15:12:32.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:12:32.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6679_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspelmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6679_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023983/2022-02-26T15:12:32.985Z>.
+<https://stad.gent/id/concept/570013524/2022-02-26T11:12:35.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:12:35.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8395_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8395_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013524/2022-02-26T11:12:35.412Z>.
+<https://stad.gent/id/concept/570012870/2022-02-26T10:57:48.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:57:48.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8500_66;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8500_66 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012870/2022-02-26T10:57:48.416Z>.
+<https://stad.gent/id/concept/570005208/2022-02-26T09:12:49.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:49.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9250_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_9250_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005208/2022-02-26T09:12:49.418Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/has.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/has.ttl>.

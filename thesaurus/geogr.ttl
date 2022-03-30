@@ -1,0 +1,199 @@
+<https://stad.gent/id/concept/530010798/2022-03-17T00:01:19.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:19.701Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7013003>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baffin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004847>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_61_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010798/2022-03-17T00:01:19.701Z>.
+<https://stad.gent/id/concept/530010799/2022-03-17T00:01:24.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:24.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7016788>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rajasthan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009336>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indië"@nl, "Indië"@nl.
+_:df_61_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010799/2022-03-17T00:01:24.703Z>.
+<https://stad.gent/id/concept/530010800/2022-03-17T00:01:29.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010800>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:29.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7574355>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaipur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009336>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indië"@nl, "Indië"@nl.
+_:df_61_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010800"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010800/2022-03-17T00:01:29.705Z>.
+<https://stad.gent/id/concept/530006662/2022-03-17T00:00:48.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:48.844Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_64_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Firenze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_64_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006662/2022-03-17T00:00:48.844Z>.
+<https://stad.gent/id/concept/530009336/2022-03-17T00:00:53.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:53.845Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000198>;
+    <http://www.w3.org/ns/adms#identifier> _:df_64_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006255>, <https://stad.gent/id/concept/530010800>, <https://stad.gent/id/concept/530009653>, <https://stad.gent/id/concept/530005704>, <https://stad.gent/id/concept/530006114>, <https://stad.gent/id/concept/530010799>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en, "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rajasthan"@nl.
+<https://stad.gent/id/concept/530006114> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orissa"@nl.
+<https://stad.gent/id/concept/530005704> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Delhi"@nl.
+<https://stad.gent/id/concept/530009653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mumbaï"@nl.
+<https://stad.gent/id/concept/530010800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaipur"@nl.
+<https://stad.gent/id/concept/530006255> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chandigargh"@nl.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_64_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009336/2022-03-17T00:00:53.845Z>.
+<https://stad.gent/id/concept/530009910/2022-03-17T00:00:59.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:59.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1027201>;
+    <http://www.w3.org/ns/adms#identifier> _:df_64_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Holice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+_:df_64_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009910/2022-03-17T00:00:59.696Z>.
+<https://stad.gent/id/concept/530004847/2022-03-17T00:00:18.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:18.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004612>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010798>, <https://stad.gent/id/concept/530009501>, <https://stad.gent/id/concept/530002752>, <https://stad.gent/id/concept/530007974>, <https://stad.gent/id/concept/530009568>, <https://stad.gent/id/concept/530005124>, <https://stad.gent/id/concept/530003296>, <https://stad.gent/id/concept/530009631>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vancouver"@nl.
+<https://stad.gent/id/concept/530003296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toronto"@nl.
+<https://stad.gent/id/concept/530005124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Québec"@nl.
+<https://stad.gent/id/concept/530009568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ottawa (Canada)"@nl.
+<https://stad.gent/id/concept/530007974> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontario"@nl.
+<https://stad.gent/id/concept/530002752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montreal"@nl.
+<https://stad.gent/id/concept/530009501> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamilton (Ontario)"@nl.
+<https://stad.gent/id/concept/530010798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baffin"@nl.
+<https://stad.gent/id/concept/530004612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord- en Centraal Amerika"@nl.
+_:df_67_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004847/2022-03-17T00:00:18.830Z>.
+<https://stad.gent/id/concept/530005587/2022-03-17T00:00:23.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:23.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1001780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530008417>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006426>, <https://stad.gent/id/concept/530007442>, <https://stad.gent/id/concept/530004064>, <https://stad.gent/id/concept/530001740>, <https://stad.gent/id/concept/530010317>, <https://stad.gent/id/concept/530010499>, <https://stad.gent/id/concept/530005624>, <https://stad.gent/id/concept/530009652>, <https://stad.gent/id/concept/530010612>, <https://stad.gent/id/concept/530009854>, <https://stad.gent/id/concept/530009910>, <https://stad.gent/id/concept/530005592>, <https://stad.gent/id/concept/530005683>, <https://stad.gent/id/concept/530009533>, <https://stad.gent/id/concept/530009725>, <https://stad.gent/id/concept/530005412>, <https://stad.gent/id/concept/530010498>, <https://stad.gent/id/concept/530007443>, <https://stad.gent/id/concept/530010036>, <https://stad.gent/id/concept/530007316>, <https://stad.gent/id/concept/530003735>, <https://stad.gent/id/concept/530006050>, <https://stad.gent/id/concept/530009523>, <https://stad.gent/id/concept/530009952>, <https://stad.gent/id/concept/530003667>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zlin"@nl.
+<https://stad.gent/id/concept/530009952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Železný Brod"@nl.
+<https://stad.gent/id/concept/530009523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vsetín"@nl.
+<https://stad.gent/id/concept/530006050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vimperk"@nl.
+<https://stad.gent/id/concept/530003735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Praag"@nl.
+<https://stad.gent/id/concept/530007316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plzen"@nl.
+<https://stad.gent/id/concept/530010036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pirkenhammer"@nl.
+<https://stad.gent/id/concept/530007443> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olomouc"@nl.
+<https://stad.gent/id/concept/530010498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nový Bor"@nl.
+<https://stad.gent/id/concept/530005412> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loket"@nl.
+<https://stad.gent/id/concept/530009725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litovel"@nl.
+<https://stad.gent/id/concept/530009533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litomerice"@nl.
+<https://stad.gent/id/concept/530005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klášterský Mlýn (voormalig Klostermühle)"@nl.
+<https://stad.gent/id/concept/530005592> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karlsbad (Tsjechië)"@nl.
+<https://stad.gent/id/concept/530009910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Holice"@nl.
+<https://stad.gent/id/concept/530009854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Havlíčkův Brod"@nl.
+<https://stad.gent/id/concept/530010612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Děčín"@nl.
+<https://stad.gent/id/concept/530009652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cvikov"@nl.
+<https://stad.gent/id/concept/530005624> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chodov"@nl.
+<https://stad.gent/id/concept/530010499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Česká Lípa"@nl.
+<https://stad.gent/id/concept/530010317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Červený Hrádek"@nl.
+<https://stad.gent/id/concept/530001740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brtnice (Pirnitz)"@nl.
+<https://stad.gent/id/concept/530004064> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brno"@nl.
+<https://stad.gent/id/concept/530007442> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brna"@nl.
+<https://stad.gent/id/concept/530006426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bohemen"@nl.
+<https://stad.gent/id/concept/530008417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Europa"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_67_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005587/2022-03-17T00:00:23.835Z>.
+<https://stad.gent/id/concept/530005631/2022-03-17T00:00:28.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:28.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_56;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Como (Italië)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_67_56 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005631/2022-03-17T00:00:28.837Z>.
+<https://stad.gent/id/concept/530005656/2022-03-17T00:00:33.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:00:33.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_64;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "An area in central Europe encompassing the historic lands of Bohemia, Moravia, and Slovakia, comprising the modern nations of Slovakia and the Czech Republic. They were formerly united as one nation, Czechoslovakia, from 1918 to 1993.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjecho-Slowakije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009679>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009679> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceske Budejovice"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_67_64 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005656/2022-03-17T00:00:33.839Z>.
+<https://stad.gent/id/concept/670000953/2022-03-16T00:17:20.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:17:20.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_70_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_70_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000953/2022-03-16T00:17:20.121Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/geogr.ttl> <https://w3id.org/tree#relation> _:df_1_126.
+_:df_1_126 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/geogra.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "geogra".
+<https://thijstem.github.io/substrings_coghent/thesaurus/geogr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/geogr.ttl>.

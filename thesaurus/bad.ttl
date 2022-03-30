@@ -1,0 +1,249 @@
+<https://stad.gent/id/concept/570022981/2022-03-11T05:06:42.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:42.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badschuim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3124_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022981/2022-03-11T05:06:42.227Z>.
+<https://stad.gent/id/concept/570019799/2022-03-11T04:32:42.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:32:42.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimvallende knie- of enkellange kledingstukken, vaak dichtgehouden met een ceintuur, die meestal van warm, absorberend materiaal zijn gemaakt en worden gedragen voor of na het baden of als gemakkelijke kleding binnenshuis";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badjas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3367_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019799/2022-03-11T04:32:42.542Z>.
+<https://stad.gent/id/concept/570019760/2022-03-11T04:31:11.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:31:11.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1025432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bad Ischl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl, "Oostenrijk"@nl.
+_:df_3379_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019760/2022-03-11T04:31:11.696Z>.
+<https://stad.gent/id/concept/570019599/2022-03-11T04:26:14.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:26:14.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kettingpoolweefsel met ongesneden lussen aan één of beide zijden. Is vaak van katoen of linnen en wordt vanwege het absorptievermogen gebruikt voor handdoeken, badjassen en dergelijke.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badstof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3415_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019599/2022-03-11T04:26:14.629Z>.
+<https://stad.gent/id/concept/570017025/2022-03-11T03:16:19.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:16:19.592Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3913_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkraan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3913_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017025/2022-03-11T03:16:19.592Z>.
+<https://stad.gent/id/concept/570016743/2022-03-11T03:03:49.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:03:49.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bad Rappenau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4000_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016743/2022-03-11T03:03:49.357Z>.
+<https://stad.gent/id/concept/570015170/2022-03-11T02:26:00.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:26:00.490Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4270_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kamers waarin zich een badkuip of douche bevindt, en meestal een toilet of wastafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4270_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015170/2022-03-11T02:26:00.490Z>.
+<https://stad.gent/id/concept/570013590/2022-03-11T01:49:02.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:49:02.425Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052625>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4534_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tobbes of kuipen waarin men een bad kan nemen, zich kan wassen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkuip"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4534_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013590/2022-03-11T01:49:02.425Z>.
+<https://stad.gent/id/concept/570013331/2022-03-11T01:44:00.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:44:00.468Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4570_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badmode"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4570_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013331/2022-03-11T01:44:00.468Z>.
+<https://stad.gent/id/concept/570011256/2022-03-11T01:12:41.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011256>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:12:41.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badmuts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4795_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011256"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011256/2022-03-11T01:12:41.981Z>.
+<https://stad.gent/id/concept/570009389/2022-03-11T00:39:31.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:39:31.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210463>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5032_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badpak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5032_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009389/2022-03-11T00:39:31.216Z>.
+<https://stad.gent/id/concept/570022981/2022-02-26T14:30:43.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:30:43.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6979_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badschuim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6979_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022981/2022-02-26T14:30:43.325Z>.
+<https://stad.gent/id/concept/570019799/2022-02-26T13:56:42.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:56:42.541Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7222_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimvallende knie- of enkellange kledingstukken, vaak dichtgehouden met een ceintuur, die meestal van warm, absorberend materiaal zijn gemaakt en worden gedragen voor of na het baden of als gemakkelijke kleding binnenshuis";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badjas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7222_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019799/2022-02-26T13:56:42.541Z>.
+<https://stad.gent/id/concept/570019760/2022-02-26T13:55:12.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:55:12.208Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1025432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7231_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bad Ischl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl, "Oostenrijk"@nl, "Oostenrijk"@nl, "Oostenrijk"@nl.
+_:df_7231_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019760/2022-02-26T13:55:12.208Z>.
+<https://stad.gent/id/concept/570019599/2022-02-26T13:50:14.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:50:14.717Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7267_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kettingpoolweefsel met ongesneden lussen aan één of beide zijden. Is vaak van katoen of linnen en wordt vanwege het absorptievermogen gebruikt voor handdoeken, badjassen en dergelijke.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badstof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7267_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019599/2022-02-26T13:50:14.717Z>.
+<https://stad.gent/id/concept/570017025/2022-02-26T12:40:34.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:40:34.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7765_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkraan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7765_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017025/2022-02-26T12:40:34.682Z>.
+<https://stad.gent/id/concept/570016743/2022-02-26T12:28:08.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:28:08.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7855_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bad Rappenau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7855_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016743/2022-02-26T12:28:08.555Z>.
+<https://stad.gent/id/concept/570015170/2022-02-26T11:50:21.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:50:21.060Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8125_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kamers waarin zich een badkuip of douche bevindt, en meestal een toilet of wastafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8125_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015170/2022-02-26T11:50:21.060Z>.
+<https://stad.gent/id/concept/570013590/2022-02-26T11:13:25.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:13:25.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052625>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8389_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tobbes of kuipen waarin men een bad kan nemen, zich kan wassen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkuip"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8389_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013590/2022-02-26T11:13:25.951Z>.
+<https://stad.gent/id/concept/570013331/2022-02-26T11:08:23.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:08:23.763Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8425_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badmode"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8425_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013331/2022-02-26T11:08:23.763Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bad.ttl> <https://w3id.org/tree#relation> _:df_1_2493.
+_:df_1_2493 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/badm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "badm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bad.ttl> <https://w3id.org/tree#relation> _:df_1_2494.
+_:df_1_2494 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/badp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "badp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bad.ttl>.

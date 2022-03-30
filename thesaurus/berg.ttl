@@ -1,0 +1,69 @@
+<https://stad.gent/id/concept/570016113/2022-03-11T02:45:10.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:45:10.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4135_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergisch Gladbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4135_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016113/2022-03-11T02:45:10.628Z>.
+<https://stad.gent/id/concept/570013639/2022-03-11T01:50:23.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:50:23.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4525_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergamo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_4525_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013639/2022-03-11T01:50:23.005Z>.
+<https://stad.gent/id/concept/570016113/2022-02-26T12:09:28.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:09:28.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7987_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergisch Gladbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7987_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016113/2022-02-26T12:09:28.735Z>.
+<https://stad.gent/id/concept/570013639/2022-02-26T11:14:46.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:14:46.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8380_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergamo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_8380_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013639/2022-02-26T11:14:46.460Z>.
+<https://stad.gent/id/concept/570005473/2022-02-26T09:13:34.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:13:34.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9244_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025118>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Havré"@nl.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_9244_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005473/2022-02-26T09:13:34.735Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/berg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/berg.ttl>.

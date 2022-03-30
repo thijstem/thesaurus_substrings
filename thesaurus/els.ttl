@@ -1,0 +1,67 @@
+<https://stad.gent/id/concept/570018198/2022-03-11T03:49:17.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:49:17.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026511>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3679_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsene (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_3679_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018198/2022-03-11T03:49:17.379Z>.
+<https://stad.gent/id/concept/570016790/2022-03-11T03:05:40.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:05:40.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240298>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsenborn (Bütgenbach)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3988_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016790/2022-03-11T03:05:40.450Z>.
+<https://stad.gent/id/concept/570024262/2022-02-26T15:27:20.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:27:20.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6574_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_6574_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024262/2022-02-26T15:27:20.984Z>.
+<https://stad.gent/id/concept/570018198/2022-02-26T13:13:19.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:13:19.543Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026511>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7531_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsene (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_7531_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018198/2022-02-26T13:13:19.543Z>.
+<https://stad.gent/id/concept/570016790/2022-02-26T12:30:00.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:30:00.432Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7240298>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7840_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elsenborn (Bütgenbach)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_7840_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016790/2022-02-26T12:30:00.432Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/els.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/els.ttl>.

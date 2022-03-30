@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/570023548/2022-03-11T05:29:54.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:29:54.274Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2959_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "primusbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2959_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023548/2022-03-11T05:29:54.274Z>.
+<https://stad.gent/id/concept/570023548/2022-02-26T14:53:54.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:53:54.215Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6814_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "primusbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6814_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023548/2022-02-26T14:53:54.215Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prim.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prim.ttl>.

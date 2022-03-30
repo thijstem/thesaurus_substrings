@@ -1,0 +1,72 @@
+<https://stad.gent/id/concept/570015191/2022-03-11T02:26:26.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:26:26.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4267_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bidet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4267_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015191/2022-03-11T02:26:26.070Z>.
+<https://stad.gent/id/concept/570008989/2022-03-11T00:23:29.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008989>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:23:29.277Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2044461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5146_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biddeford (Maine)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_5146_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008989"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008989/2022-03-11T00:23:29.277Z>.
+<https://stad.gent/id/concept/570015191/2022-02-26T11:50:46.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:50:46.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8122_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bidet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8122_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015191/2022-02-26T11:50:46.069Z>.
+<https://stad.gent/id/concept/570008989/2022-02-26T09:47:58.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008989>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:58.413Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2044461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8998_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biddeford (Maine)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl, "Verenigde Staten van Amerika"@nl.
+_:df_8998_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008989"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008989/2022-02-26T09:47:58.413Z>.
+<https://stad.gent/id/concept/570005212/2022-02-26T09:12:54.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:12:54.421Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9250_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bidprentje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9250_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005212/2022-02-26T09:12:54.421Z>.
+<https://stad.gent/id/concept/570003200/2022-02-26T09:07:11.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:07:11.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9292_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bidsnoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570000200>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000200> <http://www.w3.org/2004/02/skos/core#prefLabel> "rozenkrans"@nl.
+_:df_9292_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003200/2022-02-26T09:07:11.932Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bid.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bid.ttl>.

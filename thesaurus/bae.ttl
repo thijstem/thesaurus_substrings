@@ -1,0 +1,77 @@
+<https://stad.gent/id/concept/670000626/2022-03-11T07:31:53.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:31:53.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2089_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2089_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000626/2022-03-11T07:31:53.463Z>.
+<https://stad.gent/id/concept/670000500/2022-03-11T07:21:58.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:21:58.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baes (Koestraat 9)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2158_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000500/2022-03-11T07:21:58.824Z>.
+<https://stad.gent/id/concept/570008849/2022-03-11T00:18:41.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:18:41.326Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2830938>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5179_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baertsoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5179_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008849/2022-03-11T00:18:41.326Z>.
+<https://stad.gent/id/concept/670000626/2022-02-26T16:55:45.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:55:45.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5941_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5941_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000626/2022-02-26T16:55:45.530Z>.
+<https://stad.gent/id/concept/670000500/2022-02-26T16:45:51.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:45:51.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6013_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baes (Koestraat 9)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6013_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000500/2022-02-26T16:45:51.627Z>.
+<https://stad.gent/id/concept/570008849/2022-02-26T09:43:11.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:43:11.197Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2830938>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9034_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baertsoen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9034_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008849/2022-02-26T09:43:11.197Z>.
+<https://stad.gent/id/concept/570004144/2022-02-26T09:09:53.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:09:53.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q243442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9271_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baekeland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9271_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004144/2022-02-26T09:09:53.353Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bae.ttl>.

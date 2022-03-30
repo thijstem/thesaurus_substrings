@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570009491/2022-02-26T10:04:56.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009491>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:04:56.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8878_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rapporten in manuscriptvorm uit de 17e en 18e eeuw, die werden geproduceerd voor speciale abonnees en die onregelmatig of wekelijks werden uitgegeven. In de 20e eeuw zijn het periodieke rapporten over de activiteiten van een bedrijf of organisatie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nieuwsbrief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8878_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009491"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009491/2022-02-26T10:04:56.628Z>.
+<https://stad.gent/id/concept/570009174/2022-02-26T09:55:02.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:55:02.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192547>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8950_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wenskaarten die rond een jaarwisseling worden verstuurd om iemand een voorspoedig nieuwjaar te wensen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nieuwjaarskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8950_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009174/2022-02-26T09:55:02.418Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nieu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nieu.ttl>.

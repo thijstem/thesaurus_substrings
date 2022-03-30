@@ -1,0 +1,52 @@
+<https://stad.gent/id/concept/570009832/2022-03-11T00:49:11.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:49:11.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4963_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ludwigshafen am Rhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4963_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009832/2022-03-11T00:49:11.210Z>.
+<https://stad.gent/id/concept/570023886/2022-02-26T15:08:21.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:08:21.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7012587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6709_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ludwigsstadt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6709_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023886/2022-02-26T15:08:21.169Z>.
+<https://stad.gent/id/concept/570023601/2022-02-26T14:55:25.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:55:25.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1039976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6802_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lüdenscheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_6802_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023601/2022-02-26T14:55:25.062Z>.
+<https://stad.gent/id/concept/570009832/2022-02-26T10:13:35.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:13:35.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8815_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ludwigshafen am Rhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_8815_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009832/2022-02-26T10:13:35.047Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lud.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lud.ttl>.

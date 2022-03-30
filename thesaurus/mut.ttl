@@ -1,0 +1,72 @@
+<https://stad.gent/id/concept/570017689/2022-03-11T03:37:16.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:37:16.529Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3763_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3763_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017689/2022-03-11T03:37:16.529Z>.
+<https://stad.gent/id/concept/570012355/2022-03-11T01:24:01.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:24:01.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muttenz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_4714_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012355/2022-03-11T01:24:01.680Z>.
+<https://stad.gent/id/concept/570010077/2022-03-11T00:55:43.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:55:43.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2835959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4915_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mutualiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4915_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010077/2022-03-11T00:55:43.851Z>.
+<https://stad.gent/id/concept/570017689/2022-02-26T13:01:17.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:01:17.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7618_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7618_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017689/2022-02-26T13:01:17.922Z>.
+<https://stad.gent/id/concept/570012355/2022-02-26T10:48:24.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:48:24.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8566_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muttenz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl, "Zwitserland"@nl.
+_:df_8566_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012355/2022-02-26T10:48:24.563Z>.
+<https://stad.gent/id/concept/570010077/2022-02-26T10:20:07.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:20:07.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2835959>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8770_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mutualiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8770_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010077/2022-02-26T10:20:07.162Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mut.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mut.ttl>.

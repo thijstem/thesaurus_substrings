@@ -1,0 +1,250 @@
+<https://stad.gent/id/concept/570025075/2022-03-13T00:45:40.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:45:40.053Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1162_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watermerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1162_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025075/2022-03-13T00:45:40.053Z>.
+<https://stad.gent/id/concept/570024964/2022-03-13T00:39:26.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:39:26.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1207_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024964/2022-03-13T00:39:26.095Z>.
+<https://stad.gent/id/concept/570024965/2022-03-13T00:39:31.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:39:31.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q355304>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterloop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1207_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024965/2022-03-13T00:39:31.097Z>.
+<https://stad.gent/id/concept/570024928/2022-03-13T00:37:24.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:24.848Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportbaan - Ekkergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_1222_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024928/2022-03-13T00:37:24.848Z>.
+<https://stad.gent/id/concept/570024203/2022-03-13T00:05:30.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:05:30.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1450_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wattrelos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_1450_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024203/2022-03-13T00:05:30.264Z>.
+<https://stad.gent/id/concept/670001724/2022-03-11T08:45:56.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001724>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:45:56.692Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001724"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001724/2022-03-11T08:45:56.692Z>.
+<https://stad.gent/id/concept/670001274/2022-03-11T08:09:05.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001274>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:09:05.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300387091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1822_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1822_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001274"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001274/2022-03-11T08:09:05.959Z>.
+<https://stad.gent/id/concept/670000813/2022-03-11T07:47:10.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:47:10.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2987>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watergraafstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1978_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000813/2022-03-11T07:47:10.889Z>.
+<https://stad.gent/id/concept/670000814/2022-03-11T07:47:15.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:47:15.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/10406>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watermolenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1978_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000814/2022-03-11T07:47:15.890Z>.
+<https://stad.gent/id/concept/670000815/2022-03-11T07:47:20.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000815>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:47:20.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1978_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000815"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000815/2022-03-11T07:47:20.893Z>.
+<https://stad.gent/id/concept/670000698/2022-03-11T07:37:41.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:37:41.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2047_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterverf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2047_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000698/2022-03-11T07:37:41.102Z>.
+<https://stad.gent/id/concept/570025075/2022-03-11T06:40:34.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:40:34.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2455_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watermerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2455_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025075/2022-03-11T06:40:34.234Z>.
+<https://stad.gent/id/concept/570024964/2022-03-11T06:34:21.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:34:21.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2500_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024964/2022-03-11T06:34:21.288Z>.
+<https://stad.gent/id/concept/570024965/2022-03-11T06:34:26.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:34:26.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q355304>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterloop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2500_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024965/2022-03-11T06:34:26.290Z>.
+<https://stad.gent/id/concept/570024928/2022-03-11T06:32:19.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:19.234Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportbaan - Ekkergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2515_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024928/2022-03-11T06:32:19.234Z>.
+<https://stad.gent/id/concept/570024203/2022-03-11T06:00:26.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:00:26.115Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wattrelos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2743_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024203/2022-03-11T06:00:26.115Z>.
+<https://stad.gent/id/concept/570023211/2022-03-11T05:17:44.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:17:44.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7259609>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3046_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watermaal-Bosvoorde (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_3046_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023211/2022-03-11T05:17:44.194Z>.
+<https://stad.gent/id/concept/570023180/2022-03-11T05:15:58.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:15:58.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3058_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3058_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023180/2022-03-11T05:15:58.409Z>.
+<https://stad.gent/id/concept/570023022/2022-03-11T05:09:10.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:09:10.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3109_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watou"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3109_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023022/2022-03-11T05:09:10.738Z>.
+<https://stad.gent/id/concept/570020504/2022-03-11T04:45:27.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:45:27.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1364042>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3277_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterkoker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3277_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020504/2022-03-11T04:45:27.777Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wat.ttl> <https://w3id.org/tree#relation> _:df_1_1573.
+_:df_1_1573 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/wate.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wate".
+<https://thijstem.github.io/substrings_coghent/thesaurus/wat.ttl> <https://w3id.org/tree#relation> _:df_1_1574.
+_:df_1_1574 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/watt.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "watt".
+<https://thijstem.github.io/substrings_coghent/thesaurus/wat.ttl> <https://w3id.org/tree#relation> _:df_1_1575.
+_:df_1_1575 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/wato.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "wato".
+<https://thijstem.github.io/substrings_coghent/thesaurus/wat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wat.ttl>.

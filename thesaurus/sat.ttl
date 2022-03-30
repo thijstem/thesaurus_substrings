@@ -1,0 +1,68 @@
+<https://stad.gent/id/concept/570017791/2022-03-11T03:41:03.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:41:03.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q52544727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijnbinding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3736_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017791/2022-03-11T03:41:03.123Z>.
+<https://stad.gent/id/concept/570017620/2022-03-11T03:34:03.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:34:03.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400689>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3787_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijnsteek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3787_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017620/2022-03-11T03:34:03.399Z>.
+<https://stad.gent/id/concept/570016317/2022-03-11T02:50:17.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:50:17.768Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132902>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4099_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016317/2022-03-11T02:50:17.768Z>.
+<https://stad.gent/id/concept/570017791/2022-02-26T13:05:04.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:05:04.792Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q52544727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7591_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijnbinding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7591_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017791/2022-02-26T13:05:04.792Z>.
+<https://stad.gent/id/concept/570017620/2022-02-26T12:58:06.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:58:06.916Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400689>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7639_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijnsteek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7639_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017620/2022-02-26T12:58:06.916Z>.
+<https://stad.gent/id/concept/570016317/2022-02-26T12:14:35.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:14:35.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132902>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7951_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "satijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7951_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016317/2022-02-26T12:14:35.832Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sat.ttl>.

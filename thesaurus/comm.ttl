@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570024279/2022-02-26T15:28:16.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:16.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q340169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6568_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "communicatiemiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6568_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024279/2022-02-26T15:28:16.335Z>.
+<https://stad.gent/id/concept/570015851/2022-02-26T12:03:11.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:03:11.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025980>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8032_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "commissie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8032_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015851/2022-02-26T12:03:11.162Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/comm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/comm.ttl>.

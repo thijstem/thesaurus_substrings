@@ -1,0 +1,64 @@
+<https://stad.gent/id/concept/670001418/2022-03-11T08:20:30.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:20:30.505Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Oud Antwerpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1741_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001418/2022-03-11T08:20:30.505Z>.
+<https://stad.gent/id/concept/670001419/2022-03-11T08:20:35.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:20:35.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Roosken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1741_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001419/2022-03-11T08:20:35.507Z>.
+<https://stad.gent/id/concept/670000862/2022-03-11T07:50:47.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:50:47.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/19007>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1954_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Meuleken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1954_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000862/2022-03-11T07:50:47.840Z>.
+<https://stad.gent/id/concept/670001418/2022-02-26T17:44:39.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:39.839Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5593_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Oud Antwerpen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5593_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001418/2022-02-26T17:44:39.839Z>.
+<https://stad.gent/id/concept/670001419/2022-02-26T17:44:44.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:44.841Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5593_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Roosken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5593_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001419/2022-02-26T17:44:44.841Z>.
+<https://stad.gent/id/concept/670000862/2022-02-26T17:14:37.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:14:37.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/19007>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5806_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In het Meuleken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5806_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000862/2022-02-26T17:14:37.982Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/in+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/in+h.ttl>.

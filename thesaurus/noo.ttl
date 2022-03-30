@@ -1,0 +1,89 @@
+<https://stad.gent/id/concept/570011575/2022-03-11T01:15:37.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:15:37.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4774_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011792>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019481>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019481> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stavanger"@nl.
+<https://stad.gent/id/concept/570011792> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_4774_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011575/2022-03-11T01:15:37.937Z>.
+<https://stad.gent/id/concept/670000984/2022-02-26T17:24:36.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:24:36.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5737_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noordstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5737_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000984/2022-02-26T17:24:36.756Z>.
+<https://stad.gent/id/concept/570023202/2022-02-26T14:41:12.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:41:12.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002448>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6904_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Ierland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570018257>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belfast"@nl.
+_:df_6904_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023202/2022-02-26T14:41:12.458Z>.
+<https://stad.gent/id/concept/570017244/2022-02-26T12:44:31.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:31.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7738_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "noodwoningen Albertfonds"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7738_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017244/2022-02-26T12:44:31.078Z>.
+<https://stad.gent/id/concept/570017151/2022-02-26T12:43:15.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:43:15.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q383187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7747_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "noodgeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7747_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017151/2022-02-26T12:43:15.682Z>.
+<https://stad.gent/id/concept/570011575/2022-02-26T10:40:00.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:40:00.060Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8626_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011792>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019481>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019481> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stavanger"@nl.
+<https://stad.gent/id/concept/570011792> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_8626_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011575/2022-02-26T10:40:00.060Z>.
+<https://stad.gent/id/concept/570005845/2022-02-26T09:14:45.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:14:45.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200453>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9238_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine gebruiksvoorwerpen met een deksel met een scharnier die zijn voorzien van een rasp en worden gebruikt voor bewaren en raspen van nootmuskaat. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nootmuskaatrasp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9238_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005845/2022-02-26T09:14:45.031Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/noo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/noo.ttl>.

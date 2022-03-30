@@ -1,0 +1,91 @@
+<https://stad.gent/id/concept/570017945/2022-03-11T03:44:34.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:44:34.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Snijgereedschap met dunne, platte metalen bladen, banden of onbuigzame platen met aan de zijkant een rij snijtanden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zaag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3712_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017945/2022-03-11T03:44:34.813Z>.
+<https://stad.gent/id/concept/570014033/2022-03-11T01:56:40.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:56:40.307Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4683254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zaagblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4480_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014033/2022-03-11T01:56:40.307Z>.
+<https://stad.gent/id/concept/670001733/2022-02-26T18:10:55.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:10:55.181Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5404_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaadsteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5404_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001733/2022-02-26T18:10:55.181Z>.
+<https://stad.gent/id/concept/670001734/2022-02-26T18:11:00.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:11:00.183Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5404_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaaimanstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5404_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001734/2022-02-26T18:11:00.183Z>.
+<https://stad.gent/id/concept/670001022/2022-02-26T17:27:22.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:22.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5716_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaaimansstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5716_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001022/2022-02-26T17:27:22.604Z>.
+<https://stad.gent/id/concept/570017945/2022-02-26T13:08:37.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:08:37.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7564_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Snijgereedschap met dunne, platte metalen bladen, banden of onbuigzame platen met aan de zijkant een rij snijtanden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zaag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7564_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017945/2022-02-26T13:08:37.528Z>.
+<https://stad.gent/id/concept/570014033/2022-02-26T11:21:04.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:21:04.343Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4683254>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8335_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zaagblad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8335_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014033/2022-02-26T11:21:04.343Z>.
+<https://stad.gent/id/concept/570002905/2022-02-26T09:06:46.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:06:46.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012447>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9295_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaandam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_9295_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002905/2022-02-26T09:06:46.921Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/zaa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/zaa.ttl>.

@@ -1,0 +1,140 @@
+<https://stad.gent/id/concept/570024764/2022-03-11T06:25:16.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:25:16.521Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding vrouwen ondergoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2563_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024764/2022-03-11T06:25:16.521Z>.
+<https://stad.gent/id/concept/570024305/2022-03-11T06:05:38.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:05:38.224Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding en accessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_2704_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024305/2022-03-11T06:05:38.224Z>.
+<https://stad.gent/id/concept/570013732/2022-03-11T01:51:48.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:51:48.375Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4516_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4516_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013732/2022-03-11T01:51:48.375Z>.
+<https://stad.gent/id/concept/570013362/2022-03-11T01:44:40.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:44:40.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4567_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding kinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4567_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013362/2022-03-11T01:44:40.728Z>.
+<https://stad.gent/id/concept/570013192/2022-03-11T01:41:09.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:41:09.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4591_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding vrouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4591_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013192/2022-03-11T01:41:09.655Z>.
+<https://stad.gent/id/concept/570012488/2022-03-11T01:27:07.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012488>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:27:07.974Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding mannen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4693_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012488"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012488/2022-03-11T01:27:07.974Z>.
+<https://stad.gent/id/concept/570024905/2022-02-26T15:54:58.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:54:58.024Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6376_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding kinderen ondergoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6376_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024905/2022-02-26T15:54:58.024Z>.
+<https://stad.gent/id/concept/570024764/2022-02-26T15:49:15.637Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:49:15.637Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6418_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding vrouwen ondergoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6418_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024764/2022-02-26T15:49:15.637Z>.
+<https://stad.gent/id/concept/570024305/2022-02-26T15:29:36.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:36.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6559_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding en accessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570022693>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570022693> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel"@nl.
+_:df_6559_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024305/2022-02-26T15:29:36.945Z>.
+<https://stad.gent/id/concept/570013732/2022-02-26T11:16:12.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:16:12.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8368_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8368_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013732/2022-02-26T11:16:12.226Z>.
+<https://stad.gent/id/concept/570013362/2022-02-26T11:09:04.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:09:04.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8419_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding kinderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8419_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013362/2022-02-26T11:09:04.094Z>.
+<https://stad.gent/id/concept/570013192/2022-02-26T11:05:32.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:05:32.586Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8446_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding vrouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8446_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013192/2022-02-26T11:05:32.586Z>.
+<https://stad.gent/id/concept/570012488/2022-02-26T10:51:31.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012488>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:51:31.233Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8545_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding mannen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8545_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012488"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012488/2022-02-26T10:51:31.233Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kled.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kled.ttl>.

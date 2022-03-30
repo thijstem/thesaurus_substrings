@@ -1,0 +1,235 @@
+<https://stad.gent/id/concept/670000564/2022-03-13T01:32:14.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:32:14.019Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_832_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oliefant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_832_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000564/2022-03-13T01:32:14.019Z>.
+<https://stad.gent/id/concept/670000358/2022-03-13T01:16:27.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:16:27.917Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_943_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieslager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_943_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000358/2022-03-13T01:16:27.917Z>.
+<https://stad.gent/id/concept/670000207/2022-03-13T01:04:56.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:04:56.748Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oliestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1027_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000207/2022-03-13T01:04:56.748Z>.
+<https://stad.gent/id/concept/670000564/2022-03-11T07:27:01.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:27:01.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oliefant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2122_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000564/2022-03-11T07:27:01.613Z>.
+<https://stad.gent/id/concept/670000358/2022-03-11T07:11:13.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:11:13.671Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieslager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2236_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000358/2022-03-11T07:11:13.671Z>.
+<https://stad.gent/id/concept/670000207/2022-03-11T06:59:42.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:59:42.539Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oliestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2317_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000207/2022-03-11T06:59:42.539Z>.
+<https://stad.gent/id/concept/570023539/2022-03-11T05:29:28.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:29:28.819Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2962_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieverlichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2962_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023539/2022-03-11T05:29:28.819Z>.
+<https://stad.gent/id/concept/570023252/2022-03-11T05:20:20.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:20:20.298Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250690>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Olsene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3028_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023252/2022-03-11T05:20:20.298Z>.
+<https://stad.gent/id/concept/570022818/2022-03-11T05:00:24.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:00:24.523Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olievat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3169_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022818/2022-03-11T05:00:24.523Z>.
+<https://stad.gent/id/concept/570019682/2022-03-11T04:28:50.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:28:50.588Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichtbron waarbij licht wordt verkregen door er olie in te verbranden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olielamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3397_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019682/2022-03-11T04:28:50.588Z>.
+<https://stad.gent/id/concept/570016604/2022-03-11T02:59:21.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:59:21.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178684>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het maken van kunstwerken met olieverf. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olie op doek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4033_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016604/2022-03-11T02:59:21.786Z>.
+<https://stad.gent/id/concept/570016595/2022-03-11T02:58:46.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:58:46.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oliepot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4036_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016595/2022-03-11T02:58:46.355Z>.
+<https://stad.gent/id/concept/570016594/2022-03-11T02:58:41.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:58:41.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q297055>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4039_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oliekan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4039_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016594/2022-03-11T02:58:41.352Z>.
+<https://stad.gent/id/concept/570015688/2022-03-11T02:36:37.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:36:37.512Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4195_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oldham"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4195_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015688/2022-03-11T02:36:37.512Z>.
+<https://stad.gent/id/concept/570014719/2022-03-11T02:13:57.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:13:57.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q42962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4357_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieën"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4357_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014719/2022-03-11T02:13:57.924Z>.
+<https://stad.gent/id/concept/570014034/2022-03-11T01:56:45.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:56:45.309Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oliespuit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4480_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014034/2022-03-11T01:56:45.309Z>.
+<https://stad.gent/id/concept/570011553/2022-03-11T01:15:12.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:15:12.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4777_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieverf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4777_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011553/2022-03-11T01:15:12.927Z>.
+<https://stad.gent/id/concept/570009772/2022-03-11T00:48:35.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:48:35.808Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4966_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olieniveauregelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4966_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009772/2022-03-11T00:48:35.808Z>.
+<https://stad.gent/id/concept/570009552/2022-03-11T00:42:07.719Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:42:07.719Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5014_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oliepomp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5014_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009552/2022-03-11T00:42:07.719Z>.
+<https://stad.gent/id/concept/570009255/2022-03-11T00:34:12.892Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:34:12.892Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5071_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "olijfolie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5071_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009255/2022-03-11T00:34:12.892Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ol.ttl> <https://w3id.org/tree#relation> _:df_1_1950.
+_:df_1_1950 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oli.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oli".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ol.ttl> <https://w3id.org/tree#relation> _:df_1_1951.
+_:df_1_1951 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ols.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ols".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ol.ttl> <https://w3id.org/tree#relation> _:df_1_1952.
+_:df_1_1952 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/old.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "old".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ol.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ol.ttl>.

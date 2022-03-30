@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/570009597/2022-03-11T00:43:43.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:43.492Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5002_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen gemaakt door de overdracht van beelden door middel van een drukvorm, zoals een plaat, een blok of een zeef, volgens verschillende druktechnieken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5002_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009597/2022-03-11T00:43:43.492Z>.
+<https://stad.gent/id/concept/570014711/2022-02-26T11:38:11.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:38:11.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8212_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor boeken waarin afbeeldingen een grotere plaats innemen dan tekst, in het bijzonder boeken die voor kinderen of beginnende lezers bedoeld zijn. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prentboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8212_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014711/2022-02-26T11:38:11.174Z>.
+<https://stad.gent/id/concept/570012201/2022-02-26T10:45:57.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:45:57.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8584_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Briefkaarten met een picturale afbeelding aan een kant. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prentkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8584_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012201/2022-02-26T10:45:57.392Z>.
+<https://stad.gent/id/concept/570009597/2022-02-26T10:08:07.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:07.939Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041273>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8854_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen gemaakt door de overdracht van beelden door middel van een drukvorm, zoals een plaat, een blok of een zeef, volgens verschillende druktechnieken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8854_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009597/2022-02-26T10:08:07.939Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pren.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pren.ttl>.

@@ -1,0 +1,34 @@
+<https://stad.gent/id/concept/570019022/2022-03-11T04:01:32.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:01:32.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300189645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stedenbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3592_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019022/2022-03-11T04:01:32.240Z>.
+<https://stad.gent/id/concept/670001298/2022-02-26T17:34:55.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:34:55.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5662_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stedelijke Commissie voor Monumenten en Stadsgezichten (SCMS)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5662_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001298/2022-02-26T17:34:55.829Z>.
+<https://stad.gent/id/concept/570019022/2022-02-26T13:25:34.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:25:34.781Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300189645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7444_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stedenbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7444_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019022/2022-02-26T13:25:34.781Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sted.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sted.ttl>.

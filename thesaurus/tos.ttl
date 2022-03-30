@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570016916/2022-03-11T03:10:49.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:10:49.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q717314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tosti-ijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3952_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016916/2022-03-11T03:10:49.419Z>.
+<https://stad.gent/id/concept/570016916/2022-02-26T12:35:07.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:35:07.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q717314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7804_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tosti-ijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7804_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016916/2022-02-26T12:35:07.400Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tos.ttl>.

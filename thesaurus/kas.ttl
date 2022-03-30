@@ -1,0 +1,265 @@
+<https://stad.gent/id/concept/670000475/2022-03-13T01:25:11.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:25:11.250Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_880_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudenaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_880_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000475/2022-03-13T01:25:11.250Z>.
+<https://stad.gent/id/concept/670000474/2022-03-13T01:25:06.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:25:06.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q18089006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_883_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_883_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000474/2022-03-13T01:25:06.248Z>.
+<https://stad.gent/id/concept/570025046/2022-03-13T00:43:43.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:43:43.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1177_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasterlee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1177_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025046/2022-03-13T00:43:43.031Z>.
+<https://stad.gent/id/concept/670001425/2022-03-11T08:21:05.519Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:21:05.519Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteelbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1738_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001425/2022-03-11T08:21:05.519Z>.
+<https://stad.gent/id/concept/670000951/2022-03-11T07:58:11.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:58:11.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteelkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000951/2022-03-11T07:58:11.339Z>.
+<https://stad.gent/id/concept/670000952/2022-03-11T07:58:16.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:58:16.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteellaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000952/2022-03-11T07:58:16.342Z>.
+<https://stad.gent/id/concept/670000474/2022-03-11T07:19:53.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:19:53.197Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q18089006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2173_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000474/2022-03-11T07:19:53.197Z>.
+<https://stad.gent/id/concept/670000475/2022-03-11T07:19:58.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:19:58.199Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudenaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2173_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000475/2022-03-11T07:19:58.199Z>.
+<https://stad.gent/id/concept/570025046/2022-03-11T06:38:38.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:38:38.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasterlee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_2470_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025046/2022-03-11T06:38:38.263Z>.
+<https://stad.gent/id/concept/570019581/2022-03-11T04:25:44.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:25:44.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264019>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3418_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kantoormachines, gewoonlijk met een geldlade, waarin verkoop- en andere transacties worden vastgelegd, en daarmee samenhangende taken worden verricht zoals totaliseren en het afgeven van gedrukte reçu’s voor klanten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasregister"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3418_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019581/2022-03-11T04:25:44.296Z>.
+<https://stad.gent/id/concept/570017641/2022-03-11T03:34:54.278Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:34:54.278Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3781_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een ruimte omsluit en meestal ongeveer de constructie van een kist of doos heeft en dient voor opslag of vertoning van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3781_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017641/2022-03-11T03:34:54.278Z>.
+<https://stad.gent/id/concept/570016534/2022-03-11T02:57:05.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:57:05.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1032436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4048_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kassel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_4048_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016534/2022-03-11T02:57:05.580Z>.
+<https://stad.gent/id/concept/570010004/2022-03-11T00:53:02.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:53:02.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027493>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4936_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kantoorboeken waarin de eerste aantekening geschiedt van alle contante ontvangsten, van alle contante uitgaven, of van beide. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4936_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010004/2022-03-11T00:53:02.480Z>.
+<https://stad.gent/id/concept/570008657/2022-03-11T00:11:55.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:11:55.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5227_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasteelvijver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5227_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008657/2022-03-11T00:11:55.829Z>.
+<https://stad.gent/id/concept/530005153/2022-03-10T00:00:18.157Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-10T00:00:18.157Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5314_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een ruimte omsluit en meestal ongeveer de constructie van een kist of doos heeft en dient voor opslag of vertoning van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010589>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001636>, <https://stad.gent/id/concept/530003459>, <https://stad.gent/id/concept/530001347>, <https://stad.gent/id/concept/530004029>, <https://stad.gent/id/concept/530006187>, <https://stad.gent/id/concept/530002646>, <https://stad.gent/id/concept/530001831>, <https://stad.gent/id/concept/530005886>, <https://stad.gent/id/concept/530010638>, <https://stad.gent/id/concept/530001605>, <https://stad.gent/id/concept/530000693>, <https://stad.gent/id/concept/530006182>, <https://stad.gent/id/concept/530004357>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004357> <http://www.w3.org/2004/02/skos/core#prefLabel> "wastafel (sanitair)"@nl.
+<https://stad.gent/id/concept/530006182> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandkast"@nl.
+<https://stad.gent/id/concept/530000693> <http://www.w3.org/2004/02/skos/core#prefLabel> "vitrinekast"@nl.
+<https://stad.gent/id/concept/530001605> <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl.
+<https://stad.gent/id/concept/530010638> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelkast"@nl.
+<https://stad.gent/id/concept/530005886> <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegelkast"@nl.
+<https://stad.gent/id/concept/530001831> <http://www.w3.org/2004/02/skos/core#prefLabel> "linnenkast"@nl.
+<https://stad.gent/id/concept/530002646> <http://www.w3.org/2004/02/skos/core#prefLabel> "ladekast"@nl.
+<https://stad.gent/id/concept/530006187> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleerkast"@nl.
+<https://stad.gent/id/concept/530004029> <http://www.w3.org/2004/02/skos/core#prefLabel> "kabinet"@nl.
+<https://stad.gent/id/concept/530001347> <http://www.w3.org/2004/02/skos/core#prefLabel> "dressoir"@nl.
+<https://stad.gent/id/concept/530003459> <http://www.w3.org/2004/02/skos/core#prefLabel> "brandkast"@nl.
+<https://stad.gent/id/concept/530001636> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekenkast"@nl.
+<https://stad.gent/id/concept/530010589> <http://www.w3.org/2004/02/skos/core#prefLabel> "bergmeubel"@nl.
+_:df_5314_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005153/2022-03-10T00:00:18.157Z>.
+<https://stad.gent/id/concept/670001425/2022-02-26T17:45:15.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:45:15.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5587_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteelbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5587_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001425/2022-02-26T17:45:15.156Z>.
+<https://stad.gent/id/concept/670000951/2022-02-26T17:22:00.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:22:00.818Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5755_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteelkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5755_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000951/2022-02-26T17:22:00.818Z>.
+<https://stad.gent/id/concept/670000952/2022-02-26T17:22:05.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:22:05.821Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5755_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasteellaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5755_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000952/2022-02-26T17:22:05.821Z>.
+<https://stad.gent/id/concept/670000474/2022-02-26T16:43:45.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:43:45.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q18089006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6028_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6028_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000474/2022-02-26T16:43:45.825Z>.
+<https://stad.gent/id/concept/670000475/2022-02-26T16:43:50.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:43:50.827Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6028_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasselrij van Oudenaarde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6028_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000475/2022-02-26T16:43:50.827Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl> <https://w3id.org/tree#relation> _:df_1_2190.
+_:df_1_2190 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kast.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kast".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl> <https://w3id.org/tree#relation> _:df_1_2191.
+_:df_1_2191 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kasr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kasr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl> <https://w3id.org/tree#relation> _:df_1_2192.
+_:df_1_2192 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kass.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kass".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl> <https://w3id.org/tree#relation> _:df_1_2193.
+_:df_1_2193 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kasb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kasb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kas.ttl>.

@@ -1,0 +1,13 @@
+<https://stad.gent/id/concept/670000496/2022-02-26T16:45:31.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:45:31.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6016_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Admirael alias den Dronkaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6016_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000496/2022-02-26T16:45:31.339Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/adm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/adm.ttl>.

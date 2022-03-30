@@ -1,0 +1,158 @@
+<https://stad.gent/id/concept/570023783/2022-03-11T05:40:38.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:40:38.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2884_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sanitaire voorziening,waar men zijn of haar behoeften op kan doen. Bestaande meestal uit een bak met toiletzitting die met water gespoeld wordt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2884_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023783/2022-03-11T05:40:38.613Z>.
+<https://stad.gent/id/concept/570023148/2022-03-11T05:13:57.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:13:57.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3073_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3073_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023148/2022-03-11T05:13:57.777Z>.
+<https://stad.gent/id/concept/570022975/2022-03-11T05:06:22.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:22.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079057>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletrolhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3127_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022975/2022-03-11T05:06:22.219Z>.
+<https://stad.gent/id/concept/570019217/2022-03-11T04:09:00.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:09:00.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3538_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dozen die uitgerust zijn met laden, opbergbakjes of van elkaar afgescheiden gedeelten en meestal een spiegel; bedoeld voor toiletartikelen en soms schrijfmaterialen, met name voor op reis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3538_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019217/2022-03-11T04:09:00.412Z>.
+<https://stad.gent/id/concept/570018899/2022-03-11T03:54:29.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:54:29.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3640_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018899/2022-03-11T03:54:29.780Z>.
+<https://stad.gent/id/concept/570018860/2022-03-11T03:52:28.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:52:28.926Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3655_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3655_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018860/2022-03-11T03:52:28.926Z>.
+<https://stad.gent/id/concept/570014597/2022-03-11T02:09:46.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:09:46.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1277559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4387_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilettas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4387_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014597/2022-03-11T02:09:46.242Z>.
+<https://stad.gent/id/concept/570023783/2022-02-26T15:04:39.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:04:39.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6736_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sanitaire voorziening,waar men zijn of haar behoeften op kan doen. Bestaande meestal uit een bak met toiletzitting die met water gespoeld wordt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6736_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023783/2022-02-26T15:04:39.232Z>.
+<https://stad.gent/id/concept/570023148/2022-02-26T14:37:56.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:37:56.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6928_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6928_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023148/2022-02-26T14:37:56.220Z>.
+<https://stad.gent/id/concept/570022975/2022-02-26T14:30:23.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:30:23.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079057>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6982_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletrolhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6982_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022975/2022-02-26T14:30:23.036Z>.
+<https://stad.gent/id/concept/570019217/2022-02-26T13:33:02.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:33:02.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7390_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dozen die uitgerust zijn met laden, opbergbakjes of van elkaar afgescheiden gedeelten en meestal een spiegel; bedoeld voor toiletartikelen en soms schrijfmaterialen, met name voor op reis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7390_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019217/2022-02-26T13:33:02.702Z>.
+<https://stad.gent/id/concept/570018899/2022-02-26T13:18:31.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:31.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7495_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7495_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018899/2022-02-26T13:18:31.626Z>.
+<https://stad.gent/id/concept/570018860/2022-02-26T13:16:30.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:16:30.448Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7510_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7510_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018860/2022-02-26T13:16:30.448Z>.
+<https://stad.gent/id/concept/570014597/2022-02-26T11:34:09.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:34:09.714Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1277559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8239_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilettas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8239_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014597/2022-02-26T11:34:09.714Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/toi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/toi.ttl>.

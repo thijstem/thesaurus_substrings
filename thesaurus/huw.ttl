@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/570015476/2022-03-11T02:32:25.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:32:25.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300310119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4225_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huwelijksaankondiging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4225_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015476/2022-03-11T02:32:25.297Z>.
+<https://stad.gent/id/concept/570008794/2022-03-11T00:16:34.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:16:34.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5194_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5194_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008794/2022-03-11T00:16:34.359Z>.
+<https://stad.gent/id/concept/570015476/2022-02-26T11:56:43.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:56:43.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300310119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8080_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huwelijksaankondiging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8080_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015476"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015476/2022-02-26T11:56:43.459Z>.
+<https://stad.gent/id/concept/570008794/2022-02-26T09:41:05.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:05.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9049_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9049_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008794/2022-02-26T09:41:05.587Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/huw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/huw.ttl>.

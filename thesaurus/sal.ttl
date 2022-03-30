@@ -1,0 +1,150 @@
+<https://stad.gent/id/concept/670000587/2022-03-11T07:28:57.173Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:28:57.173Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salletschool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2110_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000587/2022-03-11T07:28:57.173Z>.
+<https://stad.gent/id/concept/670000410/2022-03-11T07:14:41.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:14:41.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salpeterfabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2212_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000410/2022-03-11T07:14:41.227Z>.
+<https://stad.gent/id/concept/570019499/2022-03-11T04:22:21.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:22:21.535Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300174509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3442_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, verplaatsbare tafels die soms een porseleinen of marmeren tafelblad hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salontafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3442_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019499/2022-03-11T04:22:21.535Z>.
+<https://stad.gent/id/concept/570017004/2022-03-11T03:15:33.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:15:33.721Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300435035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3919_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salade vork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3919_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017004/2022-03-11T03:15:33.721Z>.
+<https://stad.gent/id/concept/570016812/2022-03-11T03:07:01.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:07:01.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3979_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salzburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_3979_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016812/2022-03-11T03:07:01.538Z>.
+<https://stad.gent/id/concept/570014009/2022-03-11T01:56:15.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:56:15.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4483_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salfords (Surrey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4483_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014009/2022-03-11T01:56:15.295Z>.
+<https://stad.gent/id/concept/670001658/2022-02-26T18:04:42.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:04:42.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5449_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saliestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5449_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001658/2022-02-26T18:04:42.405Z>.
+<https://stad.gent/id/concept/670000587/2022-02-26T16:52:49.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:52:49.201Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5962_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salletschool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5962_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000587/2022-02-26T16:52:49.201Z>.
+<https://stad.gent/id/concept/670000410/2022-02-26T16:38:32.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:38:32.791Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6064_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salpeterfabrikant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6064_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000410/2022-02-26T16:38:32.791Z>.
+<https://stad.gent/id/concept/570019499/2022-02-26T13:46:23.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:46:23.075Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300174509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7294_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, verplaatsbare tafels die soms een porseleinen of marmeren tafelblad hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salontafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7294_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019499/2022-02-26T13:46:23.075Z>.
+<https://stad.gent/id/concept/570017004/2022-02-26T12:39:49.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:39:49.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300435035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7771_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "salade vork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7771_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017004/2022-02-26T12:39:49.428Z>.
+<https://stad.gent/id/concept/570016812/2022-02-26T12:31:21.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:31:21.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7831_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salzburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004793>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_7831_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016812/2022-02-26T12:31:21.033Z>.
+<https://stad.gent/id/concept/570014009/2022-02-26T11:20:39.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:20:39.066Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8338_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salfords (Surrey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_8338_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014009/2022-02-26T11:20:39.066Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sal.ttl>.

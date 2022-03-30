@@ -1,0 +1,224 @@
+<https://stad.gent/id/concept/570024968/2022-03-13T00:39:41.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:39:41.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1144661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attractie (kermis)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1207_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024968/2022-03-13T00:39:41.359Z>.
+<https://stad.gent/id/concept/570024742/2022-03-13T00:29:06.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:29:06.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1282_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atherton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1282_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024742/2022-03-13T00:29:06.353Z>.
+<https://stad.gent/id/concept/570024968/2022-03-11T06:34:36.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:34:36.549Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1144661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attractie (kermis)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2497_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024968/2022-03-11T06:34:36.549Z>.
+<https://stad.gent/id/concept/570024742/2022-03-11T06:24:00.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:24:00.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2572_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atherton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_2572_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024742/2022-03-11T06:24:00.802Z>.
+<https://stad.gent/id/concept/570023856/2022-03-11T05:43:24.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:43:24.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7020033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Athol, Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_2863_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023856/2022-03-11T05:43:24.925Z>.
+<https://stad.gent/id/concept/570023835/2022-03-11T05:42:59.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:42:59.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1062751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2866_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Åtvidaberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_2866_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023835/2022-03-11T05:42:59.483Z>.
+<https://stad.gent/id/concept/570017725/2022-03-11T03:39:02.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:39:02.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3751_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_3751_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017725/2022-03-11T03:39:02.415Z>.
+<https://stad.gent/id/concept/570017255/2022-03-11T03:20:34.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:20:34.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3883_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten waarin door een gezaghebbend persoon of lichaam een getuigenis wordt gegeven van een feit, van een belofte of van iemands bekwaamheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3883_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017255/2022-03-11T03:20:34.365Z>.
+<https://stad.gent/id/concept/570015646/2022-03-11T02:35:31.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:35:31.432Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013331>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4204_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlanta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_4204_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015646/2022-03-11T02:35:31.432Z>.
+<https://stad.gent/id/concept/570008799/2022-03-11T00:16:49.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:16:49.366Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5194_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "atelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5194_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008799/2022-03-11T00:16:49.366Z>.
+<https://stad.gent/id/concept/570024968/2022-02-26T15:58:34.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:58:34.619Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1144661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6352_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attractie (kermis)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6352_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024968/2022-02-26T15:58:34.619Z>.
+<https://stad.gent/id/concept/570024742/2022-02-26T15:48:00.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:48:00.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1028358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6427_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atherton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_6427_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024742/2022-02-26T15:48:00.283Z>.
+<https://stad.gent/id/concept/570023856/2022-02-26T15:07:25.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:07:25.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7020033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6715_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Athol, Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_6715_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023856/2022-02-26T15:07:25.806Z>.
+<https://stad.gent/id/concept/570023835/2022-02-26T15:07:00.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:07:00.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1062751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6718_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Åtvidaberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020784>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_6718_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023835/2022-02-26T15:07:00.473Z>.
+<https://stad.gent/id/concept/570017725/2022-02-26T13:03:03.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:03:03.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007858>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7606_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_7606_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017725/2022-02-26T13:03:03.647Z>.
+<https://stad.gent/id/concept/570017255/2022-02-26T12:44:46.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:46.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7735_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Documenten waarin door een gezaghebbend persoon of lichaam een getuigenis wordt gegeven van een feit, van een belofte of van iemands bekwaamheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "attest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7735_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017255"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017255/2022-02-26T12:44:46.324Z>.
+<https://stad.gent/id/concept/570015646/2022-02-26T11:59:49.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:59:49.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013331>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8056_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlanta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_8056_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015646/2022-02-26T11:59:49.856Z>.
+<https://stad.gent/id/concept/570008799/2022-02-26T09:41:20.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:20.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9046_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "atelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9046_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008799/2022-02-26T09:41:20.594Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/at.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/at.ttl>.

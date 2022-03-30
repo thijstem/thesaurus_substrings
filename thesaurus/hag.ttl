@@ -1,0 +1,50 @@
+<https://stad.gent/id/concept/670000927/2022-03-11T07:56:10.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:56:10.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2747>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hagelandkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1915_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000927/2022-03-11T07:56:10.780Z>.
+<https://stad.gent/id/concept/570015548/2022-03-11T02:33:45.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:33:45.846Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7177645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4216_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4216_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015548/2022-03-11T02:33:45.846Z>.
+<https://stad.gent/id/concept/670000927/2022-02-26T17:20:00.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000927>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:20:00.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2747>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5770_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hagelandkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5770_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000927"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000927/2022-02-26T17:20:00.018Z>.
+<https://stad.gent/id/concept/570015548/2022-02-26T11:58:04.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:58:04.180Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7177645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8068_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_8068_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015548/2022-02-26T11:58:04.180Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hag.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hag.ttl>.

@@ -1,0 +1,146 @@
+<https://stad.gent/id/concept/570023719/2022-03-11T05:37:02.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:37:02.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dikte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2908_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023719/2022-03-11T05:37:02.174Z>.
+<https://stad.gent/id/concept/570023703/2022-03-11T05:35:56.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:35:56.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2917_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die meestal bestaan uit een stel verstelbare, draaiende armen en die worden gebruikt voor het meten van bijvoorbeeld diktes of diameters. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diktepasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2917_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023703/2022-03-11T05:35:56.827Z>.
+<https://stad.gent/id/concept/570023007/2022-03-11T05:08:05.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:08:05.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3115_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkelvenne (Gavere)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_3115_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023007/2022-03-11T05:08:05.246Z>.
+<https://stad.gent/id/concept/570018834/2022-03-11T03:51:13.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:51:13.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026396>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diksmuide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3664_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018834/2022-03-11T03:51:13.239Z>.
+<https://stad.gent/id/concept/570016858/2022-03-11T03:08:21.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:08:21.934Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3970_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diktemeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3970_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016858/2022-03-11T03:08:21.934Z>.
+<https://stad.gent/id/concept/570016060/2022-03-11T02:44:05.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:44:05.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkele (Zwalm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_4141_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016060/2022-03-11T02:44:05.319Z>.
+<https://stad.gent/id/concept/570023719/2022-02-26T15:01:02.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:01:02.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6763_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dikte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6763_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023719/2022-02-26T15:01:02.680Z>.
+<https://stad.gent/id/concept/570023703/2022-02-26T14:59:57.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:59:57.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6769_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die meestal bestaan uit een stel verstelbare, draaiende armen en die worden gebruikt voor het meten van bijvoorbeeld diktes of diameters. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diktepasser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6769_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023703/2022-02-26T14:59:57.384Z>.
+<https://stad.gent/id/concept/570023007/2022-02-26T14:32:03.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:32:03.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246626>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6970_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkelvenne (Gavere)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_6970_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023007/2022-02-26T14:32:03.743Z>.
+<https://stad.gent/id/concept/570018834/2022-02-26T13:15:15.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:15:15.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026396>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7519_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diksmuide"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_7519_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018834/2022-02-26T13:15:15.138Z>.
+<https://stad.gent/id/concept/570016858/2022-02-26T12:32:41.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:32:41.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7822_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "diktemeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7822_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016858/2022-02-26T12:32:41.357Z>.
+<https://stad.gent/id/concept/570016060/2022-02-26T12:08:23.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:08:23.078Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7996_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dikkele (Zwalm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_7996_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016060/2022-02-26T12:08:23.078Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/dik.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/dik.ttl>.

@@ -1,0 +1,233 @@
+<https://stad.gent/id/concept/570024926/2022-03-13T00:37:14.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:14.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Macharius - Heirnis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_1222_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024926/2022-03-13T00:37:14.844Z>.
+<https://stad.gent/id/concept/570024751/2022-03-13T00:29:31.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:29:31.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines nabewerking spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024751/2022-03-13T00:29:31.362Z>.
+<https://stad.gent/id/concept/570024727/2022-03-13T00:28:30.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:28:30.932Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines voorbereiding spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1285_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024727/2022-03-13T00:28:30.932Z>.
+<https://stad.gent/id/concept/570024729/2022-03-13T00:28:40.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:28:40.938Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines voorbereiding weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1285_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024729/2022-03-13T00:28:40.938Z>.
+<https://stad.gent/id/concept/570024658/2022-03-13T00:25:29.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:25:29.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q839546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1306_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machineonderdeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1306_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024658/2022-03-13T00:25:29.972Z>.
+<https://stad.gent/id/concept/570024638/2022-03-13T00:24:38.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:24:38.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006408>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinewerkplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1312_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024638/2022-03-13T00:24:38.433Z>.
+<https://stad.gent/id/concept/570024926/2022-03-11T06:32:09.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:09.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Macharius - Heirnis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2515_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024926/2022-03-11T06:32:09.229Z>.
+<https://stad.gent/id/concept/570024751/2022-03-11T06:24:26.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:24:26.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2569_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines nabewerking spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2569_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024751/2022-03-11T06:24:26.077Z>.
+<https://stad.gent/id/concept/570024729/2022-03-11T06:23:35.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:23:35.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2575_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines voorbereiding weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2575_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024729/2022-03-11T06:23:35.792Z>.
+<https://stad.gent/id/concept/570024727/2022-03-11T06:23:25.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:23:25.407Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machines voorbereiding spinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2578_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024727/2022-03-11T06:23:25.407Z>.
+<https://stad.gent/id/concept/570024658/2022-03-11T06:20:24.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:20:24.584Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q839546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2599_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machineonderdeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2599_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024658/2022-03-11T06:20:24.584Z>.
+<https://stad.gent/id/concept/570024638/2022-03-11T06:19:34.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:19:34.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006408>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2605_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinewerkplaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2605_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024638/2022-03-11T06:19:34.006Z>.
+<https://stad.gent/id/concept/570024089/2022-03-11T05:53:45.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:53:45.191Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinaal weven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2788_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024089/2022-03-11T05:53:45.191Z>.
+<https://stad.gent/id/concept/570023003/2022-03-11T05:07:52.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:07:52.543Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1034184>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Machault (Ardennes)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3118_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023003/2022-03-11T05:07:52.543Z>.
+<https://stad.gent/id/concept/570019710/2022-03-11T04:29:21.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:29:21.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3391_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinegeweer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3391_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019710/2022-03-11T04:29:21.068Z>.
+<https://stad.gent/id/concept/570017623/2022-03-11T03:34:13.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:34:13.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257450>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3787_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3787_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017623/2022-03-11T03:34:13.402Z>.
+<https://stad.gent/id/concept/570015878/2022-03-11T02:39:23.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:39:23.377Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinezaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015878/2022-03-11T02:39:23.377Z>.
+<https://stad.gent/id/concept/570010190/2022-03-11T00:59:30.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:59:30.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4888_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "macaron passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4888_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010190/2022-03-11T00:59:30.102Z>.
+<https://stad.gent/id/concept/570009652/2022-03-11T00:45:24.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:45:24.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300167846>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4990_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4990_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009652/2022-03-11T00:45:24.148Z>.
+<https://stad.gent/id/concept/570008755/2022-03-11T00:15:33.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:15:33.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411419>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5203_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimten in boten of fabrieken waar de machines zijn opgesteld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "machinekamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5203_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008755/2022-03-11T00:15:33.681Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mac.ttl> <https://w3id.org/tree#relation> _:df_1_2194.
+_:df_1_2194 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/mach.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "mach".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mac.ttl> <https://w3id.org/tree#relation> _:df_1_2195.
+_:df_1_2195 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/maca.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "maca".
+<https://thijstem.github.io/substrings_coghent/thesaurus/mac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mac.ttl>.

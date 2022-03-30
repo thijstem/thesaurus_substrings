@@ -1,0 +1,92 @@
+<https://stad.gent/id/concept/570023875/2022-03-11T05:43:54.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:43:54.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007517>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2860_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023876>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tewksbury"@nl.
+_:df_2860_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Massachusetts"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023875/2022-03-11T05:43:54.941Z>.
+<https://stad.gent/id/concept/570023717/2022-03-11T05:36:52.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:36:52.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "masker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2911_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023717/2022-03-11T05:36:52.168Z>.
+<https://stad.gent/id/concept/570018906/2022-03-11T03:54:44.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:54:44.785Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "massagetoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3640_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018906/2022-03-11T03:54:44.785Z>.
+<https://stad.gent/id/concept/570016902/2022-03-11T03:09:53.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:09:53.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3958_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "massagebad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3958_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016902/2022-03-11T03:09:53.717Z>.
+<https://stad.gent/id/concept/570023875/2022-02-26T15:07:55.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:07:55.817Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007517>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6712_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023876>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tewksbury"@nl.
+_:df_6712_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Massachusetts"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023875/2022-02-26T15:07:55.817Z>.
+<https://stad.gent/id/concept/570023717/2022-02-26T15:00:52.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:00:52.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6763_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "masker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6763_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023717/2022-02-26T15:00:52.676Z>.
+<https://stad.gent/id/concept/570018906/2022-02-26T13:18:46.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:46.632Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7492_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "massagetoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7492_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018906/2022-02-26T13:18:46.632Z>.
+<https://stad.gent/id/concept/570016902/2022-02-26T12:34:12.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:34:12.057Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7810_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "massagebad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7810_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016902/2022-02-26T12:34:12.057Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mas.ttl>.

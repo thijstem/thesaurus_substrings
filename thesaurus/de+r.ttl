@@ -1,0 +1,13 @@
+<https://stad.gent/id/concept/670001356/2022-02-26T17:39:32.762Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:39:32.762Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Ram"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5629_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001356/2022-02-26T17:39:32.762Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/de+r.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/de+r.ttl>.

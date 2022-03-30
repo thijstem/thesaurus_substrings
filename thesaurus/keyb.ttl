@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570018950/2022-03-11T03:57:35.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:57:35.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3619_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keyboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3619_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018950/2022-03-11T03:57:35.984Z>.
+<https://stad.gent/id/concept/570018950/2022-02-26T13:21:38.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:21:38.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7471_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keyboard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7471_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018950/2022-02-26T13:21:38.263Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/keyb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/keyb.ttl>.

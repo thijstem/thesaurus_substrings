@@ -1,0 +1,22 @@
+<https://stad.gent/id/concept/670001258/2022-02-26T17:31:49.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:31:49.689Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5683_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5683_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001258/2022-02-26T17:31:49.689Z>.
+<https://stad.gent/id/concept/570015364/2022-02-26T11:55:02.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:55:02.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036936>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8092_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8092_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015364/2022-02-26T11:55:02.741Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kano.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kano.ttl>.

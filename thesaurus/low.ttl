@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570023936/2022-03-11T05:46:05.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:46:05.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013915>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2845_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lowell, Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_2845_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023936/2022-03-11T05:46:05.865Z>.
+<https://stad.gent/id/concept/570023936/2022-02-26T15:10:06.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:10:06.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013915>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6697_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lowell, Massachusetts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_6697_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023936/2022-02-26T15:10:06.957Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/low.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/low.ttl>.

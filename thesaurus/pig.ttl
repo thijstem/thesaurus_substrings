@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570023144/2022-02-26T14:37:51.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:37:51.218Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6928_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pigment en kleurstoffenproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6928_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023144/2022-02-26T14:37:51.218Z>.
+<https://stad.gent/id/concept/570012938/2022-02-26T10:59:15.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:59:15.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8491_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pigment"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8491_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012938/2022-02-26T10:59:15.210Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pig.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pig.ttl>.

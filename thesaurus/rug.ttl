@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570024703/2022-02-26T15:46:14.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:46:14.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046216>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6439_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rugzak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6439_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024703/2022-02-26T15:46:14.403Z>.
+<https://stad.gent/id/concept/570023569/2022-02-26T14:54:19.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:54:19.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1030472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6811_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rugby"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6811_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023569/2022-02-26T14:54:19.576Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/rug.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/rug.ttl>.

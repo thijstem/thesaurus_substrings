@@ -1,0 +1,53 @@
+<https://stad.gent/id/concept/570019071/2022-03-11T04:04:08.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:04:08.628Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3571_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tussenspilbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3571_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019071/2022-03-11T04:04:08.628Z>.
+<https://stad.gent/id/concept/670000791/2022-02-26T17:09:10.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:09:10.777Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5845_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tussen beide Muidepoorten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5845_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000791/2022-02-26T17:09:10.777Z>.
+<https://stad.gent/id/concept/670000792/2022-02-26T17:09:15.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:09:15.778Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5845_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tussen het Pas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5845_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000792/2022-02-26T17:09:15.778Z>.
+<https://stad.gent/id/concept/670000793/2022-02-26T17:09:20.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:09:20.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5845_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tussen 't Pas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5845_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000793/2022-02-26T17:09:20.780Z>.
+<https://stad.gent/id/concept/570019071/2022-02-26T13:28:10.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:28:10.823Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7426_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tussenspilbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7426_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019071/2022-02-26T13:28:10.823Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tus.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tus.ttl>.

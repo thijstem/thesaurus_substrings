@@ -1,0 +1,133 @@
+<https://stad.gent/id/concept/570024758/2022-03-13T00:29:56.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:29:56.706Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1276_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1276_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024758/2022-03-13T00:29:56.706Z>.
+<https://stad.gent/id/concept/570024758/2022-03-11T06:24:51.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:24:51.085Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2566_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024758/2022-03-11T06:24:51.085Z>.
+<https://stad.gent/id/concept/570018189/2022-03-11T03:49:07.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:49:07.375Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3679_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_3679_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018189/2022-03-11T03:49:07.375Z>.
+<https://stad.gent/id/concept/570018046/2022-03-11T03:46:05.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:46:05.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstwerken die de kunstenaar ter goedkeuring overlegt aan een academie, als onderdeel van de toelatingseisen voor lidmaatschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3700_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018046/2022-03-11T03:46:05.497Z>.
+<https://stad.gent/id/concept/570017550/2022-03-11T03:31:35.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:31:35.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q88399897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3805_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefbuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3805_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017550/2022-03-11T03:31:35.925Z>.
+<https://stad.gent/id/concept/570014617/2022-03-11T02:10:26.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:10:26.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4381_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefbuisbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4381_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014617/2022-03-11T02:10:26.571Z>.
+<https://stad.gent/id/concept/570024758/2022-02-26T15:48:50.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:48:50.631Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6421_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6421_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024758/2022-02-26T15:48:50.631Z>.
+<https://stad.gent/id/concept/570018189/2022-02-26T13:13:09.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:13:09.230Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7534_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_7534_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018189/2022-02-26T13:13:09.230Z>.
+<https://stad.gent/id/concept/570018046/2022-02-26T13:10:08.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:10:08.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7555_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstwerken die de kunstenaar ter goedkeuring overlegt aan een academie, als onderdeel van de toelatingseisen voor lidmaatschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7555_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018046/2022-02-26T13:10:08.224Z>.
+<https://stad.gent/id/concept/570017550/2022-02-26T12:55:40.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:55:40.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q88399897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7657_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefbuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7657_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017550/2022-02-26T12:55:40.744Z>.
+<https://stad.gent/id/concept/570014617/2022-02-26T11:34:49.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:34:49.730Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8236_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefbuisbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8236_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014617/2022-02-26T11:34:49.730Z>.
+<https://stad.gent/id/concept/570000344/2022-02-26T08:52:49.470Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:52:49.470Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9394_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefschrift"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9394_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000344/2022-02-26T08:52:49.470Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/proe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/proe.ttl>.

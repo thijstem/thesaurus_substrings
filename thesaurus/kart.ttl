@@ -1,0 +1,66 @@
+<https://stad.gent/id/concept/670000155/2022-02-26T16:19:13.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:19:13.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6202_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kartuizerlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6202_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000155/2022-02-26T16:19:13.703Z>.
+<https://stad.gent/id/concept/570024899/2022-02-26T15:54:53.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:54:53.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6376_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kartonborden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6376_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024899/2022-02-26T15:54:53.023Z>.
+<https://stad.gent/id/concept/570024678/2022-02-26T15:45:19.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:45:19.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q76362939>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6445_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kartonfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6445_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024678/2022-02-26T15:45:19.089Z>.
+<https://stad.gent/id/concept/570024504/2022-02-26T15:41:02.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:41:02.232Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6475_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kartonpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6475_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024504/2022-02-26T15:41:02.232Z>.
+<https://stad.gent/id/concept/570023483/2022-02-26T14:51:28.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:51:28.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6829_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "productie van kartonnen dozen en borden";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kartonnage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6829_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023483/2022-02-26T14:51:28.479Z>.
+<https://stad.gent/id/concept/570018969/2022-02-26T13:22:43.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:22:43.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7465_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "karton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7465_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018969/2022-02-26T13:22:43.786Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kart.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kart.ttl>.

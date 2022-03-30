@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570009587/2022-03-11T00:43:18.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:18.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q890857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5005_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5005_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009587/2022-03-11T00:43:18.481Z>.
+<https://stad.gent/id/concept/570011205/2022-02-26T10:36:13.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:36:13.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4851728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8653_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "was met terpentijn vermengd, om meubels te boenen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenwas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8653_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011205/2022-02-26T10:36:13.546Z>.
+<https://stad.gent/id/concept/570009587/2022-02-26T10:07:42.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:42.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q890857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8857_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8857_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009587/2022-02-26T10:07:42.927Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/boen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/boen.ttl>.

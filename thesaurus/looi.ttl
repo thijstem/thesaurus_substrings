@@ -1,0 +1,13 @@
+<https://stad.gent/id/concept/570009753/2022-02-26T10:12:29.502Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:12:29.502Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8824_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "looierij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8824_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009753/2022-02-26T10:12:29.502Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/looi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/looi.ttl>.

@@ -1,0 +1,280 @@
+<https://stad.gent/id/concept/670000290/2022-03-13T01:11:29.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:11:29.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_979_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneesheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_979_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000290/2022-03-13T01:11:29.873Z>.
+<https://stad.gent/id/concept/670000042/2022-03-13T00:51:17.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:51:17.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1296>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1123_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000042/2022-03-13T00:51:17.574Z>.
+<https://stad.gent/id/concept/570024934/2022-03-13T00:37:54.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:37:54.861Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gentse Kanaaldorpen en -zone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570017529>, <https://stad.gent/id/concept/570019895>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaffelare"@nl.
+<https://stad.gent/id/concept/570017529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desteldonk"@nl.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_1219_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024934/2022-03-13T00:37:54.861Z>.
+<https://stad.gent/id/concept/570024130/2022-03-13T00:01:28.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:01:28.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024606>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1480_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "generatoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1480_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024130/2022-03-13T00:01:28.281Z>.
+<https://stad.gent/id/concept/670000290/2022-03-11T07:06:16.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:06:16.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneesheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2272_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000290/2022-03-11T07:06:16.109Z>.
+<https://stad.gent/id/concept/670000042/2022-03-11T06:46:11.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:46:11.153Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1296>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2416_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2416_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000042/2022-03-11T06:46:11.153Z>.
+<https://stad.gent/id/concept/570024934/2022-03-11T06:32:49.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:32:49.528Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gentse Kanaaldorpen en -zone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570017529>, <https://stad.gent/id/concept/570019895>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaffelare"@nl.
+<https://stad.gent/id/concept/570017529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desteldonk"@nl.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2509_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024934/2022-03-11T06:32:49.528Z>.
+<https://stad.gent/id/concept/570024130/2022-03-11T05:56:21.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:56:21.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024606>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2770_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "generatoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2770_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024130/2022-03-11T05:56:21.231Z>.
+<https://stad.gent/id/concept/570022911/2022-03-11T05:03:25.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:03:25.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Genua"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3148_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022911/2022-03-11T05:03:25.785Z>.
+<https://stad.gent/id/concept/570020581/2022-03-11T04:46:38.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:46:38.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Genk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_3268_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020581/2022-03-11T04:46:38.073Z>.
+<https://stad.gent/id/concept/570019107/2022-03-11T04:04:58.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:04:58.980Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gender"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3565_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019107/2022-03-11T04:04:58.980Z>.
+<https://stad.gent/id/concept/570017445/2022-03-11T03:27:47.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:27:47.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026444>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Genval, België"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_3832_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017445/2022-03-11T03:27:47.297Z>.
+<https://stad.gent/id/concept/570014075/2022-03-11T01:58:00.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:58:00.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2425969>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4471_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gentse Feesten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4471_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014075/2022-03-11T01:58:00.841Z>.
+<https://stad.gent/id/concept/570013796/2022-03-11T01:52:43.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:52:43.713Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4510_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Genova"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4510_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013796/2022-03-11T01:52:43.713Z>.
+<https://stad.gent/id/concept/570012050/2022-03-11T01:19:54.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:19:54.959Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4744_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneesmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4744_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012050/2022-03-11T01:19:54.959Z>.
+<https://stad.gent/id/concept/570009093/2022-03-11T00:27:12.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:27:12.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054518>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5119_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneeskunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5119_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009093/2022-03-11T00:27:12.178Z>.
+<https://stad.gent/id/concept/670000290/2022-02-26T16:30:09.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:30:09.259Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6124_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geneesheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6124_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000290/2022-02-26T16:30:09.259Z>.
+<https://stad.gent/id/concept/670000042/2022-02-26T16:10:00.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:10:00.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1296>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6268_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6268_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000042/2022-02-26T16:10:00.162Z>.
+<https://stad.gent/id/concept/570024934/2022-02-26T15:56:48.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:56:48.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6364_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gentse Kanaaldorpen en -zone"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570017529>, <https://stad.gent/id/concept/570019895>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaffelare"@nl.
+<https://stad.gent/id/concept/570017529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desteldonk"@nl.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_6364_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024934/2022-02-26T15:56:48.849Z>.
+<https://stad.gent/id/concept/570024130/2022-02-26T15:20:21.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:20:21.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024606>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6625_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "generatoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6625_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024130/2022-02-26T15:20:21.557Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2247.
+_:df_1_2247 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/genu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "genu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2248.
+_:df_1_2248 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/genk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "genk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2249.
+_:df_1_2249 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gend.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gend".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2250.
+_:df_1_2250 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/genv.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "genv".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2251.
+_:df_1_2251 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gent.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gent".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2252.
+_:df_1_2252 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/geno.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "geno".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> <https://w3id.org/tree#relation> _:df_1_2253.
+_:df_1_2253 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gene.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gene".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gen.ttl>.

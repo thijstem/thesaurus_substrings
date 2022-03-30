@@ -1,0 +1,264 @@
+<https://stad.gent/id/concept/670001649/2022-03-13T02:45:18.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:45:18.128Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_310_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_310_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001649/2022-03-13T02:45:18.128Z>.
+<https://stad.gent/id/concept/670000728/2022-03-13T01:45:19.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:45:19.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_736_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenlei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_736_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000728/2022-03-13T01:45:19.392Z>.
+<https://stad.gent/id/concept/670000727/2022-03-13T01:45:14.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:45:14.390Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_739_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_739_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000727/2022-03-13T01:45:14.390Z>.
+<https://stad.gent/id/concept/670000574/2022-03-13T01:33:04.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:33:04.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_826_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predickheeren Faudt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_826_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000574/2022-03-13T01:33:04.341Z>.
+<https://stad.gent/id/concept/670000487/2022-03-13T01:26:06.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:26:06.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_874_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "premier baron chretien de France"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_874_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000487/2022-03-13T01:26:06.580Z>.
+<https://stad.gent/id/concept/670000390/2022-03-13T01:18:28.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:18:28.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237368>;
+    <http://www.w3.org/ns/adms#identifier> _:df_928_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prelaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_928_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000390/2022-03-13T01:18:28.841Z>.
+<https://stad.gent/id/concept/570024916/2022-03-13T00:36:29.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:36:29.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1425942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "premetro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1228_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024916/2022-03-13T00:36:29.455Z>.
+<https://stad.gent/id/concept/570024433/2022-03-13T00:17:40.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:17:40.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q389675>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prepress"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1363_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024433/2022-03-13T00:17:40.316Z>.
+<https://stad.gent/id/concept/670001649/2022-03-11T08:39:43.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:39:43.808Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1603_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1603_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001649/2022-03-11T08:39:43.808Z>.
+<https://stad.gent/id/concept/670000727/2022-03-11T07:40:02.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:40:02.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2029_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000727/2022-03-11T07:40:02.165Z>.
+<https://stad.gent/id/concept/670000728/2022-03-11T07:40:07.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:40:07.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenlei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2029_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000728/2022-03-11T07:40:07.167Z>.
+<https://stad.gent/id/concept/670000574/2022-03-11T07:27:51.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:27:51.878Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2116_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predickheeren Faudt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2116_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000574/2022-03-11T07:27:51.878Z>.
+<https://stad.gent/id/concept/670000487/2022-03-11T07:20:53.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:20:53.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2167_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "premier baron chretien de France"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2167_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000487/2022-03-11T07:20:53.564Z>.
+<https://stad.gent/id/concept/670000390/2022-03-11T07:13:14.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:13:14.713Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237368>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2221_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prelaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2221_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000390/2022-03-11T07:13:14.713Z>.
+<https://stad.gent/id/concept/570024916/2022-03-11T06:31:23.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:31:23.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1425942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2521_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "premetro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2521_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024916/2022-03-11T06:31:23.967Z>.
+<https://stad.gent/id/concept/570024433/2022-03-11T06:12:35.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:12:35.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q389675>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2656_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prepress"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2656_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024433/2022-03-11T06:12:35.791Z>.
+<https://stad.gent/id/concept/570016630/2022-03-11T03:00:07.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:00:07.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote kisten met scharnierende deksels die worden gebruikt om textiel, kleding en andere artikelen in op te bergen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "bewaarvorm"@nl, "preservation form"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016630/2022-03-11T03:00:07.169Z>.
+<https://stad.gent/id/concept/570014711/2022-03-11T02:13:47.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:13:47.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4357_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor boeken waarin afbeeldingen een grotere plaats innemen dan tekst, in het bijzonder boeken die voor kinderen of beginnende lezers bedoeld zijn. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prentboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4357_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014711/2022-03-11T02:13:47.919Z>.
+<https://stad.gent/id/concept/570014260/2022-03-11T02:01:12.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:01:12.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pretoria"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570004637>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570004637> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Afrika"@nl.
+_:df_4447_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014260/2022-03-11T02:01:12.744Z>.
+<https://stad.gent/id/concept/570012201/2022-03-11T01:21:35.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:21:35.667Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4732_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Briefkaarten met een picturale afbeelding aan een kant. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prentkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4732_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012201/2022-03-11T01:21:35.667Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1924.
+_:df_1_1924 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pren.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pren".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1925.
+_:df_1_1925 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/preh.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "preh".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1926.
+_:df_1_1926 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pred.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pred".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1927.
+_:df_1_1927 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/prem.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "prem".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1928.
+_:df_1_1928 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/prel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "prel".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1929.
+_:df_1_1929 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/prep.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "prep".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1930.
+_:df_1_1930 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pres.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pres".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> <https://w3id.org/tree#relation> _:df_1_1931.
+_:df_1_1931 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pret.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pret".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl>.

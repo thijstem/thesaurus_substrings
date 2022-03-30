@@ -1,0 +1,54 @@
+<https://stad.gent/id/concept/570016058/2022-03-11T02:43:59.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:43:59.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4144_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016058/2022-03-11T02:43:59.920Z>.
+<https://stad.gent/id/concept/570009700/2022-03-11T00:46:40.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:46:40.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4981_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4981_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009700/2022-03-11T00:46:40.225Z>.
+<https://stad.gent/id/concept/570016058/2022-02-26T12:08:18.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:08:18.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7996_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7996_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016058/2022-02-26T12:08:18.076Z>.
+<https://stad.gent/id/concept/570009700/2022-02-26T10:11:04.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:04.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8833_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8833_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009700/2022-02-26T10:11:04.217Z>.
+<https://stad.gent/id/concept/570004395/2022-02-26T09:10:53.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:10:53.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9265_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machine voor het vouwen van gedrukte vellen papier en katernen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9265_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004395/2022-02-26T09:10:53.740Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vou.ttl>.

@@ -1,0 +1,87 @@
+<https://stad.gent/id/concept/570015752/2022-03-11T02:37:37.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:37:37.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4189_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousjesfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4189_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015752/2022-03-11T02:37:37.803Z>.
+<https://stad.gent/id/concept/570012904/2022-03-11T01:34:11.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:34:11.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4642_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die licht geven door middel van gloeihitte. Deze hitte kan worden opgewekt met elektriciteit, gas, petroleum of andere energiebronnen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeilamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4642_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012904/2022-03-11T01:34:11.163Z>.
+<https://stad.gent/id/concept/570012778/2022-03-11T01:32:25.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:32:25.463Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4654_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousbranders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4654_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012778/2022-03-11T01:32:25.463Z>.
+<https://stad.gent/id/concept/570016641/2022-02-26T12:24:47.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:24:47.176Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7879_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7879_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016641/2022-02-26T12:24:47.176Z>.
+<https://stad.gent/id/concept/570016138/2022-02-26T12:09:48.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:09:48.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q781080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7984_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikous"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7984_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016138/2022-02-26T12:09:48.742Z>.
+<https://stad.gent/id/concept/570015752/2022-02-26T12:01:55.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:01:55.842Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8041_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousjesfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8041_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015752/2022-02-26T12:01:55.842Z>.
+<https://stad.gent/id/concept/570012904/2022-02-26T10:58:34.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:58:34.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8494_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die licht geven door middel van gloeihitte. Deze hitte kan worden opgewekt met elektriciteit, gas, petroleum of andere energiebronnen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeilamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8494_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012904/2022-02-26T10:58:34.942Z>.
+<https://stad.gent/id/concept/570012778/2022-02-26T10:56:47.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:56:47.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8506_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gloeikousbranders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8506_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012778/2022-02-26T10:56:47.994Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/glo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/glo.ttl>.

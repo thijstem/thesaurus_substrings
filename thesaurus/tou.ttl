@@ -1,0 +1,103 @@
+<https://stad.gent/id/concept/570014029/2022-03-11T01:56:30.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:56:30.303Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4483_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4483_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014029/2022-03-11T01:56:30.303Z>.
+<https://stad.gent/id/concept/570012886/2022-03-11T01:33:56.157Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:33:56.157Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4642_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwslagerswiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4642_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012886/2022-03-11T01:33:56.157Z>.
+<https://stad.gent/id/concept/570009357/2022-03-11T00:38:20.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:38:20.771Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014248>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5041_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zwaar koord, tenminste 6,35 mm in diameter, dat is gevormd door twee of meer strengen van natuur- of kunstvezel ineen te draaien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5041_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009357/2022-03-11T00:38:20.771Z>.
+<https://stad.gent/id/concept/570007644/2022-03-11T00:00:28.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:00:28.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006259>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5311_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen waar touw wordt gemaakt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwslagerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5311_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007644/2022-03-11T00:00:28.085Z>.
+<https://stad.gent/id/concept/570014029/2022-02-26T11:20:54.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:20:54.340Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8335_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8335_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014029/2022-02-26T11:20:54.340Z>.
+<https://stad.gent/id/concept/570012886/2022-02-26T10:58:19.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:58:19.937Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8497_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwslagerswiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8497_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012886/2022-02-26T10:58:19.937Z>.
+<https://stad.gent/id/concept/570009357/2022-02-26T10:02:46.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:02:46.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014248>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8893_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zwaar koord, tenminste 6,35 mm in diameter, dat is gevormd door twee of meer strengen van natuur- of kunstvezel ineen te draaien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8893_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009357/2022-02-26T10:02:46.021Z>.
+<https://stad.gent/id/concept/570007644/2022-02-26T09:25:04.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:25:04.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006259>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9163_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen waar touw wordt gemaakt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "touwslagerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "collectie"@nl, "collection"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9163_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007644/2022-02-26T09:25:04.116Z>.
+<https://stad.gent/id/concept/570003730/2022-02-26T09:09:03.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:09:03.066Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009508>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9277_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tourcoing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_9277_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003730/2022-02-26T09:09:03.066Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/tou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/tou.ttl>.

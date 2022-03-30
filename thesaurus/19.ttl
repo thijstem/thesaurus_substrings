@@ -1,0 +1,20 @@
+<https://stad.gent/id/concept/570003720/2022-02-26T09:08:58.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:08:58.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/dateringen/19>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9277_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "19de eeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012879>, <https://stad.gent/id/concept/570016122>, <https://stad.gent/id/concept/570016080>, <https://stad.gent/id/concept/570023225>, <https://stad.gent/id/concept/570000697>, <https://stad.gent/id/concept/570012216>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012216> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden 19de eeuw"@nl.
+<https://stad.gent/id/concept/570000697> <http://www.w3.org/2004/02/skos/core#prefLabel> "einde 19de eeuw"@nl.
+<https://stad.gent/id/concept/570023225> <http://www.w3.org/2004/02/skos/core#prefLabel> "begin 19de eeuw"@nl.
+<https://stad.gent/id/concept/570016080> <http://www.w3.org/2004/02/skos/core#prefLabel> "3de kwart 19de eeuw"@nl.
+<https://stad.gent/id/concept/570016122> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de kwart 19de eeuw"@nl.
+<https://stad.gent/id/concept/570012879> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 19de eeuw"@nl.
+_:df_9277_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003720/2022-02-26T09:08:58.065Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/19.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/19.ttl>.

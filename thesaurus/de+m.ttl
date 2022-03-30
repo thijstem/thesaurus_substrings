@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/670001354/2022-03-11T08:15:23.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:15:23.586Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1777_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maagd van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1777_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001354/2022-03-11T08:15:23.586Z>.
+<https://stad.gent/id/concept/670001355/2022-03-11T08:15:28.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:15:28.588Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25152>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1777_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maecht van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1777_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001355/2022-03-11T08:15:28.588Z>.
+<https://stad.gent/id/concept/670001354/2022-02-26T17:39:22.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:39:22.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maagd van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5629_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001354/2022-02-26T17:39:22.759Z>.
+<https://stad.gent/id/concept/670001355/2022-02-26T17:39:27.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:39:27.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25152>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "De Maecht van Gent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5629_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001355/2022-02-26T17:39:27.760Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/de+m.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/de+m.ttl>.

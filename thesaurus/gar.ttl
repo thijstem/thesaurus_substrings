@@ -1,0 +1,255 @@
+<https://stad.gent/id/concept/670001777/2022-03-11T08:50:23.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:50:23.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1528_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001777/2022-03-11T08:50:23.631Z>.
+<https://stad.gent/id/concept/670000916/2022-03-11T07:55:15.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:55:15.372Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1921_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garensteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1921_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000916/2022-03-11T07:55:15.372Z>.
+<https://stad.gent/id/concept/670000288/2022-03-11T07:06:06.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:06:06.103Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garentwijnder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2272_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000288/2022-03-11T07:06:06.103Z>.
+<https://stad.gent/id/concept/570025280/2022-03-11T06:44:25.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:44:25.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een bedrijf waar men herstellingen aan auto's en andere motorvoertuigen uitvoert.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garagebedrijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2428_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025280/2022-03-11T06:44:25.550Z>.
+<https://stad.gent/id/concept/570023788/2022-03-11T05:40:48.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:40:48.913Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2881_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen aanknoper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2881_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023788/2022-03-11T05:40:48.913Z>.
+<https://stad.gent/id/concept/570023772/2022-03-11T05:40:28.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:40:28.610Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2884_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garenbalans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2884_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023772/2022-03-11T05:40:28.610Z>.
+<https://stad.gent/id/concept/570022240/2022-03-11T04:52:56.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:52:56.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3223_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garantie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3223_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022240/2022-03-11T04:52:56.398Z>.
+<https://stad.gent/id/concept/570020664/2022-03-11T04:48:39.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:48:39.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3253_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019538>, <https://stad.gent/id/concept/570019412>, <https://stad.gent/id/concept/570010147>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010147> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasgaren"@nl.
+<https://stad.gent/id/concept/570019412> <http://www.w3.org/2004/02/skos/core#prefLabel> "terlenka"@nl.
+<https://stad.gent/id/concept/570019538> <http://www.w3.org/2004/02/skos/core#prefLabel> "enkalon"@nl.
+_:df_3253_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020664/2022-03-11T04:48:39.400Z>.
+<https://stad.gent/id/concept/570018881/2022-03-11T03:53:29.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:53:29.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3649_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garches"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3649_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018881/2022-03-11T03:53:29.225Z>.
+<https://stad.gent/id/concept/570017387/2022-03-11T03:25:14.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:25:14.101Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3850_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3850_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017387/2022-03-11T03:25:14.101Z>.
+<https://stad.gent/id/concept/570016610/2022-03-11T02:59:36.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:59:36.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garen n° 10e/3 : 59tex x 3"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016610/2022-03-11T02:59:36.790Z>.
+<https://stad.gent/id/concept/570015629/2022-03-11T02:34:46.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:34:46.129Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4210_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garenwinder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4210_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015629/2022-03-11T02:34:46.129Z>.
+<https://stad.gent/id/concept/570014947/2022-03-11T02:20:41.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:20:41.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28487379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4309_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garnaalvisser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4309_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014947/2022-03-11T02:20:41.394Z>.
+<https://stad.gent/id/concept/570014361/2022-03-11T02:03:18.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:03:18.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4432_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garenhaspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4432_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014361/2022-03-11T02:03:18.399Z>.
+<https://stad.gent/id/concept/570009761/2022-03-11T00:48:30.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:48:30.805Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255580>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4969_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gareel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4969_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009761/2022-03-11T00:48:30.805Z>.
+<https://stad.gent/id/concept/570008720/2022-03-11T00:14:21.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:14:21.908Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5212_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vrijstaande overdekte stalling voor motorvoertuigen van bewoners.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570025268>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025268> <http://www.w3.org/2004/02/skos/core#prefLabel> "bijgebouw"@nl.
+_:df_5212_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008720/2022-03-11T00:14:21.908Z>.
+<https://stad.gent/id/concept/670001777/2022-02-26T18:14:36.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:14:36.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300007806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5377_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5377_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001777/2022-02-26T18:14:36.577Z>.
+<https://stad.gent/id/concept/670000916/2022-02-26T17:19:04.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:19:04.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5776_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garensteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5776_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000916/2022-02-26T17:19:04.662Z>.
+<https://stad.gent/id/concept/670000288/2022-02-26T16:29:59.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:29:59.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6127_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garentwijnder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6127_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000288/2022-02-26T16:29:59.254Z>.
+<https://stad.gent/id/concept/570025280/2022-02-26T16:08:19.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:08:19.495Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6280_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een bedrijf waar men herstellingen aan auto's en andere motorvoertuigen uitvoert.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garagebedrijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6280_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025280/2022-02-26T16:08:19.495Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> <https://w3id.org/tree#relation> _:df_1_2210.
+_:df_1_2210 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gare.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gare".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> <https://w3id.org/tree#relation> _:df_1_2211.
+_:df_1_2211 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gara.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gara".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> <https://w3id.org/tree#relation> _:df_1_2212.
+_:df_1_2212 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/garc.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "garc".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> <https://w3id.org/tree#relation> _:df_1_2213.
+_:df_1_2213 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gard.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gard".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> <https://w3id.org/tree#relation> _:df_1_2214.
+_:df_1_2214 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/garn.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "garn".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gar.ttl>.

@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570022729/2022-03-11T04:56:22.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:22.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders die rollen plakband afgeven, gewoonlijk drukgevoelig. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plakbandhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3199_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022729/2022-03-11T04:56:22.812Z>.
+<https://stad.gent/id/concept/570022729/2022-02-26T14:20:23.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:20:23.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7051_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders die rollen plakband afgeven, gewoonlijk drukgevoelig. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plakbandhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7051_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022729/2022-02-26T14:20:23.024Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/plak.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/plak.ttl>.

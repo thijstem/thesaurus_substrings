@@ -1,0 +1,78 @@
+<https://stad.gent/id/concept/570023164/2022-03-11T05:14:53.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:14:53.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambrai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3067_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023164/2022-03-11T05:14:53.077Z>.
+<https://stad.gent/id/concept/570014205/2022-03-11T02:00:31.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:00:31.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4453_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_4453_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014205/2022-03-11T02:00:31.999Z>.
+<https://stad.gent/id/concept/570008876/2022-03-11T00:19:21.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:19:21.351Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5176_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichtdichte dozen met een lens die door een lensopening steekt waardoor een beeld van een voorwerp op film of ander lichtgevoelig materiaal wordt vastgelegd, of waarin het beeld wordt omgezet in elektrische pulsen voor rechtstreekse overdracht of videoregistratie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "camera"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "rol"@nl, "role"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5176_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008876/2022-03-11T00:19:21.351Z>.
+<https://stad.gent/id/concept/570023164/2022-02-26T14:38:51.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:38:51.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6919_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambrai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_6919_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023164/2022-02-26T14:38:51.813Z>.
+<https://stad.gent/id/concept/570014205/2022-02-26T11:24:55.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:24:55.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010874>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8305_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_8305_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014205/2022-02-26T11:24:55.898Z>.
+<https://stad.gent/id/concept/570008876/2022-02-26T09:43:51.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:43:51.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9028_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichtdichte dozen met een lens die door een lensopening steekt waardoor een beeld van een voorwerp op film of ander lichtgevoelig materiaal wordt vastgelegd, of waarin het beeld wordt omgezet in elektrische pulsen voor rechtstreekse overdracht of videoregistratie. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "camera"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "rol"@nl, "role"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9028_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008876/2022-02-26T09:43:51.514Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/cam.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/cam.ttl>.

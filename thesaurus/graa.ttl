@@ -1,0 +1,65 @@
+<https://stad.gent/id/concept/570013225/2022-03-11T01:41:39.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:41:39.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1479546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4588_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graanjenever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4588_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013225/2022-03-11T01:41:39.663Z>.
+<https://stad.gent/id/concept/670001593/2022-02-26T17:59:20.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:59:20.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5488_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graaf Arnulfstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5488_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001593/2022-02-26T17:59:20.138Z>.
+<https://stad.gent/id/concept/670000922/2022-02-26T17:19:35.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:19:35.008Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5773_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graaf van Vlaanderenplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5773_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000922/2022-02-26T17:19:35.008Z>.
+<https://stad.gent/id/concept/670000481/2022-02-26T16:44:21.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:44:21.057Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6025_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graafschap Evergem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6025_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000481/2022-02-26T16:44:21.057Z>.
+<https://stad.gent/id/concept/570019050/2022-02-26T13:26:50.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:26:50.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7435_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7435_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019050/2022-02-26T13:26:50.399Z>.
+<https://stad.gent/id/concept/570013225/2022-02-26T11:06:02.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:06:02.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1479546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8440_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "graanjenever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8440_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013225/2022-02-26T11:06:02.919Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/graa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/graa.ttl>.

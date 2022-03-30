@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570017637/2022-02-26T12:58:51.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:58:51.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7636_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handboor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7636_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017637/2022-02-26T12:58:51.934Z>.
+<https://stad.gent/id/concept/570009317/2022-02-26T10:01:10.465Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:01:10.465Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1133232>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8905_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handboormachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8905_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009317/2022-02-26T10:01:10.465Z>.
+<https://stad.gent/id/concept/570009178/2022-02-26T09:55:22.690Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:55:22.690Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8947_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor, meestal compacte, boeken die beknopte informatie bevatten. Meestal gaat het om regels of aanwijzingen die men nodig heeft om bepaalde taken of processen te kunnen uitvoeren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8947_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009178/2022-02-26T09:55:22.690Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/handb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/handb.ttl>.

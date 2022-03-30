@@ -1,0 +1,48 @@
+<https://stad.gent/id/concept/570017718/2022-03-11T03:38:31.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:38:31.969Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009674>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3754_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sedan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3754_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017718/2022-03-11T03:38:31.969Z>.
+<https://stad.gent/id/concept/570017422/2022-03-11T03:27:12.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:27:12.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3835_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sedimentatietrechter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3835_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017422/2022-03-11T03:27:12.282Z>.
+<https://stad.gent/id/concept/570017718/2022-02-26T13:02:33.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:02:33.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009674>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7609_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sedan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_7609_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017718/2022-02-26T13:02:33.638Z>.
+<https://stad.gent/id/concept/570017422/2022-02-26T12:51:18.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:51:18.774Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7690_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sedimentatietrechter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7690_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017422/2022-02-26T12:51:18.774Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sed.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sed.ttl>.

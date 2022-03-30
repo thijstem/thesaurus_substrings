@@ -1,0 +1,52 @@
+<https://stad.gent/id/concept/570012994/2022-03-11T01:35:56.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:35:56.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4630_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nördlingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4630_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012994/2022-03-11T01:35:56.850Z>.
+<https://stad.gent/id/concept/570019831/2022-02-26T13:57:53.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:57:53.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7213_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Northampton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_7213_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019831/2022-02-26T13:57:53.427Z>.
+<https://stad.gent/id/concept/570012994/2022-02-26T11:00:20.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:00:20.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8482_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nördlingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_8482_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012994/2022-02-26T11:00:20.562Z>.
+<https://stad.gent/id/concept/570006005/2022-02-26T09:15:40.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:15:40.687Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9229_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9229_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006005/2022-02-26T09:15:40.687Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nor.ttl>.

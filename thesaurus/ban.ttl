@@ -1,0 +1,199 @@
+<https://stad.gent/id/concept/570024648/2022-03-13T00:24:58.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:24:58.441Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankwerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1312_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024648/2022-03-13T00:24:58.441Z>.
+<https://stad.gent/id/concept/570024648/2022-03-11T06:19:54.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:19:54.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2602_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankwerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2602_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024648/2022-03-11T06:19:54.012Z>.
+<https://stad.gent/id/concept/570019552/2022-03-11T04:24:53.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:24:53.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3424_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bandrecorder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3424_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019552/2022-03-11T04:24:53.878Z>.
+<https://stad.gent/id/concept/570019127/2022-03-11T04:05:23.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:05:23.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "band"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3562_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019127/2022-03-11T04:05:23.987Z>.
+<https://stad.gent/id/concept/570018141/2022-03-11T03:47:56.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:47:56.506Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q22687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3688_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018141/2022-03-11T03:47:56.506Z>.
+<https://stad.gent/id/concept/570016394/2022-03-11T02:52:23.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:52:23.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4084_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankschroef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4084_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016394/2022-03-11T02:52:23.486Z>.
+<https://stad.gent/id/concept/570014826/2022-03-11T02:16:59.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:16:59.098Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4336_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4336_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014826/2022-03-11T02:16:59.098Z>.
+<https://stad.gent/id/concept/570013294/2022-03-11T01:42:55.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:42:55.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4579_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Winkels waar men banket en andere gebakken waar tentoonstelt en verkoopt. Meestal bakt men de producten in de zaak zelf, maar dan wel uit het zicht van de klanten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "banketbakkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4579_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013294/2022-03-11T01:42:55.192Z>.
+<https://stad.gent/id/concept/570011043/2022-03-11T01:09:59.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:09:59.693Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4813_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bandwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4813_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011043/2022-03-11T01:09:59.693Z>.
+<https://stad.gent/id/concept/570024648/2022-02-26T15:43:53.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:43:53.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6457_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankwerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6457_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024648/2022-02-26T15:43:53.252Z>.
+<https://stad.gent/id/concept/570019552/2022-02-26T13:48:53.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:48:53.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7276_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bandrecorder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7276_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019552/2022-02-26T13:48:53.867Z>.
+<https://stad.gent/id/concept/570019127/2022-02-26T13:29:26.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:29:26.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014685>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7417_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "band"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7417_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019127/2022-02-26T13:29:26.423Z>.
+<https://stad.gent/id/concept/570018141/2022-02-26T13:11:58.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:11:58.906Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q22687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7540_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7540_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018141/2022-02-26T13:11:58.906Z>.
+<https://stad.gent/id/concept/570016394/2022-02-26T12:16:41.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:16:41.541Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7936_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankschroef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7936_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016394/2022-02-26T12:16:41.541Z>.
+<https://stad.gent/id/concept/570014826/2022-02-26T11:41:22.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:41:22.448Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8188_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8188_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014826/2022-02-26T11:41:22.448Z>.
+<https://stad.gent/id/concept/570013294/2022-02-26T11:07:18.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:07:18.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8431_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Winkels waar men banket en andere gebakken waar tentoonstelt en verkoopt. Meestal bakt men de producten in de zaak zelf, maar dan wel uit het zicht van de klanten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "banketbakkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8431_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013294/2022-02-26T11:07:18.471Z>.
+<https://stad.gent/id/concept/570011043/2022-02-26T10:34:22.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:34:22.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8668_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bandwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8668_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011043/2022-02-26T10:34:22.567Z>.
+<https://stad.gent/id/concept/570004207/2022-02-26T09:10:23.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:10:23.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9268_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bangladesh"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570024328>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dhaka"@nl.
+_:df_9268_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004207/2022-02-26T09:10:23.365Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ban.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ban.ttl>.

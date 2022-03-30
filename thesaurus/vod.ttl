@@ -1,0 +1,48 @@
+<https://stad.gent/id/concept/570025053/2022-03-11T06:39:13.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:39:13.689Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7259185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2464_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vodelée"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_2464_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025053/2022-03-11T06:39:13.689Z>.
+<https://stad.gent/id/concept/570016006/2022-03-11T02:42:54.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:42:54.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1567420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4150_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vodden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4150_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016006/2022-03-11T02:42:54.634Z>.
+<https://stad.gent/id/concept/570025053/2022-02-26T16:03:12.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:03:12.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7259185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6319_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vodelée"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_6319_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025053/2022-02-26T16:03:12.484Z>.
+<https://stad.gent/id/concept/570016006/2022-02-26T12:07:12.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:07:12.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1567420>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8005_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vodden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8005_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016006/2022-02-26T12:07:12.724Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vod.ttl>.

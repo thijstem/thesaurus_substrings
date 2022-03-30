@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570009715/2022-02-26T10:11:49.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:49.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053753>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8830_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het voorbereiden van vezels om te spinnen, door ze te reinigen, ontwarren en samen te voegen met behulp van een kam; wordt gebruikt om relatief lange vezels te behandelen en verwerken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kammen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8830_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009715/2022-02-26T10:11:49.239Z>.
+<https://stad.gent/id/concept/570008613/2022-02-26T09:34:42.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:34:42.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9094_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kammachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9094_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008613/2022-02-26T09:34:42.564Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kamm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kamm.ttl>.

@@ -1,0 +1,212 @@
+<https://stad.gent/id/concept/570016697/2022-03-11T03:02:13.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:02:13.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11990990>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4012_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570006245>, <https://stad.gent/id/concept/570013467>, <https://stad.gent/id/concept/570022756>, <https://stad.gent/id/concept/570011938>, <https://stad.gent/id/concept/570001307>, <https://stad.gent/id/concept/570008585>, <https://stad.gent/id/concept/570016359>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016359> <http://www.w3.org/2004/02/skos/core#prefLabel> "zandsteen"@nl.
+<https://stad.gent/id/concept/570008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "porfier"@nl.
+<https://stad.gent/id/concept/570001307> <http://www.w3.org/2004/02/skos/core#prefLabel> "marmer"@nl.
+<https://stad.gent/id/concept/570011938> <http://www.w3.org/2004/02/skos/core#prefLabel> "leisteen"@nl.
+<https://stad.gent/id/concept/570022756> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalksteen"@nl.
+<https://stad.gent/id/concept/570013467> <http://www.w3.org/2004/02/skos/core#prefLabel> "graniet"@nl.
+<https://stad.gent/id/concept/570006245> <http://www.w3.org/2004/02/skos/core#prefLabel> "arduin"@nl.
+_:df_4012_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016697/2022-03-11T03:02:13.428Z>.
+<https://stad.gent/id/concept/570015022/2022-03-11T02:22:39.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:22:39.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4294_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natriumcarbonaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4294_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015022/2022-03-11T02:22:39.042Z>.
+<https://stad.gent/id/concept/570013043/2022-03-11T01:37:27.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:37:27.564Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4618_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4618_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013043/2022-03-11T01:37:27.564Z>.
+<https://stad.gent/id/concept/570011037/2022-03-11T01:09:44.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:09:44.409Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4816_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurlijke textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023698>, <https://stad.gent/id/concept/570023934>, <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+<https://stad.gent/id/concept/570023934> <http://www.w3.org/2004/02/skos/core#prefLabel> "minerale textielvezel"@nl.
+<https://stad.gent/id/concept/570023698> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijke textielvezel"@nl.
+_:df_4816_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011037/2022-03-11T01:09:44.409Z>.
+<https://stad.gent/id/concept/570009289/2022-03-11T00:35:34.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:35:34.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5059_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5059_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009289/2022-03-11T00:35:34.773Z>.
+<https://stad.gent/id/concept/570008506/2022-03-11T00:07:36.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:07:36.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5260_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italiaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5260_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008506/2022-03-11T00:07:36.934Z>.
+<https://stad.gent/id/concept/670001793/2022-02-26T18:15:56.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:15:56.842Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5368_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nationale Bank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5368_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001793/2022-02-26T18:15:56.842Z>.
+<https://stad.gent/id/concept/570025028/2022-02-26T16:01:31.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:01:31.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300245255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6331_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marokkaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6331_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025028/2022-02-26T16:01:31.837Z>.
+<https://stad.gent/id/concept/570024015/2022-02-26T15:14:03.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:14:03.366Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6670_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurlijke kunstmatige textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6670_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024015/2022-02-26T15:14:03.366Z>.
+<https://stad.gent/id/concept/570022848/2022-02-26T14:25:30.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:25:30.155Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181557>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7015_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ontladingslampen van een hoge intensiteit, die zeer efficiënt zijn wanneer het gaat om geproduceerde lichteenheden per watt verbruikte stroom. Ze hebben één kleur licht (oranje) zodat ze niet algemeen gebruikt kunnen worden. Ze worden vaak gebruikt voor het verlichten van straten en snelwegen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natriumlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7015_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022848/2022-02-26T14:25:30.155Z>.
+<https://stad.gent/id/concept/570016697/2022-02-26T12:26:32.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:26:32.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11990990>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7867_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuursteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570006245>, <https://stad.gent/id/concept/570013467>, <https://stad.gent/id/concept/570022756>, <https://stad.gent/id/concept/570011938>, <https://stad.gent/id/concept/570001307>, <https://stad.gent/id/concept/570008585>, <https://stad.gent/id/concept/570016359>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016359> <http://www.w3.org/2004/02/skos/core#prefLabel> "zandsteen"@nl.
+<https://stad.gent/id/concept/570008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "porfier"@nl.
+<https://stad.gent/id/concept/570001307> <http://www.w3.org/2004/02/skos/core#prefLabel> "marmer"@nl.
+<https://stad.gent/id/concept/570011938> <http://www.w3.org/2004/02/skos/core#prefLabel> "leisteen"@nl.
+<https://stad.gent/id/concept/570022756> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalksteen"@nl.
+<https://stad.gent/id/concept/570013467> <http://www.w3.org/2004/02/skos/core#prefLabel> "graniet"@nl.
+<https://stad.gent/id/concept/570006245> <http://www.w3.org/2004/02/skos/core#prefLabel> "arduin"@nl.
+_:df_7867_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016697/2022-02-26T12:26:32.905Z>.
+<https://stad.gent/id/concept/570015022/2022-02-26T11:46:59.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:46:59.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8149_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natriumcarbonaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8149_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015022/2022-02-26T11:46:59.607Z>.
+<https://stad.gent/id/concept/570013043/2022-02-26T11:01:51.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:01:51.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8470_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8470_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013043/2022-02-26T11:01:51.290Z>.
+<https://stad.gent/id/concept/570011037/2022-02-26T10:34:07.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:34:07.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8668_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurlijke textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023698>, <https://stad.gent/id/concept/570023934>, <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+<https://stad.gent/id/concept/570023934> <http://www.w3.org/2004/02/skos/core#prefLabel> "minerale textielvezel"@nl.
+<https://stad.gent/id/concept/570023698> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijke textielvezel"@nl.
+_:df_8668_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011037/2022-02-26T10:34:07.560Z>.
+<https://stad.gent/id/concept/570009289/2022-02-26T09:59:59.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:59:59.904Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8914_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8914_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009289/2022-02-26T09:59:59.904Z>.
+<https://stad.gent/id/concept/570008506/2022-02-26T09:32:11.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:32:11.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q652>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9112_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italiaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9112_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008506/2022-02-26T09:32:11.607Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/nat.ttl> <https://w3id.org/tree#relation> _:df_1_2540.
+_:df_1_2540 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/nati.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "nati".
+<https://thijstem.github.io/substrings_coghent/thesaurus/nat.ttl> <https://w3id.org/tree#relation> _:df_1_2541.
+_:df_1_2541 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/natu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "natu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/nat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/nat.ttl>.

@@ -1,0 +1,214 @@
+<https://stad.gent/id/concept/670001615/2022-03-13T02:42:31.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:31.968Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_328_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lange Krevelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_328_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001615/2022-03-13T02:42:31.968Z>.
+<https://stad.gent/id/concept/670001616/2022-03-13T02:42:36.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:36.982Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_328_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lousbergskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_328_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001616/2022-03-13T02:42:36.982Z>.
+<https://stad.gent/id/concept/670001617/2022-03-13T02:42:41.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:41.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3234>;
+    <http://www.w3.org/ns/adms#identifier> _:df_328_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaltebruggestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_328_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001617/2022-03-13T02:42:41.983Z>.
+<https://stad.gent/id/concept/670001618/2022-03-13T02:42:46.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:46.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_328_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaseikstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_328_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001618/2022-03-13T02:42:46.985Z>.
+<https://stad.gent/id/concept/670001609/2022-03-13T02:42:01.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:01.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_331_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Krommewalbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001609/2022-03-13T02:42:01.665Z>.
+<https://stad.gent/id/concept/670001610/2022-03-13T02:42:06.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:06.667Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_331_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kromsteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001610/2022-03-13T02:42:06.667Z>.
+<https://stad.gent/id/concept/670001611/2022-03-13T02:42:11.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001611>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:11.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_331_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuipersteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001611"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001611/2022-03-13T02:42:11.676Z>.
+<https://stad.gent/id/concept/670001612/2022-03-13T02:42:16.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:16.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_331_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuiperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001612/2022-03-13T02:42:16.679Z>.
+<https://stad.gent/id/concept/670001613/2022-03-13T02:42:21.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:42:21.964Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_331_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lambert Queteletstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_331_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001613/2022-03-13T02:42:21.964Z>.
+<https://stad.gent/id/concept/670001604/2022-03-13T02:41:36.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:36.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koornmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001604/2022-03-13T02:41:36.655Z>.
+<https://stad.gent/id/concept/670001605/2022-03-13T02:41:41.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:41.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Steenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001605/2022-03-13T02:41:41.658Z>.
+<https://stad.gent/id/concept/670001606/2022-03-13T02:41:46.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:46.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Violettestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001606"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001606/2022-03-13T02:41:46.660Z>.
+<https://stad.gent/id/concept/670001607/2022-03-13T02:41:51.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:51.663Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijkschestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001607/2022-03-13T02:41:51.663Z>.
+<https://stad.gent/id/concept/670001608/2022-03-13T02:41:56.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:56.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kriekerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001608/2022-03-13T02:41:56.664Z>.
+<https://stad.gent/id/concept/670001599/2022-03-13T02:41:11.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:11.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2764>;
+    <http://www.w3.org/ns/adms#identifier> _:df_337_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karel Antheunisstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001599/2022-03-13T02:41:11.306Z>.
+<https://stad.gent/id/concept/670001600/2022-03-13T02:41:16.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:16.308Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleine Sterrestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001600/2022-03-13T02:41:16.308Z>.
+<https://stad.gent/id/concept/670001601/2022-03-13T02:41:21.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:21.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001601/2022-03-13T02:41:21.310Z>.
+<https://stad.gent/id/concept/670001602/2022-03-13T02:41:26.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:26.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Albertpark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001602/2022-03-13T02:41:26.312Z>.
+<https://stad.gent/id/concept/670001603/2022-03-13T02:41:31.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:31.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Willem I-Kaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001603/2022-03-13T02:41:31.653Z>.
+<https://stad.gent/id/concept/670001594/2022-03-13T02:40:46.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:40:46.295Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_340_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot Meerhemkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_340_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001594/2022-03-13T02:40:46.295Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/geografisch+trefwoo.ttl> <https://w3id.org/tree#relation> _:df_1_358.
+_:df_1_358 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/geografisch+trefwoor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "geografisch", "trefwoor".
+<https://thijstem.github.io/substrings_coghent/thesaurus/geografisch+trefwoo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/geografisch+trefwoo.ttl>.

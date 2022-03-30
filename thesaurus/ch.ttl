@@ -1,0 +1,270 @@
+<https://stad.gent/id/concept/670001575/2022-03-13T02:39:10.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:39:10.497Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_352_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chartreuseplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_352_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001575/2022-03-13T02:39:10.497Z>.
+<https://stad.gent/id/concept/670001009/2022-03-13T02:07:39.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:07:39.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_577_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Charles de Kerchovelaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_577_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001009/2022-03-13T02:07:39.349Z>.
+<https://stad.gent/id/concept/670000272/2022-03-13T01:10:04.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:10:04.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_988_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn-barbier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000272/2022-03-13T01:10:04.488Z>.
+<https://stad.gent/id/concept/670000271/2022-03-13T01:09:59.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:09:59.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_991_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_991_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000271/2022-03-13T01:09:59.486Z>.
+<https://stad.gent/id/concept/570025124/2022-03-13T00:47:26.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:47:26.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026364>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelineau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_1150_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025124/2022-03-13T00:47:26.086Z>.
+<https://stad.gent/id/concept/570025125/2022-03-13T00:47:31.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:47:31.088Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_1150_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025125/2022-03-13T00:47:31.088Z>.
+<https://stad.gent/id/concept/570003806/2022-03-12T00:00:15.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-12T00:00:15.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1492_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tak van fysische wetenschap die zich bezighoudt met de samenstelling en eigenschappen van de elementaire stoffen waaruit alle lichamen zijn opgebouwd, de wetten die hun samenstelling regelen en de verschillende verschijnselen die samengaan met hun blootstelling aan diverse fysische omstandigheden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "techniek"@nl, "technique"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1492_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003806/2022-03-12T00:00:15.552Z>.
+<https://stad.gent/id/concept/670001575/2022-03-11T08:33:40.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:33:40.263Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1648_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chartreuseplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1648_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001575/2022-03-11T08:33:40.263Z>.
+<https://stad.gent/id/concept/670001009/2022-03-11T08:02:27.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:02:27.888Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1870_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Charles de Kerchovelaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1870_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001009/2022-03-11T08:02:27.888Z>.
+<https://stad.gent/id/concept/670000271/2022-03-11T07:04:45.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:04:45.829Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2281_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2281_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000271/2022-03-11T07:04:45.829Z>.
+<https://stad.gent/id/concept/670000272/2022-03-11T07:04:50.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:04:50.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2281_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chirurgijn-barbier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2281_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000272/2022-03-11T07:04:50.831Z>.
+<https://stad.gent/id/concept/570025124/2022-03-11T06:42:19.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:42:19.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026364>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelineau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_2443_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025124/2022-03-11T06:42:19.812Z>.
+<https://stad.gent/id/concept/570025125/2022-03-11T06:42:24.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:42:24.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_2443_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025125/2022-03-11T06:42:24.813Z>.
+<https://stad.gent/id/concept/570024001/2022-03-11T05:49:22.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:49:22.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2821_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemnitz-Kappel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2821_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024001/2022-03-11T05:49:22.332Z>.
+<https://stad.gent/id/concept/570023637/2022-03-11T05:33:05.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:33:05.190Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Choisy-le-Roi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2938_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023637/2022-03-11T05:33:05.190Z>.
+<https://stad.gent/id/concept/570023620/2022-03-11T05:32:35.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:32:35.178Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2941_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023620/2022-03-11T05:32:35.178Z>.
+<https://stad.gent/id/concept/570023029/2022-03-11T05:09:41.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:09:41.072Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3103_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chaudfontaine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_3103_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023029/2022-03-11T05:09:41.072Z>.
+<https://stad.gent/id/concept/570022747/2022-03-11T04:57:18.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:57:18.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195967>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3193_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt ofwel gebruikt voor stevig gebouwde precisie-uurwerken die speciaal zijn ontworpen voor gebruik op schepen of voor zeer nauwkeurige pols- of zakhorloges. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chronometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3193_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022747/2022-03-11T04:57:18.116Z>.
+<https://stad.gent/id/concept/570020698/2022-03-11T04:48:59.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:48:59.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300387485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3253_79;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voedings- en genotmiddelen, m.n. versnaperingen uit cacao, suiker en cacaoboter bereid, eventueel met nog andere stoffen vermengd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chocolade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3253_79 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020698/2022-03-11T04:48:59.408Z>.
+<https://stad.gent/id/concept/570019518/2022-03-11T04:23:28.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:23:28.475Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chloorvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024016>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024016> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetische kunstmatige textielvezel"@nl.
+_:df_3433_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019518/2022-03-11T04:23:28.475Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1553.
+_:df_1_1553 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/cho.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "cho".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1554.
+_:df_1_1554 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/che.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "che".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1555.
+_:df_1_1555 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/chi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "chi".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1556.
+_:df_1_1556 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/chr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "chr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1557.
+_:df_1_1557 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/cha.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "cha".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> <https://w3id.org/tree#relation> _:df_1_1558.
+_:df_1_1558 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/chl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "chl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ch.ttl>.

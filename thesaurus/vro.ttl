@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570008129/2022-02-26T09:27:50.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:27:50.046Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025943>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9142_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9142_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008129/2022-02-26T09:27:50.046Z>.
+<https://stad.gent/id/concept/570001734/2022-02-26T09:01:53.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:53.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q745312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9328_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vrouwenarbeid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9328_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001734/2022-02-26T09:01:53.885Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vro.ttl>.

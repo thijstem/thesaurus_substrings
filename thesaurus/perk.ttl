@@ -1,0 +1,37 @@
+<https://stad.gent/id/concept/570010003/2022-03-11T00:52:57.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:52:57.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4936_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorzichtig of ondoorzichtig materiaal dat van het vel van een kalf, schaap of geit wordt gemaakt. Het vel wordt gekalkt, onthaard, afgeschraapt en onder spanning gedroogd zodat een dun, sterk materiaal ontstaat om op te schrijven, boeken mee te binden of voor andere doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perkament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4936_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010003/2022-03-11T00:52:57.478Z>.
+<https://stad.gent/id/concept/670000719/2022-02-26T17:03:13.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:03:13.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5890_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Perkamentstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5890_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000719/2022-02-26T17:03:13.140Z>.
+<https://stad.gent/id/concept/570010003/2022-02-26T10:17:21.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:17:21.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8788_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorzichtig of ondoorzichtig materiaal dat van het vel van een kalf, schaap of geit wordt gemaakt. Het vel wordt gekalkt, onthaard, afgeschraapt en onder spanning gedroogd zodat een dun, sterk materiaal ontstaat om op te schrijven, boeken mee te binden of voor andere doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perkament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8788_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010003/2022-02-26T10:17:21.210Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/perk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/perk.ttl>.

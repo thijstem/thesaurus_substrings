@@ -1,0 +1,102 @@
+<https://stad.gent/id/concept/570022910/2022-02-26T14:27:20.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:27:20.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247545>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7003_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaigerei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7003_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022910/2022-02-26T14:27:20.783Z>.
+<https://stad.gent/id/concept/570020808/2022-02-26T14:15:31.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:15:31.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7087_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor machines waarmee materialen zoals textiel of leer genaaid kunnen worden, gewoonlijk met een naald en schietspoel voor de draad en aangedreven met een voetpedaal, waterkracht of elektriciteit. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaimachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7087_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020808/2022-02-26T14:15:31.164Z>.
+<https://stad.gent/id/concept/570019235/2022-02-26T13:33:52.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:33:52.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7384_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaimand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7384_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019235/2022-02-26T13:33:52.995Z>.
+<https://stad.gent/id/concept/570017737/2022-02-26T13:03:38.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:03:38.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7600_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor het samenvoegen van materialen met draad, touw of andere fijne draad met een naald of een priem. De betekenis overlapt met 'stikken'. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7600_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017737/2022-02-26T13:03:38.982Z>.
+<https://stad.gent/id/concept/570014301/2022-02-26T11:26:41.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:26:41.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7241660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8293_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaivoetjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8293_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014301/2022-02-26T11:26:41.716Z>.
+<https://stad.gent/id/concept/570012595/2022-02-26T10:54:02.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:54:02.142Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q679749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8527_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaigaren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8527_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012595/2022-02-26T10:54:02.142Z>.
+<https://stad.gent/id/concept/570012536/2022-02-26T10:52:36.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:36.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8536_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaiatelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8536_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012536/2022-02-26T10:52:36.595Z>.
+<https://stad.gent/id/concept/570012495/2022-02-26T10:51:46.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:51:46.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025361>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8542_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaister"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8542_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012495/2022-02-26T10:51:46.238Z>.
+<https://stad.gent/id/concept/570009171/2022-02-26T09:54:52.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:54:52.414Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8950_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor machines waarmee materialen zoals textiel of leer genaaid kunnen worden, gewoonlijk met een naald en schietspoel voor de draad en aangedreven met een voetpedaal, waterkracht of elektriciteit. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naaimachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8950_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009171/2022-02-26T09:54:52.414Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/naai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/naai.ttl>.

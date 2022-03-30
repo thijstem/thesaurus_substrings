@@ -1,0 +1,273 @@
+<https://stad.gent/id/concept/570014667/2022-03-17T00:01:50.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:50.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_58_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudsmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_58_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014667/2022-03-17T00:01:50.006Z>.
+<https://stad.gent/id/concept/670001592/2022-03-13T02:40:35.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:40:35.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_343_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gordunakaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_343_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001592/2022-03-13T02:40:35.991Z>.
+<https://stad.gent/id/concept/670001276/2022-03-13T02:14:27.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:14:27.201Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411448>;
+    <http://www.w3.org/ns/adms#identifier> _:df_529_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "godshuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_529_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001276/2022-03-13T02:14:27.201Z>.
+<https://stad.gent/id/concept/670000921/2022-03-13T02:00:50.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:50.494Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Goudensterstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_625_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000921/2022-03-13T02:00:50.494Z>.
+<https://stad.gent/id/concept/670000920/2022-03-13T02:00:45.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:00:45.492Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Godshuizenlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_628_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000920/2022-03-13T02:00:45.492Z>.
+<https://stad.gent/id/concept/670000853/2022-03-13T01:55:33.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:55:33.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077096>;
+    <http://www.w3.org/ns/adms#identifier> _:df_664_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goedkeuring van de bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_664_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000853/2022-03-13T01:55:33.611Z>.
+<https://stad.gent/id/concept/670000638/2022-03-13T01:38:06.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:38:06.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_790_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Appel (Jan Breydelstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_790_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000638/2022-03-13T01:38:06.378Z>.
+<https://stad.gent/id/concept/670000533/2022-03-13T01:29:47.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:47.917Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Appel (Bij de Brugse Poort)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_847_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000533/2022-03-13T01:29:47.917Z>.
+<https://stad.gent/id/concept/670000534/2022-03-13T01:29:52.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:52.920Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Fluitels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_847_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000534/2022-03-13T01:29:52.920Z>.
+<https://stad.gent/id/concept/670000535/2022-03-13T01:29:57.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:29:57.922Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Leeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_847_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000535/2022-03-13T01:29:57.922Z>.
+<https://stad.gent/id/concept/670000536/2022-03-13T01:30:02.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:30:02.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Mandeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_847_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000536/2022-03-13T01:30:02.924Z>.
+<https://stad.gent/id/concept/670000537/2022-03-13T01:30:08.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:30:08.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouden Poorte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_847_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000537/2022-03-13T01:30:08.227Z>.
+<https://stad.gent/id/concept/670000292/2022-03-13T01:11:40.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:11:40.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_979_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goudsmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_979_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000292/2022-03-13T01:11:40.121Z>.
+<https://stad.gent/id/concept/670000118/2022-03-13T00:57:25.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:57:25.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Goudstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1078_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000118/2022-03-13T00:57:25.169Z>.
+<https://stad.gent/id/concept/670000119/2022-03-13T00:57:30.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:57:30.171Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2879>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouvernementstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1078_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000119/2022-03-13T00:57:30.171Z>.
+<https://stad.gent/id/concept/670000116/2022-03-13T00:57:14.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:57:14.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2742>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1081_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Godshuishammeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1081_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000116/2022-03-13T00:57:14.900Z>.
+<https://stad.gent/id/concept/670000117/2022-03-13T00:57:20.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:57:20.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1081_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Goudenleeuwplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1081_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000117/2022-03-13T00:57:20.167Z>.
+<https://stad.gent/id/concept/570025166/2022-03-13T00:48:16.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:48:16.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404215>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1144_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gouache (techniek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1144_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025166/2022-03-13T00:48:16.442Z>.
+<https://stad.gent/id/concept/570025128/2022-03-13T00:47:41.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:47:41.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7239879>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Godarville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_1150_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025128/2022-03-13T00:47:41.091Z>.
+<https://stad.gent/id/concept/670001592/2022-03-11T08:35:05.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:35:05.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1636_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gordunakaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1636_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001592/2022-03-11T08:35:05.934Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1034.
+_:df_1_1034 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/god.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "god".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1035.
+_:df_1_1035 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gou.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gou".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1036.
+_:df_1_1036 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/goe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "goe".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1037.
+_:df_1_1037 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gop.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gop".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1038.
+_:df_1_1038 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/got.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "got".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1039.
+_:df_1_1039 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gon".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1040.
+_:df_1_1040 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gor".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1041.
+_:df_1_1041 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/goo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "goo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1042.
+_:df_1_1042 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gos.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gos".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> <https://w3id.org/tree#relation> _:df_1_1043.
+_:df_1_1043 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gom.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gom".
+<https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/go.ttl>.

@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570024423/2022-02-26T15:36:10.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:36:10.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003287>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6511_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Korte, verticale onderdelen die gebruikt worden om een trapleuning of muurkap te ondersteunen, vaak rond in dwarsdoorsnede en met een vaasvormig silhouet. Wordt ook gebruikt in meubilair, bijvoorbeeld in rugleuningen van stoelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baluster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6511_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024423/2022-02-26T15:36:10.133Z>.
+<https://stad.gent/id/concept/570023755/2022-02-26T15:03:13.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:03:13.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6745_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kapmuurtjes of lage schermen die bestaan uit balusters en die een railing of een ander horizontaal onderdeel dragen dat in verhouding tot de balusters zelf meestal vrij zwaar is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "balustrade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6745_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023755/2022-02-26T15:03:13.831Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/balu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/balu.ttl>.

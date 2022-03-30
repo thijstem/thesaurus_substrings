@@ -1,0 +1,232 @@
+<https://stad.gent/id/concept/670001412/2022-03-13T02:25:29.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:25:29.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerwegbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_451_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001412/2022-03-13T02:25:29.507Z>.
+<https://stad.gent/id/concept/670000941/2022-03-13T02:02:31.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:02:31.282Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_613_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_613_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000941/2022-03-13T02:02:31.282Z>.
+<https://stad.gent/id/concept/670000706/2022-03-13T01:43:28.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:43:28.433Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkmeesterstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_751_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000706/2022-03-13T01:43:28.433Z>.
+<https://stad.gent/id/concept/670000707/2022-03-13T01:43:33.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:43:33.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_751_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000707/2022-03-13T01:43:33.686Z>.
+<https://stad.gent/id/concept/670001412/2022-03-11T08:20:00.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:20:00.235Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerwegbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1744_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001412/2022-03-11T08:20:00.235Z>.
+<https://stad.gent/id/concept/670000941/2022-03-11T07:57:21.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:57:21.078Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1906_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1906_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000941/2022-03-11T07:57:21.078Z>.
+<https://stad.gent/id/concept/670000707/2022-03-11T07:38:21.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:38:21.493Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2041_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2041_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000707/2022-03-11T07:38:21.493Z>.
+<https://stad.gent/id/concept/670000706/2022-03-11T07:38:16.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:38:16.110Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2044_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkmeesterstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2044_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000706/2022-03-11T07:38:16.110Z>.
+<https://stad.gent/id/concept/570023163/2022-03-11T05:14:48.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:14:48.075Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3067_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3067_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023163/2022-03-11T05:14:48.075Z>.
+<https://stad.gent/id/concept/570022782/2022-03-11T04:59:03.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:59:03.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor ijs, soms met een deksel en/of handvatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3181_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022782/2022-03-11T04:59:03.763Z>.
+<https://stad.gent/id/concept/570019322/2022-03-11T04:13:32.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:13:32.491Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3505_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijkmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3505_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019322/2022-03-11T04:13:32.491Z>.
+<https://stad.gent/id/concept/570018979/2022-03-11T03:59:16.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018979>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:16.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3071740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3607_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerdraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3607_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018979"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018979/2022-03-11T03:59:16.644Z>.
+<https://stad.gent/id/concept/570016932/2022-03-11T03:11:35.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:11:35.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1319419>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3946_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3946_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016932/2022-03-11T03:11:35.056Z>.
+<https://stad.gent/id/concept/570009659/2022-03-11T00:45:34.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:45:34.152Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005326>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4990_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwinkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4990_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009659/2022-03-11T00:45:34.152Z>.
+<https://stad.gent/id/concept/570008348/2022-03-11T00:05:30.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:05:30.860Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5275_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geïsoleerde kasten of dozen die een vak hebben voor ijs en die worden gebruikt voor het invriezen van voedingswaren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijskast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5275_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008348/2022-03-11T00:05:30.860Z>.
+<https://stad.gent/id/concept/670001412/2022-02-26T17:44:09.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:44:09.395Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5596_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerwegbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5596_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001412/2022-02-26T17:44:09.395Z>.
+<https://stad.gent/id/concept/670000941/2022-02-26T17:21:10.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:21:10.543Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5761_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzerlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5761_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000941/2022-02-26T17:21:10.543Z>.
+<https://stad.gent/id/concept/670000706/2022-02-26T17:02:07.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:02:07.736Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5896_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkmeesterstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5896_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000706/2022-02-26T17:02:07.736Z>.
+<https://stad.gent/id/concept/670000707/2022-02-26T17:02:12.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:02:12.737Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5896_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5896_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000707/2022-02-26T17:02:12.737Z>.
+<https://stad.gent/id/concept/570023163/2022-02-26T14:38:46.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:38:46.537Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6922_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6922_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023163/2022-02-26T14:38:46.537Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ij.ttl> <https://w3id.org/tree#relation> _:df_1_2258.
+_:df_1_2258 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ijs.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ijs".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ij.ttl> <https://w3id.org/tree#relation> _:df_1_2259.
+_:df_1_2259 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ijk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ijk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ij.ttl> <https://w3id.org/tree#relation> _:df_1_2260.
+_:df_1_2260 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ijz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ijz".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ij.ttl>.

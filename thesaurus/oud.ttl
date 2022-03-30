@@ -1,0 +1,247 @@
+<https://stad.gent/id/concept/670001468/2022-03-11T08:24:42.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:24:42.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oude Sint-Michielsbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1711_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001468/2022-03-11T08:24:42.112Z>.
+<https://stad.gent/id/concept/670000694/2022-03-11T07:37:20.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:37:20.813Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2050_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Archief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2050_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000694/2022-03-11T07:37:20.813Z>.
+<https://stad.gent/id/concept/670000377/2022-03-11T07:12:08.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:12:08.932Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2230_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oudkleerkoper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2230_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000377/2022-03-11T07:12:08.932Z>.
+<https://stad.gent/id/concept/670000213/2022-03-11T07:00:12.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:00:12.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2314_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000213/2022-03-11T07:00:12.551Z>.
+<https://stad.gent/id/concept/670000214/2022-03-11T07:00:17.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:00:17.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2941>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Beestenmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2314_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000214/2022-03-11T07:00:17.553Z>.
+<https://stad.gent/id/concept/670000215/2022-03-11T07:00:22.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:00:22.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Houtlei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2314_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000215/2022-03-11T07:00:22.555Z>.
+<https://stad.gent/id/concept/670000216/2022-03-11T07:00:27.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:00:27.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2944>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudevest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2314_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000216/2022-03-11T07:00:27.557Z>.
+<https://stad.gent/id/concept/570024938/2022-03-11T06:33:09.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:33:09.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2509_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Gentbrugge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_2509_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024938/2022-03-11T06:33:09.533Z>.
+<https://stad.gent/id/concept/570024334/2022-03-11T06:07:23.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:07:23.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7249230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_2692_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024334/2022-03-11T06:07:23.827Z>.
+<https://stad.gent/id/concept/570015435/2022-03-11T02:31:39.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:31:39.291Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11269>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4231_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oudejaarsavond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4231_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015435/2022-03-11T02:31:39.291Z>.
+<https://stad.gent/id/concept/570013114/2022-03-11T01:38:58.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:38:58.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q156223>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4606_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ouderdomspensioen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4606_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013114/2022-03-11T01:38:58.702Z>.
+<https://stad.gent/id/concept/570011241/2022-03-11T01:12:21.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011241>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:12:21.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4798_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudergem (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_4798_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011241"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011241/2022-03-11T01:12:21.587Z>.
+<https://stad.gent/id/concept/570008892/2022-03-11T00:19:57.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:19:57.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13973137>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5170_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Houtlei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5170_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008892/2022-03-11T00:19:57.016Z>.
+<https://stad.gent/id/concept/570008894/2022-03-11T00:20:07.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:20:07.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2332094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5170_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Vismijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5170_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008894/2022-03-11T00:20:07.021Z>.
+<https://stad.gent/id/concept/670001637/2022-02-26T18:02:56.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:02:56.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5461_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Molenaarsstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5461_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001637/2022-02-26T18:02:56.840Z>.
+<https://stad.gent/id/concept/670001638/2022-02-26T18:03:01.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:03:01.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2943>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5461_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Schaapmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5461_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001638/2022-02-26T18:03:01.841Z>.
+<https://stad.gent/id/concept/670001639/2022-02-26T18:03:06.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:03:06.848Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5461_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oude Scheldestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5461_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001639/2022-02-26T18:03:06.848Z>.
+<https://stad.gent/id/concept/670001466/2022-02-26T17:48:41.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:48:41.402Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5563_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oud Scheldeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5563_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001466/2022-02-26T17:48:41.402Z>.
+<https://stad.gent/id/concept/670001467/2022-02-26T17:48:46.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:48:46.403Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5563_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oude Schelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5563_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001467/2022-02-26T17:48:46.403Z>.
+<https://stad.gent/id/concept/670001468/2022-02-26T17:48:51.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:48:51.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5563_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oude Sint-Michielsbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5563_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001468/2022-02-26T17:48:51.405Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> <https://w3id.org/tree#relation> _:df_1_2100.
+_:df_1_2100 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oud+a.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oud", "a".
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> <https://w3id.org/tree#relation> _:df_1_2101.
+_:df_1_2101 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oudk.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oudk".
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> <https://w3id.org/tree#relation> _:df_1_2102.
+_:df_1_2102 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oude.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oude".
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> <https://w3id.org/tree#relation> _:df_1_2103.
+_:df_1_2103 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oudb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oudb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> <https://w3id.org/tree#relation> _:df_1_2104.
+_:df_1_2104 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/oud+g.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "oud", "g".
+<https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/oud.ttl>.

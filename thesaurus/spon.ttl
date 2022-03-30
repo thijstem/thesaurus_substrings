@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570019236/2022-02-26T13:33:57.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:33:57.997Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7384_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sponzenbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7384_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019236/2022-02-26T13:33:57.997Z>.
+<https://stad.gent/id/concept/570016261/2022-02-26T12:12:50.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:12:50.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7963_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reinigingskussentjes van natuurlijke spons of ander poreus materiaal, zoals rubber of cellulose. Deze worden algemeen gebruikt om oppervlakken mee schoon te vegen of vloeistof te absorberen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spons"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7963_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016261/2022-02-26T12:12:50.061Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/spon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/spon.ttl>.

@@ -1,0 +1,28 @@
+<https://stad.gent/id/concept/570012524/2022-03-11T01:27:53.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:27:53.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4687_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steckborn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_4687_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012524/2022-03-11T01:27:53.395Z>.
+<https://stad.gent/id/concept/570012524/2022-02-26T10:52:16.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:16.586Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8539_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Steckborn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020674>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_8539_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012524/2022-02-26T10:52:16.586Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stec.ttl>.

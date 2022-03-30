@@ -1,0 +1,240 @@
+<https://stad.gent/id/concept/670001444/2022-03-23T00:03:56.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:03:56.884Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_25_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Loontjes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_25_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001444/2022-03-23T00:03:56.884Z>.
+<https://stad.gent/id/concept/670000519/2022-03-23T00:03:26.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:03:26.531Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_28_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Cruijsken (Iepenstraat)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_28_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000519/2022-03-23T00:03:26.531Z>.
+<https://stad.gent/id/concept/670000768/2022-03-23T00:03:36.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:03:36.876Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_28_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Michielsbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_28_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000768/2022-03-23T00:03:36.876Z>.
+<https://stad.gent/id/concept/670001859/2022-03-16T00:15:29.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:29.344Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25985>;
+    <http://www.w3.org/ns/adms#identifier> _:df_82_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "d'Hane-Steenhuyse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_82_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001859/2022-03-16T00:15:29.344Z>.
+<https://stad.gent/id/concept/670001840/2022-03-16T00:15:14.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:14.338Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_85_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "achterhuisje van De Wapens van Zeeland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001840/2022-03-16T00:15:14.338Z>.
+<https://stad.gent/id/concept/670001858/2022-03-16T00:15:24.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:24.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen Alijnhospitaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001858/2022-03-16T00:15:24.342Z>.
+<https://stad.gent/id/concept/670001801/2022-03-16T00:13:28.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:13:28.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_97_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "provinciehuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_97_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001801/2022-03-16T00:13:28.459Z>.
+<https://stad.gent/id/concept/670001745/2022-03-16T00:08:46.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:46.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_130_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakhuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_130_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001745/2022-03-16T00:08:46.740Z>.
+<https://stad.gent/id/concept/670001740/2022-03-16T00:08:21.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:21.421Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Goethem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_133_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001740/2022-03-16T00:08:21.421Z>.
+<https://stad.gent/id/concept/670001741/2022-03-16T00:08:26.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:26.423Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_133_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument voor Charles de Kerchove"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_133_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001741/2022-03-16T00:08:26.423Z>.
+<https://stad.gent/id/concept/670001742/2022-03-16T00:08:31.735Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:31.735Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/19160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_133_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toegangspoort van huis De Drake"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_133_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001742/2022-03-16T00:08:31.735Z>.
+<https://stad.gent/id/concept/670001743/2022-03-16T00:08:36.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:36.737Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24759>;
+    <http://www.w3.org/ns/adms#identifier> _:df_133_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tolkantoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_133_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001743/2022-03-16T00:08:36.737Z>.
+<https://stad.gent/id/concept/670001744/2022-03-16T00:08:41.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:41.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/216465>;
+    <http://www.w3.org/ns/adms#identifier> _:df_133_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oorlogsgedenkteken van de derde wijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_133_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001744/2022-03-16T00:08:41.739Z>.
+<https://stad.gent/id/concept/670001739/2022-03-16T00:08:16.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:16.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_136_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delacre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_136_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001739/2022-03-16T00:08:16.420Z>.
+<https://stad.gent/id/concept/670001649/2022-03-16T00:00:48.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:00:48.639Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_187_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Predikherenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_187_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001649/2022-03-16T00:00:48.639Z>.
+<https://stad.gent/id/concept/670001650/2022-03-16T00:00:53.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:00:53.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_187_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinses Clementinalaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_187_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001650/2022-03-16T00:00:53.642Z>.
+<https://stad.gent/id/concept/670001651/2022-03-16T00:00:59.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:00:59.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_187_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prooststraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_187_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001651/2022-03-16T00:00:59.024Z>.
+<https://stad.gent/id/concept/670001556/2022-03-15T00:00:52.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-15T00:00:52.769Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zottenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_193_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001556/2022-03-15T00:00:52.769Z>.
+<https://stad.gent/id/concept/670001325/2022-03-15T00:00:27.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-15T00:00:27.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_196_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Lattestraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_196_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001325/2022-03-15T00:00:27.759Z>.
+<https://stad.gent/id/concept/670001447/2022-03-15T00:00:32.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-15T00:00:32.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/19315>;
+    <http://www.w3.org/ns/adms#identifier> _:df_196_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lousbergs-De Hemptinne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_196_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001447/2022-03-15T00:00:32.761Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> <https://w3id.org/tree#relation> _:df_1_267.
+_:df_1_267 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pro.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pro".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> <https://w3id.org/tree#relation> _:df_1_268.
+_:df_1_268 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pri.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pri".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> <https://w3id.org/tree#relation> _:df_1_269.
+_:df_1_269 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pre.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pre".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> <https://w3id.org/tree#relation> _:df_1_270.
+_:df_1_270 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pra.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pra".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> <https://w3id.org/tree#relation> _:df_1_271.
+_:df_1_271 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/pru.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "pru".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pr.ttl>.

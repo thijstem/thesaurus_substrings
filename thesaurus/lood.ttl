@@ -1,0 +1,47 @@
+<https://stad.gent/id/concept/570014626/2022-02-26T11:35:10.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:35:10.102Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8233_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodwit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8233_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014626/2022-02-26T11:35:10.102Z>.
+<https://stad.gent/id/concept/570009962/2022-02-26T10:16:15.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:16:15.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8797_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodgieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8797_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009962/2022-02-26T10:16:15.917Z>.
+<https://stad.gent/id/concept/570001625/2022-02-26T09:01:08.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:01:08.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9334_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lood"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_9334_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001625/2022-02-26T09:01:08.407Z>.
+<https://stad.gent/id/concept/570001349/2022-02-26T08:59:17.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001349>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:59:17.707Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3241671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9346_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodgieterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9346_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001349"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001349/2022-02-26T08:59:17.707Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lood.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lood.ttl>.

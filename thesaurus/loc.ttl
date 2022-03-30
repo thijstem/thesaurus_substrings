@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/570010905/2022-03-11T01:08:54.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:08:54.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4822_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lochristi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_4822_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010905/2022-03-11T01:08:54.081Z>.
+<https://stad.gent/id/concept/570024804/2022-02-26T15:51:11.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:51:11.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300113388>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6403_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "locomotief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6403_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024804"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024804/2022-02-26T15:51:11.615Z>.
+<https://stad.gent/id/concept/570010905/2022-02-26T10:33:17.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:33:17.268Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8674_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lochristi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_8674_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010905/2022-02-26T10:33:17.268Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/loc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/loc.ttl>.

@@ -1,0 +1,14 @@
+<https://stad.gent/id/concept/570009853/2022-02-26T10:14:00.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:14:00.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8812_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boek met of zonder tekst waarin de essentiële informatie wordt overgedragen middels een verzameling fotografische afbeeldingen. Het boek kan het werk bevatten van één of meer kunstenaars of fotografen, of kan door een redactie zijn samengesteld. De afbeeldingen in een fotoboek zijn vaak bedoeld om in context te worden bekeken, als deel van een groter geheel. Meestal verwijst de term naar mechanisch gereproduceerde en commercieel verspreide werken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotoboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8812_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009853/2022-02-26T10:14:00.056Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fotob.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fotob.ttl>.

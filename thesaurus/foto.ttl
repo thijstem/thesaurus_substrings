@@ -1,0 +1,300 @@
+<https://stad.gent/id/concept/570012307/2022-03-11T01:23:16.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:23:16.360Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4720_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Techniek: Gebruikt voor het lichtdrukprocédé dat in de jaren 60 van de 19e eeuw door F. Joubert in Frankrijk werd uitgewerkt. \r\nObjectnaam: Lichtdrukken die zijn geproduceerd via een procédé ontwikkeld in Frankrijk in de jaren 60 van de 19e eeuw door F. Joubert. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fototypie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4720_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012307/2022-03-11T01:23:16.360Z>.
+<https://stad.gent/id/concept/570010183/2022-03-11T00:59:10.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:59:10.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4891_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotolaminator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4891_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010183/2022-03-11T00:59:10.094Z>.
+<https://stad.gent/id/concept/570009853/2022-03-11T00:49:36.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:49:36.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4960_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boek met of zonder tekst waarin de essentiële informatie wordt overgedragen middels een verzameling fotografische afbeeldingen. Het boek kan het werk bevatten van één of meer kunstenaars of fotografen, of kan door een redactie zijn samengesteld. De afbeeldingen in een fotoboek zijn vaak bedoeld om in context te worden bekeken, als deel van een groter geheel. Meestal verwijst de term naar mechanisch gereproduceerde en commercieel verspreide werken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotoboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4960_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009853/2022-03-11T00:49:36.219Z>.
+<https://stad.gent/id/concept/570009489/2022-03-11T00:40:26.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:40:26.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5026_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fototoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5026_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009489/2022-03-11T00:40:26.795Z>.
+<https://stad.gent/id/concept/570009297/2022-03-11T00:35:49.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:35:49.780Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5059_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotoapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5059_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009297/2022-03-11T00:35:49.780Z>.
+<https://stad.gent/id/concept/570007679/2022-03-11T00:00:48.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:00:48.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028379>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5308_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotokaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5308_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007679/2022-03-11T00:00:48.095Z>.
+<https://stad.gent/id/concept/530002865/2022-03-03T00:00:24.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:00:24.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5344_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die zijn gespecialiseerd in het maken van foto’s, dat wil zeggen stilstaande beelden gemaakt met stralingsgevoelige materialen, meestal tot stand gekomen door de chemische reactie van licht en een lichtgevoelige film, papier, glas of metaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010385>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010385> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl.
+_:df_5344_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002865/2022-03-03T00:00:24.235Z>.
+<https://stad.gent/id/concept/670001863/2022-02-26T18:18:53.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:18:53.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5347_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5347_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001863/2022-02-26T18:18:53.186Z>.
+<https://stad.gent/id/concept/530002600/2022-03-03T00:00:19.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-03T00:00:19.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300389795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5347_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografie (discipline)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "activiteit"@nl, "activity"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5347_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002600/2022-03-03T00:00:19.231Z>.
+<https://stad.gent/id/concept/670001861/2022-02-26T18:18:42.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:18:42.805Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5350_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotoarchief Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5350_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001861/2022-02-26T18:18:42.805Z>.
+<https://stad.gent/id/concept/670001288/2022-02-26T17:34:05.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:34:05.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q33231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5668_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotograaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5668_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001288/2022-02-26T17:34:05.472Z>.
+<https://stad.gent/id/concept/670001028/2022-02-26T17:27:42.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:42.857Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5713_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Foto’s Stedelijke Commissie voor Monumenten en Stadsgezichten (MA_SCMS_FO)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5713_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001028/2022-02-26T17:27:42.857Z>.
+<https://stad.gent/id/concept/670001029/2022-02-26T17:27:47.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:47.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5713_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's SCMS"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5713_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001029/2022-02-26T17:27:47.859Z>.
+<https://stad.gent/id/concept/670001030/2022-02-26T17:27:52.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:27:52.862Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5713_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5713_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001030/2022-02-26T17:27:52.862Z>.
+<https://stad.gent/id/concept/570024839/2022-02-26T15:52:36.913Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024839>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:52:36.913Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300134334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6394_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Technieken voor het nemen of arrangeren van foto's en voor het bewerken van foto's tijdens het ontwikkelen of afdrukken";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografische technieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6394_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024839"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024839/2022-02-26T15:52:36.913Z>.
+<https://stad.gent/id/concept/570024527/2022-02-26T15:42:02.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:42:02.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6469_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografische uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6469_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024527/2022-02-26T15:42:02.545Z>.
+<https://stad.gent/id/concept/570024461/2022-02-26T15:38:36.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:38:36.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6493_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotocollectie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6493_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024461/2022-02-26T15:38:36.141Z>.
+<https://stad.gent/id/concept/570024133/2022-02-26T15:20:31.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:20:31.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6622_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotografie en film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6622_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024133/2022-02-26T15:20:31.561Z>.
+<https://stad.gent/id/concept/570023484/2022-02-26T14:51:33.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:51:33.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053207>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6829_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een fotomechanisch procédé voor diepdruk waarbij de metalen drukplaat wordt geprepareerd met behulp van een bichromaat procédé, waardoor een gelatinebestendige laag ontstaat van variërende dikte. De plaat wordt geëtst om cellen te vormen van variërende diepte die verschillende hoeveelheden inkt kunnen vasthouden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotogravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6829_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023484/2022-02-26T14:51:33.481Z>.
+<https://stad.gent/id/concept/570023473/2022-02-26T14:51:08.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:51:08.181Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6832_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De opmaak van een tekst met behulp van elektronische en fotografische methoden. Afbeeldingen van letters van een bepaald lettertype worden van een film of schijf geprojecteerd op papier; zo wordt een pagina verkregen die wordt gebruikt voor de offsetplaat ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotozetten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6832_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023473/2022-02-26T14:51:08.181Z>.
+<https://stad.gent/id/concept/570019556/2022-02-26T13:49:08.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:49:08.872Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046300>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7276_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Niet-bewegende afbeeldingen vervaardigd met van stralingsgevoelige materialen (gevoelig voor licht, elektronenstralen of nucleaire straling), met uitzondering van reproductieve afdrukken van documenten en technische tekeningen. Gebruik daarvoor termen, die bijeengebracht zijn onder 'reprografische kopieën'. Foto's kunnen positief of negatief zijn, ondoorschijnend of transparant (in vaktermen: opzicht of doorzicht). ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7276_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019556/2022-02-26T13:49:08.872Z>.
+<https://stad.gent/id/concept/570017899/2022-02-26T13:07:42.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:07:42.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7573_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Papier voor het maken van fotografische afdrukken dat bestaat uit een basismateriaal met een (gebroken) wit oppervlak dat is gecoat met een of meer emulsielagen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fotopapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7573_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017899/2022-02-26T13:07:42.120Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2348.
+_:df_1_2348 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotoa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotoa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2349.
+_:df_1_2349 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotoz.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotoz".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2350.
+_:df_1_2350 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotok.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotok".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2351.
+_:df_1_2351 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotog.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotog".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2352.
+_:df_1_2352 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotov.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotov".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2353.
+_:df_1_2353 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotoh.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotoh".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2354.
+_:df_1_2354 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotot.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotot".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2355.
+_:df_1_2355 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotor".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2356.
+_:df_1_2356 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotol.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotol".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> <https://w3id.org/tree#relation> _:df_1_2357.
+_:df_1_2357 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/fotob.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "fotob".
+<https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/foto.ttl>.

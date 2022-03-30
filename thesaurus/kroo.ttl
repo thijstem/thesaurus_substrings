@@ -1,0 +1,47 @@
+<https://stad.gent/id/concept/570019381/2022-02-26T13:40:45.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:40:45.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200495>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7336_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroonkurkwipper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7336_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019381/2022-02-26T13:40:45.865Z>.
+<https://stad.gent/id/concept/570016689/2022-02-26T12:26:17.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:26:17.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1504023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7867_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroonsteentje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7867_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016689/2022-02-26T12:26:17.898Z>.
+<https://stad.gent/id/concept/570012541/2022-02-26T10:52:51.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:52:51.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046020>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8536_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8536_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012541/2022-02-26T10:52:51.600Z>.
+<https://stad.gent/id/concept/570009566/2022-02-26T10:06:47.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:06:47.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8866_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plafondverlichting met meestal twee of meer omhoog krullende armen, waaraan kaarsen, branders of lampen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kroonluchter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8866_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009566/2022-02-26T10:06:47.257Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kroo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kroo.ttl>.

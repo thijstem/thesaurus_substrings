@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570020786/2022-02-26T14:14:35.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:14:35.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391084>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7093_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zeer dun uitgewalst aluminium, meestal gebruikt als verpakkingsmateriaal voor levensmiddelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminiumfolie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7093_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020786/2022-02-26T14:14:35.744Z>.
+<https://stad.gent/id/concept/570007271/2022-02-26T09:23:43.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:23:43.516Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9172_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_9172_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007271/2022-02-26T09:23:43.516Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/alu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/alu.ttl>.

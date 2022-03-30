@@ -1,0 +1,279 @@
+<https://stad.gent/id/concept/670001792/2022-03-16T00:12:43.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:12:43.447Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_103_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koetshuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_103_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001792/2022-03-16T00:12:43.447Z>.
+<https://stad.gent/id/concept/670001753/2022-03-16T00:09:27.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:09:27.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2235462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_127_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koninklijk Instituut voor het Kunstpatrimonium (KIK)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> _:df_127_23, _:df_127_24;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_127_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001753/2022-03-16T00:09:27.106Z>.
+<https://stad.gent/id/concept/670001792/2022-03-13T02:57:12.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:57:12.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_223_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koetshuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_223_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001792/2022-03-13T02:57:12.766Z>.
+<https://stad.gent/id/concept/670001753/2022-03-13T02:53:56.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:56.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2235462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_247_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koninklijk Instituut voor het Kunstpatrimonium (KIK)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> _:df_247_18, _:df_247_19;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_247_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001753/2022-03-13T02:53:56.464Z>.
+<https://stad.gent/id/concept/670001604/2022-03-13T02:41:36.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:36.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koornmarkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001604/2022-03-13T02:41:36.655Z>.
+<https://stad.gent/id/concept/670001605/2022-03-13T02:41:41.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:41.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Steenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001605/2022-03-13T02:41:41.658Z>.
+<https://stad.gent/id/concept/670001606/2022-03-13T02:41:46.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:46.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Violettestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001606"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001606/2022-03-13T02:41:46.660Z>.
+<https://stad.gent/id/concept/670001607/2022-03-13T02:41:51.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:51.663Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijkschestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_334_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001607/2022-03-13T02:41:51.663Z>.
+<https://stad.gent/id/concept/670001601/2022-03-13T02:41:21.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:21.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001601/2022-03-13T02:41:21.310Z>.
+<https://stad.gent/id/concept/670001602/2022-03-13T02:41:26.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:26.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Albertpark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001602/2022-03-13T02:41:26.312Z>.
+<https://stad.gent/id/concept/670001603/2022-03-13T02:41:31.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:41:31.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_337_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Willem I-Kaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_337_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001603/2022-03-13T02:41:31.653Z>.
+<https://stad.gent/id/concept/670001432/2022-03-13T02:27:10.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:27:10.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_439_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Albertbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_439_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001432/2022-03-13T02:27:10.312Z>.
+<https://stad.gent/id/concept/670001433/2022-03-13T02:27:15.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:27:15.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_439_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijksepoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_439_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001433/2022-03-13T02:27:15.863Z>.
+<https://stad.gent/id/concept/670001243/2022-03-13T02:12:01.146Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:12:01.146Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3219>;
+    <http://www.w3.org/ns/adms#identifier> _:df_547_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koningin Maria Hendrikaplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_547_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001243"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001243/2022-03-13T02:12:01.146Z>.
+<https://stad.gent/id/concept/670001142/2022-03-13T02:09:50.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:09:50.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_562_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korenstapelhuis (of het Spijker)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_562_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001142/2022-03-13T02:09:50.546Z>.
+<https://stad.gent/id/concept/670000976/2022-03-13T02:05:22.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:05:22.350Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3215>;
+    <http://www.w3.org/ns/adms#identifier> _:df_595_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koning Leopold II-laan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_595_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000976/2022-03-13T02:05:22.350Z>.
+<https://stad.gent/id/concept/670000967/2022-03-13T02:04:37.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:04:37.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_598_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000967/2022-03-13T02:04:37.097Z>.
+<https://stad.gent/id/concept/670000968/2022-03-13T02:04:42.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:04:42.100Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_598_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korianderstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000968/2022-03-13T02:04:42.100Z>.
+<https://stad.gent/id/concept/670000969/2022-03-13T02:04:47.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:04:47.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_598_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Begijnhofstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000969/2022-03-13T02:04:47.102Z>.
+<https://stad.gent/id/concept/670000970/2022-03-13T02:04:52.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:04:52.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_598_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Kazernestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000970/2022-03-13T02:04:52.102Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_510.
+_:df_1_510 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kon.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kon".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_511.
+_:df_1_511 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kor.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kor".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_512.
+_:df_1_512 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/koe.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "koe".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_513.
+_:df_1_513 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kol.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kol".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_514.
+_:df_1_514 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kop.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kop".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_515.
+_:df_1_515 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kou.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kou".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_516.
+_:df_1_516 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kom.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kom".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_517.
+_:df_1_517 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/koo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "koo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_518.
+_:df_1_518 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kog.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kog".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_519.
+_:df_1_519 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kob.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kob".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_520.
+_:df_1_520 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kof.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kof".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_521.
+_:df_1_521 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kos.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kos".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_522.
+_:df_1_522 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/kok.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "kok".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ko.ttl>.

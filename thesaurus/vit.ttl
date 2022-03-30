@@ -1,0 +1,98 @@
+<https://stad.gent/id/concept/570024787/2022-03-13T00:31:42.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:31:42.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036220>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vitry-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1264_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024787/2022-03-13T00:31:42.615Z>.
+<https://stad.gent/id/concept/570024447/2022-03-13T00:18:41.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:18:41.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1357_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vittel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1357_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024447/2022-03-13T00:18:41.034Z>.
+<https://stad.gent/id/concept/570024787/2022-03-11T06:26:36.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:26:36.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036220>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2554_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vitry-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2554_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024787/2022-03-11T06:26:36.809Z>.
+<https://stad.gent/id/concept/570024447/2022-03-11T06:13:36.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:13:36.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vittel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2647_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024447/2022-03-11T06:13:36.522Z>.
+<https://stad.gent/id/concept/570008575/2022-03-11T00:09:02.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:09:02.592Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300144148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5248_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beglaasde kisten, kasten of kabinetten, waarin de goederen van een winkel worden getoond en beschermd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vitrinekast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5248_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008575/2022-03-11T00:09:02.592Z>.
+<https://stad.gent/id/concept/570024787/2022-02-26T15:50:36.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:50:36.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036220>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6409_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vitry-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_6409_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024787/2022-02-26T15:50:36.233Z>.
+<https://stad.gent/id/concept/570024447/2022-02-26T15:37:35.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:37:35.462Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6502_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vittel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6502_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024447/2022-02-26T15:37:35.462Z>.
+<https://stad.gent/id/concept/570008575/2022-02-26T09:33:37.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:37.284Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300144148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9103_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beglaasde kisten, kasten of kabinetten, waarin de goederen van een winkel worden getoond en beschermd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vitrinekast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9103_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008575/2022-02-26T09:33:37.284Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vit.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vit.ttl>.

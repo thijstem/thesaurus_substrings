@@ -1,0 +1,637 @@
+<https://stad.gent/id/concept/530010803/2022-03-23T00:02:20.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:02:20.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2017231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norwalk (Connecticut)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_37_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010803/2022-03-23T00:02:20.991Z>.
+<https://stad.gent/id/concept/530010779/2022-03-23T00:01:55.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:01:55.982Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/4007074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_40_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_40_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010779/2022-03-23T00:01:55.982Z>.
+<https://stad.gent/id/concept/530009330/2022-03-23T00:00:50.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:50.100Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_46_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004078>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009409>, <https://stad.gent/id/concept/530009827>, <https://stad.gent/id/concept/530009399>, <https://stad.gent/id/concept/530001797>, <https://stad.gent/id/concept/530003307>, <https://stad.gent/id/concept/530008088>, <https://stad.gent/id/concept/530001161>, <https://stad.gent/id/concept/530001163>, <https://stad.gent/id/concept/530010717>, <https://stad.gent/id/concept/530005429>, <https://stad.gent/id/concept/530009609>, <https://stad.gent/id/concept/530007332>, <https://stad.gent/id/concept/530004011>, <https://stad.gent/id/concept/530006652>, <https://stad.gent/id/concept/530010049>, <https://stad.gent/id/concept/530010805>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Nicolas"@nl.
+<https://stad.gent/id/concept/530010049> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waremme"@nl.
+<https://stad.gent/id/concept/530006652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl.
+<https://stad.gent/id/concept/530004011> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stavelot"@nl.
+<https://stad.gent/id/concept/530007332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprimont"@nl.
+<https://stad.gent/id/concept/530009609> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spa"@nl.
+<https://stad.gent/id/concept/530005429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seraing"@nl.
+<https://stad.gent/id/concept/530010717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinsbisdom Luik"@nl.
+<https://stad.gent/id/concept/530001163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maasland (België)"@nl.
+<https://stad.gent/id/concept/530001161> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (stad)"@nl.
+<https://stad.gent/id/concept/530008088> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemeppe (Luik)"@nl.
+<https://stad.gent/id/concept/530003307> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huy"@nl.
+<https://stad.gent/id/concept/530001797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herstal"@nl.
+<https://stad.gent/id/concept/530009399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hannut"@nl.
+<https://stad.gent/id/concept/530009827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eupen"@nl.
+<https://stad.gent/id/concept/530009409> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amay"@nl.
+<https://stad.gent/id/concept/530004078> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_46_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009330/2022-03-23T00:00:50.100Z>.
+<https://stad.gent/id/concept/530004292/2022-03-23T00:00:20.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:20.082Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010641>, <https://stad.gent/id/concept/530009694>, <https://stad.gent/id/concept/530006846>, <https://stad.gent/id/concept/530009763>, <https://stad.gent/id/concept/530010659>, <https://stad.gent/id/concept/530010051>, <https://stad.gent/id/concept/530003346>, <https://stad.gent/id/concept/530009715>, <https://stad.gent/id/concept/530001844>, <https://stad.gent/id/concept/530010361>, <https://stad.gent/id/concept/530001950>, <https://stad.gent/id/concept/530009977>, <https://stad.gent/id/concept/530006667>, <https://stad.gent/id/concept/530009814>, <https://stad.gent/id/concept/530010041>, <https://stad.gent/id/concept/530009416>, <https://stad.gent/id/concept/530005648>, <https://stad.gent/id/concept/530006635>, <https://stad.gent/id/concept/530010037>, <https://stad.gent/id/concept/530005377>, <https://stad.gent/id/concept/530006851>, <https://stad.gent/id/concept/530009979>, <https://stad.gent/id/concept/530010346>, <https://stad.gent/id/concept/530009716>, <https://stad.gent/id/concept/530009728>, <https://stad.gent/id/concept/530001962>, <https://stad.gent/id/concept/530009700>, <https://stad.gent/id/concept/530001974>, <https://stad.gent/id/concept/530001963>, <https://stad.gent/id/concept/530004412>, <https://stad.gent/id/concept/530005289>, <https://stad.gent/id/concept/530005629>, <https://stad.gent/id/concept/530009766>, <https://stad.gent/id/concept/530010060>, <https://stad.gent/id/concept/530010686>, <https://stad.gent/id/concept/530004845>, <https://stad.gent/id/concept/530001697>, <https://stad.gent/id/concept/530001960>, <https://stad.gent/id/concept/530009782>, <https://stad.gent/id/concept/530009746>, <https://stad.gent/id/concept/530009995>, <https://stad.gent/id/concept/530006852>, <https://stad.gent/id/concept/530010682>, <https://stad.gent/id/concept/530006588>, <https://stad.gent/id/concept/530009443>, <https://stad.gent/id/concept/530010039>, <https://stad.gent/id/concept/530005365>, <https://stad.gent/id/concept/530009448>, <https://stad.gent/id/concept/530009916>, <https://stad.gent/id/concept/530004325>, <https://stad.gent/id/concept/530005631>, <https://stad.gent/id/concept/530001972>, <https://stad.gent/id/concept/530007281>, <https://stad.gent/id/concept/530004131>, <https://stad.gent/id/concept/530003398>, <https://stad.gent/id/concept/530009756>, <https://stad.gent/id/concept/530006662>, <https://stad.gent/id/concept/530009776>, <https://stad.gent/id/concept/530004054>, <https://stad.gent/id/concept/530008193>, <https://stad.gent/id/concept/530010662>, <https://stad.gent/id/concept/530006733>, <https://stad.gent/id/concept/530001956>, <https://stad.gent/id/concept/530003147>, <https://stad.gent/id/concept/530009658>, <https://stad.gent/id/concept/530004298>, <https://stad.gent/id/concept/530010015>, <https://stad.gent/id/concept/530010794>, <https://stad.gent/id/concept/530009697>, <https://stad.gent/id/concept/530001991>, <https://stad.gent/id/concept/530002924>, <https://stad.gent/id/concept/530001459>, <https://stad.gent/id/concept/530003351>, <https://stad.gent/id/concept/530010522>, <https://stad.gent/id/concept/530005094>, <https://stad.gent/id/concept/530007450>, <https://stad.gent/id/concept/530009347>, <https://stad.gent/id/concept/530009953>, <https://stad.gent/id/concept/530010579>, <https://stad.gent/id/concept/530006808>, <https://stad.gent/id/concept/530009799>, <https://stad.gent/id/concept/530008279>, <https://stad.gent/id/concept/530000091>, <https://stad.gent/id/concept/530001988>, <https://stad.gent/id/concept/530005650>, <https://stad.gent/id/concept/530001952>, <https://stad.gent/id/concept/530009767>, <https://stad.gent/id/concept/530010619>, <https://stad.gent/id/concept/530009543>, <https://stad.gent/id/concept/530007233>, <https://stad.gent/id/concept/530002050>, <https://stad.gent/id/concept/530010647>, <https://stad.gent/id/concept/530009784>, <https://stad.gent/id/concept/530000345>, <https://stad.gent/id/concept/530010038>, <https://stad.gent/id/concept/530006270>, <https://stad.gent/id/concept/530006706>, <https://stad.gent/id/concept/530006842>, <https://stad.gent/id/concept/530010620>, <https://stad.gent/id/concept/530009674>, <https://stad.gent/id/concept/530001007>, <https://stad.gent/id/concept/530001954>, <https://stad.gent/id/concept/530005660>, <https://stad.gent/id/concept/530001641>, <https://stad.gent/id/concept/530009917>, <https://stad.gent/id/concept/530009702>, <https://stad.gent/id/concept/530010801>, <https://stad.gent/id/concept/530005373>, <https://stad.gent/id/concept/530005652>, <https://stad.gent/id/concept/530003893>, <https://stad.gent/id/concept/530004794>, <https://stad.gent/id/concept/530003489>, <https://stad.gent/id/concept/530010617>, <https://stad.gent/id/concept/530005645>, <https://stad.gent/id/concept/530006849>, <https://stad.gent/id/concept/530010653>, <https://stad.gent/id/concept/530005658>, <https://stad.gent/id/concept/530003892>, <https://stad.gent/id/concept/530010351>, <https://stad.gent/id/concept/530009719>, <https://stad.gent/id/concept/530005647>, <https://stad.gent/id/concept/530009686>, <https://stad.gent/id/concept/530003044>, <https://stad.gent/id/concept/530006705>, <https://stad.gent/id/concept/530001905>, <https://stad.gent/id/concept/530008332>, <https://stad.gent/id/concept/530010777>, <https://stad.gent/id/concept/530009654>, <https://stad.gent/id/concept/530004719>, <https://stad.gent/id/concept/530007453>, <https://stad.gent/id/concept/530009691>, <https://stad.gent/id/concept/530010632>, <https://stad.gent/id/concept/530010643>, <https://stad.gent/id/concept/530009748>, <https://stad.gent/id/concept/530009598>, <https://stad.gent/id/concept/530007186>, <https://stad.gent/id/concept/530006847>, <https://stad.gent/id/concept/530009933>, <https://stad.gent/id/concept/530006821>, <https://stad.gent/id/concept/530001951>, <https://stad.gent/id/concept/530010058>, <https://stad.gent/id/concept/530006869>, <https://stad.gent/id/concept/530000874>, <https://stad.gent/id/concept/530006845>, <https://stad.gent/id/concept/530005659>, <https://stad.gent/id/concept/530001997>, <https://stad.gent/id/concept/530009346>, <https://stad.gent/id/concept/530005684>, <https://stad.gent/id/concept/530006740>, <https://stad.gent/id/concept/530006844>, <https://stad.gent/id/concept/530001947>, <https://stad.gent/id/concept/530006375>, <https://stad.gent/id/concept/530007317>, <https://stad.gent/id/concept/530003403>, <https://stad.gent/id/concept/530004259>, <https://stad.gent/id/concept/530010709>, <https://stad.gent/id/concept/530010343>, <https://stad.gent/id/concept/530004069>, <https://stad.gent/id/concept/530010320>, <https://stad.gent/id/concept/530006890>, <https://stad.gent/id/concept/530006472>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "land"@nl, "country"@en, "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vigevano"@nl.
+<https://stad.gent/id/concept/530006890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vicenza"@nl.
+<https://stad.gent/id/concept/530010320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viadana"@nl.
+<https://stad.gent/id/concept/530004069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verona"@nl.
+<https://stad.gent/id/concept/530010343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdellino"@nl.
+<https://stad.gent/id/concept/530010709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veneto"@nl.
+<https://stad.gent/id/concept/530004259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Venetië"@nl.
+<https://stad.gent/id/concept/530003403> <http://www.w3.org/2004/02/skos/core#prefLabel> "Varese"@nl.
+<https://stad.gent/id/concept/530007317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Udine"@nl.
+<https://stad.gent/id/concept/530006375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turijn"@nl.
+<https://stad.gent/id/concept/530001947> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turate"@nl.
+<https://stad.gent/id/concept/530006844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trieste"@nl.
+<https://stad.gent/id/concept/530006740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Treviso"@nl.
+<https://stad.gent/id/concept/530005684> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trapani"@nl.
+<https://stad.gent/id/concept/530009346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toscane (regio)"@nl.
+<https://stad.gent/id/concept/530001997> <http://www.w3.org/2004/02/skos/core#prefLabel> "Torreglia"@nl.
+<https://stad.gent/id/concept/530005659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taranto"@nl.
+<https://stad.gent/id/concept/530006845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Siena"@nl.
+<https://stad.gent/id/concept/530000874> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sicilië"@nl.
+<https://stad.gent/id/concept/530006869> <http://www.w3.org/2004/02/skos/core#prefLabel> "Settimo Milanese"@nl.
+<https://stad.gent/id/concept/530010058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sesto San Giovanni"@nl.
+<https://stad.gent/id/concept/530001951> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sesto Fiorentino"@nl.
+<https://stad.gent/id/concept/530006821> <http://www.w3.org/2004/02/skos/core#prefLabel> "Segrate"@nl.
+<https://stad.gent/id/concept/530009933> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sciacca"@nl.
+<https://stad.gent/id/concept/530006847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schio"@nl.
+<https://stad.gent/id/concept/530007186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sassuolo"@nl.
+<https://stad.gent/id/concept/530009598> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sartirana Lomellina"@nl.
+<https://stad.gent/id/concept/530009748> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Biagio di Callalta"@nl.
+<https://stad.gent/id/concept/530010643> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Benedetto Belbo"@nl.
+<https://stad.gent/id/concept/530010632> <http://www.w3.org/2004/02/skos/core#prefLabel> "Salò"@nl.
+<https://stad.gent/id/concept/530009691> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rubano"@nl.
+<https://stad.gent/id/concept/530007453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rozzano"@nl.
+<https://stad.gent/id/concept/530004719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rome"@nl.
+<https://stad.gent/id/concept/530009654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Robbiate"@nl.
+<https://stad.gent/id/concept/530010777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rivoli Veronese"@nl.
+<https://stad.gent/id/concept/530008332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rignano sull'Arno"@nl.
+<https://stad.gent/id/concept/530001905> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recanati"@nl.
+<https://stad.gent/id/concept/530006705> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ravenna (Italië)"@nl.
+<https://stad.gent/id/concept/530003044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presezzo"@nl.
+<https://stad.gent/id/concept/530009686> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pregnana Milanese"@nl.
+<https://stad.gent/id/concept/530005647> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potenza"@nl.
+<https://stad.gent/id/concept/530009719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portici"@nl.
+<https://stad.gent/id/concept/530010351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pordenone"@nl.
+<https://stad.gent/id/concept/530003892> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pompeii"@nl.
+<https://stad.gent/id/concept/530005658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pistoia"@nl.
+<https://stad.gent/id/concept/530010653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pinzano al Tagliamento"@nl.
+<https://stad.gent/id/concept/530006849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perugia"@nl.
+<https://stad.gent/id/concept/530005645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pavia"@nl.
+<https://stad.gent/id/concept/530010617> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parma"@nl.
+<https://stad.gent/id/concept/530003489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palazzolo dello Stella"@nl.
+<https://stad.gent/id/concept/530004794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Padua"@nl.
+<https://stad.gent/id/concept/530003893> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ostia"@nl.
+<https://stad.gent/id/concept/530005652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orvieto"@nl.
+<https://stad.gent/id/concept/530005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ora"@nl.
+<https://stad.gent/id/concept/530010801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omegna"@nl.
+<https://stad.gent/id/concept/530009702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omegna"@nl.
+<https://stad.gent/id/concept/530009917> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oleggio"@nl.
+<https://stad.gent/id/concept/530001641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novedrate"@nl.
+<https://stad.gent/id/concept/530005660> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novara"@nl.
+<https://stad.gent/id/concept/530001954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nova Milanese"@nl.
+<https://stad.gent/id/concept/530001007> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Italië"@nl.
+<https://stad.gent/id/concept/530009674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noale"@nl.
+<https://stad.gent/id/concept/530010620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nave"@nl.
+<https://stad.gent/id/concept/530006842> <http://www.w3.org/2004/02/skos/core#prefLabel> "Narni"@nl.
+<https://stad.gent/id/concept/530006706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Napels"@nl.
+<https://stad.gent/id/concept/530006270> <http://www.w3.org/2004/02/skos/core#prefLabel> "Murano"@nl.
+<https://stad.gent/id/concept/530010038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monza"@nl.
+<https://stad.gent/id/concept/530000345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montelupo Fiorentino"@nl.
+<https://stad.gent/id/concept/530009784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montecatini Terme"@nl.
+<https://stad.gent/id/concept/530010647> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montebelluna"@nl.
+<https://stad.gent/id/concept/530002050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte San Giusto"@nl.
+<https://stad.gent/id/concept/530007233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modena"@nl.
+<https://stad.gent/id/concept/530009543> <http://www.w3.org/2004/02/skos/core#prefLabel> "Milaan"@nl.
+<https://stad.gent/id/concept/530010619> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merano"@nl.
+<https://stad.gent/id/concept/530009767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melzo"@nl.
+<https://stad.gent/id/concept/530001952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meda"@nl.
+<https://stad.gent/id/concept/530005650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matera (Italië)"@nl.
+<https://stad.gent/id/concept/530001988> <http://www.w3.org/2004/02/skos/core#prefLabel> "Massa-Carrara"@nl.
+<https://stad.gent/id/concept/530000091> <http://www.w3.org/2004/02/skos/core#prefLabel> "Martellago"@nl.
+<https://stad.gent/id/concept/530008279> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariano Comense"@nl.
+<https://stad.gent/id/concept/530009799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcon"@nl.
+<https://stad.gent/id/concept/530006808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mantova (Mantua)"@nl.
+<https://stad.gent/id/concept/530010579> <http://www.w3.org/2004/02/skos/core#prefLabel> "Macherio"@nl.
+<https://stad.gent/id/concept/530009953> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lumezzane"@nl.
+<https://stad.gent/id/concept/530009347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lombardia (regio)"@nl.
+<https://stad.gent/id/concept/530007450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livorno"@nl.
+<https://stad.gent/id/concept/530005094> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lissone"@nl.
+<https://stad.gent/id/concept/530010522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ligurië"@nl.
+<https://stad.gent/id/concept/530003351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lallio"@nl.
+<https://stad.gent/id/concept/530001459> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Spezia"@nl.
+<https://stad.gent/id/concept/530002924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ivrea"@nl.
+<https://stad.gent/id/concept/530001991> <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio Inferiore"@nl.
+<https://stad.gent/id/concept/530009697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio"@nl.
+<https://stad.gent/id/concept/530010794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imola"@nl.
+<https://stad.gent/id/concept/530010015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grizzana Morandi"@nl.
+<https://stad.gent/id/concept/530004298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griante (Italië)"@nl.
+<https://stad.gent/id/concept/530009658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravellona Toce"@nl.
+<https://stad.gent/id/concept/530003147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giussano"@nl.
+<https://stad.gent/id/concept/530001956> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giavera del Montello"@nl.
+<https://stad.gent/id/concept/530006733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genova"@nl.
+<https://stad.gent/id/concept/530010662> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardone Riviera"@nl.
+<https://stad.gent/id/concept/530008193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallarate"@nl.
+<https://stad.gent/id/concept/530004054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foligno"@nl.
+<https://stad.gent/id/concept/530009776> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foglianise"@nl.
+<https://stad.gent/id/concept/530006662> <http://www.w3.org/2004/02/skos/core#prefLabel> "Firenze"@nl.
+<https://stad.gent/id/concept/530009756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiorano Modenese"@nl.
+<https://stad.gent/id/concept/530003398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ferrara (Italië)"@nl.
+<https://stad.gent/id/concept/530004131> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faenza"@nl.
+<https://stad.gent/id/concept/530007281> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crusinallo"@nl.
+<https://stad.gent/id/concept/530001972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corsico"@nl.
+<https://stad.gent/id/concept/530005631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Como (Italië)"@nl.
+<https://stad.gent/id/concept/530004325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cologna Veneta"@nl.
+<https://stad.gent/id/concept/530009916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civitavecchia"@nl.
+<https://stad.gent/id/concept/530009448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Città Sant' Angelo"@nl.
+<https://stad.gent/id/concept/530005365> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cicognara"@nl.
+<https://stad.gent/id/concept/530010039> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chioggia"@nl.
+<https://stad.gent/id/concept/530009443> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cetona"@nl.
+<https://stad.gent/id/concept/530006588> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cermenate"@nl.
+<https://stad.gent/id/concept/530010682> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceriano Laghetto"@nl.
+<https://stad.gent/id/concept/530006852> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caserta"@nl.
+<https://stad.gent/id/concept/530009995> <http://www.w3.org/2004/02/skos/core#prefLabel> "Casatenovo"@nl.
+<https://stad.gent/id/concept/530009746> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carugo"@nl.
+<https://stad.gent/id/concept/530009782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carrara"@nl.
+<https://stad.gent/id/concept/530001960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carimate"@nl.
+<https://stad.gent/id/concept/530001697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capodimonte"@nl.
+<https://stad.gent/id/concept/530004845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cantù"@nl.
+<https://stad.gent/id/concept/530010686> <http://www.w3.org/2004/02/skos/core#prefLabel> "Campi Bisenzio"@nl.
+<https://stad.gent/id/concept/530010060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Campagnola Emilia"@nl.
+<https://stad.gent/id/concept/530009766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambiago"@nl.
+<https://stad.gent/id/concept/530005629> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calenzano"@nl.
+<https://stad.gent/id/concept/530005289> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burano"@nl.
+<https://stad.gent/id/concept/530004412> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brugnera"@nl.
+<https://stad.gent/id/concept/530001963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Briosco"@nl.
+<https://stad.gent/id/concept/530001974> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brescia"@nl.
+<https://stad.gent/id/concept/530009700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bregnano"@nl.
+<https://stad.gent/id/concept/530001962> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bovezzo"@nl.
+<https://stad.gent/id/concept/530009728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borsa del Grappa"@nl.
+<https://stad.gent/id/concept/530009716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borgo Tossignano"@nl.
+<https://stad.gent/id/concept/530010346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bordighera"@nl.
+<https://stad.gent/id/concept/530009979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolzano"@nl.
+<https://stad.gent/id/concept/530006851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bologna"@nl.
+<https://stad.gent/id/concept/530005377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biella"@nl.
+<https://stad.gent/id/concept/530010037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biassono"@nl.
+<https://stad.gent/id/concept/530006635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergamo"@nl.
+<https://stad.gent/id/concept/530005648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benevento"@nl.
+<https://stad.gent/id/concept/530009416> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgioioso"@nl.
+<https://stad.gent/id/concept/530010041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bassano del Grappa"@nl.
+<https://stad.gent/id/concept/530009814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barolo"@nl.
+<https://stad.gent/id/concept/530006667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bari"@nl.
+<https://stad.gent/id/concept/530009977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barbianello"@nl.
+<https://stad.gent/id/concept/530001950> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barberino di Mugello"@nl.
+<https://stad.gent/id/concept/530010361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ascona"@nl.
+<https://stad.gent/id/concept/530001844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arzignano"@nl.
+<https://stad.gent/id/concept/530009715> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arzene"@nl.
+<https://stad.gent/id/concept/530003346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arosio"@nl.
+<https://stad.gent/id/concept/530010051> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arezzo (Toscane)"@nl.
+<https://stad.gent/id/concept/530010659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arenzano"@nl.
+<https://stad.gent/id/concept/530009763> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aradeo"@nl.
+<https://stad.gent/id/concept/530006846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aosta"@nl.
+<https://stad.gent/id/concept/530009694> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albino"@nl.
+<https://stad.gent/id/concept/530010641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agliana"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_49_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004292/2022-03-23T00:00:20.082Z>.
+<https://stad.gent/id/concept/530005209/2022-03-23T00:00:25.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:25.088Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_177;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000981>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002867>, <https://stad.gent/id/concept/530003778>, <https://stad.gent/id/concept/530009392>, <https://stad.gent/id/concept/530009848>, <https://stad.gent/id/concept/530010489>, <https://stad.gent/id/concept/530002943>, <https://stad.gent/id/concept/530002755>, <https://stad.gent/id/concept/530004786>, <https://stad.gent/id/concept/530005305>, <https://stad.gent/id/concept/530009687>, <https://stad.gent/id/concept/530004281>, <https://stad.gent/id/concept/530009370>, <https://stad.gent/id/concept/530009377>, <https://stad.gent/id/concept/530009372>, <https://stad.gent/id/concept/530006418>, <https://stad.gent/id/concept/530008252>, <https://stad.gent/id/concept/530010396>, <https://stad.gent/id/concept/530010770>, <https://stad.gent/id/concept/530001843>, <https://stad.gent/id/concept/530003233>, <https://stad.gent/id/concept/530010657>, <https://stad.gent/id/concept/530010488>, <https://stad.gent/id/concept/530009375>, <https://stad.gent/id/concept/530009371>, <https://stad.gent/id/concept/530002739>, <https://stad.gent/id/concept/530009887>, <https://stad.gent/id/concept/530004377>, <https://stad.gent/id/concept/530008318>, <https://stad.gent/id/concept/530008223>, <https://stad.gent/id/concept/530009378>, <https://stad.gent/id/concept/530010364>, <https://stad.gent/id/concept/530004519>, <https://stad.gent/id/concept/530003675>, <https://stad.gent/id/concept/530005391>, <https://stad.gent/id/concept/530009373>, <https://stad.gent/id/concept/530003822>, <https://stad.gent/id/concept/530002947>, <https://stad.gent/id/concept/530005092>, <https://stad.gent/id/concept/530009548>, <https://stad.gent/id/concept/530004262>, <https://stad.gent/id/concept/530002914>, <https://stad.gent/id/concept/530010661>, <https://stad.gent/id/concept/530000003>, <https://stad.gent/id/concept/530002794>, <https://stad.gent/id/concept/530002795>, <https://stad.gent/id/concept/530005111>, <https://stad.gent/id/concept/530009376>, <https://stad.gent/id/concept/530010740>, <https://stad.gent/id/concept/530000014>, <https://stad.gent/id/concept/530003192>, <https://stad.gent/id/concept/530010759>, <https://stad.gent/id/concept/530005729>, <https://stad.gent/id/concept/530007934>, <https://stad.gent/id/concept/530009131>, <https://stad.gent/id/concept/530004827>, <https://stad.gent/id/concept/530008235>, <https://stad.gent/id/concept/530003589>, <https://stad.gent/id/concept/530004558>, <https://stad.gent/id/concept/530006354>, <https://stad.gent/id/concept/530007133>, <https://stad.gent/id/concept/530010804>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwalm"@nl.
+<https://stad.gent/id/concept/530007133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zottegem"@nl.
+<https://stad.gent/id/concept/530006354> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zelzate"@nl.
+<https://stad.gent/id/concept/530004558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zele"@nl.
+<https://stad.gent/id/concept/530003589> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetteren"@nl.
+<https://stad.gent/id/concept/530008235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Watervliet"@nl.
+<https://stad.gent/id/concept/530004827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waasmunster"@nl.
+<https://stad.gent/id/concept/530009131> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waarschoot"@nl.
+<https://stad.gent/id/concept/530007934> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temse"@nl.
+<https://stad.gent/id/concept/530005729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stekene"@nl.
+<https://stad.gent/id/concept/530010759> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sleidinge"@nl.
+<https://stad.gent/id/concept/530003192> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Niklaas"@nl.
+<https://stad.gent/id/concept/530000014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Martens-Latem"@nl.
+<https://stad.gent/id/concept/530010740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Laureins"@nl.
+<https://stad.gent/id/concept/530009376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Gillis-Waas"@nl.
+<https://stad.gent/id/concept/530005111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rosbeek"@nl.
+<https://stad.gent/id/concept/530002795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ronse"@nl.
+<https://stad.gent/id/concept/530002794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudenaarde"@nl.
+<https://stad.gent/id/concept/530000003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oosterzele"@nl.
+<https://stad.gent/id/concept/530010661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nokere"@nl.
+<https://stad.gent/id/concept/530002914> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ninove"@nl.
+<https://stad.gent/id/concept/530004262> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nazareth"@nl.
+<https://stad.gent/id/concept/530009548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Munkzwalm"@nl.
+<https://stad.gent/id/concept/530005092> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merelbeke"@nl.
+<https://stad.gent/id/concept/530002947> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melle"@nl.
+<https://stad.gent/id/concept/530003822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maldegem"@nl.
+<https://stad.gent/id/concept/530009373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maarkedal"@nl.
+<https://stad.gent/id/concept/530005391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lovendegem"@nl.
+<https://stad.gent/id/concept/530003675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokeren (Oost-Vlaanderen)"@nl.
+<https://stad.gent/id/concept/530004519> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lochristi"@nl.
+<https://stad.gent/id/concept/530010364> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linkebeek"@nl.
+<https://stad.gent/id/concept/530009378> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lievegem"@nl.
+<https://stad.gent/id/concept/530008223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lede"@nl.
+<https://stad.gent/id/concept/530008318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lebbeke"@nl.
+<https://stad.gent/id/concept/530004377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laarne"@nl.
+<https://stad.gent/id/concept/530009887> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwaremont"@nl.
+<https://stad.gent/id/concept/530002739> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruishoutem"@nl.
+<https://stad.gent/id/concept/530009371> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruibeke"@nl.
+<https://stad.gent/id/concept/530009375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaprijke"@nl.
+<https://stad.gent/id/concept/530010488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalken"@nl.
+<https://stad.gent/id/concept/530010657> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huise"@nl.
+<https://stad.gent/id/concept/530003233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herzele"@nl.
+<https://stad.gent/id/concept/530001843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemelveerdegem"@nl.
+<https://stad.gent/id/concept/530010770> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamme"@nl.
+<https://stad.gent/id/concept/530010396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamme"@nl.
+<https://stad.gent/id/concept/530008252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geraardsbergen"@nl.
+<https://stad.gent/id/concept/530006418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+<https://stad.gent/id/concept/530009372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gavere"@nl.
+<https://stad.gent/id/concept/530009377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evergem"@nl.
+<https://stad.gent/id/concept/530009370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erpe-Mere"@nl.
+<https://stad.gent/id/concept/530004281> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eeklo"@nl.
+<https://stad.gent/id/concept/530009687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desteldonk"@nl.
+<https://stad.gent/id/concept/530005305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Destelbergen"@nl.
+<https://stad.gent/id/concept/530004786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dendermonde"@nl.
+<https://stad.gent/id/concept/530002755> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deinze"@nl.
+<https://stad.gent/id/concept/530002943> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Pinte"@nl.
+<https://stad.gent/id/concept/530010489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beveren-Waas"@nl.
+<https://stad.gent/id/concept/530009848> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bachte-Maria-Leerne"@nl.
+<https://stad.gent/id/concept/530009392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Assenede"@nl.
+<https://stad.gent/id/concept/530003778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aalter"@nl.
+<https://stad.gent/id/concept/530002867> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aalst"@nl.
+<https://stad.gent/id/concept/530000981> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+_:df_49_177 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005209/2022-03-23T00:00:25.088Z>.
+<https://stad.gent/id/concept/530005982/2022-03-23T00:00:30.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:30.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_246;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530004136>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005937>, <https://stad.gent/id/concept/530009502>, <https://stad.gent/id/concept/530009352>, <https://stad.gent/id/concept/530005938>, <https://stad.gent/id/concept/530002856>, <https://stad.gent/id/concept/530009904>, <https://stad.gent/id/concept/530009855>, <https://stad.gent/id/concept/530008251>, <https://stad.gent/id/concept/530010335>, <https://stad.gent/id/concept/530009874>, <https://stad.gent/id/concept/530005940>, <https://stad.gent/id/concept/530003952>, <https://stad.gent/id/concept/530000881>, <https://stad.gent/id/concept/530009806>, <https://stad.gent/id/concept/530005361>, <https://stad.gent/id/concept/530009433>, <https://stad.gent/id/concept/530009970>, <https://stad.gent/id/concept/530003092>, <https://stad.gent/id/concept/530009818>, <https://stad.gent/id/concept/530007284>, <https://stad.gent/id/concept/530004787>, <https://stad.gent/id/concept/530000338>, <https://stad.gent/id/concept/530010586>, <https://stad.gent/id/concept/530009795>, <https://stad.gent/id/concept/530009858>, <https://stad.gent/id/concept/530009563>, <https://stad.gent/id/concept/530009832>, <https://stad.gent/id/concept/530009865>, <https://stad.gent/id/concept/530000165>, <https://stad.gent/id/concept/530007970>, <https://stad.gent/id/concept/530010369>, <https://stad.gent/id/concept/530009938>, <https://stad.gent/id/concept/530003843>, <https://stad.gent/id/concept/530007031>, <https://stad.gent/id/concept/530009696>, <https://stad.gent/id/concept/530009990>, <https://stad.gent/id/concept/530001665>, <https://stad.gent/id/concept/530008317>, <https://stad.gent/id/concept/530003673>, <https://stad.gent/id/concept/530010596>, <https://stad.gent/id/concept/530010628>, <https://stad.gent/id/concept/530010665>, <https://stad.gent/id/concept/530010802>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010802> <http://www.w3.org/2004/02/skos/core#prefLabel> "Randers"@nl.
+<https://stad.gent/id/concept/530010665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klampenborg"@nl.
+<https://stad.gent/id/concept/530010628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fredericia"@nl.
+<https://stad.gent/id/concept/530010596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virksund"@nl.
+<https://stad.gent/id/concept/530003673> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vojens"@nl.
+<https://stad.gent/id/concept/530008317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonder"@nl.
+<https://stad.gent/id/concept/530001665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tisvilde"@nl.
+<https://stad.gent/id/concept/530009990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Svendborg"@nl.
+<https://stad.gent/id/concept/530009696> <http://www.w3.org/2004/02/skos/core#prefLabel> "Struer"@nl.
+<https://stad.gent/id/concept/530007031> <http://www.w3.org/2004/02/skos/core#prefLabel> "Snekkersten"@nl.
+<https://stad.gent/id/concept/530003843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skive"@nl.
+<https://stad.gent/id/concept/530009938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skanderborg"@nl.
+<https://stad.gent/id/concept/530010369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rønne"@nl.
+<https://stad.gent/id/concept/530007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ringkøbing"@nl.
+<https://stad.gent/id/concept/530000165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raadvad (Rådvad)"@nl.
+<https://stad.gent/id/concept/530009865> <http://www.w3.org/2004/02/skos/core#prefLabel> "Østervrå"@nl.
+<https://stad.gent/id/concept/530009832> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ordrup"@nl.
+<https://stad.gent/id/concept/530009563> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odense (Denemarken)"@nl.
+<https://stad.gent/id/concept/530009858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Næstved"@nl.
+<https://stad.gent/id/concept/530009795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Måløv"@nl.
+<https://stad.gent/id/concept/530010586> <http://www.w3.org/2004/02/skos/core#prefLabel> "Løgumkloster"@nl.
+<https://stad.gent/id/concept/530000338> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kopenhagen"@nl.
+<https://stad.gent/id/concept/530004787> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolding"@nl.
+<https://stad.gent/id/concept/530007284> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humlebæk"@nl.
+<https://stad.gent/id/concept/530009818> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hillerød"@nl.
+<https://stad.gent/id/concept/530003092> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hellerup"@nl.
+<https://stad.gent/id/concept/530009970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hårby"@nl.
+<https://stad.gent/id/concept/530009433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gudhjem"@nl.
+<https://stad.gent/id/concept/530005361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greve"@nl.
+<https://stad.gent/id/concept/530009806> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gedsted"@nl.
+<https://stad.gent/id/concept/530000881> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamtofte"@nl.
+<https://stad.gent/id/concept/530003952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frederiksværk"@nl.
+<https://stad.gent/id/concept/530005940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frederiksberg"@nl.
+<https://stad.gent/id/concept/530009874> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farum"@nl.
+<https://stad.gent/id/concept/530010335> <http://www.w3.org/2004/02/skos/core#prefLabel> "Espergærde"@nl.
+<https://stad.gent/id/concept/530008251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dronningmølle"@nl.
+<https://stad.gent/id/concept/530009855> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christianshavn"@nl.
+<https://stad.gent/id/concept/530009904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charlottenlund"@nl.
+<https://stad.gent/id/concept/530002856> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bornholm"@nl.
+<https://stad.gent/id/concept/530005938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Allerod"@nl.
+<https://stad.gent/id/concept/530009352> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alborg"@nl.
+<https://stad.gent/id/concept/530009502> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arup"@nl.
+<https://stad.gent/id/concept/530005937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aarhus"@nl.
+<https://stad.gent/id/concept/530004136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavië"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_49_246 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005982/2022-03-23T00:00:30.091Z>.
+<https://stad.gent/id/concept/530006278/2022-03-23T00:00:35.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:35.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_304;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004612>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006860>, <https://stad.gent/id/concept/530006970>, <https://stad.gent/id/concept/530009847>, <https://stad.gent/id/concept/530007326>, <https://stad.gent/id/concept/530005222>, <https://stad.gent/id/concept/530009620>, <https://stad.gent/id/concept/530009714>, <https://stad.gent/id/concept/530009928>, <https://stad.gent/id/concept/530009665>, <https://stad.gent/id/concept/530009422>, <https://stad.gent/id/concept/530009596>, <https://stad.gent/id/concept/530006914>, <https://stad.gent/id/concept/530007408>, <https://stad.gent/id/concept/530001597>, <https://stad.gent/id/concept/530006907>, <https://stad.gent/id/concept/530009841>, <https://stad.gent/id/concept/530005427>, <https://stad.gent/id/concept/530009622>, <https://stad.gent/id/concept/530004155>, <https://stad.gent/id/concept/530006389>, <https://stad.gent/id/concept/530009825>, <https://stad.gent/id/concept/530009867>, <https://stad.gent/id/concept/530007250>, <https://stad.gent/id/concept/530009673>, <https://stad.gent/id/concept/530006388>, <https://stad.gent/id/concept/530009804>, <https://stad.gent/id/concept/530009885>, <https://stad.gent/id/concept/530007282>, <https://stad.gent/id/concept/530009751>, <https://stad.gent/id/concept/530009846>, <https://stad.gent/id/concept/530007190>, <https://stad.gent/id/concept/530009477>, <https://stad.gent/id/concept/530006866>, <https://stad.gent/id/concept/530007049>, <https://stad.gent/id/concept/530010421>, <https://stad.gent/id/concept/530002857>, <https://stad.gent/id/concept/530009394>, <https://stad.gent/id/concept/530006862>, <https://stad.gent/id/concept/530006919>, <https://stad.gent/id/concept/530009987>, <https://stad.gent/id/concept/530001374>, <https://stad.gent/id/concept/530005913>, <https://stad.gent/id/concept/530006902>, <https://stad.gent/id/concept/530005702>, <https://stad.gent/id/concept/530009515>, <https://stad.gent/id/concept/530001453>, <https://stad.gent/id/concept/530007398>, <https://stad.gent/id/concept/530009672>, <https://stad.gent/id/concept/530004843>, <https://stad.gent/id/concept/530007344>, <https://stad.gent/id/concept/530007310>, <https://stad.gent/id/concept/530009670>, <https://stad.gent/id/concept/530009541>, <https://stad.gent/id/concept/530007429>, <https://stad.gent/id/concept/530007299>, <https://stad.gent/id/concept/530007147>, <https://stad.gent/id/concept/530006728>, <https://stad.gent/id/concept/530006891>, <https://stad.gent/id/concept/530010550>, <https://stad.gent/id/concept/530010548>, <https://stad.gent/id/concept/530006843>, <https://stad.gent/id/concept/530009992>, <https://stad.gent/id/concept/530006390>, <https://stad.gent/id/concept/530007048>, <https://stad.gent/id/concept/530009559>, <https://stad.gent/id/concept/530006841>, <https://stad.gent/id/concept/530001908>, <https://stad.gent/id/concept/530004796>, <https://stad.gent/id/concept/530009901>, <https://stad.gent/id/concept/530008248>, <https://stad.gent/id/concept/530004807>, <https://stad.gent/id/concept/530009632>, <https://stad.gent/id/concept/530009835>, <https://stad.gent/id/concept/530009341>, <https://stad.gent/id/concept/530003426>, <https://stad.gent/id/concept/530010358>, <https://stad.gent/id/concept/530004772>, <https://stad.gent/id/concept/530009577>, <https://stad.gent/id/concept/530009621>, <https://stad.gent/id/concept/530004227>, <https://stad.gent/id/concept/530009800>, <https://stad.gent/id/concept/530010357>, <https://stad.gent/id/concept/530010379>, <https://stad.gent/id/concept/530009869>, <https://stad.gent/id/concept/530009790>, <https://stad.gent/id/concept/530009866>, <https://stad.gent/id/concept/530009583>, <https://stad.gent/id/concept/530006922>, <https://stad.gent/id/concept/530009851>, <https://stad.gent/id/concept/530004837>, <https://stad.gent/id/concept/530006906>, <https://stad.gent/id/concept/530006861>, <https://stad.gent/id/concept/530009623>, <https://stad.gent/id/concept/530009752>, <https://stad.gent/id/concept/530009852>, <https://stad.gent/id/concept/530009655>, <https://stad.gent/id/concept/530009478>, <https://stad.gent/id/concept/530004835>, <https://stad.gent/id/concept/530009616>, <https://stad.gent/id/concept/530004036>, <https://stad.gent/id/concept/530009627>, <https://stad.gent/id/concept/530006859>, <https://stad.gent/id/concept/530005393>, <https://stad.gent/id/concept/530010055>, <https://stad.gent/id/concept/530006865>, <https://stad.gent/id/concept/530001877>, <https://stad.gent/id/concept/530010332>, <https://stad.gent/id/concept/530007452>, <https://stad.gent/id/concept/530010621>, <https://stad.gent/id/concept/530010663>, <https://stad.gent/id/concept/530010672>, <https://stad.gent/id/concept/530010721>, <https://stad.gent/id/concept/530010747>, <https://stad.gent/id/concept/530010803>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Norwalk (Connecticut)"@nl.
+<https://stad.gent/id/concept/530010747> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harbour Island"@nl.
+<https://stad.gent/id/concept/530010721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Santa Fe (NM)"@nl.
+<https://stad.gent/id/concept/530010672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempe (Arizona)"@nl.
+<https://stad.gent/id/concept/530010663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontario (Californië)"@nl.
+<https://stad.gent/id/concept/530010621> <http://www.w3.org/2004/02/skos/core#prefLabel> "New York (staat)"@nl.
+<https://stad.gent/id/concept/530007452> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeeland (Michigan)"@nl.
+<https://stad.gent/id/concept/530010332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Youngstown (Ohio)"@nl.
+<https://stad.gent/id/concept/530001877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wisconsin (staat)"@nl.
+<https://stad.gent/id/concept/530006865> <http://www.w3.org/2004/02/skos/core#prefLabel> "Washington"@nl.
+<https://stad.gent/id/concept/530010055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marion (Virginia)"@nl.
+<https://stad.gent/id/concept/530005393> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morgan (Utah)"@nl.
+<https://stad.gent/id/concept/530006859> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuscon"@nl.
+<https://stad.gent/id/concept/530009627> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toledo (Ohio)"@nl.
+<https://stad.gent/id/concept/530004036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tennessee"@nl.
+<https://stad.gent/id/concept/530009616> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tampa (Florida)"@nl.
+<https://stad.gent/id/concept/530004835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tacoma (Washington)"@nl.
+<https://stad.gent/id/concept/530009478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syracuse (New York)"@nl.
+<https://stad.gent/id/concept/530009655> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sparta (Michigan)"@nl.
+<https://stad.gent/id/concept/530009852> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seattle (Washington)"@nl.
+<https://stad.gent/id/concept/530009752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scottsville (New York)"@nl.
+<https://stad.gent/id/concept/530009623> <http://www.w3.org/2004/02/skos/core#prefLabel> "Savannah"@nl.
+<https://stad.gent/id/concept/530006861> <http://www.w3.org/2004/02/skos/core#prefLabel> "Santa Monica"@nl.
+<https://stad.gent/id/concept/530006906> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Marino"@nl.
+<https://stad.gent/id/concept/530004837> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco"@nl.
+<https://stad.gent/id/concept/530009851> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Diego (California)"@nl.
+<https://stad.gent/id/concept/530006922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Salt Lake City"@nl.
+<https://stad.gent/id/concept/530009583> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Wendel"@nl.
+<https://stad.gent/id/concept/530009866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saginaw (Michigan)"@nl.
+<https://stad.gent/id/concept/530009790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacramento"@nl.
+<https://stad.gent/id/concept/530009869> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rochester (New York)"@nl.
+<https://stad.gent/id/concept/530010379> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rochelle (Illinois)"@nl.
+<https://stad.gent/id/concept/530010357> <http://www.w3.org/2004/02/skos/core#prefLabel> "Richland Center (Wisconsin)"@nl.
+<https://stad.gent/id/concept/530009800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Richardson (Texas)"@nl.
+<https://stad.gent/id/concept/530004227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rhode Island"@nl.
+<https://stad.gent/id/concept/530009621> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provincetown"@nl.
+<https://stad.gent/id/concept/530009577> <http://www.w3.org/2004/02/skos/core#prefLabel> "Princeton (New Jersey)"@nl.
+<https://stad.gent/id/concept/530004772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pittsburgh (Pennsylvania)"@nl.
+<https://stad.gent/id/concept/530010358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phoenix"@nl.
+<https://stad.gent/id/concept/530003426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philadelphia"@nl.
+<https://stad.gent/id/concept/530009341> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pennsylvania (staat)"@nl.
+<https://stad.gent/id/concept/530009835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palo Alto"@nl.
+<https://stad.gent/id/concept/530009632> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orlando (Florida)"@nl.
+<https://stad.gent/id/concept/530004807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohio"@nl.
+<https://stad.gent/id/concept/530008248> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ocala"@nl.
+<https://stad.gent/id/concept/530009901> <http://www.w3.org/2004/02/skos/core#prefLabel> "North Olmsted"@nl.
+<https://stad.gent/id/concept/530004796> <http://www.w3.org/2004/02/skos/core#prefLabel> "Norfolk (Virginia)"@nl.
+<https://stad.gent/id/concept/530001908> <http://www.w3.org/2004/02/skos/core#prefLabel> "New York"@nl.
+<https://stad.gent/id/concept/530006841> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Rochelle"@nl.
+<https://stad.gent/id/concept/530009559> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Orleans"@nl.
+<https://stad.gent/id/concept/530007048> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Haven (Connecticut)"@nl.
+<https://stad.gent/id/concept/530006390> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Hampshire"@nl.
+<https://stad.gent/id/concept/530009992> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Canaan (Connecticut)"@nl.
+<https://stad.gent/id/concept/530006843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Navara"@nl.
+<https://stad.gent/id/concept/530010548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Missouri"@nl.
+<https://stad.gent/id/concept/530010550> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minnesota"@nl.
+<https://stad.gent/id/concept/530006891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minneapolis"@nl.
+<https://stad.gent/id/concept/530006728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Milwaukee (Wisconsin)"@nl.
+<https://stad.gent/id/concept/530007147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Middletown (Connecticut)"@nl.
+<https://stad.gent/id/concept/530007299> <http://www.w3.org/2004/02/skos/core#prefLabel> "Middle Amana (Iowa)"@nl.
+<https://stad.gent/id/concept/530007429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miami Beach"@nl.
+<https://stad.gent/id/concept/530009541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miami"@nl.
+<https://stad.gent/id/concept/530009670> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marinette"@nl.
+<https://stad.gent/id/concept/530007310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marina del Rey"@nl.
+<https://stad.gent/id/concept/530007344> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malibu"@nl.
+<https://stad.gent/id/concept/530004843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Los Angeles"@nl.
+<https://stad.gent/id/concept/530009672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Los Altos"@nl.
+<https://stad.gent/id/concept/530007398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Layton (Utah)"@nl.
+<https://stad.gent/id/concept/530001453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knoxville (Tennessee)"@nl.
+<https://stad.gent/id/concept/530009515> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kansas City"@nl.
+<https://stad.gent/id/concept/530005702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indianapolis (Indiana)"@nl.
+<https://stad.gent/id/concept/530006902> <http://www.w3.org/2004/02/skos/core#prefLabel> "Illinois (staat)"@nl.
+<https://stad.gent/id/concept/530005913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houston (Texas)"@nl.
+<https://stad.gent/id/concept/530001374> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hendersonville (North Carolina)"@nl.
+<https://stad.gent/id/concept/530009987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hartford (Connecticut)"@nl.
+<https://stad.gent/id/concept/530006919> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greenwich (Connecticut)"@nl.
+<https://stad.gent/id/concept/530006862> <http://www.w3.org/2004/02/skos/core#prefLabel> "Globe (Arizona)"@nl.
+<https://stad.gent/id/concept/530009394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georgia (staat)"@nl.
+<https://stad.gent/id/concept/530002857> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardena (California)"@nl.
+<https://stad.gent/id/concept/530010421> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardena"@nl.
+<https://stad.gent/id/concept/530007049> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garden City (New York)"@nl.
+<https://stad.gent/id/concept/530006866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flagstaff (Arizona)"@nl.
+<https://stad.gent/id/concept/530009477> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evanston (Illinois)"@nl.
+<https://stad.gent/id/concept/530007190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Englewood-Cliffs"@nl.
+<https://stad.gent/id/concept/530009846> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endicott (New York)"@nl.
+<https://stad.gent/id/concept/530009751> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emporia (Kansas)"@nl.
+<https://stad.gent/id/concept/530007282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edison (New Jersey)"@nl.
+<https://stad.gent/id/concept/530009885> <http://www.w3.org/2004/02/skos/core#prefLabel> "East Greenville (Pennsylvania)"@nl.
+<https://stad.gent/id/concept/530009804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detroit (Michigan)"@nl.
+<https://stad.gent/id/concept/530006388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denver (Colorado)"@nl.
+<https://stad.gent/id/concept/530009673> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cupertino"@nl.
+<https://stad.gent/id/concept/530007250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corning (New York)"@nl.
+<https://stad.gent/id/concept/530009867> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coral Gables"@nl.
+<https://stad.gent/id/concept/530009825> <http://www.w3.org/2004/02/skos/core#prefLabel> "Connecticut (staat)"@nl.
+<https://stad.gent/id/concept/530006389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colorado"@nl.
+<https://stad.gent/id/concept/530004155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clifton Junction"@nl.
+<https://stad.gent/id/concept/530009622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleveland (Ohio)"@nl.
+<https://stad.gent/id/concept/530005427> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicago"@nl.
+<https://stad.gent/id/concept/530009841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canton (Ohio)"@nl.
+<https://stad.gent/id/concept/530006907> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambridge (Massachusetts)"@nl.
+<https://stad.gent/id/concept/530001597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Californië (staat)"@nl.
+<https://stad.gent/id/concept/530007408> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buffalo"@nl.
+<https://stad.gent/id/concept/530006914> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boston"@nl.
+<https://stad.gent/id/concept/530009596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloomfield Hills"@nl.
+<https://stad.gent/id/concept/530009422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezer"@nl.
+<https://stad.gent/id/concept/530009665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benton Harbor"@nl.
+<https://stad.gent/id/concept/530009928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beacon (New York)"@nl.
+<https://stad.gent/id/concept/530009714> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barto (Pennsylvania)"@nl.
+<https://stad.gent/id/concept/530009620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baltimore"@nl.
+<https://stad.gent/id/concept/530005222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlanta (Georgia)"@nl.
+<https://stad.gent/id/concept/530007326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atglen"@nl.
+<https://stad.gent/id/concept/530009847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armonk"@nl.
+<https://stad.gent/id/concept/530006970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ann Arbor (Michigan)"@nl.
+<https://stad.gent/id/concept/530006860> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albuquerque"@nl.
+<https://stad.gent/id/concept/530004612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord- en Centraal Amerika"@nl.
+_:df_49_304 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006278/2022-03-23T00:00:35.094Z>.
+<https://stad.gent/id/concept/530002920/2022-03-23T00:00:15.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:00:15.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_52_39;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000981>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010375>, <https://stad.gent/id/concept/530003175>, <https://stad.gent/id/concept/530009545>, <https://stad.gent/id/concept/530009892>, <https://stad.gent/id/concept/530002704>, <https://stad.gent/id/concept/530009824>, <https://stad.gent/id/concept/530009432>, <https://stad.gent/id/concept/530010372>, <https://stad.gent/id/concept/530004674>, <https://stad.gent/id/concept/530010333>, <https://stad.gent/id/concept/530009363>, <https://stad.gent/id/concept/530009237>, <https://stad.gent/id/concept/530003539>, <https://stad.gent/id/concept/530009777>, <https://stad.gent/id/concept/530002804>, <https://stad.gent/id/concept/530009486>, <https://stad.gent/id/concept/530006476>, <https://stad.gent/id/concept/530002762>, <https://stad.gent/id/concept/530003468>, <https://stad.gent/id/concept/530003659>, <https://stad.gent/id/concept/530010743>, <https://stad.gent/id/concept/530009840>, <https://stad.gent/id/concept/530009104>, <https://stad.gent/id/concept/530005755>, <https://stad.gent/id/concept/530003548>, <https://stad.gent/id/concept/530009531>, <https://stad.gent/id/concept/530003234>, <https://stad.gent/id/concept/530003190>, <https://stad.gent/id/concept/530005847>, <https://stad.gent/id/concept/530007438>, <https://stad.gent/id/concept/530009364>, <https://stad.gent/id/concept/530002054>, <https://stad.gent/id/concept/530009365>, <https://stad.gent/id/concept/530010428>, <https://stad.gent/id/concept/530004831>, <https://stad.gent/id/concept/530006185>, <https://stad.gent/id/concept/530004181>, <https://stad.gent/id/concept/530003998>, <https://stad.gent/id/concept/530006771>, <https://stad.gent/id/concept/530003621>, <https://stad.gent/id/concept/530009688>, <https://stad.gent/id/concept/530007157>, <https://stad.gent/id/concept/530006714>, <https://stad.gent/id/concept/530010736>, <https://stad.gent/id/concept/530003349>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003349> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwijndrecht"@nl.
+<https://stad.gent/id/concept/530010736> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoersel"@nl.
+<https://stad.gent/id/concept/530006714> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zandhoven"@nl.
+<https://stad.gent/id/concept/530007157> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wommelgem"@nl.
+<https://stad.gent/id/concept/530009688> <http://www.w3.org/2004/02/skos/core#prefLabel> "Willebroek"@nl.
+<https://stad.gent/id/concept/530003621> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijnegem"@nl.
+<https://stad.gent/id/concept/530006771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Westerlo"@nl.
+<https://stad.gent/id/concept/530003998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vosselaar"@nl.
+<https://stad.gent/id/concept/530004181> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnhout"@nl.
+<https://stad.gent/id/concept/530006185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoten (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530004831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonhoven (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530010428> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijkevorsel"@nl.
+<https://stad.gent/id/concept/530009365> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ranst"@nl.
+<https://stad.gent/id/concept/530002054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puurs"@nl.
+<https://stad.gent/id/concept/530009364> <http://www.w3.org/2004/02/skos/core#prefLabel> "Putte (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530007438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijlen"@nl.
+<https://stad.gent/id/concept/530005847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merksplas"@nl.
+<https://stad.gent/id/concept/530003190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechelen"@nl.
+<https://stad.gent/id/concept/530003234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malle"@nl.
+<https://stad.gent/id/concept/530009531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lille (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530003548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lier"@nl.
+<https://stad.gent/id/concept/530005755> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontich"@nl.
+<https://stad.gent/id/concept/530009104> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kasterlee"@nl.
+<https://stad.gent/id/concept/530009840> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapellen"@nl.
+<https://stad.gent/id/concept/530010743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalmthout"@nl.
+<https://stad.gent/id/concept/530003659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hove"@nl.
+<https://stad.gent/id/concept/530003468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogstraten"@nl.
+<https://stad.gent/id/concept/530002762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herentals"@nl.
+<https://stad.gent/id/concept/530006476> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heist-op-den-Berg"@nl.
+<https://stad.gent/id/concept/530009486> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geel (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530002804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edegem"@nl.
+<https://stad.gent/id/concept/530009777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duffel"@nl.
+<https://stad.gent/id/concept/530003539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurne"@nl.
+<https://stad.gent/id/concept/530009237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dessel"@nl.
+<https://stad.gent/id/concept/530009363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brecht (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530010333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brecht"@nl.
+<https://stad.gent/id/concept/530004674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brasschaat"@nl.
+<https://stad.gent/id/concept/530010372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borsbeek"@nl.
+<https://stad.gent/id/concept/530009432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bornem"@nl.
+<https://stad.gent/id/concept/530009824> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boom (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530002704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonheiden (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530009892> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlaar"@nl.
+<https://stad.gent/id/concept/530009545> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen (Antwerpen)"@nl.
+<https://stad.gent/id/concept/530003175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (stad)"@nl.
+<https://stad.gent/id/concept/530010375> <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenwezel"@nl.
+<https://stad.gent/id/concept/530000981> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaanderen"@nl.
+_:df_52_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002920/2022-03-23T00:00:15.079Z>.
+<https://stad.gent/id/concept/530010798/2022-03-17T00:01:19.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:19.701Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7013003>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baffin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004847>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_61_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010798/2022-03-17T00:01:19.701Z>.
+<https://stad.gent/id/concept/530010799/2022-03-17T00:01:24.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:24.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7016788>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rajasthan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009336>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indië"@nl, "Indië"@nl.
+_:df_61_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010799/2022-03-17T00:01:24.703Z>.
+<https://stad.gent/id/concept/530010800/2022-03-17T00:01:29.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010800>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:29.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7574355>;
+    <http://www.w3.org/ns/adms#identifier> _:df_61_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaipur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009336>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indië"@nl, "Indië"@nl.
+_:df_61_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010800"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010800/2022-03-17T00:01:29.705Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_118.
+_:df_1_118 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plac.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plac".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_119.
+_:df_1_119 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plaa.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plaa".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_120.
+_:df_1_120 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plan.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plan".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_121.
+_:df_1_121 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plat.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plat".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_122.
+_:df_1_122 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plaf.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plaf".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_123.
+_:df_1_123 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plak.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plak".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_124.
+_:df_1_124 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plau.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plau".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> <https://w3id.org/tree#relation> _:df_1_125.
+_:df_1_125 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/plas.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "plas".
+<https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pla.ttl>.

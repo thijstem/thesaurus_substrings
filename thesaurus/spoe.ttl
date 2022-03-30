@@ -1,0 +1,54 @@
+<https://stad.gent/id/concept/570022882/2022-02-26T14:26:25.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:26:25.491Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215616>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7009_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders, inhoud ca 10 liter, voor het verzamelen en afvoeren van vuil water uit het huishouden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoelbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7009_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022882/2022-02-26T14:26:25.491Z>.
+<https://stad.gent/id/concept/570014367/2022-02-26T11:27:52.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:27:52.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8284_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoel, garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8284_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014367/2022-02-26T11:27:52.091Z>.
+<https://stad.gent/id/concept/570013369/2022-02-26T11:09:19.098Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:09:19.098Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023528>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8419_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8419_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013369/2022-02-26T11:09:19.098Z>.
+<https://stad.gent/id/concept/570010399/2022-02-26T10:27:09.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:27:09.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8719_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8719_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010399/2022-02-26T10:27:09.905Z>.
+<https://stad.gent/id/concept/570009703/2022-02-26T10:11:14.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:14.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8833_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8833_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009703/2022-02-26T10:11:14.221Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/spoe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/spoe.ttl>.

@@ -1,0 +1,127 @@
+<https://stad.gent/id/concept/570019586/2022-03-11T04:25:59.623Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:25:59.623Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passende stellen tafelgerei om een maaltijd te serveren voor een aantal aanzittenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3415_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019586/2022-03-11T04:25:59.623Z>.
+<https://stad.gent/id/concept/570019470/2022-03-11T04:20:56.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:20:56.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3451_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019470/2022-03-11T04:20:56.139Z>.
+<https://stad.gent/id/concept/570011471/2022-03-11T01:14:27.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:14:27.625Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4783_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4783_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011471/2022-03-11T01:14:27.625Z>.
+<https://stad.gent/id/concept/670001490/2022-02-26T17:50:42.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:50:42.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5548_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Serlippens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5548_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001490/2022-02-26T17:50:42.018Z>.
+<https://stad.gent/id/concept/670000758/2022-02-26T17:06:29.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:06:29.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5866_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Serpentstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5866_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000758/2022-02-26T17:06:29.582Z>.
+<https://stad.gent/id/concept/670000426/2022-02-26T16:39:48.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:39:48.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386313>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6055_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sergeant majoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6055_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000426/2022-02-26T16:39:48.488Z>.
+<https://stad.gent/id/concept/570024988/2022-02-26T15:59:41.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:59:41.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004938>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6343_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6343_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024988/2022-02-26T15:59:41.096Z>.
+<https://stad.gent/id/concept/570023103/2022-02-26T14:36:20.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:36:20.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026723>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6937_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Seraing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_6937_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023103/2022-02-26T14:36:20.880Z>.
+<https://stad.gent/id/concept/570019586/2022-02-26T13:49:59.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:49:59.392Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7270_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passende stellen tafelgerei om een maaltijd te serveren voor een aantal aanzittenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7270_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019586/2022-02-26T13:49:59.392Z>.
+<https://stad.gent/id/concept/570019470/2022-02-26T13:44:57.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:44:57.448Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7306_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7306_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019470/2022-02-26T13:44:57.448Z>.
+<https://stad.gent/id/concept/570011471/2022-02-26T10:38:49.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:38:49.622Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8635_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8635_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011471/2022-02-26T10:38:49.622Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ser.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ser.ttl>.

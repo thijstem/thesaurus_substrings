@@ -1,0 +1,111 @@
+<https://stad.gent/id/concept/570014106/2022-03-11T01:58:41.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:58:41.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4465_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "printer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4465_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014106/2022-03-11T01:58:41.262Z>.
+<https://stad.gent/id/concept/570014055/2022-03-11T01:57:25.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:57:25.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q173350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "printplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4474_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014055/2022-03-11T01:57:25.567Z>.
+<https://stad.gent/id/concept/570009617/2022-03-11T00:44:13.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:44:13.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1604760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4999_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinsenhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4999_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009617/2022-03-11T00:44:13.871Z>.
+<https://stad.gent/id/concept/670001650/2022-02-26T18:04:02.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:04:02.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5455_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinses Clementinalaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5455_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001650/2022-02-26T18:04:02.114Z>.
+<https://stad.gent/id/concept/670000729/2022-02-26T17:04:03.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:04:03.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5884_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinsenhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5884_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000729/2022-02-26T17:04:03.531Z>.
+<https://stad.gent/id/concept/670000575/2022-02-26T16:51:48.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000575>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:51:48.843Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5971_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prince"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5971_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000575"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000575/2022-02-26T16:51:48.843Z>.
+<https://stad.gent/id/concept/670000392/2022-02-26T16:37:17.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:37:17.466Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236210>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6073_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prinselijk officier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6073_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000392/2022-02-26T16:37:17.466Z>.
+<https://stad.gent/id/concept/570014106/2022-02-26T11:23:04.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:23:04.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8320_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "printer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8320_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014106/2022-02-26T11:23:04.917Z>.
+<https://stad.gent/id/concept/570014055/2022-02-26T11:21:49.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:21:49.620Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q173350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8329_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "printplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8329_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014055/2022-02-26T11:21:49.620Z>.
+<https://stad.gent/id/concept/570009617/2022-02-26T10:08:38.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:38.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1604760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8851_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Prinsenhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8851_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009617/2022-02-26T10:08:38.239Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prin.ttl>.

@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570016984/2022-02-26T12:38:38.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:38:38.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7780_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken in email inclusief figuren en scenes, en die in metaalwerk zijn gezet. Voor de decoratieve techniek gebruik 'emaillak'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "email"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7780_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016984/2022-02-26T12:38:38.744Z>.
+<https://stad.gent/id/concept/570009181/2022-02-26T09:55:32.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:55:32.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8944_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een glasachtige glazuurlaag op metaal of aardewerk, waarna het in een pottenbakkersoven of smeltoven wordt samengesmolten tot een glad, hard oppervlak. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailleren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8944_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009181/2022-02-26T09:55:32.694Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ema.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ema.ttl>.

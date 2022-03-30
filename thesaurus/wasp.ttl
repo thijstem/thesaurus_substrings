@@ -1,0 +1,59 @@
+<https://stad.gent/id/concept/570016795/2022-03-11T03:05:55.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:05:55.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7273816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waspik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_3985_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016795/2022-03-11T03:05:55.926Z>.
+<https://stad.gent/id/concept/570008689/2022-03-11T00:13:16.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:13:16.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5218_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasproces"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5218_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008689/2022-03-11T00:13:16.267Z>.
+<https://stad.gent/id/concept/570019440/2022-02-26T13:43:16.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:43:16.715Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q910284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7318_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waspoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7318_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019440/2022-02-26T13:43:16.715Z>.
+<https://stad.gent/id/concept/570016795/2022-02-26T12:30:15.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:30:15.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7273816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7840_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waspik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_7840_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016795/2022-02-26T12:30:15.438Z>.
+<https://stad.gent/id/concept/570008689/2022-02-26T09:37:48.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:37:48.904Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9073_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasproces"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9073_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008689/2022-02-26T09:37:48.904Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wasp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wasp.ttl>.

@@ -1,0 +1,218 @@
+<https://stad.gent/id/concept/530010803/2022-03-23T00:02:20.991Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-23T00:02:20.991Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2017231>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Norwalk (Connecticut)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_37_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010803/2022-03-23T00:02:20.991Z>.
+<https://stad.gent/id/concept/530010796/2022-03-17T00:01:09.699Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:09.699Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_61_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Benins"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_61_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010796/2022-03-17T00:01:09.699Z>.
+<https://stad.gent/id/concept/530010797/2022-03-17T00:01:14.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:14.700Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_61_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mozambikaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_61_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010797/2022-03-17T00:01:14.700Z>.
+<https://stad.gent/id/concept/530010795/2022-03-17T00:01:04.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-17T00:01:04.697Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_64_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ivoriaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_64_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010795/2022-03-17T00:01:04.697Z>.
+<https://stad.gent/id/concept/670001830/2022-03-16T00:15:08.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:08.964Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q84590041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naamsverandering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001830/2022-03-16T00:15:08.964Z>.
+<https://stad.gent/id/concept/670001793/2022-03-16T00:12:48.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:12:48.447Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_103_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nationale Bank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_103_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001793/2022-03-16T00:12:48.447Z>.
+<https://stad.gent/id/concept/670001830/2022-03-13T02:59:38.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:59:38.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q84590041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "naamsverandering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_205_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001830/2022-03-13T02:59:38.678Z>.
+<https://stad.gent/id/concept/670001793/2022-03-13T02:57:17.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:57:17.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_223_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nationale Bank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_223_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001793/2022-03-13T02:57:17.768Z>.
+<https://stad.gent/id/concept/670001629/2022-03-13T02:43:42.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:42.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_319_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwewandeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_319_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001629/2022-03-13T02:43:42.286Z>.
+<https://stad.gent/id/concept/670001630/2022-03-13T02:43:47.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:47.288Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_319_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijverheidskaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_319_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001630/2022-03-13T02:43:47.288Z>.
+<https://stad.gent/id/concept/670001631/2022-03-13T02:43:52.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:52.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2936>;
+    <http://www.w3.org/ns/adms#identifier> _:df_319_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nodenaysteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_319_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001631/2022-03-13T02:43:52.290Z>.
+<https://stad.gent/id/concept/670001626/2022-03-13T02:43:27.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:27.281Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederschelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_322_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001626/2022-03-13T02:43:27.281Z>.
+<https://stad.gent/id/concept/670001627/2022-03-13T02:43:32.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:32.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_322_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwbrugkaai"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_322_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001627/2022-03-13T02:43:32.283Z>.
+<https://stad.gent/id/concept/670001628/2022-03-13T02:43:37.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:43:37.285Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2788>;
+    <http://www.w3.org/ns/adms#identifier> _:df_322_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwebosstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_322_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001628/2022-03-13T02:43:37.285Z>.
+<https://stad.gent/id/concept/670001461/2022-03-13T02:29:36.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:29:36.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_421_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nachtergaele gebroeders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_421_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001461/2022-03-13T02:29:36.553Z>.
+<https://stad.gent/id/concept/670001462/2022-03-13T02:29:41.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:29:41.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/83704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_421_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuw Convent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_421_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001462/2022-03-13T02:29:41.555Z>.
+<https://stad.gent/id/concept/670001463/2022-03-13T02:29:46.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:29:46.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_421_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_421_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001463/2022-03-13T02:29:46.795Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_487.
+_:df_1_487 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ni.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ni".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_488.
+_:df_1_488 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/no.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "no".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_489.
+_:df_1_489 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ne.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ne".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_490.
+_:df_1_490 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/na.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "na".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_491.
+_:df_1_491 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/nu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "nu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_492.
+_:df_1_492 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ny.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ny".
+<https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/n.ttl>.

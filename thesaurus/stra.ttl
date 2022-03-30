@@ -1,0 +1,148 @@
+<https://stad.gent/id/concept/570020316/2022-03-11T04:42:21.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:42:21.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3298_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020316/2022-03-11T04:42:21.245Z>.
+<https://stad.gent/id/concept/570020017/2022-03-11T04:37:44.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:37:44.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor straatverlichtingseenheden, bestaande uit paal of mast, arm en lamp, die meestal in serie langs wegen zijn geplaatst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straatlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020017/2022-03-11T04:37:44.738Z>.
+<https://stad.gent/id/concept/570019801/2022-03-11T04:32:52.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:32:52.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300444069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strandtas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3367_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019801/2022-03-11T04:32:52.545Z>.
+<https://stad.gent/id/concept/570014562/2022-03-11T02:08:30.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:08:30.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2409535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4396_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straalkachel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4396_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014562/2022-03-11T02:08:30.570Z>.
+<https://stad.gent/id/concept/670000783/2022-02-26T17:08:30.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:08:30.506Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5851_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Straatje Zonder Einde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5851_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000783/2022-02-26T17:08:30.506Z>.
+<https://stad.gent/id/concept/670000228/2022-02-26T16:25:20.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:25:20.980Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6160_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6160_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000228/2022-02-26T16:25:20.980Z>.
+<https://stad.gent/id/concept/570024973/2022-02-26T15:58:54.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:58:54.948Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6349_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen van mensen en activiteiten op straat in de stad. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straatbeeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6349_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024973/2022-02-26T15:58:54.948Z>.
+<https://stad.gent/id/concept/570024510/2022-02-26T15:41:17.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:41:17.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6475_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straalmotor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6475_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024510/2022-02-26T15:41:17.237Z>.
+<https://stad.gent/id/concept/570020316/2022-02-26T14:06:21.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:06:21.858Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008816>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7153_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7153_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020316/2022-02-26T14:06:21.858Z>.
+<https://stad.gent/id/concept/570020017/2022-02-26T14:01:44.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:01:44.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7186_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor straatverlichtingseenheden, bestaande uit paal of mast, arm en lamp, die meestal in serie langs wegen zijn geplaatst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straatlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7186_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020017/2022-02-26T14:01:44.758Z>.
+<https://stad.gent/id/concept/570019801/2022-02-26T13:56:52.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:56:52.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300444069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7219_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "strandtas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7219_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019801/2022-02-26T13:56:52.841Z>.
+<https://stad.gent/id/concept/570014562/2022-02-26T11:32:54.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:32:54.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2409535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8248_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straalkachel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8248_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014562/2022-02-26T11:32:54.070Z>.
+<https://stad.gent/id/concept/570003217/2022-02-26T09:07:17.371Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:07:17.371Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9289_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Banken, wegwijzers, verlichtingsinstallaties en houders, die deel uitmaken van het ontwerp van een weg.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "straatmeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9289_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003217/2022-02-26T09:07:17.371Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/stra.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/stra.ttl>.

@@ -1,0 +1,172 @@
+<https://stad.gent/id/concept/670001052/2022-03-11T08:04:13.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:04:13.807Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q45950038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leugemeete"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1858_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001052/2022-03-11T08:04:13.807Z>.
+<https://stad.gent/id/concept/570025123/2022-03-11T06:42:14.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:42:14.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze-en-Hainaut"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_2443_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025123/2022-03-11T06:42:14.809Z>.
+<https://stad.gent/id/concept/570019457/2022-03-11T04:20:15.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:20:15.836Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3457_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3457_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019457/2022-03-11T04:20:15.836Z>.
+<https://stad.gent/id/concept/570017781/2022-03-11T03:40:43.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:40:43.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leuning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3739_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017781/2022-03-11T03:40:43.114Z>.
+<https://stad.gent/id/concept/570016264/2022-03-11T02:48:37.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:48:37.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leupegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_4111_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016264/2022-03-11T02:48:37.094Z>.
+<https://stad.gent/id/concept/570009718/2022-03-11T00:47:30.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:47:30.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4975_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_4975_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009718/2022-03-11T00:47:30.537Z>.
+<https://stad.gent/id/concept/570008793/2022-03-11T00:16:29.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:16:29.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5197_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_5197_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008793/2022-03-11T00:16:29.357Z>.
+<https://stad.gent/id/concept/670001052/2022-02-26T17:28:02.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:28:02.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q45950038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5710_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leugemeete"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5710_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001052/2022-02-26T17:28:02.867Z>.
+<https://stad.gent/id/concept/570025123/2022-02-26T16:06:13.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:06:13.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6295_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze-en-Hainaut"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl, "Henegouwen (provincie)"@nl.
+_:df_6295_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025123/2022-02-26T16:06:13.808Z>.
+<https://stad.gent/id/concept/570019457/2022-02-26T13:44:17.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:44:17.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7309_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7309_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019457/2022-02-26T13:44:17.433Z>.
+<https://stad.gent/id/concept/570017781/2022-02-26T13:04:44.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:04:44.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7594_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leuning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7594_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017781/2022-02-26T13:04:44.398Z>.
+<https://stad.gent/id/concept/570016264/2022-02-26T12:12:55.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:12:55.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7963_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leupegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_7963_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016264/2022-02-26T12:12:55.063Z>.
+<https://stad.gent/id/concept/570009718/2022-02-26T10:11:54.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:54.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8827_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_8827_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009718/2022-02-26T10:11:54.484Z>.
+<https://stad.gent/id/concept/570008793/2022-02-26T09:41:00.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:41:00.586Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9049_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_9049_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008793/2022-02-26T09:41:00.586Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/leu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/leu.ttl>.

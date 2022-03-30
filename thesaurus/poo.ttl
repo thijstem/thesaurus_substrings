@@ -1,0 +1,142 @@
+<https://stad.gent/id/concept/670001797/2022-03-11T08:52:04.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:52:04.300Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1516_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001797/2022-03-11T08:52:04.300Z>.
+<https://stad.gent/id/concept/670001798/2022-03-11T08:52:09.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:52:09.301Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poortgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1516_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001798/2022-03-11T08:52:09.301Z>.
+<https://stad.gent/id/concept/570023083/2022-03-11T05:11:21.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:11:21.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162380>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3091_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023083/2022-03-11T05:11:21.665Z>.
+<https://stad.gent/id/concept/570020787/2022-03-11T04:50:40.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:50:40.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3241_42;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3241_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020787/2022-03-11T04:50:40.218Z>.
+<https://stad.gent/id/concept/570019312/2022-03-11T04:13:12.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:13:12.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poolweefsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3508_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019312/2022-03-11T04:13:12.083Z>.
+<https://stad.gent/id/concept/570017242/2022-03-11T03:20:13.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:20:13.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300298928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3886_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pook"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3886_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017242/2022-03-11T03:20:13.459Z>.
+<https://stad.gent/id/concept/670001797/2022-02-26T18:16:17.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:16:17.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5365_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001797/2022-02-26T18:16:17.238Z>.
+<https://stad.gent/id/concept/670001798/2022-02-26T18:16:22.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001798>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:16:22.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poortgebouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5365_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001798"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001798/2022-02-26T18:16:22.239Z>.
+<https://stad.gent/id/concept/570023083/2022-02-26T14:35:20.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:35:20.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162380>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6946_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6946_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023083/2022-02-26T14:35:20.262Z>.
+<https://stad.gent/id/concept/570020787/2022-02-26T14:14:40.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:14:40.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7093_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7093_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020787/2022-02-26T14:14:40.747Z>.
+<https://stad.gent/id/concept/570019312/2022-02-26T13:37:14.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:37:14.283Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7360_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poolweefsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7360_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019312/2022-02-26T13:37:14.283Z>.
+<https://stad.gent/id/concept/570017242/2022-02-26T12:44:26.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:26.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300298928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7738_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pook"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7738_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017242/2022-02-26T12:44:26.077Z>.
+<https://stad.gent/id/concept/570000057/2022-02-26T08:49:08.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:49:08.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2010091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9421_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De pootboor is ofwel een holle, al dan niet gesloten (1), metalen cilinder van verschillende diameter (ca. 4-18 cm) - soms boven iets wijder dan onder - met bovenaan een ijzeren, houten of plastic handvat, waartussen zich al dan niet een steel (ca. 20-40 cm) bevindt. Bij sommige modellen bestaat de cilinder uit twee helften die langs beide zijden door scharnieren met elkaar zijn verbonden. Langs één zijde heb je de mogelijkheid om een stalen pen uit de scharnier te verwijderen zodat de cilinder opendraait (2). Bij andere modellen, waar de snede door tandjes kan vervangen zijn, bestaat de cilinder uit twee helften die van elkaar verwijderd kunnen worden (3)(zie ook planttang). Aan de buitenzijde van de cilinder kan een maatverdeling aangebracht zijn. [M.O.T.]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pootboor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9421_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000057/2022-02-26T08:49:08.111Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/poo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/poo.ttl>.

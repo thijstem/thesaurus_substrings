@@ -1,0 +1,263 @@
+<https://stad.gent/id/concept/670000697/2022-03-13T01:42:48.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:42:48.417Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300386983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_754_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_754_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000697/2022-03-13T01:42:48.417Z>.
+<https://stad.gent/id/concept/670000496/2022-03-13T01:26:52.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:26:52.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_868_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Admirael alias den Dronkaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_868_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000496/2022-03-13T01:26:52.069Z>.
+<https://stad.gent/id/concept/670000233/2022-03-13T01:07:07.545Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:07:07.545Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1827313>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adjudant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1009_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000233/2022-03-13T01:07:07.545Z>.
+<https://stad.gent/id/concept/670000234/2022-03-13T01:07:12.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:07:12.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "advocaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1009_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000234/2022-03-13T01:07:12.548Z>.
+<https://stad.gent/id/concept/670000235/2022-03-13T01:07:17.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:07:17.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "advocaat Raad van Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1009_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000235/2022-03-13T01:07:17.550Z>.
+<https://stad.gent/id/concept/570024444/2022-03-13T00:18:25.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:18:25.610Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1357_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adinkerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_1357_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024444/2022-03-13T00:18:25.610Z>.
+<https://stad.gent/id/concept/570024201/2022-03-13T00:05:20.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:05:20.261Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1450_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresseerkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1450_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024201/2022-03-13T00:05:20.261Z>.
+<https://stad.gent/id/concept/670000697/2022-03-11T07:37:36.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:37:36.100Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300386983>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2047_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2047_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000697/2022-03-11T07:37:36.100Z>.
+<https://stad.gent/id/concept/670000496/2022-03-11T07:21:38.815Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:21:38.815Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Admirael alias den Dronkaert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2161_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000496/2022-03-11T07:21:38.815Z>.
+<https://stad.gent/id/concept/670000233/2022-03-11T07:01:54.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:01:54.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1827313>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adjudant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2302_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000233/2022-03-11T07:01:54.085Z>.
+<https://stad.gent/id/concept/670000234/2022-03-11T07:01:59.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:01:59.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "advocaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2302_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000234/2022-03-11T07:01:59.087Z>.
+<https://stad.gent/id/concept/670000235/2022-03-11T07:02:04.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:02:04.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "advocaat Raad van Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2302_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000235/2022-03-11T07:02:04.089Z>.
+<https://stad.gent/id/concept/570024444/2022-03-11T06:13:21.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:13:21.082Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2650_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adinkerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_2650_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024444/2022-03-11T06:13:21.082Z>.
+<https://stad.gent/id/concept/570024201/2022-03-11T06:00:16.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:00:16.110Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresseerkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2743_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024201/2022-03-11T06:00:16.110Z>.
+<https://stad.gent/id/concept/570023797/2022-03-11T05:41:18.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:41:18.923Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adelbrief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2878_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023797/2022-03-11T05:41:18.923Z>.
+<https://stad.gent/id/concept/570022877/2022-03-11T05:02:15.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:02:15.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193993>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Openbare aankondigingen of betaalde mededelingen, met name in drukvorm. Gebruik `reclameboodschappen' voor mededelingen die zijn betaald door een adverteerder en die op de radio of de televisie worden uitgezonden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "advertentie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3157_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022877/2022-03-11T05:02:15.162Z>.
+<https://stad.gent/id/concept/570019184/2022-03-11T04:07:30.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:07:30.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300252554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3547_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adverteerder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3547_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019184/2022-03-11T04:07:30.123Z>.
+<https://stad.gent/id/concept/570016337/2022-03-11T02:51:23.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:51:23.134Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adresseerplaatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4090_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016337/2022-03-11T02:51:23.134Z>.
+<https://stad.gent/id/concept/570014919/2022-03-11T02:19:15.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:19:15.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q356486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4318_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adeste Fideles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4318_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014919/2022-03-11T02:19:15.568Z>.
+<https://stad.gent/id/concept/570014627/2022-03-11T02:10:51.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:10:51.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4378_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine kaarten die sinds de 19e eeuw worden gemaakt, en waarop de naam en het adres van een bedrijf en van één van de vertegenwoordigers staan; meer bedoeld ter informatie dan als reclame. Voor kleine gedrukte vellen papier of kaarten met daarop handelsadvertenties, die werden gebruikt van de 17e tot en met de 19e eeuw, wordt 'handelskaarten' gebruikt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "adreskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4378_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014627/2022-03-11T02:10:51.579Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1860.
+_:df_1_1860 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ada.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ada".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1861.
+_:df_1_1861 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/adv.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "adv".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1862.
+_:df_1_1862 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/adr.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "adr".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1863.
+_:df_1_1863 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/adm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "adm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1864.
+_:df_1_1864 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/adj.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "adj".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1865.
+_:df_1_1865 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/adi.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "adi".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> <https://w3id.org/tree#relation> _:df_1_1866.
+_:df_1_1866 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ade.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ade".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ad.ttl>.

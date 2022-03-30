@@ -1,0 +1,245 @@
+<https://stad.gent/id/concept/570024370/2022-03-13T00:14:18.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:14:18.988Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1387_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Langwerpige bladen met rechtopstaande kanten die worden gebruikt om lettervormen in te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1387_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024370/2022-03-13T00:14:18.988Z>.
+<https://stad.gent/id/concept/570024183/2022-03-13T00:04:04.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:04:04.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q209440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1459_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvanische cel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1459_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024183/2022-03-13T00:04:04.419Z>.
+<https://stad.gent/id/concept/670000530/2022-03-11T07:24:19.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:24:19.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallerije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2143_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000530/2022-03-11T07:24:19.745Z>.
+<https://stad.gent/id/concept/670000108/2022-03-11T06:51:28.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:51:28.452Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Galgenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2377_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000108/2022-03-11T06:51:28.452Z>.
+<https://stad.gent/id/concept/570024854/2022-03-11T06:29:17.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:29:17.849Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2536_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024854/2022-03-11T06:29:17.849Z>.
+<https://stad.gent/id/concept/570024370/2022-03-11T06:09:14.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:09:14.575Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Langwerpige bladen met rechtopstaande kanten die worden gebruikt om lettervormen in te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2680_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024370/2022-03-11T06:09:14.575Z>.
+<https://stad.gent/id/concept/570024183/2022-03-11T05:59:00.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:59:00.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q209440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvanische cel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2752_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024183/2022-03-11T05:59:00.493Z>.
+<https://stad.gent/id/concept/570024110/2022-03-11T05:54:55.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:54:55.464Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2782_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "metalen kast voor drukvormen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galeikast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2782_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024110/2022-03-11T05:54:55.464Z>.
+<https://stad.gent/id/concept/570024063/2022-03-11T05:52:23.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:52:23.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300375063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2800_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galnoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2800_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024063/2022-03-11T05:52:23.333Z>.
+<https://stad.gent/id/concept/570017238/2022-03-11T03:20:03.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:20:03.455Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3886_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galon passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3886_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017238/2022-03-11T03:20:03.455Z>.
+<https://stad.gent/id/concept/570017092/2022-03-11T03:18:16.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:18:16.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3898_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvanometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3898_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017092/2022-03-11T03:18:16.696Z>.
+<https://stad.gent/id/concept/570016910/2022-03-11T03:10:29.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:10:29.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galonpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016910/2022-03-11T03:10:29.412Z>.
+<https://stad.gent/id/concept/570013938/2022-03-11T01:54:29.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:54:29.707Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1364601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4495_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallo-Romeins"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4495_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013938/2022-03-11T01:54:29.707Z>.
+<https://stad.gent/id/concept/570010119/2022-03-11T00:57:09.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:57:09.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053981>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4906_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvaniseren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4906_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010119/2022-03-11T00:57:09.188Z>.
+<https://stad.gent/id/concept/670000530/2022-02-26T16:48:12.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:48:12.645Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5995_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallerije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5995_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000530/2022-02-26T16:48:12.645Z>.
+<https://stad.gent/id/concept/670000108/2022-02-26T16:15:17.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:17.027Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6232_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Galgenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6232_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000108/2022-02-26T16:15:17.027Z>.
+<https://stad.gent/id/concept/570024854/2022-02-26T15:53:17.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:53:17.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300231784>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6388_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6388_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024854/2022-02-26T15:53:17.262Z>.
+<https://stad.gent/id/concept/570024370/2022-02-26T15:33:13.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:33:13.431Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6532_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Langwerpige bladen met rechtopstaande kanten die worden gebruikt om lettervormen in te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6532_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024370/2022-02-26T15:33:13.431Z>.
+<https://stad.gent/id/concept/570024183/2022-02-26T15:22:58.955Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:22:58.955Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q209440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6604_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvanische cel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6604_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024183/2022-02-26T15:22:58.955Z>.
+<https://stad.gent/id/concept/570024110/2022-02-26T15:18:55.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:18:55.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6634_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "metalen kast voor drukvormen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galeikast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6634_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024110/2022-02-26T15:18:55.595Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl> <https://w3id.org/tree#relation> _:df_1_2203.
+_:df_1_2203 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/galn.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "galn".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl> <https://w3id.org/tree#relation> _:df_1_2204.
+_:df_1_2204 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/galo.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "galo".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl> <https://w3id.org/tree#relation> _:df_1_2205.
+_:df_1_2205 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/galv.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "galv".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl> <https://w3id.org/tree#relation> _:df_1_2206.
+_:df_1_2206 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/gall.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "gall".
+<https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gal.ttl>.

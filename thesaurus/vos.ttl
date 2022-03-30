@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/670001719/2022-03-11T08:45:31.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:45:31.685Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voskensweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1561_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001719/2022-03-11T08:45:31.685Z>.
+<https://stad.gent/id/concept/670001718/2022-03-11T08:45:26.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:45:26.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1564_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voskenslaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1564_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001718/2022-03-11T08:45:26.264Z>.
+<https://stad.gent/id/concept/670001718/2022-02-26T18:09:39.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:09:39.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5413_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voskenslaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5413_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001718/2022-02-26T18:09:39.755Z>.
+<https://stad.gent/id/concept/670001719/2022-02-26T18:09:44.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:09:44.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5413_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voskensweg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5413_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001719/2022-02-26T18:09:44.756Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vos.ttl>.

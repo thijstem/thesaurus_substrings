@@ -1,0 +1,121 @@
+<https://stad.gent/id/concept/570019076/2022-03-11T04:04:13.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:04:13.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300150791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3571_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor personen of bureaus die goederen voor de verkoop aanbieden, met name personen die diensten verlenen en die zorgen voor het ontwerpen, het op de markt brengen en verkopen van computers, software, geautomatiseerde systemen en databases. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3571_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019076/2022-03-11T04:04:13.629Z>.
+<https://stad.gent/id/concept/570016266/2022-03-11T02:48:47.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:48:47.097Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4108_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkiezing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4108_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016266/2022-03-11T02:48:47.097Z>.
+<https://stad.gent/id/concept/570009340/2022-03-11T00:38:05.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:38:05.763Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5041_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoopsboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5041_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009340/2022-03-11T00:38:05.763Z>.
+<https://stad.gent/id/concept/670000460/2022-02-26T16:42:34.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:42:34.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025344/300150791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6037_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoper brandewijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6037_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000460/2022-02-26T16:42:34.317Z>.
+<https://stad.gent/id/concept/670000461/2022-02-26T16:42:39.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:42:39.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300150791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6037_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoper likeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6037_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000461/2022-02-26T16:42:39.319Z>.
+<https://stad.gent/id/concept/570019076/2022-02-26T13:28:15.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:28:15.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300150791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7426_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor personen of bureaus die goederen voor de verkoop aanbieden, met name personen die diensten verlenen en die zorgen voor het ontwerpen, het op de markt brengen en verkopen van computers, software, geautomatiseerde systemen en databases. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7426_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019076/2022-02-26T13:28:15.824Z>.
+<https://stad.gent/id/concept/570016266/2022-02-26T12:13:05.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:13:05.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7963_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkiezing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7963_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016266/2022-02-26T12:13:05.067Z>.
+<https://stad.gent/id/concept/570009340/2022-02-26T10:02:30.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:02:30.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8896_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoopsboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8896_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009340/2022-02-26T10:02:30.767Z>.
+<https://stad.gent/id/concept/570002104/2022-02-26T09:03:35.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:03:35.689Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9316_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkiezingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9316_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002104/2022-02-26T09:03:35.689Z>.
+<https://stad.gent/id/concept/570001614/2022-02-26T09:00:53.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001614>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:00:53.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q194189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9337_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9337_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001614"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001614/2022-02-26T09:00:53.401Z>.
+<https://stad.gent/id/concept/570000734/2022-02-26T08:55:05.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:05.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9376_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkeer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9376_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000734/2022-02-26T08:55:05.474Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/verk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/verk.ttl>.

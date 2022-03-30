@@ -1,0 +1,129 @@
+<https://stad.gent/id/concept/570024119/2022-03-13T00:00:39.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:00:39.843Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1483_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1483_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024119/2022-03-13T00:00:39.843Z>.
+<https://stad.gent/id/concept/570024119/2022-03-11T05:55:35.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:55:35.842Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2776_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2776_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024119/2022-03-11T05:55:35.842Z>.
+<https://stad.gent/id/concept/570024091/2022-03-11T05:53:55.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:53:55.195Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productietechnieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2788_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024091/2022-03-11T05:53:55.195Z>.
+<https://stad.gent/id/concept/570023446/2022-03-11T05:26:12.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:26:12.597Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300417253>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2986_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023446/2022-03-11T05:26:12.597Z>.
+<https://stad.gent/id/concept/570023309/2022-03-11T05:23:06.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:23:06.657Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productverpakkingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3007_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023309/2022-03-11T05:23:06.657Z>.
+<https://stad.gent/id/concept/570013226/2022-03-11T01:41:44.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:41:44.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054713>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4588_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productieproces"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4588_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013226/2022-03-11T01:41:44.665Z>.
+<https://stad.gent/id/concept/570024119/2022-02-26T15:19:36.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:19:36.011Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6628_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6628_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024119/2022-02-26T15:19:36.011Z>.
+<https://stad.gent/id/concept/570024091/2022-02-26T15:17:55.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:17:55.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6640_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productietechnieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6640_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024091/2022-02-26T15:17:55.238Z>.
+<https://stad.gent/id/concept/570023446/2022-02-26T14:50:12.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:50:12.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300417253>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6838_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6838_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023446/2022-02-26T14:50:12.812Z>.
+<https://stad.gent/id/concept/570023309/2022-02-26T14:47:05.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:47:05.009Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6862_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productverpakkingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6862_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023309/2022-02-26T14:47:05.009Z>.
+<https://stad.gent/id/concept/570013226/2022-02-26T11:06:07.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:06:07.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054713>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8440_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productieproces"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8440_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013226/2022-02-26T11:06:07.921Z>.
+<https://stad.gent/id/concept/570000678/2022-02-26T08:54:35.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:54:35.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q739302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9382_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9382_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000678/2022-02-26T08:54:35.089Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prod.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prod.ttl>.

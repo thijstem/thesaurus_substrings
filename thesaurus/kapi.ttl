@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/670000701/2022-02-26T17:01:47.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:01:47.724Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5899_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kapitein van het regiment van Saintignon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5899_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000701/2022-02-26T17:01:47.724Z>.
+<https://stad.gent/id/concept/670000153/2022-02-26T16:19:03.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:19:03.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6205_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapittelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6205_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000153/2022-02-26T16:19:03.698Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kapi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kapi.ttl>.

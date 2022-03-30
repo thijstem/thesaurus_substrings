@@ -1,0 +1,127 @@
+<https://stad.gent/id/concept/570008582/2022-03-11T00:09:23.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:09:23.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5245_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodpuddingvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5245_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008582/2022-03-11T00:09:23.079Z>.
+<https://stad.gent/id/concept/570024482/2022-02-26T15:39:31.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:39:31.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6487_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtdichte of bijna luchtdichte, doosachtige houders van metaal of plastic, om brood en ander gebakken voedsel in te bewaren zodat het vers blijft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodtrommel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6487_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024482/2022-02-26T15:39:31.542Z>.
+<https://stad.gent/id/concept/570020009/2022-02-26T14:01:19.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:01:19.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7189_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtdichte of bijna luchtdichte, doosachtige houders van metaal of plastic, om brood en ander gebakken voedsel in te bewaren zodat het vers blijft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brooddoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7189_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020009/2022-02-26T14:01:19.748Z>.
+<https://stad.gent/id/concept/570019063/2022-02-26T13:27:50.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:27:50.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7429_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Opengewerkte, doorgaans ovale houders voor brood of broodjes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7429_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019063/2022-02-26T13:27:50.818Z>.
+<https://stad.gent/id/concept/570017807/2022-02-26T13:05:29.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:05:29.801Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262820>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7588_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor bereid voedsel dat wordt gemaakt van deeg, dat bestaat uit bloem of meel van verschillende planten, water en andere ingrediënten, met of zonder toevoeging van een rijsmiddel. Specifiek te gebruiken voor broden of gebak van deeg met bloem, die worden bereid door middel van bakken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brood"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7588_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017807/2022-02-26T13:05:29.801Z>.
+<https://stad.gent/id/concept/570017446/2022-02-26T12:51:59.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:51:59.108Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300418031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7684_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handmatig of elektrisch aangedreven toestel voor het versnijden van brood.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodsnijmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7684_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017446/2022-02-26T12:51:59.108Z>.
+<https://stad.gent/id/concept/570016907/2022-02-26T12:34:37.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:34:37.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199921>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7807_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Messen met een lang lemmet en een getande of geschulpte snijkant. Qua vorm gelijk aan 'cakemessen' maar met grotere tanden die verder uit elkaar staan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7807_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016907/2022-02-26T12:34:37.387Z>.
+<https://stad.gent/id/concept/570015785/2022-02-26T12:02:10.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:02:10.847Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8041_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodoorlog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8041_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015785/2022-02-26T12:02:10.847Z>.
+<https://stad.gent/id/concept/570014552/2022-02-26T11:32:34.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:32:34.063Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209531>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8251_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een rek waarin gebakken voedsel, zoals brood en cake, kan afkoelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8251_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014552/2022-02-26T11:32:34.063Z>.
+<https://stad.gent/id/concept/570013167/2022-02-26T11:04:32.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:04:32.280Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8452_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten die worden gebruikt voor het roosteren van brood en ander voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodrooster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8452_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013167/2022-02-26T11:04:32.280Z>.
+<https://stad.gent/id/concept/570008582/2022-02-26T09:33:57.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:33:57.293Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9100_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "broodpuddingvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9100_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008582/2022-02-26T09:33:57.293Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/broo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/broo.ttl>.

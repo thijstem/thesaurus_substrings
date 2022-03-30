@@ -1,0 +1,105 @@
+<https://stad.gent/id/concept/570012766/2022-03-11T01:32:05.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:32:05.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4657_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmasker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4657_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012766/2022-03-11T01:32:05.455Z>.
+<https://stad.gent/id/concept/570012567/2022-03-11T01:28:58.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:28:58.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4678_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stroommeters voor het meten en vastleggen van de hoeveelheid gas die door een buis loopt, bijvoorbeeld voor het berekenen van het verbruik van een huishouden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4678_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012567/2022-03-11T01:28:58.752Z>.
+<https://stad.gent/id/concept/570008976/2022-03-11T00:23:04.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:23:04.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5149_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruik voor interne verbrandingsmotoren aangedreven door een mengsel van gasvormige brandstof en lucht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmotor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5149_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008976/2022-03-11T00:23:04.264Z>.
+<https://stad.gent/id/concept/670000917/2022-02-26T17:19:09.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:19:09.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5776_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasmeterlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5776_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000917/2022-02-26T17:19:09.665Z>.
+<https://stad.gent/id/concept/570017339/2022-02-26T12:47:32.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:47:32.261Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7717_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmonsternamefles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7717_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017339/2022-02-26T12:47:32.261Z>.
+<https://stad.gent/id/concept/570012766/2022-02-26T10:56:27.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:56:27.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8509_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmasker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8509_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012766/2022-02-26T10:56:27.984Z>.
+<https://stad.gent/id/concept/570012567/2022-02-26T10:53:21.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:53:21.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8533_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stroommeters voor het meten en vastleggen van de hoeveelheid gas die door een buis loopt, bijvoorbeeld voor het berekenen van het verbruik van een huishouden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8533_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012567/2022-02-26T10:53:21.865Z>.
+<https://stad.gent/id/concept/570008976/2022-02-26T09:47:33.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:47:33.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9001_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruik voor interne verbrandingsmotoren aangedreven door een mengsel van gasvormige brandstof en lucht. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmotor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9001_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008976/2022-02-26T09:47:33.401Z>.
+<https://stad.gent/id/concept/570002120/2022-02-26T09:03:50.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:03:50.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197524>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9316_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stroommeters voor het meten en vastleggen van de hoeveelheid gas die door een buis loopt, bijvoorbeeld voor het berekenen van het verbruik van een huishouden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmeters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9316_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002120/2022-02-26T09:03:50.695Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/gasm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/gasm.ttl>.

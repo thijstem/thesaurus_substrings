@@ -1,0 +1,58 @@
+<https://stad.gent/id/concept/570019383/2022-03-11T04:16:54.191Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:16:54.191Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3481_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3481_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019383/2022-03-11T04:16:54.191Z>.
+<https://stad.gent/id/concept/570019024/2022-03-11T04:01:42.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:01:42.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200493>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei met een puntig, spiraalvormig stukje metaal met een handvat dat wordt gebruikt voor het trekken van kurken uit flessen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurkentrekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3589_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019024/2022-03-11T04:01:42.553Z>.
+<https://stad.gent/id/concept/570023098/2022-02-26T14:36:10.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:36:10.577Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6940_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurkenklopper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6940_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023098/2022-02-26T14:36:10.577Z>.
+<https://stad.gent/id/concept/570019383/2022-02-26T13:40:56.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:40:56.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7333_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7333_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019383/2022-02-26T13:40:56.109Z>.
+<https://stad.gent/id/concept/570019024/2022-02-26T13:25:44.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:25:44.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200493>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7444_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei met een puntig, spiraalvormig stukje metaal met een handvat dat wordt gebruikt voor het trekken van kurken uit flessen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kurkentrekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7444_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019024/2022-02-26T13:25:44.785Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kur.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kur.ttl>.

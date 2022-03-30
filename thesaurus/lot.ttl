@@ -1,0 +1,66 @@
+<https://stad.gent/id/concept/570019554/2022-03-11T04:24:58.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:24:58.880Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3424_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lotingsbrief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3424_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019554/2022-03-11T04:24:58.880Z>.
+<https://stad.gent/id/concept/570017226/2022-03-11T03:19:53.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:19:53.451Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q3501786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3886_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loterijbiljet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3886_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017226/2022-03-11T03:19:53.451Z>.
+<https://stad.gent/id/concept/570010083/2022-03-11T00:55:58.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:55:58.858Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4915_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4915_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010083/2022-03-11T00:55:58.858Z>.
+<https://stad.gent/id/concept/570019554/2022-02-26T13:48:58.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:48:58.868Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7276_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lotingsbrief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7276_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019554/2022-02-26T13:48:58.868Z>.
+<https://stad.gent/id/concept/570017226/2022-02-26T12:44:06.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:44:06.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/q3501786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7741_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loterijbiljet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7741_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017226"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017226/2022-02-26T12:44:06.068Z>.
+<https://stad.gent/id/concept/570010083/2022-02-26T10:20:22.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:20:22.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8767_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8767_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010083/2022-02-26T10:20:22.427Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/lot.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/lot.ttl>.

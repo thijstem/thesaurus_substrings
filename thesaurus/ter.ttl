@@ -1,0 +1,245 @@
+<https://stad.gent/id/concept/670000605/2022-03-13T01:35:25.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:35:25.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_808_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Trappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_808_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000605/2022-03-13T01:35:25.225Z>.
+<https://stad.gent/id/concept/670001689/2022-03-11T08:43:05.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:43:05.269Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terplaeten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1579_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001689/2022-03-11T08:43:05.269Z>.
+<https://stad.gent/id/concept/670001532/2022-03-11T08:30:04.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:30:04.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1672_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terdonckbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1672_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001532/2022-03-11T08:30:04.022Z>.
+<https://stad.gent/id/concept/670001533/2022-03-11T08:30:09.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:30:09.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1672_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terplaetenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1672_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001533/2022-03-11T08:30:09.023Z>.
+<https://stad.gent/id/concept/670001530/2022-03-11T08:29:54.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:29:54.018Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1675_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Platenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1675_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001530/2022-03-11T08:29:54.018Z>.
+<https://stad.gent/id/concept/670001012/2022-03-11T08:02:43.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:02:43.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Platen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001012/2022-03-11T08:02:43.237Z>.
+<https://stad.gent/id/concept/670001013/2022-03-11T08:02:48.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:02:48.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terdonkplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001013/2022-03-11T08:02:48.239Z>.
+<https://stad.gent/id/concept/670000605/2022-03-11T07:30:12.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:30:12.768Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2101_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Trappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2101_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000605/2022-03-11T07:30:12.768Z>.
+<https://stad.gent/id/concept/570019412/2022-03-11T04:18:09.637Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:18:09.637Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3472_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "terlenka"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020664>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020664> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+_:df_3472_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019412/2022-03-11T04:18:09.637Z>.
+<https://stad.gent/id/concept/570016784/2022-03-11T03:05:20.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:05:20.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008010>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tervuren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_3991_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016784/2022-03-11T03:05:20.441Z>.
+<https://stad.gent/id/concept/570014647/2022-03-11T02:11:27.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:11:27.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015288>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4375_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "terpentijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4375_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014647/2022-03-11T02:11:27.047Z>.
+<https://stad.gent/id/concept/570011434/2022-03-11T01:14:07.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011434>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:14:07.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4786_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terneuzen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4786_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011434"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011434/2022-03-11T01:14:07.316Z>.
+<https://stad.gent/id/concept/570008754/2022-03-11T00:15:28.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:15:28.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5203_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tertre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_5203_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008754/2022-03-11T00:15:28.679Z>.
+<https://stad.gent/id/concept/670001689/2022-02-26T18:07:18.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:07:18.670Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5431_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terplaeten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5431_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001689/2022-02-26T18:07:18.670Z>.
+<https://stad.gent/id/concept/670001530/2022-02-26T17:54:03.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:03.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5524_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Platenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5524_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001530/2022-02-26T17:54:03.282Z>.
+<https://stad.gent/id/concept/670001532/2022-02-26T17:54:13.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:13.285Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5524_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terdonckbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5524_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001532/2022-02-26T17:54:13.285Z>.
+<https://stad.gent/id/concept/670001533/2022-02-26T17:54:18.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:54:18.288Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5524_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terplaetenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5524_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001533/2022-02-26T17:54:18.288Z>.
+<https://stad.gent/id/concept/670001012/2022-02-26T17:26:32.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:26:32.348Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5722_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Platen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5722_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001012/2022-02-26T17:26:32.348Z>.
+<https://stad.gent/id/concept/670001013/2022-02-26T17:26:37.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:26:37.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5722_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terdonkplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5722_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001013/2022-02-26T17:26:37.350Z>.
+<https://stad.gent/id/concept/670000605/2022-02-26T16:54:04.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:54:04.772Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5953_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ter Trappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5953_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000605/2022-02-26T16:54:04.772Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> <https://w3id.org/tree#relation> _:df_1_2319.
+_:df_1_2319 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/terl.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "terl".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> <https://w3id.org/tree#relation> _:df_1_2320.
+_:df_1_2320 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/terv.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "terv".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> <https://w3id.org/tree#relation> _:df_1_2321.
+_:df_1_2321 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/terp.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "terp".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> <https://w3id.org/tree#relation> _:df_1_2322.
+_:df_1_2322 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/tern.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tern".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> <https://w3id.org/tree#relation> _:df_1_2323.
+_:df_1_2323 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/tert.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "tert".
+<https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ter.ttl>.

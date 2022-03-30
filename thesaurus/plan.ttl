@@ -1,0 +1,212 @@
+<https://stad.gent/id/concept/670001475/2022-03-13T02:30:47.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:30:47.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_412_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantentuin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_412_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001475/2022-03-13T02:30:47.094Z>.
+<https://stad.gent/id/concept/570024304/2022-03-13T00:10:37.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:10:37.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1414_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige of dierlijke olie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024070>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024070> <http://www.w3.org/2004/02/skos/core#prefLabel> "energie"@nl.
+_:df_1414_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024304/2022-03-13T00:10:37.664Z>.
+<https://stad.gent/id/concept/670001475/2022-03-11T08:25:17.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:25:17.125Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1708_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantentuin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1708_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001475/2022-03-11T08:25:17.125Z>.
+<https://stad.gent/id/concept/570024304/2022-03-11T06:05:33.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:05:33.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige of dierlijke olie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024070>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024070> <http://www.w3.org/2004/02/skos/core#prefLabel> "energie"@nl.
+_:df_2704_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024304/2022-03-11T06:05:33.221Z>.
+<https://stad.gent/id/concept/570023697/2022-03-11T05:35:41.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:35:41.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2917_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011037>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011808>, <https://stad.gent/id/concept/570015499>, <https://stad.gent/id/concept/570011110>, <https://stad.gent/id/concept/570010734>, <https://stad.gent/id/concept/570019916>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019916> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlas"@nl.
+<https://stad.gent/id/concept/570010734> <http://www.w3.org/2004/02/skos/core#prefLabel> "ramie"@nl.
+<https://stad.gent/id/concept/570011110> <http://www.w3.org/2004/02/skos/core#prefLabel> "raffia"@nl.
+<https://stad.gent/id/concept/570015499> <http://www.w3.org/2004/02/skos/core#prefLabel> "katoen"@nl.
+<https://stad.gent/id/concept/570011808> <http://www.w3.org/2004/02/skos/core#prefLabel> "hennep"@nl.
+<https://stad.gent/id/concept/570011037> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurlijke textielvezel"@nl, "natuurlijke textielvezel"@nl.
+_:df_2917_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023697/2022-03-11T05:35:41.820Z>.
+<https://stad.gent/id/concept/570018982/2022-03-11T03:59:31.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:59:31.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014616>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3604_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018982/2022-03-11T03:59:31.651Z>.
+<https://stad.gent/id/concept/570014950/2022-03-11T02:20:51.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:20:51.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4309_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4309_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014950/2022-03-11T02:20:51.399Z>.
+<https://stad.gent/id/concept/570008917/2022-03-11T00:21:13.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:21:13.165Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3920848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5161_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantentuin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5161_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008917/2022-03-11T00:21:13.165Z>.
+<https://stad.gent/id/concept/570007764/2022-03-11T00:01:08.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:01:08.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5305_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plannen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5305_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007764/2022-03-11T00:01:08.480Z>.
+<https://stad.gent/id/concept/670001475/2022-02-26T17:49:26.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:49:26.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5557_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantentuin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5557_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001475/2022-02-26T17:49:26.714Z>.
+<https://stad.gent/id/concept/570024304/2022-02-26T15:29:31.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:31.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6559_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige of dierlijke olie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024070>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024070> <http://www.w3.org/2004/02/skos/core#prefLabel> "energie"@nl.
+_:df_6559_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024304/2022-02-26T15:29:31.943Z>.
+<https://stad.gent/id/concept/570023697/2022-02-26T14:59:41.962Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:59:41.962Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6772_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570011037>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570011808>, <https://stad.gent/id/concept/570015499>, <https://stad.gent/id/concept/570011110>, <https://stad.gent/id/concept/570010734>, <https://stad.gent/id/concept/570019916>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019916> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlas"@nl.
+<https://stad.gent/id/concept/570010734> <http://www.w3.org/2004/02/skos/core#prefLabel> "ramie"@nl.
+<https://stad.gent/id/concept/570011110> <http://www.w3.org/2004/02/skos/core#prefLabel> "raffia"@nl.
+<https://stad.gent/id/concept/570015499> <http://www.w3.org/2004/02/skos/core#prefLabel> "katoen"@nl.
+<https://stad.gent/id/concept/570011808> <http://www.w3.org/2004/02/skos/core#prefLabel> "hennep"@nl.
+<https://stad.gent/id/concept/570011037> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurlijke textielvezel"@nl, "natuurlijke textielvezel"@nl.
+_:df_6772_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023697/2022-02-26T14:59:41.962Z>.
+<https://stad.gent/id/concept/570018982/2022-02-26T13:23:34.084Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:23:34.084Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014616>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7459_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7459_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018982/2022-02-26T13:23:34.084Z>.
+<https://stad.gent/id/concept/570014950/2022-02-26T11:45:14.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:45:14.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8161_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8161_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014950/2022-02-26T11:45:14.013Z>.
+<https://stad.gent/id/concept/570008917/2022-02-26T09:45:42.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:42.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3920848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9016_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantentuin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9016_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008917/2022-02-26T09:45:42.147Z>.
+<https://stad.gent/id/concept/570007764/2022-02-26T09:25:44.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:25:44.454Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9157_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plannen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9157_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007764/2022-02-26T09:25:44.454Z>.
+<https://stad.gent/id/concept/570006057/2022-02-26T09:16:35.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:16:35.956Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9223_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "planten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9223_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006057/2022-02-26T09:16:35.956Z>.
+<https://stad.gent/id/concept/570000753/2022-02-26T08:55:15.477Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000753>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:55:15.477Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054467>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9376_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9376_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000753"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000753/2022-02-26T08:55:15.477Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/plan.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/plan.ttl>.

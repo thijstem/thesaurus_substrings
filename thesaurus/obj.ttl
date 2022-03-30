@@ -1,0 +1,154 @@
+<https://stad.gent/id/concept/530006442/2022-03-16T00:16:29.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:29.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045374>;
+    <http://www.w3.org/ns/adms#identifier> _:df_76_202;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Items, usually of metal, used to assemble, join, or manipulate components of furniture. This may include objects such as hinges and knobs, or otherwise purely decorative applications.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000217>, <https://stad.gent/id/concept/530008616>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000607>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000607> <http://www.w3.org/2004/02/skos/core#prefLabel> "ladegreep"@nl.
+<https://stad.gent/id/concept/530008616> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelonderdeel"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_76_202 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006442/2022-03-16T00:16:29.848Z>.
+<https://stad.gent/id/concept/530006446/2022-03-16T00:16:34.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:34.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_76_210;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote en kleine items die nodig zijn om materialen en onderdelen van bouwwerken, meubelen en andere objecten te bevestigen, verankeren, vast te houden, of aan te sluiten. Tevens onderdelen die worden gebruikt bij de afwerking van gebouwen en objecten, zoals scharnieren en knoppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004640>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000217>, <https://stad.gent/id/concept/530000141>, <https://stad.gent/id/concept/530005401>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005401> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+<https://stad.gent/id/concept/530000141> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamwerk"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+<https://stad.gent/id/concept/530004640> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel"@nl.
+_:df_76_210 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006446/2022-03-16T00:16:34.850Z>.
+<https://stad.gent/id/concept/530000217/2022-03-16T00:16:04.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:04.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_79_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zichtbare, functionele ijzerwaren die er afgewerkt uitziet en vaak wordt gebruikt als deel van het decoratieve ontwerp op objecten zoals meubels, in architectuur, maar ook in boekbandonderdelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006446>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006445>, <https://stad.gent/id/concept/530006443>, <https://stad.gent/id/concept/530000608>, <https://stad.gent/id/concept/530000622>, <https://stad.gent/id/concept/530001259>, <https://stad.gent/id/concept/530008265>, <https://stad.gent/id/concept/530001986>, <https://stad.gent/id/concept/530009045>, <https://stad.gent/id/concept/530006442>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006442> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl, "meubelbeslag"@nl.
+<https://stad.gent/id/concept/530009045> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterkraan"@nl.
+<https://stad.gent/id/concept/530001986> <http://www.w3.org/2004/02/skos/core#prefLabel> "vergrendelingsknop"@nl.
+<https://stad.gent/id/concept/530008265> <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletrolhouder"@nl.
+<https://stad.gent/id/concept/530001259> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot"@nl.
+<https://stad.gent/id/concept/530000622> <http://www.w3.org/2004/02/skos/core#prefLabel> "scharnier"@nl.
+<https://stad.gent/id/concept/530000608> <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl.
+<https://stad.gent/id/concept/530006443> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurbeslag"@nl.
+<https://stad.gent/id/concept/530006445> <http://www.w3.org/2004/02/skos/core#prefLabel> "afdekplaatje"@nl.
+<https://stad.gent/id/concept/530006446> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl.
+_:df_79_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000217/2022-03-16T00:16:04.835Z>.
+<https://stad.gent/id/concept/530000607/2022-03-16T00:16:09.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:09.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300033287>;
+    <http://www.w3.org/ns/adms#identifier> _:df_79_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handles or grips designed to fit the fingers, and used to open or close sliding receptacles in furniture or cupboards.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ladegreep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006442>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006442> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl, "meubelbeslag"@nl.
+_:df_79_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000607/2022-03-16T00:16:09.837Z>.
+<https://stad.gent/id/concept/530000703/2022-03-16T00:16:14.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:16:14.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_79_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Visuele werken die gemaakt zijn door te tekenen, wat wil zeggen de toepassing van lijnen op een oppervlak (vaak papier) met een potlood, pen, krijt, of een ander tekeninstrument. Hierin wordt geconcentreerd op de afbakening van de vorm en minder op de kleurgeving.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003070>, <https://stad.gent/id/concept/530005471>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005471> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerptekening"@nl.
+<https://stad.gent/id/concept/530003070> <http://www.w3.org/2004/02/skos/core#prefLabel> "architectuurtekening"@nl.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_79_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000703/2022-03-16T00:16:14.839Z>.
+<https://stad.gent/id/concept/670001862/2022-03-16T00:15:44.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:44.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_82_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_82_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001862/2022-03-16T00:15:44.348Z>.
+<https://stad.gent/id/concept/670001863/2022-03-16T00:15:49.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:49.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_82_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's Georges Pieters"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_82_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001863/2022-03-16T00:15:49.350Z>.
+<https://stad.gent/id/concept/670001857/2022-03-16T00:15:19.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:15:19.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300028499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blauwdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_85_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001857/2022-03-16T00:15:19.340Z>.
+<https://stad.gent/id/concept/670001755/2022-03-16T00:09:37.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:09:37.110Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300162872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_124_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stereofoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_124_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001755/2022-03-16T00:09:37.110Z>.
+<https://stad.gent/id/concept/670001862/2022-03-13T03:00:13.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T03:00:13.963Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_202_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "glasplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_202_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001862/2022-03-13T03:00:13.963Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/obj.ttl> <https://w3id.org/tree#relation> _:df_1_280.
+_:df_1_280 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/obje.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "obje".
+<https://thijstem.github.io/substrings_coghent/thesaurus/obj.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/obj.ttl>.

@@ -1,0 +1,74 @@
+<https://stad.gent/id/concept/570018830/2022-03-11T03:51:03.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:51:03.235Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3667_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasbeits"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3667_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018830/2022-03-11T03:51:03.235Z>.
+<https://stad.gent/id/concept/570017375/2022-03-11T03:24:39.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:24:39.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432604>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017375/2022-03-11T03:24:39.091Z>.
+<https://stad.gent/id/concept/570013366/2022-03-11T01:44:50.734Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:44:50.734Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4564_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4564_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013366/2022-03-11T01:44:50.734Z>.
+<https://stad.gent/id/concept/670000438/2022-02-26T16:40:43.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:40:43.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6049_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasbleker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6049_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000438"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000438/2022-02-26T16:40:43.759Z>.
+<https://stad.gent/id/concept/570018830/2022-02-26T13:15:05.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:15:05.134Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7519_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasbeits"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7519_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018830/2022-02-26T13:15:05.134Z>.
+<https://stad.gent/id/concept/570017375/2022-02-26T12:48:47.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:48:47.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432604>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7708_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7708_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017375/2022-02-26T12:48:47.749Z>.
+<https://stad.gent/id/concept/570013366/2022-02-26T11:09:14.097Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:09:14.097Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8419_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8419_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013366/2022-02-26T11:09:14.097Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wasb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wasb.ttl>.

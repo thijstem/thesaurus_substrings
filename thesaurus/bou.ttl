@@ -1,0 +1,261 @@
+<https://stad.gent/id/concept/670000057/2022-03-13T00:52:28.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:52:28.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1114_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1114_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000057/2022-03-13T00:52:28.135Z>.
+<https://stad.gent/id/concept/670000055/2022-03-13T00:52:18.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:52:18.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q15587490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1117_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000055/2022-03-13T00:52:18.131Z>.
+<https://stad.gent/id/concept/670000044/2022-03-13T00:51:27.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:51:27.825Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwmeester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1123_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000044/2022-03-13T00:51:27.825Z>.
+<https://stad.gent/id/concept/670000035/2022-03-13T00:50:52.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:52.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouwaanvragen, 1671-1795 (OA_535)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000035/2022-03-13T00:50:52.565Z>.
+<https://stad.gent/id/concept/670000036/2022-03-13T00:50:57.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:50:57.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000036/2022-03-13T00:50:57.567Z>.
+<https://stad.gent/id/concept/670000038/2022-03-13T00:51:02.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000038>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:51:02.569Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034787>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwtekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000038"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000038/2022-03-13T00:51:02.569Z>.
+<https://stad.gent/id/concept/570025275/2022-03-13T00:49:26.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025275>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:49:26.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1135_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plekken waar gebouwd wordt, waarbij het met name gebouwen betreft. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwterrein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1135_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025275"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025275/2022-03-13T00:49:26.889Z>.
+<https://stad.gent/id/concept/570024318/2022-03-13T00:11:27.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:11:27.973Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q936034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bourkini"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1408_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024318/2022-03-13T00:11:27.973Z>.
+<https://stad.gent/id/concept/670000490/2022-03-11T07:21:08.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:21:08.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2164_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2164_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000490/2022-03-11T07:21:08.569Z>.
+<https://stad.gent/id/concept/670000055/2022-03-11T06:47:11.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:47:11.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q15587490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2407_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwheer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2407_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000055/2022-03-11T06:47:11.695Z>.
+<https://stad.gent/id/concept/670000057/2022-03-11T06:47:21.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:47:21.697Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2407_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvraag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2407_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000057/2022-03-11T06:47:21.697Z>.
+<https://stad.gent/id/concept/670000044/2022-03-11T06:46:21.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:46:21.413Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2413_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwmeester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2413_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000044/2022-03-11T06:46:21.413Z>.
+<https://stad.gent/id/concept/670000036/2022-03-11T06:45:51.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:51.145Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2416_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwaanvragen (met bouwtekeningen) en bouwsubsidieaanvragen, 1671-1795"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2416_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000036/2022-03-11T06:45:51.145Z>.
+<https://stad.gent/id/concept/670000038/2022-03-11T06:45:56.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000038>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:56.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034787>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2416_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwtekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2416_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000038"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000038/2022-03-11T06:45:56.147Z>.
+<https://stad.gent/id/concept/670000035/2022-03-11T06:45:46.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:45:46.144Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2419_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouwaanvragen, 1671-1795 (OA_535)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2419_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000035/2022-03-11T06:45:46.144Z>.
+<https://stad.gent/id/concept/570025275/2022-03-11T06:44:20.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025275>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:44:20.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plekken waar gebouwd wordt, waarbij het met name gebouwen betreft. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwterrein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2428_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025275"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025275/2022-03-11T06:44:20.548Z>.
+<https://stad.gent/id/concept/570024318/2022-03-11T06:06:23.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:06:23.523Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q936034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2698_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bourkini"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2698_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024318/2022-03-11T06:06:23.523Z>.
+<https://stad.gent/id/concept/570023594/2022-03-11T05:31:04.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:31:04.593Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boulogne-Billancourt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2950_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023594/2022-03-11T05:31:04.593Z>.
+<https://stad.gent/id/concept/570022977/2022-03-11T05:06:27.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:06:27.221Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3127_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouillon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023213>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_3127_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022977/2022-03-11T05:06:27.221Z>.
+<https://stad.gent/id/concept/570021498/2022-03-11T04:52:06.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570021498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:52:06.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3229_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu (Hornu)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3229_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570021498/2022-03-11T04:52:06.055Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1615.
+_:df_1_1615 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bous.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bous".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1616.
+_:df_1_1616 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/boug.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "boug".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1617.
+_:df_1_1617 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bouw.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bouw".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1618.
+_:df_1_1618 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bout.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bout".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1619.
+_:df_1_1619 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bour.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bour".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1620.
+_:df_1_1620 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/boul.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "boul".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> <https://w3id.org/tree#relation> _:df_1_1621.
+_:df_1_1621 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/boui.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "boui".
+<https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bou.ttl>.

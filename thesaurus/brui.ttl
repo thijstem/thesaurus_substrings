@@ -1,0 +1,56 @@
+<https://stad.gent/id/concept/570016949/2022-03-11T03:12:30.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:12:30.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3940_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruidsboeket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3940_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016949/2022-03-11T03:12:30.789Z>.
+<https://stad.gent/id/concept/570009608/2022-03-11T00:43:58.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:43:58.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4999_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruidsjurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4999_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009608/2022-03-11T00:43:58.865Z>.
+<https://stad.gent/id/concept/670000511/2022-02-26T16:46:46.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:46:46.934Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6007_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruijnvisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6007_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000511/2022-02-26T16:46:46.934Z>.
+<https://stad.gent/id/concept/570016949/2022-02-26T12:36:48.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:36:48.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300432893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7792_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruidsboeket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7792_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016949/2022-02-26T12:36:48.055Z>.
+<https://stad.gent/id/concept/570009608/2022-02-26T10:08:22.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:08:22.948Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8854_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bruidsjurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8854_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009608/2022-02-26T10:08:22.948Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/brui.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/brui.ttl>.

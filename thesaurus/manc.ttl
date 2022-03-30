@@ -1,0 +1,47 @@
+<https://stad.gent/id/concept/570019336/2022-02-26T13:38:19.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:38:19.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210017>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7354_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "manchet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7354_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019336/2022-02-26T13:38:19.750Z>.
+<https://stad.gent/id/concept/570014673/2022-02-26T11:36:45.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:36:45.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8221_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "manchettes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8221_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014673/2022-02-26T11:36:45.873Z>.
+<https://stad.gent/id/concept/570005683/2022-02-26T09:14:10.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:14:10.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010477>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9241_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Manchester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_9241_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005683/2022-02-26T09:14:10.022Z>.
+<https://stad.gent/id/concept/570002401/2022-02-26T09:05:16.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:05:16.351Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9304_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "manchetknoop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9304_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002401/2022-02-26T09:05:16.351Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/manc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/manc.ttl>.

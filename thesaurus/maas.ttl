@@ -1,0 +1,74 @@
+<https://stad.gent/id/concept/570010340/2022-03-11T01:01:36.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:01:36.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4873_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maastricht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_4873_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010340/2022-03-11T01:01:36.398Z>.
+<https://stad.gent/id/concept/670001618/2022-02-26T18:01:26.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:01:26.152Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5473_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaseikstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5473_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001618/2022-02-26T18:01:26.152Z>.
+<https://stad.gent/id/concept/570024780/2022-02-26T15:50:05.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:50:05.946Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6412_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "maasbal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6412_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024780/2022-02-26T15:50:05.946Z>.
+<https://stad.gent/id/concept/570024277/2022-02-26T15:28:06.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:28:06.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6568_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maasmechelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025153>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025153> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eisden"@nl.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_6568_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024277/2022-02-26T15:28:06.330Z>.
+<https://stad.gent/id/concept/570018039/2022-02-26T13:09:47.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:09:47.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7558_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maaseik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_7558_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018039"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018039/2022-02-26T13:09:47.883Z>.
+<https://stad.gent/id/concept/570010340/2022-02-26T10:25:59.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:25:59.311Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8728_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Maastricht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_8728_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010340/2022-02-26T10:25:59.311Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/maas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/maas.ttl>.

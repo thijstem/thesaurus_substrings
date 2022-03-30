@@ -1,0 +1,186 @@
+<https://stad.gent/id/concept/670000163/2022-03-13T01:01:11.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:01:11.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kombrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1051_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000163/2022-03-13T01:01:11.745Z>.
+<https://stad.gent/id/concept/670000164/2022-03-13T01:01:16.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T01:01:16.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3071>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komijnstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1051_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000164/2022-03-13T01:01:16.747Z>.
+<https://stad.gent/id/concept/570024162/2022-03-13T00:03:04.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:03:04.053Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q665761>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_1468_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024162/2022-03-13T00:03:04.053Z>.
+<https://stad.gent/id/concept/670000163/2022-03-11T06:56:01.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:56:01.040Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kombrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2344_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000163/2022-03-11T06:56:01.040Z>.
+<https://stad.gent/id/concept/670000164/2022-03-11T06:56:06.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:56:06.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3071>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komijnstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2344_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000164/2022-03-11T06:56:06.042Z>.
+<https://stad.gent/id/concept/570024162/2022-03-11T05:58:00.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:58:00.094Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q665761>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_2758_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024162/2022-03-11T05:58:00.094Z>.
+<https://stad.gent/id/concept/570019211/2022-03-11T04:08:35.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:08:35.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3541_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open, geronde houders, over het algemeen wijder dan hoog, vlakke onderkant of bodemring, soms een deksel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3541_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019211/2022-03-11T04:08:35.402Z>.
+<https://stad.gent/id/concept/570012560/2022-03-11T01:28:53.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:28:53.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4678_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders, meestal van metaal of terracotta, in diverse vormen met een bodem bestemd voor brandende kolen. Soms met een rooster of deksel met gaatjes voor het bereiden of warmhouden van voedsel, maar soms ook voor het verwarmen van ruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4678_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012560"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012560/2022-03-11T01:28:53.750Z>.
+<https://stad.gent/id/concept/570009055/2022-03-11T00:25:30.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:25:30.956Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5131_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kompres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5131_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009055/2022-03-11T00:25:30.956Z>.
+<https://stad.gent/id/concept/670000163/2022-02-26T16:19:54.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:19:54.041Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6199_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kombrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6199_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000163/2022-02-26T16:19:54.041Z>.
+<https://stad.gent/id/concept/670000164/2022-02-26T16:19:59.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:19:59.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3071>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6199_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komijnstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6199_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000164/2022-02-26T16:19:59.042Z>.
+<https://stad.gent/id/concept/570024162/2022-02-26T15:21:57.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:21:57.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q665761>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6613_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_6613_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024162/2022-02-26T15:21:57.384Z>.
+<https://stad.gent/id/concept/570019211/2022-02-26T13:32:37.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:32:37.688Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7393_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open, geronde houders, over het algemeen wijder dan hoog, vlakke onderkant of bodemring, soms een deksel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7393_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019211/2022-02-26T13:32:37.688Z>.
+<https://stad.gent/id/concept/570012560/2022-02-26T10:53:16.864Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:53:16.864Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8533_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders, meestal van metaal of terracotta, in diverse vormen met een bodem bestemd voor brandende kolen. Soms met een rooster of deksel met gaatjes voor het bereiden of warmhouden van voedsel, maar soms ook voor het verwarmen van ruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8533_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012560"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012560/2022-02-26T10:53:16.864Z>.
+<https://stad.gent/id/concept/570009055/2022-02-26T09:49:59.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:49:59.280Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8986_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kompres"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8986_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009055/2022-02-26T09:49:59.280Z>.
+<https://stad.gent/id/concept/570001841/2022-02-26T09:02:08.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:02:08.890Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9328_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kompressendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9328_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001841/2022-02-26T09:02:08.890Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kom.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kom.ttl>.

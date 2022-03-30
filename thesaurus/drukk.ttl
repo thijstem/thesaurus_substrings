@@ -1,0 +1,33 @@
+<https://stad.gent/id/concept/570007023/2022-02-26T09:22:48.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:48.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9178_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570002830>, <https://stad.gent/id/concept/570024456>, <https://stad.gent/id/concept/570024457>, <https://stad.gent/id/concept/570019954>, <https://stad.gent/id/concept/570024534>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en, "motief"@nl, "motif"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024534> <http://www.w3.org/2004/02/skos/core#prefLabel> "letters en drukvormen"@nl.
+<https://stad.gent/id/concept/570019954> <http://www.w3.org/2004/02/skos/core#prefLabel> "reprografie"@nl.
+<https://stad.gent/id/concept/570024457> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerking"@nl.
+<https://stad.gent/id/concept/570024456> <http://www.w3.org/2004/02/skos/core#prefLabel> "zetten"@nl.
+<https://stad.gent/id/concept/570002830> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl.
+_:df_9178_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007023/2022-02-26T09:22:48.188Z>.
+<https://stad.gent/id/concept/570002830/2022-02-26T09:06:36.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:06:36.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9295_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor procédés waarbij een beeldende of tekstuele voorstelling wordt overgebracht op papier of stof, meestal door middel van een plaat, blok, steen of rooster. Wordt ook gebruikt voor het maken van fotografische afdrukken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007023>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007023> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl.
+_:df_9295_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002830/2022-02-26T09:06:36.917Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/drukk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/drukk.ttl>.

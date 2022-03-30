@@ -1,0 +1,88 @@
+<https://stad.gent/id/concept/570011706/2022-03-11T01:17:08.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:17:08.852Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4762_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4762_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011706/2022-03-11T01:17:08.852Z>.
+<https://stad.gent/id/concept/570010531/2022-03-11T01:05:12.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:05:12.633Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4849_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4849_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010531/2022-03-11T01:05:12.633Z>.
+<https://stad.gent/id/concept/570024755/2022-02-26T15:48:35.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:48:35.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6421_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijmachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6421_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024755/2022-02-26T15:48:35.626Z>.
+<https://stad.gent/id/concept/570023740/2022-02-26T15:02:18.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:02:18.082Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q241230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6754_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6754_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023740/2022-02-26T15:02:18.082Z>.
+<https://stad.gent/id/concept/570023706/2022-02-26T15:00:07.386Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:00:07.386Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6769_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijbeitel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6769_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023706/2022-02-26T15:00:07.386Z>.
+<https://stad.gent/id/concept/570019651/2022-02-26T13:51:40.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:51:40.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7258_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijtafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7258_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019651/2022-02-26T13:51:40.082Z>.
+<https://stad.gent/id/concept/570011706/2022-02-26T10:41:30.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:41:30.655Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215863>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8617_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8617_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011706/2022-02-26T10:41:30.655Z>.
+<https://stad.gent/id/concept/570010531/2022-02-26T10:29:35.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:29:35.944Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8701_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "snijmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8701_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010531/2022-02-26T10:29:35.944Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sni.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sni.ttl>.

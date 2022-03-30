@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/570023466/2022-02-26T14:50:38.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:50:38.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q26987250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6835_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "audio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6835_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023466/2022-02-26T14:50:38.168Z>.
+<https://stad.gent/id/concept/570017562/2022-02-26T12:56:05.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:56:05.755Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7654_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "audiokabels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7654_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017562/2022-02-26T12:56:05.755Z>.
+<https://stad.gent/id/concept/570016817/2022-02-26T12:31:36.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:31:36.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257199>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7831_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor apparatuur om geluid mee op te nemen, uit te zenden, weer te geven en het te versterken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "audio-apparatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7831_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016817/2022-02-26T12:31:36.037Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/aud.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/aud.ttl>.

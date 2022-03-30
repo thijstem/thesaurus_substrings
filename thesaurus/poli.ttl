@@ -1,0 +1,55 @@
+<https://stad.gent/id/concept/570018833/2022-02-26T13:15:10.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:15:10.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7519_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polijstpasta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7519_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018833/2022-02-26T13:15:10.137Z>.
+<https://stad.gent/id/concept/570017383/2022-02-26T12:49:13.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:49:13.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7705_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polijstpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7705_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017383/2022-02-26T12:49:13.079Z>.
+<https://stad.gent/id/concept/570013365/2022-02-26T11:09:09.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:09:09.095Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q12195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8419_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8419_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013365/2022-02-26T11:09:09.095Z>.
+<https://stad.gent/id/concept/570009254/2022-02-26T09:58:34.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:34.608Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022727>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8923_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen met een hard, glad, rond uiteinde of oppervlak die worden gebruikt om iets glad te maken of te polijsten. Bij het drukken worden ze gebruikt om ruwe delen van een diepdrukplaat glad te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polierijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8923_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009254/2022-02-26T09:58:34.608Z>.
+<https://stad.gent/id/concept/570001850/2022-02-26T09:02:20.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:02:20.395Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9325_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "politiek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9325_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001850/2022-02-26T09:02:20.395Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/poli.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/poli.ttl>.

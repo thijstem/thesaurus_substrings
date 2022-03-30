@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/570014532/2022-03-11T02:07:25.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:07:25.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4405_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bunsenbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4405_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014532/2022-03-11T02:07:25.288Z>.
+<https://stad.gent/id/concept/570009210/2022-03-11T00:32:00.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:32:00.659Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5086_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bundel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5086_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009210/2022-03-11T00:32:00.659Z>.
+<https://stad.gent/id/concept/570014532/2022-02-26T11:31:48.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:31:48.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8257_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bunsenbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8257_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014532/2022-02-26T11:31:48.782Z>.
+<https://stad.gent/id/concept/570009210/2022-02-26T09:56:27.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:56:27.970Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8938_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bundel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8938_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009210/2022-02-26T09:56:27.970Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/bun.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/bun.ttl>.

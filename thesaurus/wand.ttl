@@ -1,0 +1,36 @@
+<https://stad.gent/id/concept/570019355/2022-02-26T13:39:30.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:30.540Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7345_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Benaming die oorspronkelijk werd gebruikt voor planken of openplank-systemen waarop - met name zilveren - kopjes konden worden geplaatst of vertoond. De benaming werd in de Middeleeuwen vaak onderling verwisseld met buffetten en keukenkasten. In het begin van de 15e eeuw werden deuren toegevoegd.Tegenwoordig is het een algemene benaming voor alle vergaarplaatsen die met deuren worden afgesloten en soms zijn ingebouwd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7345_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019355/2022-02-26T13:39:30.540Z>.
+<https://stad.gent/id/concept/570016869/2022-02-26T12:33:01.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:33:01.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7819_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken die zijn ontworpen om aan de muur te worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7819_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016869/2022-02-26T12:33:01.665Z>.
+<https://stad.gent/id/concept/570013587/2022-02-26T11:13:20.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:13:20.947Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002469>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8389_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8389_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013587/2022-02-26T11:13:20.947Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wand.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wand.ttl>.

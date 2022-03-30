@@ -1,0 +1,52 @@
+<https://stad.gent/id/concept/570015917/2022-03-11T02:40:59.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:40:59.010Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4165_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dülmen (Westfalen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4165_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015917/2022-03-11T02:40:59.010Z>.
+<https://stad.gent/id/concept/670001372/2022-02-26T17:40:48.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:40:48.031Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dulle Griet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001372/2022-02-26T17:40:48.031Z>.
+<https://stad.gent/id/concept/570019462/2022-02-26T13:44:37.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:44:37.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038742>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7309_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dülken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_7309_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019462/2022-02-26T13:44:37.442Z>.
+<https://stad.gent/id/concept/570015917/2022-02-26T12:05:17.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:05:17.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8017_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dülmen (Westfalen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_8017_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015917/2022-02-26T12:05:17.045Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/dul.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/dul.ttl>.

@@ -1,0 +1,23 @@
+<https://stad.gent/id/concept/570017262/2022-02-26T12:45:06.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:45:06.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395506>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7732_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mangelplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017262/2022-02-26T12:45:06.335Z>.
+<https://stad.gent/id/concept/570016539/2022-02-26T12:21:34.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:21:34.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7900_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mangel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7900_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016539/2022-02-26T12:21:34.664Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mang.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mang.ttl>.

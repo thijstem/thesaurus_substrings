@@ -1,0 +1,14 @@
+<https://stad.gent/id/concept/570006749/2022-02-26T09:21:12.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:21:12.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9190_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officiële of gezaghebbende verklaringen die aan de pers worden verstrekt, gewoonlijk door een pr-bureau of overheidsinstantie. Gebruik 'persmappen' voor mappen met promotiemateriaal die aan de pers worden uitgedeeld. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persbericht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9190_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006749/2022-02-26T09:21:12.524Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/persb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/persb.ttl>.

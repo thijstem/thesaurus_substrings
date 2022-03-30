@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/670000065/2022-02-26T16:11:45.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:11:45.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6256_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ballenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6256_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000065/2022-02-26T16:11:45.678Z>.
+<https://stad.gent/id/concept/570023304/2022-02-26T14:46:45.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:46:45.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6865_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ballon (lamp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6865_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023304/2022-02-26T14:46:45.000Z>.
+<https://stad.gent/id/concept/570019276/2022-02-26T13:35:33.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:35:33.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2800124>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7372_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ballonzijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7372_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019276/2022-02-26T13:35:33.570Z>.
+<https://stad.gent/id/concept/570014124/2022-02-26T11:23:35.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:23:35.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8317_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor niet-poreuze, flexibele, ronde zakken die zijn gemaakt van een lichtgewicht materiaal die worden opgevuld met verhitte lucht of een gas dat lichter is dan lucht en ontworpen zijn om op te stijgen en in de dampkring te blijven drijven, waarbij meestal passagiers of wetenschappelijke instrumenten mee naar boven worden genomen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ballon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8317_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014124/2022-02-26T11:23:35.248Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/ball.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/ball.ttl>.

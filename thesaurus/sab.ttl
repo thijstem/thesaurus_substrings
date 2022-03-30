@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/570022960/2022-03-11T05:05:31.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:05:31.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sablé-sur-Sarthe (Mans)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3133_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022960/2022-03-11T05:05:31.867Z>.
+<https://stad.gent/id/concept/570022960/2022-02-26T14:29:32.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:29:32.717Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6988_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sablé-sur-Sarthe (Mans)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_6988_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022960/2022-02-26T14:29:32.717Z>.
+<https://stad.gent/id/concept/570000037/2022-02-26T08:48:42.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:48:42.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300030786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9424_53;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9424_53 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000037/2022-02-26T08:48:42.794Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sab.ttl>.

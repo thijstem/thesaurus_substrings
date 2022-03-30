@@ -1,0 +1,39 @@
+<https://stad.gent/id/concept/570024077/2022-02-26T15:17:09.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024077>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:17:09.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6646_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine pers, meestal in gietijzer, voor het afdrukken van documenten geschreven met kopieerinkt. De drukplaat wordt met een schroefhendel naar beneden gedraaid. (MIAT)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopieerpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018042>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018042> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpersen"@nl.
+_:df_6646_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024077"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024077/2022-02-26T15:17:09.894Z>.
+<https://stad.gent/id/concept/570016332/2022-02-26T12:15:31.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:15:31.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265598>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7945_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reprografische machines die kopieën maken van grafisch of schriftelijk materiaal door middel van licht, warmte, chemicaliën of elektrostatische ladingen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopieerapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7945_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016332/2022-02-26T12:15:31.220Z>.
+<https://stad.gent/id/concept/570009252/2022-02-26T09:58:24.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:58:24.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257688>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8926_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Exemplaren van een bepaald geschreven of gedrukt werk; als het document in veelvoud wordt uitgegeven, is er sprake van een druk.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8926_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009252/2022-02-26T09:58:24.007Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kopi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kopi.ttl>.

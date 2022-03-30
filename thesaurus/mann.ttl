@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570020007/2022-02-26T14:01:14.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:01:14.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7189_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mannen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7189_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020007/2022-02-26T14:01:14.745Z>.
+<https://stad.gent/id/concept/570007837/2022-02-26T09:26:14.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:26:14.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9154_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mannheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_9154_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007837/2022-02-26T09:26:14.461Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mann.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mann.ttl>.

@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570015357/2022-02-26T11:54:42.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:54:42.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1347545>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8092_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "tweede kamer van het Federaal Parlement van België";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kamer van volksvertegenwoordiging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8092_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015357/2022-02-26T11:54:42.732Z>.
+<https://stad.gent/id/concept/570014272/2022-02-26T11:25:51.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:25:51.264Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8299_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruime, informele kleding die wordt gedragen wanneer men niet of slechts gedeeltelijk is gekleed, over het algemeen warm en vaak tot op de grond reikend, met een ceintuur van stof. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kamerjas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8299_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014272/2022-02-26T11:25:51.264Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kame.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kame.ttl>.

@@ -1,0 +1,66 @@
+<https://stad.gent/id/concept/570019681/2022-03-11T04:28:45.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:28:45.586Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijnwerkersbijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3397_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019681/2022-03-11T04:28:45.586Z>.
+<https://stad.gent/id/concept/570014762/2022-03-11T02:15:18.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:15:18.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4348_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4348_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014762/2022-03-11T02:15:18.233Z>.
+<https://stad.gent/id/concept/570024775/2022-02-26T15:49:40.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:49:40.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6415_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijnwerkster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6415_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024775/2022-02-26T15:49:40.937Z>.
+<https://stad.gent/id/concept/570019681/2022-02-26T13:52:46.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:52:46.183Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7249_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijnwerkersbijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7249_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019681/2022-02-26T13:52:46.183Z>.
+<https://stad.gent/id/concept/570014762/2022-02-26T11:39:41.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:39:41.727Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8200_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8200_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014762/2022-02-26T11:39:41.727Z>.
+<https://stad.gent/id/concept/570000288/2022-02-26T08:52:09.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:52:09.452Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054710>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9397_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mijnbouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9397_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000288/2022-02-26T08:52:09.452Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mij.ttl>.

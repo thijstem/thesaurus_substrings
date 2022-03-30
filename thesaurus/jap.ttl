@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/570017888/2022-02-26T13:07:27.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:07:27.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000120>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7573_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570008999>, <https://stad.gent/id/concept/570023685>, <https://stad.gent/id/concept/570013626>, <https://stad.gent/id/concept/570024454>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yokohama"@nl.
+<https://stad.gent/id/concept/570013626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo"@nl.
+<https://stad.gent/id/concept/570023685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osaka"@nl.
+<https://stad.gent/id/concept/570008999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aichi"@nl.
+_:df_7573_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017888/2022-02-26T13:07:27.117Z>.
+<https://stad.gent/id/concept/570011410/2022-02-26T10:38:24.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:38:24.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300388486>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8638_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8638_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011410/2022-02-26T10:38:24.357Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/jap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/jap.ttl>.

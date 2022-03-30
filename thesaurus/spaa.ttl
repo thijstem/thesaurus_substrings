@@ -1,0 +1,77 @@
+<https://stad.gent/id/concept/670001508/2022-02-26T17:52:12.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:52:12.639Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5539_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spaans Koertje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5539_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001508/2022-02-26T17:52:12.639Z>.
+<https://stad.gent/id/concept/570020029/2022-02-26T14:02:05.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:02:05.054Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7183_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7183_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020029/2022-02-26T14:02:05.054Z>.
+<https://stad.gent/id/concept/570019982/2022-02-26T14:00:29.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:00:29.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7195_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7195_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019982/2022-02-26T14:00:29.415Z>.
+<https://stad.gent/id/concept/570019983/2022-02-26T14:00:34.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:00:34.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q159421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7195_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7195_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019983/2022-02-26T14:00:34.416Z>.
+<https://stad.gent/id/concept/570017649/2022-02-26T12:59:17.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:59:17.275Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7633_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7633_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017649/2022-02-26T12:59:17.275Z>.
+<https://stad.gent/id/concept/570017401/2022-02-26T12:50:08.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:50:08.421Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7696_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Timmermansgereedschap dat wordt gebruikt om gebogen randen te vormen. Het bestaat uit een blad wat tussen twee handvatten in is bevestigd en wordt gebruikt als een trekmes of schaafgereedschap. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaakschaaf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7696_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017401/2022-02-26T12:50:08.421Z>.
+<https://stad.gent/id/concept/570016969/2022-02-26T12:37:43.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:37:43.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7786_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, vaak ornamentele of mechanische houders voor het bewaren van muntstukken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7786_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016969/2022-02-26T12:37:43.433Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/spaa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/spaa.ttl>.

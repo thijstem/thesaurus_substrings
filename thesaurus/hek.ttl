@@ -1,0 +1,44 @@
+<https://stad.gent/id/concept/570023260/2022-03-11T05:20:50.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:20:50.685Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q148571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3025_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3025_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023260/2022-03-11T05:20:50.685Z>.
+<https://stad.gent/id/concept/570019746/2022-03-11T04:30:36.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:30:36.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hekelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3382_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019746/2022-03-11T04:30:36.413Z>.
+<https://stad.gent/id/concept/570023260/2022-02-26T14:44:49.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:44:49.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q148571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6877_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6877_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023260/2022-02-26T14:44:49.340Z>.
+<https://stad.gent/id/concept/570019746/2022-02-26T13:54:36.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:54:36.848Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7237_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hekelmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7237_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019746/2022-02-26T13:54:36.848Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/hek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/hek.ttl>.

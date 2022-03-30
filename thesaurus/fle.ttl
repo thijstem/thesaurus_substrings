@@ -1,0 +1,91 @@
+<https://stad.gent/id/concept/570012143/2022-03-11T01:20:25.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:20:25.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4741_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4741_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012143/2022-03-11T01:20:25.309Z>.
+<https://stad.gent/id/concept/570009576/2022-03-11T00:42:43.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:42:43.124Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300420972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5008_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flessenwarmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5008_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009576/2022-03-11T00:42:43.124Z>.
+<https://stad.gent/id/concept/570019382/2022-02-26T13:40:50.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:40:50.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200495>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7336_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei dat wordt gebruikt voor het verwijderen van doppen van flessen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flesopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7336_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019382/2022-02-26T13:40:50.866Z>.
+<https://stad.gent/id/concept/570018066/2022-02-26T13:10:38.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:10:38.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7552_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flessenkurker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7552_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018066/2022-02-26T13:10:38.235Z>.
+<https://stad.gent/id/concept/570014288/2022-02-26T11:26:26.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:26:26.277Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192984>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8296_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fleece"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8296_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014288/2022-02-26T11:26:26.277Z>.
+<https://stad.gent/id/concept/570012143/2022-02-26T10:44:47.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:44:47.101Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8593_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8593_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012143/2022-02-26T10:44:47.101Z>.
+<https://stad.gent/id/concept/570009576/2022-02-26T10:07:07.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:07:07.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300420972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8863_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flessenwarmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8863_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009576/2022-02-26T10:07:07.552Z>.
+<https://stad.gent/id/concept/570005750/2022-02-26T09:14:20.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:14:20.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9241_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "flessen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9241_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005750/2022-02-26T09:14:20.024Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/fle.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/fle.ttl>.

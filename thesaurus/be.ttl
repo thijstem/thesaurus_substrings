@@ -1,0 +1,292 @@
+<https://stad.gent/id/concept/670001751/2022-03-16T00:09:16.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:09:16.751Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_127_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uitgever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_127_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001751/2022-03-16T00:09:16.751Z>.
+<https://stad.gent/id/concept/670001746/2022-03-16T00:08:51.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:08:51.742Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_130_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_130_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001746/2022-03-16T00:08:51.742Z>.
+<https://stad.gent/id/concept/670001749/2022-03-16T00:09:06.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-16T00:09:06.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_130_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aquarellist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_130_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001749/2022-03-16T00:09:06.747Z>.
+<https://stad.gent/id/concept/670001325/2022-03-15T00:00:27.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-15T00:00:27.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_196_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Lattestraatje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_196_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001325/2022-03-15T00:00:27.759Z>.
+<https://stad.gent/id/concept/670001321/2022-03-15T00:00:22.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-15T00:00:22.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_199_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_199_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001321/2022-03-15T00:00:22.756Z>.
+<https://stad.gent/id/concept/670001763/2022-03-13T02:54:46.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:54:46.811Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_241_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "begijnhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_241_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001763/2022-03-13T02:54:46.811Z>.
+<https://stad.gent/id/concept/670001751/2022-03-13T02:53:46.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:46.460Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_247_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uitgever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_247_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001751/2022-03-13T02:53:46.460Z>.
+<https://stad.gent/id/concept/670001746/2022-03-13T02:53:21.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:21.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001746/2022-03-13T02:53:21.446Z>.
+<https://stad.gent/id/concept/670001749/2022-03-13T02:53:36.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:36.455Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aquarellist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001749/2022-03-13T02:53:36.455Z>.
+<https://stad.gent/id/concept/670001750/2022-03-13T02:53:41.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:53:41.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300162133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsarchivaris"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_250_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001750/2022-03-13T02:53:41.457Z>.
+<https://stad.gent/id/concept/670001571/2022-03-13T02:38:50.270Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:38:50.270Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_355_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beverenhoutplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_355_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001571/2022-03-13T02:38:50.270Z>.
+<https://stad.gent/id/concept/670001572/2022-03-13T02:38:55.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:38:55.272Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_355_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezemstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_355_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001572/2022-03-13T02:38:55.272Z>.
+<https://stad.gent/id/concept/670001562/2022-03-13T02:38:04.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:38:04.988Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_361_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 10 Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_361_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001562/2022-03-13T02:38:04.988Z>.
+<https://stad.gent/id/concept/670001563/2022-03-13T02:38:10.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:38:10.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_361_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik de Vreese"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_361_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001563/2022-03-13T02:38:10.254Z>.
+<https://stad.gent/id/concept/670001326/2022-03-13T02:18:28.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:28.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_499_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Rolbaantje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_499_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001326/2022-03-13T02:18:28.740Z>.
+<https://stad.gent/id/concept/670001327/2022-03-13T02:18:33.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:33.742Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_499_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Wittekoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_499_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001327/2022-03-13T02:18:33.742Z>.
+<https://stad.gent/id/concept/670001321/2022-03-13T02:18:03.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:03.730Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_502_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Kattenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001321/2022-03-13T02:18:03.730Z>.
+<https://stad.gent/id/concept/670001322/2022-03-13T02:18:08.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:08.732Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_502_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Keizerinnekoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001322/2022-03-13T02:18:08.732Z>.
+<https://stad.gent/id/concept/670001323/2022-03-13T02:18:13.734Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:13.734Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_502_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik Roggebrood Koer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001323/2022-03-13T02:18:13.734Z>.
+<https://stad.gent/id/concept/670001324/2022-03-13T02:18:18.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:18:18.736Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_502_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beluik 't Jipkensdreef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001324/2022-03-13T02:18:18.736Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_464.
+_:df_1_464 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bel.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bel".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_465.
+_:df_1_465 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ber.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ber".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_466.
+_:df_1_466 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bee.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bee".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_467.
+_:df_1_467 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ben.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ben".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_468.
+_:df_1_468 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/beg.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "beg".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_469.
+_:df_1_469 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bev.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bev".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_470.
+_:df_1_470 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/beh.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "beh".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_471.
+_:df_1_471 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bek.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bek".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_472.
+_:df_1_472 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bed.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bed".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_473.
+_:df_1_473 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bei.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bei".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_474.
+_:df_1_474 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/beu.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "beu".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_475.
+_:df_1_475 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bew.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bew".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_476.
+_:df_1_476 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bet.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bet".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_477.
+_:df_1_477 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bez.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bez".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_478.
+_:df_1_478 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bes.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bes".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> <https://w3id.org/tree#relation> _:df_1_479.
+_:df_1_479 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/bef.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "bef".
+<https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/be.ttl>.

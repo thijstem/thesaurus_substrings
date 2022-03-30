@@ -1,0 +1,80 @@
+<https://stad.gent/id/concept/570017376/2022-03-11T03:24:44.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:24:44.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3853_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017376/2022-03-11T03:24:44.093Z>.
+<https://stad.gent/id/concept/570010264/2022-03-11T01:00:46.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:00:46.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een combinatie vormt van een tafel en een kast en wordt gebruikt om attributen voor het wassen van de handen en het gezicht in te bewaren, zoals een kan, schaal en handdoek. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4879_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010264/2022-03-11T01:00:46.113Z>.
+<https://stad.gent/id/concept/570024303/2022-02-26T15:29:26.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024303>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:29:26.941Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6559_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6559_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024303"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024303/2022-02-26T15:29:26.941Z>.
+<https://stad.gent/id/concept/570023126/2022-02-26T14:37:05.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:37:05.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198988>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6934_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastobbe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6934_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023126/2022-02-26T14:37:05.900Z>.
+<https://stad.gent/id/concept/570017376/2022-02-26T12:48:53.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:48:53.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300428032>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7705_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7705_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017376/2022-02-26T12:48:53.071Z>.
+<https://stad.gent/id/concept/570010264/2022-02-26T10:25:09.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:25:09.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8734_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een combinatie vormt van een tafel en een kast en wordt gebruikt om attributen voor het wassen van de handen en het gezicht in te bewaren, zoals een kan, schaal en handdoek. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wastafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8734_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010264/2022-02-26T10:25:09.018Z>.
+<https://stad.gent/id/concept/570001271/2022-02-26T08:58:52.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:58:52.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2383211>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9349_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasteil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9349_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001271/2022-02-26T08:58:52.696Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/wast.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/wast.ttl>.

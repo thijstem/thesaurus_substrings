@@ -1,0 +1,251 @@
+<https://stad.gent/id/concept/670000106/2022-03-13T00:56:24.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:56:24.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1087_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emile Braunplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1087_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000106/2022-03-13T00:56:24.500Z>.
+<https://stad.gent/id/concept/570025020/2022-03-13T00:42:17.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T00:42:17.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086242>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emirdağ"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl, "Turkije"@nl.
+_:df_1186_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025020/2022-03-13T00:42:17.663Z>.
+<https://stad.gent/id/concept/670000106/2022-03-11T06:51:18.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:51:18.448Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emile Braunplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2377_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000106/2022-03-11T06:51:18.448Z>.
+<https://stad.gent/id/concept/570025020/2022-03-11T06:37:12.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T06:37:12.971Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086242>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2479_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emirdağ"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl.
+_:df_2479_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025020/2022-03-11T06:37:12.971Z>.
+<https://stad.gent/id/concept/570020642/2022-03-11T04:48:14.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:48:14.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3256_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten bedekt met email, een beschermende laag van glasachtig materiaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailborden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016779>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016779> <http://www.w3.org/2004/02/skos/core#prefLabel> "reclame"@nl.
+_:df_3256_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020642"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020642/2022-03-11T04:48:14.013Z>.
+<https://stad.gent/id/concept/570019986/2022-03-11T04:36:49.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:36:49.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045651>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3340_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kenmerkende, ronde houten vaten om water uit een put te halen; ook een vergelijkbaar vat voor het vangen, vasthouden of dragen van vloeibare of vaste stoffen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3340_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019986/2022-03-11T04:36:49.014Z>.
+<https://stad.gent/id/concept/570019332/2022-03-11T04:14:02.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:14:02.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailleeroven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3502_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019332/2022-03-11T04:14:02.500Z>.
+<https://stad.gent/id/concept/570019161/2022-03-11T04:06:29.338Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:06:29.338Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "embrasse passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3556_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019161/2022-03-11T04:06:29.338Z>.
+<https://stad.gent/id/concept/570018851/2022-03-11T03:52:03.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:52:03.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3658_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emmerjuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3658_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018851/2022-03-11T03:52:03.604Z>.
+<https://stad.gent/id/concept/570016984/2022-03-11T03:14:22.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:14:22.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken in email inclusief figuren en scenes, en die in metaalwerk zijn gezet. Voor de decoratieve techniek gebruik 'emaillak'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "email"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016984/2022-03-11T03:14:22.630Z>.
+<https://stad.gent/id/concept/570012694/2022-03-11T01:31:10.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:31:10.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emmauskasteel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4663_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012694/2022-03-11T01:31:10.156Z>.
+<https://stad.gent/id/concept/570012456/2022-03-11T01:26:12.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T01:26:12.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123036>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4699_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "embleem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4699_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012456/2022-03-11T01:26:12.678Z>.
+<https://stad.gent/id/concept/570009181/2022-03-11T00:31:05.323Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:31:05.323Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5092_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een glasachtige glazuurlaag op metaal of aardewerk, waarna het in een pottenbakkersoven of smeltoven wordt samengesmolten tot een glad, hard oppervlak. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailleren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5092_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009181/2022-03-11T00:31:05.323Z>.
+<https://stad.gent/id/concept/670000106/2022-02-26T16:15:07.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:15:07.023Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6232_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emile Braunplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6232_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000106/2022-02-26T16:15:07.023Z>.
+<https://stad.gent/id/concept/570025020/2022-02-26T16:01:11.830Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T16:01:11.830Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1086242>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6331_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Emirdağ"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570010431>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl, "Turkije"@nl.
+_:df_6331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025020/2022-02-26T16:01:11.830Z>.
+<https://stad.gent/id/concept/570020642/2022-02-26T14:12:14.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:12:14.484Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7111_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten bedekt met email, een beschermende laag van glasachtig materiaal. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailborden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570016779>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016779> <http://www.w3.org/2004/02/skos/core#prefLabel> "reclame"@nl.
+_:df_7111_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020642"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020642/2022-02-26T14:12:14.484Z>.
+<https://stad.gent/id/concept/570019986/2022-02-26T14:00:49.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:00:49.421Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045651>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7192_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kenmerkende, ronde houten vaten om water uit een put te halen; ook een vergelijkbaar vat voor het vangen, vasthouden of dragen van vloeibare of vaste stoffen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7192_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019986/2022-02-26T14:00:49.421Z>.
+<https://stad.gent/id/concept/570019332/2022-02-26T13:38:04.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:38:04.744Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7354_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emailleeroven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7354_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019332/2022-02-26T13:38:04.744Z>.
+<https://stad.gent/id/concept/570019161/2022-02-26T13:30:31.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:30:31.725Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7408_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "embrasse passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7408_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019161/2022-02-26T13:30:31.725Z>.
+<https://stad.gent/id/concept/570018851/2022-02-26T13:16:05.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:16:05.440Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7513_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "emmerjuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7513_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018851/2022-02-26T13:16:05.440Z>.
+_:n3-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#prefLabel>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3-2.
+_:n3-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2004/02/skos/core#note>;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil>.
+_:n3-0 <http://www.w3.org/ns/shacl#alternativePath> _:n3-1.
+<https://thijstem.github.io/substrings_coghent/thesaurus/em.ttl> <https://w3id.org/tree#relation> _:df_1_2398.
+_:df_1_2398 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/ema.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "ema".
+<https://thijstem.github.io/substrings_coghent/thesaurus/em.ttl> <https://w3id.org/tree#relation> _:df_1_2399.
+_:df_1_2399 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/emm.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "emm".
+<https://thijstem.github.io/substrings_coghent/thesaurus/em.ttl> <https://w3id.org/tree#relation> _:df_1_2400.
+_:df_1_2400 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://thijstem.github.io/substrings_coghent/thesaurus/emb.ttl>;
+    <https://w3id.org/tree#path> _:n3-0;
+    <https://w3id.org/tree#value> "emb".
+<https://thijstem.github.io/substrings_coghent/thesaurus/em.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/em.ttl>.

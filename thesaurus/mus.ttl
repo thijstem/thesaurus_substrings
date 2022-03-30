@@ -1,0 +1,119 @@
+<https://stad.gent/id/concept/570022734/2022-03-11T04:56:42.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:56:42.819Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muskaatmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3196_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022734/2022-03-11T04:56:42.819Z>.
+<https://stad.gent/id/concept/570020498/2022-03-11T04:45:17.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T04:45:17.772Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q83165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3277_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muskaatnoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3277_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020498/2022-03-11T04:45:17.772Z>.
+<https://stad.gent/id/concept/570014232/2022-03-11T02:00:52.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T02:00:52.006Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4450_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museumkrant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4450_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014232/2022-03-11T02:00:52.006Z>.
+<https://stad.gent/id/concept/570009223/2022-03-11T00:32:41.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:32:41.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5080_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5080_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009223/2022-03-11T00:32:41.065Z>.
+<https://stad.gent/id/concept/670001295/2022-02-26T17:34:40.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:34:40.822Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q14915627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5665_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "musicoloog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5665_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001295/2022-02-26T17:34:40.822Z>.
+<https://stad.gent/id/concept/570022734/2022-02-26T14:20:43.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:20:43.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7051_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muskaatmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7051_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022734/2022-02-26T14:20:43.032Z>.
+<https://stad.gent/id/concept/570020498/2022-02-26T14:09:18.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:09:18.019Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q83165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7132_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muskaatnoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7132_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020498/2022-02-26T14:09:18.019Z>.
+<https://stad.gent/id/concept/570014232/2022-02-26T11:25:15.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:25:15.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8305_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museumkrant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8305_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014232/2022-02-26T11:25:15.905Z>.
+<https://stad.gent/id/concept/570009223/2022-02-26T09:57:08.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:57:08.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8935_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8935_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009223/2022-02-26T09:57:08.281Z>.
+<https://stad.gent/id/concept/570005982/2022-02-26T09:15:20.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:15:20.312Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9232_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museumkunde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9232_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005982/2022-02-26T09:15:20.312Z>.
+<https://stad.gent/id/concept/570002902/2022-02-26T09:06:41.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:06:41.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312281>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9295_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "musea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9295_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002902/2022-02-26T09:06:41.919Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/mus.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/mus.ttl>.

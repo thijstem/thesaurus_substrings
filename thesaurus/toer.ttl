@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570017512/2022-02-26T12:54:40.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T12:54:40.068Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7666_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerenteller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7666_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017512/2022-02-26T12:54:40.068Z>.
+<https://stad.gent/id/concept/570014440/2022-02-26T11:30:33.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:30:33.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132466>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8266_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020086>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020086> <http://www.w3.org/2004/02/skos/core#prefLabel> "kusttoerisme"@nl.
+_:df_8266_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014440/2022-02-26T11:30:33.114Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/toer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/toer.ttl>.

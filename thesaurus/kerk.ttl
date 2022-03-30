@@ -1,0 +1,56 @@
+<https://stad.gent/id/concept/670001790/2022-02-26T18:15:41.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:15:41.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300312247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5371_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5371_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001790/2022-02-26T18:15:41.837Z>.
+<https://stad.gent/id/concept/670001260/2022-02-26T17:31:59.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:31:59.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5683_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kerkhof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5683_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001260/2022-02-26T17:31:59.693Z>.
+<https://stad.gent/id/concept/670000959/2022-02-26T17:22:36.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:22:36.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5749_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5749_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000959/2022-02-26T17:22:36.096Z>.
+<https://stad.gent/id/concept/670000958/2022-02-26T17:22:30.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:22:30.831Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5752_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkhofstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5752_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000958/2022-02-26T17:22:30.831Z>.
+<https://stad.gent/id/concept/570006277/2022-02-26T09:19:31.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:19:31.793Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007466>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9202_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9202_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006277/2022-02-26T09:19:31.793Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/kerk.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/kerk.ttl>.

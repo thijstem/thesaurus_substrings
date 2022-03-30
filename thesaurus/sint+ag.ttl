@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/670001492/2022-02-26T17:50:52.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:50:52.021Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5548_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agnetebrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5548_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001492/2022-02-26T17:50:52.021Z>.
+<https://stad.gent/id/concept/670001184/2022-02-26T17:29:03.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:29:03.170Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5704_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agnetenbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5704_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001184/2022-02-26T17:29:03.170Z>.
+<https://stad.gent/id/concept/570022994/2022-02-26T14:31:18.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:31:18.721Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248176>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6973_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Agatha-Berchem (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_6973_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022994/2022-02-26T14:31:18.721Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sint+ag.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sint+ag.ttl>.

@@ -1,0 +1,111 @@
+<https://stad.gent/id/concept/670001479/2022-03-13T02:31:07.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:31:07.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_409_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provinciale Tentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_409_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001479/2022-03-13T02:31:07.102Z>.
+<https://stad.gent/id/concept/670000991/2022-03-13T02:06:33.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-13T02:06:33.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_586_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provenierstersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_586_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000991/2022-03-13T02:06:33.951Z>.
+<https://stad.gent/id/concept/670001801/2022-03-11T08:52:24.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:52:24.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "provinciehuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1513_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001801/2022-03-11T08:52:24.565Z>.
+<https://stad.gent/id/concept/670001479/2022-03-11T08:25:37.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:25:37.441Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provinciale Tentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1705_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001479/2022-03-11T08:25:37.441Z>.
+<https://stad.gent/id/concept/670000991/2022-03-11T08:01:22.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:01:22.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provenierstersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1879_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000991/2022-03-11T08:01:22.559Z>.
+<https://stad.gent/id/concept/570017952/2022-03-11T03:44:50.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T03:44:50.176Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Providence (Rhode Island)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_3709_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017952/2022-03-11T03:44:50.176Z>.
+<https://stad.gent/id/concept/670001801/2022-02-26T18:16:37.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:16:37.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5365_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "provinciehuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5365_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001801/2022-02-26T18:16:37.243Z>.
+<https://stad.gent/id/concept/670001479/2022-02-26T17:49:46.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:49:46.721Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5557_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provinciale Tentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5557_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001479/2022-02-26T17:49:46.721Z>.
+<https://stad.gent/id/concept/670000991/2022-02-26T17:25:12.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:25:12.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5731_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provenierstersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5731_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000991/2022-02-26T17:25:12.029Z>.
+<https://stad.gent/id/concept/570017952/2022-02-26T13:08:52.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:08:52.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7564_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Providence (Rhode Island)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_7564_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017952/2022-02-26T13:08:52.538Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/prov.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/prov.ttl>.

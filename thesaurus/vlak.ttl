@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/570024375/2022-02-26T15:33:28.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:33:28.726Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053255>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6529_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor afdrukprocédés waarbij het beeld vanaf een plat oppervlak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019124>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019768>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019768> <http://www.w3.org/2004/02/skos/core#prefLabel> "lithografie"@nl.
+<https://stad.gent/id/concept/570019124> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafische technieken"@nl.
+_:df_6529_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024375/2022-02-26T15:33:28.726Z>.
+<https://stad.gent/id/concept/570024060/2022-02-26T15:16:09.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:16:09.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022508>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6655_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakgom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6655_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024060/2022-02-26T15:16:09.500Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/vlak.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/vlak.ttl>.

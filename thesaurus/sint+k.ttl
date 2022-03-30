@@ -1,0 +1,146 @@
+<https://stad.gent/id/concept/670001671/2022-03-11T08:41:34.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:41:34.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kwintensberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1591_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001671/2022-03-11T08:41:34.474Z>.
+<https://stad.gent/id/concept/670001001/2022-03-11T08:02:02.878Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T08:02:02.878Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1873_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kristoffelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1873_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001001/2022-03-11T08:02:02.878Z>.
+<https://stad.gent/id/concept/670000764/2022-03-11T07:43:08.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T07:43:08.222Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2966>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2008_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijnestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2008_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000764/2022-03-11T07:43:08.222Z>.
+<https://stad.gent/id/concept/570023743/2022-03-11T05:38:32.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:38:32.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijne-Waver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_2899_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023743/2022-03-11T05:38:32.942Z>.
+<https://stad.gent/id/concept/570023246/2022-03-11T05:19:55.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:19:55.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007988>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3031_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kruis (Brugge)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl.
+_:df_3031_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023246/2022-03-11T05:19:55.288Z>.
+<https://stad.gent/id/concept/570023012/2022-03-11T05:08:25.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T05:08:25.254Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252895>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3112_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kruis-Winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_3112_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023012/2022-03-11T05:08:25.254Z>.
+<https://stad.gent/id/concept/670001671/2022-02-26T18:05:47.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T18:05:47.943Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/3119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5440_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kwintensberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5440_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001671/2022-02-26T18:05:47.943Z>.
+<https://stad.gent/id/concept/670001001/2022-02-26T17:25:52.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:25:52.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5728_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kristoffelstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5728_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001001/2022-02-26T17:25:52.045Z>.
+<https://stad.gent/id/concept/670000764/2022-02-26T17:06:59.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T17:06:59.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/themas/2966>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5863_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijnestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5863_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000764/2022-02-26T17:06:59.890Z>.
+<https://stad.gent/id/concept/570023743/2022-02-26T15:02:33.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:02:33.425Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6751_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Katelijne-Waver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_6751_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023743/2022-02-26T15:02:33.425Z>.
+<https://stad.gent/id/concept/570023246/2022-02-26T14:43:53.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:43:53.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007988>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6883_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kruis (Brugge)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl.
+_:df_6883_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023246/2022-02-26T14:43:53.997Z>.
+<https://stad.gent/id/concept/570023012/2022-02-26T14:32:24.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:32:24.108Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7252895>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6967_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Kruis-Winkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_6967_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023012/2022-02-26T14:32:24.108Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/sint+k.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/sint+k.ttl>.

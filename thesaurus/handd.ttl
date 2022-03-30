@@ -1,0 +1,46 @@
+<https://stad.gent/id/concept/570022907/2022-02-26T14:27:10.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:27:10.781Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300172736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7003_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stangen die aan een muur, toonbank of ander oppervlak zijn gemonteerd en waaraan handdoeken en washandjes worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekrail"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7003_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022907/2022-02-26T14:27:10.781Z>.
+<https://stad.gent/id/concept/570019550/2022-02-26T13:48:43.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:48:43.861Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216632>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7279_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7279_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019550/2022-02-26T13:48:43.861Z>.
+<https://stad.gent/id/concept/570019361/2022-02-26T13:39:50.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:39:50.547Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404251>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7342_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekenrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7342_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019361/2022-02-26T13:39:50.547Z>.
+<https://stad.gent/id/concept/570018891/2022-02-26T13:18:01.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T13:18:01.234Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7498_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7498_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018891/2022-02-26T13:18:01.234Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/handd.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/handd.ttl>.

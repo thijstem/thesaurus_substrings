@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/570008921/2022-02-26T09:45:52.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:45:52.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2116352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9013_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Watersportbaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9013_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008921/2022-02-26T09:45:52.402Z>.
+<https://stad.gent/id/concept/570007020/2022-02-26T09:22:38.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T09:22:38.183Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9181_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterschei (Genk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_9181_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007020/2022-02-26T09:22:38.183Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/waters.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/waters.ttl>.

@@ -1,0 +1,72 @@
+<https://stad.gent/id/concept/570009709/2022-03-11T00:47:05.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-03-11T00:47:05.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022488>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4978_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee cirkels worden getekend en de afstand tussen twee punten wordt gemeten. Ze bestaan uit twee puntige benen, die bewegen door middel van een scharnier of draaipen. Meestal zijn ze zo gemaakt dat één deel kan worden losgemaakt om er een pen of verlengstuk in te zetten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4978_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009709/2022-03-11T00:47:05.235Z>.
+<https://stad.gent/id/concept/570024730/2022-02-26T15:47:39.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T15:47:39.903Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6430_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passementweefgetouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6430_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024730/2022-02-26T15:47:39.903Z>.
+<https://stad.gent/id/concept/570020297/2022-02-26T14:06:06.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T14:06:06.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/6004568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7153_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Passendale"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_7153_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020297/2022-02-26T14:06:06.851Z>.
+<https://stad.gent/id/concept/570009709/2022-02-26T10:11:29.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:11:29.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022488>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8830_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee cirkels worden getekend en de afstand tussen twee punten wordt gemeten. Ze bestaan uit twee puntige benen, die bewegen door middel van een scharnier of draaipen. Meestal zijn ze zo gemaakt dat één deel kan worden losgemaakt om er een pen of verlengstuk in te zetten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8830_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009709/2022-02-26T10:11:29.230Z>.
+<https://stad.gent/id/concept/570001133/2022-02-26T08:57:51.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:57:51.746Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232151>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9358_57;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fraai garneersel dat wordt gebruikt op bekleding en kostuums, zoals tressen, koord, franje, passementkoord of kwasten, vaak in combinaties. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passementerie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9358_57 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001133/2022-02-26T08:57:51.746Z>.
+<https://stad.gent/id/concept/570000589/2022-02-26T08:54:10.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T08:54:10.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1430265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9385_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passe-vite"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9385_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000589/2022-02-26T08:54:10.081Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/pass.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/pass.ttl>.

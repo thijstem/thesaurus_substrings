@@ -1,0 +1,41 @@
+<https://stad.gent/id/concept/570013135/2022-02-26T11:03:57.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T11:03:57.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8455_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loontrekkend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8455_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013135/2022-02-26T11:03:57.268Z>.
+<https://stad.gent/id/concept/570010104/2022-02-26T10:21:02.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:21:02.441Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8764_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loon- en werkvoorwaarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8764_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010104/2022-02-26T10:21:02.441Z>.
+<https://stad.gent/id/concept/570009785/2022-02-26T10:13:04.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:13:04.774Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8821_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loonboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8821_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009785/2022-02-26T10:13:04.774Z>.
+<https://stad.gent/id/concept/570009334/2022-02-26T10:02:00.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-02-26T10:02:00.752Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8899_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loonstaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8899_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009334/2022-02-26T10:02:00.752Z>.
+<https://thijstem.github.io/substrings_coghent/thesaurus/loon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://thijstem.github.io/substrings_coghent/thesaurus/loon.ttl>.
